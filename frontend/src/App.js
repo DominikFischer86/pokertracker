@@ -1,6 +1,5 @@
 import React, { useState } from "react"
 import { Switch, Route, Link } from "react-router-dom"
-import { Button } from "@material-ui/core"
 import "bootstrap/dist/css/bootstrap.min.css"
 
 import AddReview from "./components/addReview"
@@ -33,9 +32,9 @@ function App() {
          </li>
          <li className="nav-item">
            { user ? (
-             <Button onClick={logout} className="nav-link">
+             <button onClick={logout} className="btn nav-link">
                Logout {user.name}
-             </Button>
+             </button>
            ) : (
             <Link to={"/login"} className="nav-link">
               Login
