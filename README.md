@@ -13,7 +13,7 @@ Roadmap:
 Nav:
 1. Home
 2. Login (later)
-3. Tourney History Import
+3. Tourney History Import + Manual import
 4. Tourney Results (Table + Graphs)
 5. Player Analysis
 6. Tax Report + Export (XCL)
