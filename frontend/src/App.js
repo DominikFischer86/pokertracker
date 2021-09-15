@@ -6,6 +6,10 @@ import AddReview from "./components/addReview"
 import Restaurant from "./components/restaurant"
 import RestaurantsList from "./components/restaurantsList"
 import Login from "./components/login"
+import ImportPage from "./components/importPage"
+import Resultsage from "./components/resultsPage"
+import PlayerAnalysisPage from "./components/playerAnalysisPage"
+import TaxReportPage from "./components/taxReportPage"
 
 function App() {
   const [user, setUser] = useState(null)
@@ -21,13 +25,28 @@ function App() {
   return (
    <div>
      <nav className="navbar navbar-expand navbar-dark bg-dark">
-       <a href="/restaurants" className="navbar-brand">
-         Restaurant Reviews
+       <a href="/" className="navbar-brand">
+         Pokertracker
        </a>
        <div className="navbar-nav mr-auto">
          <li className="nav-item">
-           <Link to={"/restaurants"} className="nav-link">
-             Restaurants
+           <Link to={"/import"} className="nav-link">
+             Import
+           </Link>
+         </li>
+         <li className="nav-item">
+           <Link to={"/results"} className="nav-link">
+             Results
+           </Link>
+         </li>
+         <li className="nav-item">
+           <Link to={"/player-analysis"} className="nav-link">
+             Player Analysis
+           </Link>
+         </li>
+         <li className="nav-item">
+           <Link to={"/tax-report"} className="nav-link">
+             Tax Report
            </Link>
          </li>
          <li className="nav-item">
@@ -64,7 +83,31 @@ function App() {
               render={(props) => (
                 <Login {...props} login={login} />
               )}
-            />      
+            />  
+            <Route 
+              path="/import"
+              render={(props) => (
+                <ImportPage {...props} />
+              )}
+            />
+            <Route 
+              path="/results"
+              render={(props) => (
+                <Resultsage {...props} />
+              )}
+            />    
+            <Route 
+              path="/player-analysis"
+              render={(props) => (
+                <PlayerAnalysisPage {...props} />
+              )}
+            />    
+            <Route 
+              path="/tax-report"
+              render={(props) => (
+                <TaxReportPage {...props} />
+              )}
+            />    
        </Switch>
      </div>
    </div>
