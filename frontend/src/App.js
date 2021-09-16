@@ -2,14 +2,11 @@ import React, { useState } from "react"
 import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import AddReview from "./components/addReview"
-import Restaurant from "./components/restaurant"
-import RestaurantsList from "./components/restaurantsList"
 import Login from "./components/login"
 import ImportPage from "./components/importPage"
-import Resultsage from "./components/resultsPage"
 import PlayerAnalysisPage from "./components/playerAnalysisPage"
 import TaxReportPage from "./components/taxReportPage"
+import ResultsPage from "./components/resultsPage"
 
 function App() {
   const [user, setUser] = useState(null)
@@ -65,19 +62,7 @@ function App() {
 
      <div className="container mt-3">
        <Switch>
-            <Route exact path={["/", "/restaurants"]} component={RestaurantsList} />
-            <Route 
-              path="/restaurants/:id/review"
-              render={(props) => (
-                <AddReview {...props} user={user} />
-              )}
-            />
-            <Route 
-              path="/restaurants/:id"
-              render={(props) => (
-                <Restaurant {...props} user={user} />
-              )}
-            />
+            <Route exact path={["/", "/results"]} component={ResultsPage} />
             <Route 
               path="/login"
               render={(props) => (
@@ -93,7 +78,7 @@ function App() {
             <Route 
               path="/results"
               render={(props) => (
-                <Resultsage {...props} />
+                <ResultsPage {...props} />
               )}
             />    
             <Route 
