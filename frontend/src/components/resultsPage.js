@@ -1,6 +1,15 @@
 import React, { useState, useEffect } from "react"
+import {
+    TableContainer,
+    Table,
+    TableHeader,
+    TableBody,
+    TableRow,
+    TableCell,
+  } from "@react-md/table";
+  import { Button } from "react-md"
+
 import TournamentDataService from "../services/tournamentService"
-import { Link } from "react-router-dom"
 
 const ResultsPage = props => {
     const [tournaments, setTournaments] = useState([])
@@ -42,10 +51,6 @@ const ResultsPage = props => {
             .catch(e => {
                 console.log(e)
             })
-    }
-
-    const refreshList = () => {
-        retrieveTournaments()
     }
 
     const find = (query, by) => {
@@ -158,6 +163,38 @@ const ResultsPage = props => {
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className="row">
+                <TableContainer>
+                    <Table>
+                        <TableHeader>
+                            <TableRow>
+                                <TableCell>Tournament Id</TableCell>
+                                <TableCell>Buy-In</TableCell>
+                                <TableCell>Rake</TableCell>
+                                <TableCell>Player Amount</TableCell>
+                                <TableCell>Prize Pool</TableCell>
+                                <TableCell>Start Date</TableCell>
+                                <TableCell>Actions</TableCell>
+                            </TableRow>
+                        </TableHeader>
+                        <TableBody>
+                            {tournaments.map((tournament, i) => {
+                                return (
+                                <TableRow key={i}>
+                                    <TableCell>{tournament.tournamentId}</TableCell>
+                                    <TableCell>{tournament.buyIn}</TableCell>
+                                    <TableCell>{tournament.rake}</TableCell>
+                                    <TableCell>{tournament.playerAmount}</TableCell>
+                                    <TableCell>{tournament.prizePool}</TableCell>
+                                    <TableCell>{tournament.startDate}</TableCell>
+                                    <TableCell><Button theme="primary" themeType="outline">Details</Button></TableCell>
+                                </TableRow>
+                                )
+                            })}
+                        </TableBody>
+                    </Table>
+                </TableContainer>
             </div>
         </div>
     )
