@@ -1,11 +1,11 @@
 import express from "express"
-import TournamentsController from "./tournaments.controller"
+import TournamentsController from "./tournaments.controller.js"
 
 const router = express.Router()
 
-router.route("/results").get(RestaurantsController.apiGetRestaurants)
-router.route("/player-analysis").get(RestaurantsController.apiGetRestaurants)
-router.route("/tax-report").get(RestaurantsController.apiGetRestaurants)
+router.route("/").get(TournamentsController.apiGetTournaments)
+router.route("/player-analysis").get(TournamentsController.apiGetTournaments)
+router.route("/tax-report").get(TournamentsController.apiGetTournaments)
 
 router
     .route("/import")

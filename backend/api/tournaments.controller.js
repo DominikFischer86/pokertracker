@@ -1,5 +1,5 @@
 import { parse } from "dotenv";
-import TournamentDAO from "../dao/tournamentsDAO";
+import TournamentDAO from "../dao/tournamentsDAO.js";
 
 
 export default class TournamentsController {

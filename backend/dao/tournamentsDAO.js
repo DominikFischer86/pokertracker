@@ -12,7 +12,7 @@ export default class TournamentDAO {
         try {
             tournaments = await conn.db(process.env.TOURNAMENT_NS).collection("tournaments")
         } catch (e) {
-            console.error(`Unable to establish a collection handle in userDAO: ${e}`)
+            console.error(`Unable to establish a collection handle in tournamentsDAO: ${e}`)
         }
     }
 
