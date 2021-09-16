@@ -17,3 +17,34 @@ Nav:
 4. Tourney Results (Table + Graphs)
 5. Player Analysis
 6. Tax Report + Export (XCL)
+
+
+<UserManagement>:
+Create unique Users from Tournament Placements in Database with
+- Name
+- Country
+- Tournaments played
+- Tournament winnings
+
+<ResultsPage>:
+- add pagination
+- link each entry to <DetailsPage>
+
+<DetailsPage>:
+- Show Placement details (players, currentUser results after login)
+
+<ImportPage>:
+- Create folder picker to choose directory for imports
+- Create form to manually entry a tournament into DB (for special non-automated formats)
+- write data to database (general results and user results)
+
+<TaxReportPage>:
+Render table with data:
+- tournament # of recent month
+- tournament ID
+- date
+- buyIn
+- rake
+- placement
+- winnings
+- profit = winnings - (buyIn + rake)
