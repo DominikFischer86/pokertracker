@@ -60,7 +60,7 @@ export default class TournamentDAO {
 
     }
 
-    static async addTournament(tournamentId, buyIn, rake, playerAmount, prizePool, startDate, placements) {
+    static async addTournament(tournamentId, buyIn, rake, playerAmount, prizePool, startDate, finishPosition, placements) {
         try {
             const tournamentDoc = {
                 tournamentId,
@@ -69,6 +69,7 @@ export default class TournamentDAO {
                 playerAmount,
                 prizePool,
                 startDate,
+                finishPosition,
                 placements
             }
 
