@@ -1,3 +1,55 @@
 @use "react-md" as *;
 
 @include react-md-utils;
+
+nav {
+    padding: 0 20px;
+
+    .navbar-nav {
+        justify-content: flex-end;
+    }
+}
+
+button {
+    .rmd-button--text {
+        font-size: 0.75rem;
+    }
+}
+
+table {
+    width: 100%;
+
+    &.resultsTable {
+        tr {
+            th {
+                background: rgba(0,0,0, .6);
+                color: #fff;
+            }
+
+            &:nth-child(2n){
+                background: rgba(0,0,0,.1);
+            } 
+     
+            td, th {
+                padding: 0 .25rem;
+                text-align: center;
+     
+                &:last-child{
+                    width: 20px;
+                }
+            }
+         }
+    }
+
+    &.previewTable {
+        
+        th, td {
+            text-align: center;
+        }
+
+        th {
+            background: rgba(0,0,0, .4);
+            color: #fff;
+        }
+    }
+}
