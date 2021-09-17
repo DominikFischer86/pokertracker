@@ -1,21 +1,28 @@
 import React, { useState } from "react"
 import { Chip } from "@react-md/chip";
-import { Checkbox } from "@react-md/form";
+import { Button } from "react-md"
+import { FontIcon } from "@react-md/icon"
+import { AccessAlarmSVGIcon } from "@react-md/material-icons"
+import { Checkbox, TextField } from "@react-md/form";
 
 const ImportPage = () => {
     const [form, setForm] = useState([])
     const [placement, setPlacement] = useState([])
     const [isReadyToCreate, setIsReadyToCreate] = useState(false)
+    const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
     const [notFinished, setNotFinished] = useState(false)
+    const [isSubmitted, setIsSubmitted] = useState(true)
 
     const formFields = [
-        ["tournamentId", "Tournament Id:", "Only digits"],
-        ["buyIn", "Buy-In:", "in $"],
-        ["rake", "Rake:", "in $"],
-        ["playerAmount", "Players:", "max. Player"],
-        ["prizePool", "Prize Pool:", "in $"],
-        ["startDate", "Start Date:", "in JJJJ/MM/DD"],
-        ["finalPosition", "Final Position:", "Your placement"],
+        ["tournamentId", "Tournament Id", "Only digits"],
+        ["buyIn", "Buy-In", "in $$.$$"],
+        ["rake", "Rake", "in $$.$$"],
+        ["playerAmount", "Players", "max. Players"],
+        ["prizePool", "Prize Pool", "in $$.$$"],
+        ["startDate", "Start Date", "in JJJJ/MM/DD"],
+        ["startTime", "Start Time", "in HH:MM:SS"],
+        ["finalPosition", "Final Position", "Your placement"],
+        ["prizeMoney", "Prize money", "in $$.$$"]
     ]
 
     const placementFormFields = [
@@ -39,6 +46,10 @@ const ImportPage = () => {
         setPlacement({...placement, "notFinished": notFinished})
     }
 
+    const resetForm = () => {
+        setForm([])
+    }
+
     return (
         <div>
             <h2>Import Tournaments</h2>
@@ -47,60 +58,98 @@ const ImportPage = () => {
                <div className="col-lg-8">
                     <div className="row">
                         {/* FORM SECTION */}
-                        <h3>Enter via Form:</h3>
+                        <div className="formNav">
+                            <h3>Enter via Form:</h3>
+                            <div>
+                                <Button 
+                                    theme="primary" 
+                                    buttonType="icon" 
+                                    aria-label="Replay"
+                                    onClick={resetForm}
+                                >
+                                    <FontIcon>replay</FontIcon>
+                                </Button>
+                                <Button 
+                                    theme="primary" 
+                                    buttonType="icon"
+                                    disabled={!isReadyToCreate}
+                                    aria-label="Create player inputs"
+                                >
+                                    <FontIcon>refresh</FontIcon>
+                                </Button>
+                                <Button 
+                                    theme="primary" 
+                                    buttonType="icon" 
+                                    aria-label="Preview"
+                                    disabled={!isReadyToSubmit}
+                                >
+                                    <AccessAlarmSVGIcon />
+                                </Button>
+                                <Button 
+                                    theme="primary" 
+                                    buttonType="icon" 
+                                    aria-label="Submit"
+                                    disabled={!isReadyToSubmit}
+                                >
+                                    <FontIcon>done</FontIcon>
+                                </Button>
+                            </div>
+                        </div>
+                        
                         <hr />
-                        <form className="col-lg-3">
+                        <form className="col-lg-3" autoComplete="off">
                             <div className="border rounded p-2">
                             <h4>General Data</h4>
                             <hr />
                             {formFields.map((field, index) => {
                                 const [id, text, placeholder] = field
                                 return (
-                                    <div key={index} className="mt-2">
-                                        <label htmlFor={id}>{text}</label>
-                                        <input 
-                                            type="text"
-                                            id={id}
-                                            name={id}
-                                            required
-                                            className="form-control"
-                                            placeholder={placeholder}
-                                            onChange={handleFormChange}
-                                        />
-                                    </div>
+                                    <TextField 
+                                        key={index} 
+                                        className="form-control mt-2"
+                                        type="text"
+                                        id={id}
+                                        name={id}
+                                        label={text}
+                                        required
+                                        placeholder={placeholder}
+                                        onChange={handleFormChange}
+                                    />
                                 )
                             })}
                             </div>
                         </form>
                         {/* PLACEMENT SECTION */}
                         <div className="col-lg-9 ">
-                            <form className="border rounded p-2">
+                            <form className="border rounded p-2" autoComplete="off">
                                 <h4>Players/Placements</h4>
                                 <hr />
                                 <div className="row">
-                                    <div className="col-lg-1">
+                                    <div className="col-lg-1 chip">
                                         <Chip disabled>1</Chip>
                                     </div>
                                     <div className="col-lg-4">
-                                        <input 
-                                            type="text"
-                                            name="playerName"
-                                            id="playerName"
-                                            disabled={!isReadyToCreate}
+                                         <TextField                                             
                                             className="form-control"
+                                            type="text"
+                                            id="playerName"
+                                            label="Player Name"
+                                            disabled={!isReadyToCreate}
+                                            required
                                             placeholder="Player Name"
-                                            onChange={handlePlacementChange}
+                                            onChange={handleFormChange}
                                         />
                                     </div>
-                                    <div className="col-lg-4">
-                                        <input 
-                                            type="text"
-                                            name="playerCountry"
-                                            id="playerCountry"
-                                            disabled={!isReadyToCreate}
+                                    <div className="col-lg-4">                                        
+                                        <TextField                                             
                                             className="form-control"
+                                            type="text"
+                                            id="playerCountry"
+                                            label="Player Country"
+                                            disabled={!isReadyToCreate}
+                                            required
                                             placeholder="Player Country"
-                                            onChange={handlePlacementChange}
+                                            onChange={handleFormChange}
                                         />
                                     </div>
                                     <div className="col-lg-3">
@@ -128,32 +177,35 @@ const ImportPage = () => {
                </div>
             </div>
             {/* PREVIEW TABLE */}
-            <hr />
-            <h3>Vorschau:</h3>
-            <table className="previewTable border">
-                <thead>
-                    <tr>
-                        <th>Tournament Id</th>
-                        <th>Buy-In in USD</th>
-                        <th>Rake in USD</th>
-                        <th>Player Amount</th>
-                        <th>Prize Pool in USD</th>
-                        <th>Start Date</th>
-                        <th>Final Position</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>{form.tournamentId}</td>
-                        <td>{form.buyIn}</td>
-                        <td>{form.rake}</td>
-                        <td>{form.playerAmount}</td>
-                        <td>{form.prizePool}</td>
-                        <td>{form.startDate}</td>
-                        <td>{form.finalPosition}</td>
-                    </tr>
-                </tbody>
-            </table>
+            {isSubmitted &&
+                <div className="border mt-2 p-2">
+                    <h3>Vorschau:</h3>
+                    <table className="previewTable border">
+                        <thead>
+                            <tr>
+                                {formFields.map((field,index) => {
+                                    return (
+                                        <th key={index}>{field[1]}</th>
+                                    )
+                                })}
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>{form.tournamentId}</td>
+                                <td>{form.buyIn}</td>
+                                <td>{form.rake}</td>
+                                <td>{form.playerAmount}</td>
+                                <td>{form.prizePool}</td>
+                                <td>{form.startDate}</td>
+                                <td>{form.startTime}</td>
+                                <td>{form.finalPosition}</td>
+                                <td>{form.prizeMoney}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            }
         </div>
     )
 }
