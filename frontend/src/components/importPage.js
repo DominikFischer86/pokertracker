@@ -2,8 +2,8 @@ import React, { useState } from "react"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
 import { FontIcon } from "@react-md/icon"
-import { AccessAlarmSVGIcon } from "@react-md/material-icons"
 import { Checkbox, TextField } from "@react-md/form";
+import { FaEye, FaUndo, FaRedo, FaCheck } from 'react-icons/fa';
 
 const ImportPage = () => {
     const [form, setForm] = useState([])
@@ -11,7 +11,7 @@ const ImportPage = () => {
     const [isReadyToCreate, setIsReadyToCreate] = useState(false)
     const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
     const [notFinished, setNotFinished] = useState(false)
-    const [isSubmitted, setIsSubmitted] = useState(true)
+    const [isSubmitted, setIsSubmitted] = useState(false)
 
     const formFields = [
         ["tournamentId", "Tournament Id", "Only digits"],
@@ -26,9 +26,8 @@ const ImportPage = () => {
     ]
 
     const placementFormFields = [
-        ["playerName", "Player Name:", "Enter name"],
-        ["playerCountry", "Player Country:", "Enter country"],
-        ["notFinished", "Still playing:", ""]
+        ["playerName", "Player Name", "Enter name"],
+        ["playerCountry", "Player Country", "Enter country"]
     ]
 
     const handleFormChange = event => {
@@ -47,7 +46,7 @@ const ImportPage = () => {
     }
 
     const resetForm = () => {
-        setForm([])
+        console.log("Reset")
     }
 
     return (
@@ -64,10 +63,10 @@ const ImportPage = () => {
                                 <Button 
                                     theme="primary" 
                                     buttonType="icon" 
-                                    aria-label="Replay"
+                                    aria-label="Reset"
                                     onClick={resetForm}
                                 >
-                                    <FontIcon>replay</FontIcon>
+                                    <FaUndo />
                                 </Button>
                                 <Button 
                                     theme="primary" 
@@ -75,7 +74,7 @@ const ImportPage = () => {
                                     disabled={!isReadyToCreate}
                                     aria-label="Create player inputs"
                                 >
-                                    <FontIcon>refresh</FontIcon>
+                                    <FaRedo />
                                 </Button>
                                 <Button 
                                     theme="primary" 
@@ -83,7 +82,7 @@ const ImportPage = () => {
                                     aria-label="Preview"
                                     disabled={!isReadyToSubmit}
                                 >
-                                    <AccessAlarmSVGIcon />
+                                    <FaEye />
                                 </Button>
                                 <Button 
                                     theme="primary" 
@@ -91,7 +90,7 @@ const ImportPage = () => {
                                     aria-label="Submit"
                                     disabled={!isReadyToSubmit}
                                 >
-                                    <FontIcon>done</FontIcon>
+                                    <FaCheck />
                                 </Button>
                             </div>
                         </div>
@@ -128,30 +127,24 @@ const ImportPage = () => {
                                     <div className="col-lg-1 chip">
                                         <Chip disabled>1</Chip>
                                     </div>
-                                    <div className="col-lg-4">
-                                         <TextField                                             
-                                            className="form-control"
-                                            type="text"
-                                            id="playerName"
-                                            label="Player Name"
-                                            disabled={!isReadyToCreate}
-                                            required
-                                            placeholder="Player Name"
-                                            onChange={handleFormChange}
-                                        />
-                                    </div>
-                                    <div className="col-lg-4">                                        
-                                        <TextField                                             
-                                            className="form-control"
-                                            type="text"
-                                            id="playerCountry"
-                                            label="Player Country"
-                                            disabled={!isReadyToCreate}
-                                            required
-                                            placeholder="Player Country"
-                                            onChange={handleFormChange}
-                                        />
-                                    </div>
+                                    {placementFormFields.map((field, index) => {
+                                        const [id, text, placeholder] = field
+                                        return (
+                                            <div key={index} className="col-lg-4">
+                                                <TextField                                             
+                                                    className="form-control"
+                                                    type="text"
+                                                    id={id}
+                                                    name={id}
+                                                    label={text}
+                                                    disabled={!isReadyToCreate}
+                                                    required
+                                                    placeholder={placeholder}
+                                                    onChange={handlePlacementChange}
+                                                />
+                                            </div>
+                                           )
+                                         })}                                   
                                     <div className="col-lg-3">
                                         <Checkbox
                                             id="notFinished"
