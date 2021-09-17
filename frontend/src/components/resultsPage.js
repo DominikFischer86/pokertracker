@@ -1,13 +1,6 @@
 import React, { useState, useEffect } from "react"
-import {
-    TableContainer,
-    Table,
-    TableHeader,
-    TableBody,
-    TableRow,
-    TableCell,
-  } from "@react-md/table";
-  import { Button } from "react-md"
+import { Button } from "react-md"
+import { FontIcon } from "@react-md/icon"
 
 import TournamentDataService from "../services/tournamentService"
 
@@ -65,7 +58,7 @@ const ResultsPage = props => {
     }
 
     const findByPlayerAmount = () => {
-        find(searchPlayerAmount, "playerAmnount")
+        find(searchPlayerAmount, "playerAmount")
     }
 
     const findByPlayerName = () => {
@@ -82,6 +75,8 @@ const ResultsPage = props => {
 
     return (
         <div>
+            <h2>Tournament Results</h2>
+            <hr />
             <div className="row pb-1">
                 <div className="col-lg-3">
                     <div className="input-group">
@@ -164,37 +159,48 @@ const ResultsPage = props => {
                     </div>
                 </div>
             </div>
+            <hr />
             <div className="row">
-                <TableContainer>
-                    <Table>
-                        <TableHeader>
-                            <TableRow>
-                                <TableCell>Tournament Id</TableCell>
-                                <TableCell>Buy-In</TableCell>
-                                <TableCell>Rake</TableCell>
-                                <TableCell>Player Amount</TableCell>
-                                <TableCell>Prize Pool</TableCell>
-                                <TableCell>Start Date</TableCell>
-                                <TableCell>Actions</TableCell>
-                            </TableRow>
-                        </TableHeader>
-                        <TableBody>
+                <div>
+                    <table className="resultsTable">
+                        <thead>
+                            <tr>
+                                <th>Tournament Id</th>
+                                <th>Buy-In</th>
+                                <th>Rake</th>
+                                <th>Player Amount</th>
+                                <th>Prize Pool</th>
+                                <th>Start Date</th>
+                                <th>Finished Position</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
                             {tournaments.map((tournament, i) => {
                                 return (
-                                <TableRow key={i}>
-                                    <TableCell>{tournament.tournamentId}</TableCell>
-                                    <TableCell>{tournament.buyIn}</TableCell>
-                                    <TableCell>{tournament.rake}</TableCell>
-                                    <TableCell>{tournament.playerAmount}</TableCell>
-                                    <TableCell>{tournament.prizePool}</TableCell>
-                                    <TableCell>{tournament.startDate}</TableCell>
-                                    <TableCell><Button theme="primary" themeType="outline">Details</Button></TableCell>
-                                </TableRow>
+                                <tr key={i}>
+                                    <td>{tournament.tournamentId}</td>
+                                    <td>${tournament.buyIn}</td>
+                                    <td>${tournament.rake}</td>
+                                    <td>{tournament.playerAmount}</td>
+                                    <td>${tournament.prizePool}</td>
+                                    <td>{tournament.startDate}</td>
+                                    <td>{tournament.placements.length}</td>
+                                    <td>
+                                        <Button 
+                                            theme="primary" 
+                                            buttonType="icon" 
+                                            aria-label="Details"
+                                        >
+                                            <FontIcon>launch</FontIcon>
+                                        </Button>
+                                    </td>
+                                </tr>
                                 )
                             })}
-                        </TableBody>
-                    </Table>
-                </TableContainer>
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     )
