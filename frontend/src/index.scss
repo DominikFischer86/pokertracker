@@ -53,3 +53,15 @@ table {
         }
     }
 }
+
+div {
+    &.chip {
+        display: flex;
+        align-items: center;
+    }
+
+    &.formNav {
+        display: flex;
+        justify-content: space-between;
+    }
+}
