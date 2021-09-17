@@ -1,7 +1,6 @@
 import React, { useState } from "react"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
-import { FontIcon } from "@react-md/icon"
 import { Checkbox, TextField } from "@react-md/form";
 import { FaEye, FaUndo, FaRedo, FaCheck } from 'react-icons/fa';
 
