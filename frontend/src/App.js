@@ -3,7 +3,7 @@ import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
 import Login from "./components/login"
-import ImportPage from "./components/importPage"
+import ImportPage from "./components/ImportPage/ImportPage"
 import PlayerAnalysisPage from "./components/playerAnalysisPage"
 import TaxReportPage from "./components/taxReportPage"
 import ResultsPage from "./components/resultsPage"
