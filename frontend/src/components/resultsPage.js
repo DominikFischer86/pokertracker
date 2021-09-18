@@ -4,7 +4,7 @@ import { FontIcon } from "@react-md/icon"
 
 import TournamentDataService from "../services/tournamentService"
 
-const ResultsPage = props => {
+const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
     const [searchPlayerAmount, setSearchPlayerAmount] = useState("")
     const [searchPlayerName, setSearchPlayerName] = useState("") 
