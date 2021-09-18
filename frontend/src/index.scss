@@ -55,6 +55,11 @@ table {
 }
 
 div {
+    &.playerPlacementSection {
+        max-height: 80vh;
+        overflow-y: scroll;
+    }
+
     &.chip {
         display: flex;
         align-items: center;
@@ -63,5 +68,9 @@ div {
     &.formNav {
         display: flex;
         justify-content: space-between;
+    }
+
+    &.generalDataFormSubmitButton {
+        text-align: center;
     }
 }
