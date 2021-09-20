@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from "react"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
-import { Checkbox, TextField } from "@react-md/form";
+import { TextField } from "@react-md/form";
 import { FaEye, FaUndo, FaCheck } from 'react-icons/fa';
 import {
     ExpansionList,
@@ -14,6 +15,7 @@ import { formFields, placementFormFields } from "./helpers"
 const ImportPage = () => {
     const [form, setForm] = useState([])
     const [placement, setPlacement] = useState([])
+    const [tournamentMap, setTournamentMap] = useState({})
     const [playerAmountCreator, setPlayerAmountCreator] = useState([])
 
     const [isReadyToCreate, setIsReadyToCreate] = useState(false)
@@ -21,7 +23,6 @@ const ImportPage = () => {
     const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
    
     const [isSubmitted, setIsSubmitted] = useState(false)
-    const [notFinished, setNotFinished] = useState(false)
 
     const [panels, onKeyDown] = usePanels({
         count: 3,
@@ -53,11 +54,6 @@ const ImportPage = () => {
         setPlacement({...placement, [name]: value })
     }
 
-    const handlePlacementSwitch = () => {
-        setNotFinished(!notFinished)
-        setPlacement({...placement, "notFinished": notFinished})
-    }
-
     const clearState = () => {
         setForm([])
         setPlacement([])
@@ -74,7 +70,7 @@ const ImportPage = () => {
 
     const submitGeneralFormData = e => {
         e.preventDefault()
-        const playerAmount = parseFloat(Object.values(form.playerAmount))
+        const playerAmount = parseFloat(Object.values(form.playerAmount).join().replace(',',''))
 
         playerAmountCreator.splice(0, playerAmountCreator.length)
         for (let i = 1; i <= playerAmount; i++){
@@ -85,9 +81,37 @@ const ImportPage = () => {
     }
 
     const submitForms = () => {
-        console.log(form)
-        console.log(placement)
+        let newPlacement = []
+        let newPlacementMap = []
+        let arr = []
+        let arrList = []
+
+        for (let i = 1; i <= form.playerAmount; i++){    
+            let key = Object.keys(placement).filter(item => item.includes(i))
+            newPlacement.push(key)
+
+            for (let j = 0; j < 3; j++){
+                arr.push(placement[newPlacement[i-1][j]])
+                arrList = [
+                    [ "finishPosition", i ],
+                    [ "playerName", arr[i*3-3] ],
+                    [ "playerCountry", arr[i*3-2] ],
+                    [ "prizeMoney", arr[i*3-1] ]
+                ]
+            }
+            newPlacementMap.push(Object.fromEntries(arrList))
+        }
+
+        setTournamentMap({
+            ...form,
+            'placements': newPlacementMap
+        })
+
+        setIsReadyToSubmit(true)
     }
+
+    console.log(tournamentMap)
+    console.log(JSON.stringify(tournamentMap))
 
     return (
         <div>
@@ -226,14 +250,14 @@ const ImportPage = () => {
                         <tbody>
                             <tr>
                                 <td>{form.tournamentId}</td>
-                                <td>{form.buyIn}</td>
-                                <td>{form.rake}</td>
+                                <td>${form.buyIn}</td>
+                                <td>${form.rake}</td>
                                 <td>{form.playerAmount}</td>
-                                <td>{form.prizePool}</td>
+                                <td>${form.prizePool}</td>
                                 <td>{form.startDate}</td>
-                                <td>{form.startTime}</td>
-                                <td>{form.finalPosition}</td>
-                                <td>{form.prizeMoney}</td>
+                                <td>{form.startTime} ET</td>
+                                <td>{form.finalPosition}/{form.playerAmount}</td>
+                                <td>${form.prizeMoney}</td>
                             </tr>
                         </tbody>
                     </table>
