@@ -12,6 +12,9 @@ import {
   } from "@react-md/expansion-panel";
 
 import { formFields, placementFormFields } from "./helpers"
+import { fileConverter } from "./fileConverter";
+
+const PLAYER = "KeinKönich"
 
 const ImportPage = () => {
     const [form, setForm] = useState([])
@@ -68,7 +71,7 @@ const ImportPage = () => {
     }
 
     const resetForm = () => {
-        const inputs = document.querySelectorAll('input')
+        const inputs = document.querySelectorAll('input[type="text"]')
         inputs.forEach(input => (input.value = ""))
         clearState()
         playerAmountCreator.splice(0, playerAmountCreator.length)
@@ -104,6 +107,7 @@ const ImportPage = () => {
         let newPlacementMap = []
         let arr = []
         let arrList = []
+        clearState()
 
         for (let i = 1; i <= form.playerAmount; i++){    
             let key = Object.keys(placement).filter(item => item.includes(i))
@@ -129,8 +133,29 @@ const ImportPage = () => {
         setIsReadyToSubmit(true)
     }
 
-    // console.log(tournamentMap)
+    const pickFile = e => {
+       const files = e.target.files
+       const reader = new FileReader()
+       clearState()
 
+       reader.onload = () => {
+           const convertedFile = fileConverter(reader.result, PLAYER)
+           const { playerAmount } = convertedFile
+           if (Number.isNaN(playerAmount)) {
+               console.log("File doesn't fit format")
+           } else {
+            setForm(convertedFile)
+            setTournamentMap(convertedFile)
+            setIsReadyToSubmit(true)
+           }
+           
+       }
+       for (let i = 0; i < files.length; i++){
+        reader.readAsText(files[i])
+       }
+       
+    }
+   
     return (
         <div>
             <h2>Import Tournaments</h2>
@@ -251,7 +276,8 @@ const ImportPage = () => {
                  {/* FOLDER PICKER SECTION */}
                  <ExpansionPanel {...panel2Props} header="File Picker" className="mt-2">
                     <div className="border rounded mt-2 p-2">                   
-                            <h3>File Picker</h3>             
+                            <h3>File Picker</h3>
+                            <input accept="text/plain" type="file" onChange={pickFile} />     
                     </div>
                 </ExpansionPanel>
             {/* PREVIEW TABLE */}
@@ -288,15 +314,15 @@ const ImportPage = () => {
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>{form.tournamentId}</td>
-                                            <td>${form.buyIn}</td>
-                                            <td>${form.rake}</td>
-                                            <td>{form.playerAmount}</td>
-                                            <td>${form.prizePool}</td>
-                                            <td>{form.startDate}</td>
-                                            <td>{form.startTime} ET</td>
-                                            <td>{form.finalPosition}/{form.playerAmount}</td>
-                                            <td>${form.prizeMoney}</td>
+                                            <td>{tournamentMap.tournamentId}</td>
+                                            <td>${tournamentMap.buyIn}</td>
+                                            <td>${tournamentMap.rake}</td>
+                                            <td>{tournamentMap.playerAmount}</td>
+                                            <td>${tournamentMap.prizePool}</td>
+                                            <td>{tournamentMap.startDate}</td>
+                                            <td>{tournamentMap.startTime} ET</td>
+                                            <td>{tournamentMap.finalPosition}/{tournamentMap.playerAmount}</td>
+                                            <td>${tournamentMap.prizeMoney}</td>
                                         </tr>
                                     </tbody>
                                 </table>
