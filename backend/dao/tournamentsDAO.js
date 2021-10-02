@@ -23,12 +23,12 @@ export default class TournamentDAO {
     } = {}){
         let query
         if (filters){
-            if ("playerAmount" in filters){
-                query = { $text: { $search: filters["playerAmount"]}}
-            } else if ("playerName" in filters){
-                query = { "placements.playerName" : { $eq: filters["playerName"]}}
-            } else if ("playerCountry" in filters){
-                query = { "placements.playerCountry" : { $eq: filters["playerCountry"]}}
+            if ("tournamentId" in filters){
+                query = {"tournamentId": { $eq: filters["tournamentId"]}}
+            } else if ("buyIn" in filters){
+                query = {"buyIn": { $eq: filters["buyIn"]}}
+            } else if ("playerAmount" in filters){
+                query = { "playerAmount": { $eq: filters["playerAmount"]}}
             } else if ("startDate" in filters){
                 query = { "startDate" : { $eq: filters["startDate"]}}
             }
@@ -60,19 +60,45 @@ export default class TournamentDAO {
 
     }
 
-    static async addTournament(tournamentId, buyIn, rake, playerAmount, prizePool, startDate, finishPosition, placements) {
+    static async deleteTournament(tournamentId) {
+        try {
+            const deleteResponse = await tournaments.deleteOne({
+                tournamentId: tournamentId
+            })
+
+            return deleteResponse
+        } catch (e) {
+            console.error(`Unable to delete tournament: ${e}`)
+            return { error: e }
+        }
+    }
+
+    static async addTournament(
+        tournamentId, 
+        buyIn, 
+        rake, 
+        playerAmount, 
+        prizePool, 
+        startDate, 
+        startTime,
+        finalPosition,
+        playerPrizeMoney, 
+        placements) {
         try {
             const tournamentDoc = {
-                tournamentId,
-                buyIn,
-                rake,
-                playerAmount,
-                prizePool,
-                startDate,
-                finishPosition,
-                placements
+                _id: ObjectId(),
+                tournamentId: tournamentId,
+                buyIn: buyIn,
+                rake: rake,
+                playerAmount: playerAmount,
+                prizePool: prizePool,
+                startDate: startDate,
+                startTime: startTime,
+                finalPosition: finalPosition,
+                playerPrizeMoney: playerPrizeMoney,
+                placements: placements
             }
-
+            console.log(tournamentDoc)
             return await tournaments.insertOne(tournamentDoc)
         } catch (e) {
             console.error(`Unable to post tournament: ${e}`)

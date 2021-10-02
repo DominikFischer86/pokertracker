@@ -9,6 +9,7 @@ router.route("/tax-report").get(TournamentsController.apiGetTournaments)
 
 router
     .route("/import")
+    .get(TournamentsController.apiGetTournaments)
     .post(TournamentsController.apiPostTournament)
 
 

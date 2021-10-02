@@ -1,14 +1,12 @@
 import React, { useState, useEffect } from "react"
-import { Button } from "react-md"
-import { FontIcon } from "@react-md/icon"
 
 import TournamentDataService from "../services/tournamentService"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
+    const [searchTournamentId, setSearchTournamentId] = useState("") 
+    const [searchBuyIn, setSearchBuyIn] = useState("") 
     const [searchPlayerAmount, setSearchPlayerAmount] = useState("")
-    const [searchPlayerName, setSearchPlayerName] = useState("") 
-    const [searchPlayerCountry, setSearchPlayerCountry] = useState("") 
     const [searchStartDate, setSearchStartDate] = useState("") 
 
     useEffect(() => {
@@ -19,15 +17,15 @@ const ResultsPage = () => {
         const searchPlayerAmount = e.target.value
         setSearchPlayerAmount(searchPlayerAmount)
     }
-
-    const onChangeSearchPlayerName = e => {
-        const searchPlayerName = e.target.value
-        setSearchPlayerName(searchPlayerName)
+    
+    const onChangeSearchTournamentId = e => {
+        const searchTournamentId = e.target.value
+        setSearchTournamentId(searchTournamentId)
     }
 
-    const onChangeSearchPlayerCountry = e => {
-        const searchPlayerCountry = e.target.value
-        setSearchPlayerCountry(searchPlayerCountry)
+    const onChangeSearchBuyIn = e => {
+        const searchBuyIn = e.target.value
+        setSearchBuyIn(searchBuyIn)
     }
 
     const onChangeSearchStartDate = e => {
@@ -61,12 +59,12 @@ const ResultsPage = () => {
         find(searchPlayerAmount, "playerAmount")
     }
 
-    const findByPlayerName = () => {
-        find(searchPlayerName, "playerName")
+    const findByBuyIn = () => {
+        find(searchBuyIn, "buyIn")
     }
 
-    const findByPlayerCountry = () => {
-        find(searchPlayerCountry, "playerCountry")
+    const findByTournamentId = () => {
+        find(searchTournamentId, "tournamentId")
     }
 
     const findByStartDate = () => {
@@ -83,6 +81,46 @@ const ResultsPage = () => {
                         <input 
                             type="text"
                             className="form-control"
+                            placeholder="Search by tournament Id"
+                            value={searchTournamentId}
+                            onChange={onChangeSearchTournamentId}
+                        />
+                        <div className="input-group-append">
+                            <button
+                                className="btn btn-outline-secondary"
+                                type="button"
+                                onClick={findByTournamentId}
+                            >
+                                Search
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-3">
+                    <div className="input-group">
+                        <input 
+                            type="text"
+                            className="form-control"
+                            placeholder="Search by Buy-In"
+                            value={searchBuyIn}
+                            onChange={onChangeSearchBuyIn}
+                        />
+                        <div className="input-group-append">
+                            <button
+                                className="btn btn-outline-secondary"
+                                type="button"
+                                onClick={findByBuyIn}
+                            >
+                                Search
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-3">
+                    <div className="input-group">
+                        <input 
+                            type="text"
+                            className="form-control"
                             placeholder="Search by player amount"
                             value={searchPlayerAmount}
                             onChange={onChangeSearchPlayerAmount}
@@ -92,46 +130,6 @@ const ResultsPage = () => {
                                 className="btn btn-outline-secondary"
                                 type="button"
                                 onClick={findByPlayerAmount}
-                            >
-                                Search
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-3">
-                    <div className="input-group">
-                        <input 
-                            type="text"
-                            className="form-control"
-                            placeholder="Search by player name"
-                            value={searchPlayerName}
-                            onChange={onChangeSearchPlayerName}
-                        />
-                        <div className="input-group-append">
-                            <button
-                                className="btn btn-outline-secondary"
-                                type="button"
-                                onClick={findByPlayerName}
-                            >
-                                Search
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-3">
-                    <div className="input-group">
-                        <input 
-                            type="text"
-                            className="form-control"
-                            placeholder="Search by country"
-                            value={searchPlayerCountry}
-                            onChange={onChangeSearchPlayerCountry}
-                        />
-                        <div className="input-group-append">
-                            <button
-                                className="btn btn-outline-secondary"
-                                type="button"
-                                onClick={findByPlayerCountry}
                             >
                                 Search
                             </button>
@@ -171,8 +169,9 @@ const ResultsPage = () => {
                                 <th>Player Amount</th>
                                 <th>Prize Pool</th>
                                 <th>Start Date</th>
-                                <th>Finished Position</th>
-                                <th>Actions</th>
+                                <th>Start Time</th>
+                                <th>Final Position</th>
+                                <th>Player Prize Money</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -185,16 +184,9 @@ const ResultsPage = () => {
                                     <td>{tournament.playerAmount}</td>
                                     <td>${tournament.prizePool}</td>
                                     <td>{tournament.startDate}</td>
-                                    <td>{tournament.placements.length}</td>
-                                    <td>
-                                        <Button 
-                                            theme="primary" 
-                                            buttonType="icon" 
-                                            aria-label="Details"
-                                        >
-                                            <FontIcon>launch</FontIcon>
-                                        </Button>
-                                    </td>
+                                    <td>{tournament.startTime}</td>
+                                    <td>{tournament.finalPosition}</td>
+                                    <td>{tournament.playerPrizeMoney}</td>                                  
                                 </tr>
                                 )
                             })}
