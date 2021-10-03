@@ -231,7 +231,15 @@ const ImportPage = () => {
             <h2>Import Tournaments</h2>
             <hr />
             <ExpansionList onKeyDown={onKeyDown}>
-                <ExpansionPanel {...panel1Props} expanded={formExpanded} onExpandClick={() => setFormExpanded(!formExpanded)} header="Form input">
+                <ExpansionPanel 
+                    {...panel1Props} 
+                    expanded={formExpanded} 
+                    onExpandClick={() => {
+                        setFormExpanded(!formExpanded)
+                        setFileExpanded(false)
+                    }}
+                    header="Form input"
+                >
                     <div className="row pb-1 mb-6">
                     <div className="col-lg-12">
                         <div className="row">
@@ -344,7 +352,16 @@ const ImportPage = () => {
                 </ExpansionPanel>
             
                  {/* FOLDER PICKER SECTION */}
-                 <ExpansionPanel {...panel2Props} expanded={fileExpanded} header="File Picker" className="mt-2" onExpandClick={() => setFileExpanded(!fileExpanded)}>
+                 <ExpansionPanel 
+                    {...panel2Props} 
+                    expanded={fileExpanded} 
+                    header="File Picker" 
+                    className="mt-2" 
+                    onExpandClick={() => {
+                        setFileExpanded(!fileExpanded)
+                        setFormExpanded(false)
+                    }}
+                >
                     <div className="border rounded mt-2 p-2">                   
                             <h3>File Picker</h3>
                             <input accept="text/plain" type="file" onChange={pickFile} />     
