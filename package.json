@@ -1,0 +1,30 @@
+{
+  "name": "pokertracker",
+  "version": "1.0.0",
+  "description": "Roadmap:",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "react-md": "^3.1.1",
+    "react-router-dom": "^5.3.0",
+    "sass": "^1.41.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikFischer86/pokertracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominikFischer86/pokertracker/issues"
+  },
+  "homepage": "https://github.com/DominikFischer86/pokertracker#readme"
+}
