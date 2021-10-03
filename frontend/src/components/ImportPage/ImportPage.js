@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react"
+import axios from "axios"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
 import { TextField, Switch } from "@react-md/form";
@@ -77,6 +78,7 @@ const ImportPage = () => {
         playerAmountCreator.splice(0, playerAmountCreator.length)
         setIsReadyToCreate(false)
         setIsReadyToInput(false)
+        setIsSubmitted(false)
     }
 
     const submitGeneralFormData = e => {
@@ -98,6 +100,7 @@ const ImportPage = () => {
                 'placements': []
             })
             setIsReadyToSubmit(true)
+            setIsSubmitted(true)
         }
         
     }
@@ -131,6 +134,22 @@ const ImportPage = () => {
         })
 
         setIsReadyToSubmit(true)
+        setIsSubmitted(true)
+    }
+
+    const submitData = async () => {
+        const url = "http://localhost:27017/import"
+        const newTournament = {
+            tournamentId: tournamentMap.tournamentId
+        }
+        const headers = {
+            'Access-Control-Allow-Origin' : '*',
+            'Content-Type' : 'application/json',
+            'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
+        }
+
+        console.log(newTournament)
+        await axios.post(url, newTournament, { headers })
     }
 
     const pickFile = e => {
@@ -147,6 +166,7 @@ const ImportPage = () => {
             setForm(convertedFile)
             setTournamentMap(convertedFile)
             setIsReadyToSubmit(true)
+            setIsSubmitted(true)
            }
            
        }
@@ -290,8 +310,8 @@ const ImportPage = () => {
                                 theme="primary" 
                                 buttonType="icon" 
                                 aria-label="Submit"
-                                disabled={!isReadyToInput}
-                                onClick={convertData}
+                                disabled={!isSubmitted}
+                                onClick={submitData}
                             >
                                 <FaCheck />
                             </Button>
