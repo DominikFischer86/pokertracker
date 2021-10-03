@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import axios from "axios"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
@@ -18,6 +18,7 @@ import { fileConverter } from "./fileConverter";
 const PLAYER = "KeinKönich"
 
 const ImportPage = () => {
+    const [tournaments, setTournaments] = useState([])
     const [form, setForm] = useState([])
     const [placement, setPlacement] = useState([])
     const [tournamentMap, setTournamentMap] = useState({})
@@ -30,8 +31,25 @@ const ImportPage = () => {
    
     const [isSubmitted, setIsSubmitted] = useState(false)
 
+    const [formExpanded, setFormExpanded] = useState(false)
+    const [fileExpanded, setFileExpanded] = useState(false)
+    const [previewExpanded, setPreviewExpanded] = useState(false)
+
+    useEffect(() => {
+        fetch("http://localhost:3001/import")
+            .then(res => {
+                if (res.ok) {
+                    return res.json()
+                }
+            })
+            .then(jsonRes => setTournaments(jsonRes))
+            .catch(err => console.log(err))
+        
+    }, [])
+
     const [panels, onKeyDown] = usePanels({
         count: 3,
+        multiple: true,
         idPrefix: "my-panel-group"
       });
     
@@ -79,6 +97,10 @@ const ImportPage = () => {
         setIsReadyToCreate(false)
         setIsReadyToInput(false)
         setIsSubmitted(false)
+        setTournamentMap([])
+        setFormExpanded(false)
+        setFileExpanded(false)
+        setPreviewExpanded(false)
     }
 
     const submitGeneralFormData = e => {
@@ -101,6 +123,9 @@ const ImportPage = () => {
             })
             setIsReadyToSubmit(true)
             setIsSubmitted(true)
+            setFormExpanded(false)
+            setFileExpanded(false)
+            setPreviewExpanded(true)
         }
         
     }
@@ -135,21 +160,43 @@ const ImportPage = () => {
 
         setIsReadyToSubmit(true)
         setIsSubmitted(true)
+        setFormExpanded(false)
+        setFileExpanded(false)
+        setPreviewExpanded(true)
     }
 
     const submitData = async () => {
-        const url = "http://localhost:27017/import"
+        const url = "http://localhost:3001/import"
         const newTournament = {
-            tournamentId: tournamentMap.tournamentId
-        }
+            tournamentId: tournamentMap.tournamentId,
+            buyIn: tournamentMap.buyIn,
+            rake: tournamentMap.rake,
+            playerAmount: tournamentMap.playerAmount,
+            prizePool: tournamentMap.prizePool,
+            startDate: tournamentMap.startDate,
+            startTime: tournamentMap.startTime,
+            finalPosition: tournamentMap.finalPosition,
+            playerPrizeMoney: tournamentMap.playerPrizeMoney,
+            placements: tournamentMap.placements
+         }
         const headers = {
             'Access-Control-Allow-Origin' : '*',
             'Content-Type' : 'application/json',
             'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
         }
 
-        console.log(newTournament)
+        const tournamentExists = tournaments.some(
+            element => element.tournamentId === newTournament.tournamentId
+        )
+        if (tournamentExists) {
+            resetForm()
+            return alert(`Tournament (#${newTournament.tournamentId}) already exists`)
+        }
+        
         await axios.post(url, newTournament, { headers })
+        console.log("Added Tournament: #" + newTournament.tournamentId)
+        console.log(tournaments)
+        resetForm()
     }
 
     const pickFile = e => {
@@ -173,7 +220,10 @@ const ImportPage = () => {
        for (let i = 0; i < files.length; i++){
         reader.readAsText(files[i])
        }
-       
+
+       setFormExpanded(false)
+       setFileExpanded(false)
+       setPreviewExpanded(true)       
     }
    
     return (
@@ -181,7 +231,7 @@ const ImportPage = () => {
             <h2>Import Tournaments</h2>
             <hr />
             <ExpansionList onKeyDown={onKeyDown}>
-                <ExpansionPanel {...panel1Props} header="Form input">
+                <ExpansionPanel {...panel1Props} expanded={formExpanded} onExpandClick={() => setFormExpanded(!formExpanded)} header="Form input">
                     <div className="row pb-1 mb-6">
                     <div className="col-lg-12">
                         <div className="row">
@@ -294,14 +344,14 @@ const ImportPage = () => {
                 </ExpansionPanel>
             
                  {/* FOLDER PICKER SECTION */}
-                 <ExpansionPanel {...panel2Props} header="File Picker" className="mt-2">
+                 <ExpansionPanel {...panel2Props} expanded={fileExpanded} header="File Picker" className="mt-2" onExpandClick={() => setFileExpanded(!fileExpanded)}>
                     <div className="border rounded mt-2 p-2">                   
                             <h3>File Picker</h3>
                             <input accept="text/plain" type="file" onChange={pickFile} />     
                     </div>
                 </ExpansionPanel>
             {/* PREVIEW TABLE */}
-            <ExpansionPanel {...panel3Props} header="Preview" className="mt-2">
+            <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">
                 <div className="border mt-2 p-2">
                     <div className="formNav">
                         <h3>Preview:</h3>
@@ -342,7 +392,7 @@ const ImportPage = () => {
                                             <td>{tournamentMap.startDate}</td>
                                             <td>{tournamentMap.startTime} ET</td>
                                             <td>{tournamentMap.finalPosition}/{tournamentMap.playerAmount}</td>
-                                            <td>${tournamentMap.prizeMoney}</td>
+                                            <td>${tournamentMap.playerPrizeMoney}</td>
                                         </tr>
                                     </tbody>
                                 </table>

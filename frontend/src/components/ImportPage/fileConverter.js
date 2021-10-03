@@ -43,7 +43,7 @@ export const fileConverter = (file, player) => {
         [ 'startDate', startDate ],
         [ 'startTime', startTime ],
         [ 'finalPosition', finalPosition ],
-        [ 'prizeMoney', playerPrizeMoney.prizeMoney],
+        [ 'playerPrizeMoney', playerPrizeMoney.prizeMoney],
         [ 'placements', placements ]
     ]
 

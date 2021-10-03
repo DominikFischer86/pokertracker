@@ -1,30 +1,73 @@
-const express = require('express')
+const express = require("express")
 const app = express()
-const cors = require('cors')
-const mongoose = require('mongoose')
+const cors = require("cors")
+const mongoose = require("mongoose")
+const dotenv = require("dotenv")
+const PORT = 3001
 
-app.use(cors({
-    origin: "*"
-}))
+// config
+app.use(cors())
 app.use(express.json())
+app.use(express.urlencoded({extended: false}))
 
-const url = 'mongodb://localhost:27017'
-const db = mongoose.connection
+// connect to mongodb
+dotenv.config()
+mongoose.connect(process.env.TOURNAMENT_DB_URI)
 
-// connect to mongoose
-mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true })
-db.once("open", function(){
-    console.log("mongodb is connected!", url)
+// data schema
+const tournamentSchema = {
+    tournamentId: String,
+    buyIn: Number,
+    rake: Number,
+    playerAmount: Number,
+    prizePool: Number,
+    startDate: String,
+    startTime: String,
+    finalPosition: Number,
+    playerPrizeMoney: Number,
+    placements: Array
+}
+
+// data model
+const Tournament = mongoose.model("Tournament", tournamentSchema, "tournaments")
+
+// read route
+app.get("/results", (req, res) => {
+    Tournament.find()
+        .then(tournaments => res.json(tournaments))
+        .catch(err => res.status(400).json("Error:" + err))
 })
 
-db.on("error", function(err){
-    console.error("Database connection error!", err)
+app.get("/import", (req, res) => {
+    Tournament.find()
+        .then(tournaments => res.json(tournaments))
+        .catch(err => res.status(400).json("Error:" + err))
 })
 
-// require route
-const tournamentsRouter = require('./routes/tournament-route')
-app.use('/import', tournamentsRouter)
+// create route
+app.post("/import", (req, res) => {
+    const newTournament = new Tournament({
+        tournamentId: req.body.tournamentId,
+        buyIn: req.body.buyIn,
+        rake: req.body.rake,
+        playerAmount: req.body.playerAmount,
+        prizePool: req.body.prizePool,
+        startDate: req.body.startDate,
+        startTime: req.body.startTime,
+        finalPosition: req.body.finalPosition,
+        playerPrizeMoney: req.body.playerPrizeMoney,
+        placements: req.body.placements
+    })
 
-app.listen(3001, function() {
-    console.log('express server is running on port 3001')
+    newTournament.save()
+        .then(res.status(200).json("Added tournament successfully"))
+        .catch(err => res.status(400).json("Error: " + err))
+})
+
+// delete route
+
+// update route
+
+app.listen(PORT, function(){
+    console.log("Express is running!")
 })

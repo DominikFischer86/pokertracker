@@ -5,10 +5,20 @@ const ResultsPage = () => {
     const [searchTournamentId, setSearchTournamentId] = useState("") 
     const [searchBuyIn, setSearchBuyIn] = useState("") 
     const [searchPlayerAmount, setSearchPlayerAmount] = useState("")
-    const [searchStartDate, setSearchStartDate] = useState("") 
+    const [searchStartDate, setSearchStartDate] = useState("")
+    const [isLoading, setIsLoading] = useState(true)
 
     useEffect(() => {
-        setTournaments([])
+        fetch("http://localhost:3001/results")
+            .then(res => {
+                if (res.ok) {
+                    setIsLoading(false)
+                    return res.json()
+                }
+            })
+            .then(jsonRes => setTournaments(jsonRes))
+            .catch(err => console.log(err))
+        
     }, [])
 
     const onChangeSearchPlayerAmount = e => {
@@ -136,38 +146,41 @@ const ResultsPage = () => {
             <hr />
             <div className="row">
                 <div>
-                    <table className="resultsTable">
-                        <thead>
-                            <tr>
-                                <th>Tournament Id</th>
-                                <th>Buy-In</th>
-                                <th>Rake</th>
-                                <th>Player Amount</th>
-                                <th>Prize Pool</th>
-                                <th>Start Date</th>
-                                <th>Start Time</th>
-                                <th>Final Position</th>
-                                <th>Player Prize Money</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {tournaments.map((tournament, i) => {
-                                return (
-                                <tr key={i}>
-                                    <td>{tournament.tournamentId}</td>
-                                    <td>${tournament.buyIn}</td>
-                                    <td>${tournament.rake}</td>
-                                    <td>{tournament.playerAmount}</td>
-                                    <td>${tournament.prizePool}</td>
-                                    <td>{tournament.startDate}</td>
-                                    <td>{tournament.startTime}</td>
-                                    <td>{tournament.finalPosition}</td>
-                                    <td>{tournament.playerPrizeMoney}</td>                                  
+                    {isLoading && <p>Loading...</p>}
+                    {!isLoading &&
+                        <table className="resultsTable">
+                            <thead>
+                                <tr>
+                                    <th>Tournament Id</th>
+                                    <th>Buy-In</th>
+                                    <th>Rake</th>
+                                    <th>Player Amount</th>
+                                    <th>Prize Pool</th>
+                                    <th>Start Date</th>
+                                    <th>Start Time</th>
+                                    <th>Final Position</th>
+                                    <th>Player Prize Money</th>
                                 </tr>
-                                )
-                            })}
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>                            
+                                {tournaments.map((tournament, i) => {
+                                    return (
+                                    <tr key={i}>
+                                        <td>{tournament.tournamentId}</td>
+                                        <td>${tournament.buyIn}</td>
+                                        <td>${tournament.rake}</td>
+                                        <td>{tournament.playerAmount}</td>
+                                        <td>${tournament.prizePool}</td>
+                                        <td>{tournament.startDate}</td>
+                                        <td>{tournament.startTime}</td>
+                                        <td>{tournament.finalPosition}</td>
+                                        <td>{tournament.playerPrizeMoney}</td>                                  
+                                    </tr>
+                                    )
+                                })}
+                            </tbody>
+                        </table>
+                        }
                 </div>
             </div>
         </div>

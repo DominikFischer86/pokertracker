@@ -7,13 +7,13 @@ export const formFields = [
     ["startDate", "Start Date", "in JJJJ/MM/DD"],
     ["startTime", "Start Time", "in HH:MM:SS"],
     ["finalPosition", "Final Position", "Your placement"],
-    ["prizeMoney", "Prize money", "in $$.$$"]
+    ["playerPrizeMoney", "Player Prize money", "in $$.$$"]
 ]
 
 export const placementFormFields = [
     ["playerName", "Player Name", "Enter name"],
     ["playerCountry", "Player Country", "Enter country"],
-    ["playerPrizeMoney", "Prize Money", "in $$.$$"]
+    ["playerMoney", "Prize Money", "in $$.$$"]
 ]
 
 const idValue = "[0-9]/g"
