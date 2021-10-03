@@ -5,14 +5,14 @@ Roadmap:
 3. ~~Import JSON to App~~
 4. Convert Example App to TrackerApp
 5. ~~Show JSON data in table~~
-6. Save to database
+6. ~~Save to database~~
 7. Filters
 8. Graphs
 
 
 Nav:
 1. Home
-2. Login (later)
+2. Login (necessary?)
 3. Tourney History Import + Manual import
 4. Tourney Results (Table + Graphs)
 5. Player Analysis
@@ -27,16 +27,16 @@ Create unique Users from Tournament Placements in Database with
 - Tournament winnings
 
 <ResultsPage>:
-- add pagination
+- add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)
 - link each entry to <DetailsPage>
 
 <DetailsPage>:
 - Show Placement details (players, currentUser results after login)
 
 <ImportPage>:
-- Create folder picker to choose directory for imports
-- Create form to manually entry a tournament into DB (for special non-automated formats)
-- write data to database (general results and user results)
+- ~~Create folder picker to choose directory for imports~~
+- ~~Create form to manually entry a tournament into DB (for special non-automated formats)~~
+- write data to database (~~general results~~ and user results)
 
 <TaxReportPage>:
 Render table with data:
