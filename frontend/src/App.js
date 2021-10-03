@@ -2,13 +2,13 @@ import React from "react"
 import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import ImportPage from "./components/ImportPage/ImportPage"
-import PlayerAnalysisPage from "./components/playerAnalysisPage"
-import TaxReportPage from "./components/taxReportPage"
-import ResultsPage from "./components/resultsPage"
+import HomePage from "./components/HomePage/homePage"
+import ImportPage from "./components/ImportPage/importPage"
+import PlayerAnalysisPage from "./components/PlayerAnalysisPage/playerAnalysisPage"
+import TaxReportPage from "./components/TaxReportPage/taxReportPage"
+import ResultsPage from "./components/ResultsPage/resultsPage"
 
 function App() {
-
   return (
    <div>
      <nav className="navbar navbar-expand navbar-dark bg-dark">
@@ -41,7 +41,7 @@ function App() {
 
      <div className="container mt-3">
        <Switch>
-            <Route exact path={["/", "/import"]} component={ImportPage} />
+            <Route exact path={["/"]} component={HomePage} />
             <Route 
               path="/import"
               render={(props) => (
