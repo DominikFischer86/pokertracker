@@ -1,23 +1,13 @@
-import React, { useState } from "react"
+import React from "react"
 import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import Login from "./components/login"
 import ImportPage from "./components/ImportPage/ImportPage"
 import PlayerAnalysisPage from "./components/playerAnalysisPage"
 import TaxReportPage from "./components/taxReportPage"
 import ResultsPage from "./components/resultsPage"
 
 function App() {
-  const [user, setUser] = useState(null)
-
-  const login = async (user = null) => {
-    setUser(user)
-  }
-
-  const logout = async () => {
-    setUser(null)
-  }
 
   return (
    <div>
@@ -46,29 +36,12 @@ function App() {
              Tax Report
            </Link>
          </li>
-         <li className="nav-item">
-           { user ? (
-             <button onClick={logout} className="btn nav-link">
-               Logout {user.name}
-             </button>
-           ) : (
-            <Link to={"/login"} className="nav-link">
-              Login
-            </Link>
-           )}
-         </li>
        </div>
      </nav>
 
      <div className="container mt-3">
        <Switch>
-            <Route exact path={["/", "/results"]} component={ResultsPage} />
-            <Route 
-              path="/login"
-              render={(props) => (
-                <Login {...props} login={login} />
-              )}
-            />  
+            <Route exact path={["/", "/import"]} component={ImportPage} />
             <Route 
               path="/import"
               render={(props) => (

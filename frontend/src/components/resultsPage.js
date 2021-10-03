@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react"
 
-import TournamentDataService from "../services/tournamentService"
-
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
     const [searchTournamentId, setSearchTournamentId] = useState("") 
@@ -10,7 +8,7 @@ const ResultsPage = () => {
     const [searchStartDate, setSearchStartDate] = useState("") 
 
     useEffect(() => {
-        retrieveTournaments()
+        setTournaments([])
     }, [])
 
     const onChangeSearchPlayerAmount = e => {
@@ -31,28 +29,6 @@ const ResultsPage = () => {
     const onChangeSearchStartDate = e => {
         const searchStartDate = e.target.value
         setSearchStartDate(searchStartDate)
-    }
-
-    const retrieveTournaments = () => {
-        TournamentDataService.getAll()
-            .then(response => {
-                console.log(response.data)
-                setTournaments(response.data.tournaments)
-            })
-            .catch(e => {
-                console.log(e)
-            })
-    }
-
-    const find = (query, by) => {
-        TournamentDataService.find(query, by)
-            .then(response => {
-                console.log(response.data)
-                setTournaments(response.data.tournaments)
-            })
-            .catch(e => {
-                console.log(e)
-            })
     }
 
     const findByPlayerAmount = () => {
