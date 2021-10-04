@@ -11,6 +11,7 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
     "react-md": "^3.1.1",
     "react-router-dom": "^5.3.0",
     "sass": "^1.41.0"
