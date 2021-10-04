@@ -32,7 +32,9 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                             {tournaments.map((tournament, i) => {
                                 return (
                                 <tr key={i} style={
-                                    tournament.playerPrizeMoney > 0 ? {color: "rgb(0,150,0)", fontWeight: "500"} : null                                            
+                                    tournament.playerPrizeMoney > 0 
+                                        ? {color: "rgb(0,150,0)", fontWeight: "500"} 
+                                        : null                                            
                                     }>
                                     <td>{tournament.tournamentId}</td>
                                     <td>${tournament.buyIn}</td>

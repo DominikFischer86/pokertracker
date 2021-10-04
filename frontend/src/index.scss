@@ -31,7 +31,7 @@ table {
             } 
      
             td, th {
-                padding: .5 .25rem;
+                padding: .5rem .25rem;
                 text-align: center;
             }
          }
@@ -79,9 +79,11 @@ div {
 .trash-icon {
     cursor: pointer;
     opacity: .8;
+    transform: scale(1);
+    transition: .2s all ease;
 
     &:hover {
-        opacity: 1;
-        transition: ease;
+        opacity: 1;        
+        transform: scale(1.1);
     }
 }
