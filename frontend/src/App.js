@@ -2,11 +2,11 @@ import React from "react"
 import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import HomePage from "./components/HomePage/homePage"
-import ImportPage from "./components/ImportPage/importPage"
-import PlayerAnalysisPage from "./components/PlayerAnalysisPage/playerAnalysisPage"
-import TaxReportPage from "./components/TaxReportPage/taxReportPage"
-import ResultsPage from "./components/ResultsPage/resultsPage"
+import HomePage from "./pages/HomePage/homePage"
+import ImportPage from "./pages/ImportPage/importPage"
+import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
+import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
+import ResultsPage from "./pages/ResultsPage/resultsPage"
 
 function App() {
   return (
