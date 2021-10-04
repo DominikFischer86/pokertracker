@@ -1,3 +1,7 @@
+Start:
+- start server in root: nodemon server
+- start development in ./frontend: yarn start
+
 Roadmap:
 
 1. ~~Read textfiles via node fs and file-select library~~
@@ -28,6 +32,7 @@ Create unique Users from Tournament Placements in Database with
 
 <ResultsPage>:
 - add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)
+- enable deleting of items for faster cleanup when testing
 - link each entry to <DetailsPage>
 
 <DetailsPage>:
