@@ -1,8 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Button } from "react-md"
-import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs";
-import { FaCheck } from 'react-icons/fa';
+import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
+import { FaCheck } from 'react-icons/fa'
 
 import { formFields } from "../helpers"
 

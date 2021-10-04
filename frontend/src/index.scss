@@ -31,14 +31,13 @@ table {
             } 
      
             td, th {
-                padding: 0 .25rem;
+                padding: .5 .25rem;
                 text-align: center;
             }
          }
     }
 
-    &.previewTable {
-        
+    &.previewTable {        
         th, td {
             text-align: center;
         }
@@ -74,5 +73,15 @@ div {
         background: rgba(100,100,100,.1);
         display: block;
         padding: .5rem;
+    }
+}
+
+.trash-icon {
+    cursor: pointer;
+    opacity: .8;
+
+    &:hover {
+        opacity: 1;
+        transition: ease;
     }
 }
