@@ -1,7 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-
-import { FaTrashAlt } from 'react-icons/fa'
+import { FaTrashAlt } from "react-icons/fa"
 
 const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 

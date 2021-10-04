@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
+
 import ResultsTable from "./components/ResultsTable"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
     const [isLoading, setIsLoading] = useState(true)
 
-    const url = "http://localhost:3001/results/"
-    
+    const url = "http://localhost:3001/results/"    
 
     useEffect(() => {
         let isFetched = false
@@ -22,12 +22,10 @@ const ResultsPage = () => {
                 { if (!isFetched) setTournaments(jsonRes)
             })
             .catch(err => console.log(err))
-
         
         return () => {
             isFetched = true
-        }
-        
+        }        
     }, [tournaments])
 
     const onDelete = id => {

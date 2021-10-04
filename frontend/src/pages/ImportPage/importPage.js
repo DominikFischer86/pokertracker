@@ -48,7 +48,7 @@ const ImportPage = () => {
         idPrefix: "my-panel-group"
       });
     
-      const [panel1Props, panel2Props, panel3Props] = panels;
+    const [panel1Props, panel2Props, panel3Props] = panels;
 
     const handleSwitch = () => {
         setSkipPlacements(!skipPlacements)
@@ -62,10 +62,10 @@ const ImportPage = () => {
     const handleBlur = e => {
         const checkInputKeys = Object.keys(form)
         const checkInputLength = checkInputKeys.length
-        const inputs = document.querySelectorAll('.generalFormInput')
+        const inputs = document.querySelectorAll(".generalFormInput")
 
         if (inputs.length <= checkInputLength) {
-            if (e.target.value === ''){
+            if (e.target.value === ""){
                 return setIsReadyToCreate(false)
             }
             setIsReadyToCreate(true)
@@ -83,7 +83,7 @@ const ImportPage = () => {
     }
 
     const resetForm = () => {
-        const inputs = document.querySelectorAll('input[type="text"]')
+        const inputs = document.querySelectorAll("input[type='text']")
         inputs.forEach(input => (input.value = ""))
         clearState()
         playerAmountCreator.splice(0, playerAmountCreator.length)
@@ -100,7 +100,7 @@ const ImportPage = () => {
         e.preventDefault()
 
         if (!skipPlacements){
-            const playerAmount = parseFloat(Object.values(form.playerAmount).join().replace(',',''))
+            const playerAmount = parseFloat(Object.values(form.playerAmount).join().replace(",",""))
 
             playerAmountCreator.splice(0, playerAmountCreator.length)
             for (let i = 1; i <= playerAmount; i++){
@@ -108,19 +108,17 @@ const ImportPage = () => {
             }
             setPlayerAmountCreator(playerAmountCreator)
             setIsReadyToInput(true)
-        } else {
-            
+        } else {            
             setTournamentMap({
                 ...form,
-                'placements': []
+                "placements": []
             })
             setIsReadyToSubmit(true)
             setIsSubmitted(true)
             setFormExpanded(false)
             setFileExpanded(false)
             setPreviewExpanded(true)
-        }
-        
+        }        
     }
 
     const convertData = () => {
@@ -148,9 +146,8 @@ const ImportPage = () => {
 
         setTournamentMap({
             ...form,
-            'placements': newPlacementMap
+            "placements": newPlacementMap
         })
-
         setIsReadyToSubmit(true)
         setIsSubmitted(true)
         setFormExpanded(false)
@@ -173,9 +170,9 @@ const ImportPage = () => {
             placements: tournamentMap.placements
          }
         const headers = {
-            'Access-Control-Allow-Origin' : '*',
-            'Content-Type' : 'application/json',
-            'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
+            "Access-Control-Allow-Origin" : "*",
+            "Content-Type" : "application/json",
+            "Access-Control-Allow-Methods":"GET,PUT,POST,DELETE,PATCH,OPTIONS"
         }
 
         const tournamentExists = tournaments.some(
@@ -207,8 +204,7 @@ const ImportPage = () => {
             setTournamentMap(convertedFile)
             setIsReadyToSubmit(true)
             setIsSubmitted(true)
-           }
-           
+           }           
        }
        for (let i = 0; i < files.length; i++){
         reader.readAsText(files[i])
@@ -224,6 +220,7 @@ const ImportPage = () => {
             <h2>Import Tournaments</h2>
             <hr />
             <ExpansionList onKeyDown={onKeyDown}>
+                {/* FORM INPUT SECTION */}
                 <ExpansionPanel 
                     {...panel1Props} 
                     expanded={formExpanded} 
@@ -249,7 +246,7 @@ const ImportPage = () => {
                 </ExpansionPanel>
             
                  {/* FILE PICKER SECTION */}
-                 <ExpansionPanel 
+                <ExpansionPanel 
                     {...panel2Props} 
                     expanded={fileExpanded} 
                     header="File Picker" 
@@ -265,9 +262,9 @@ const ImportPage = () => {
                 <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">
                     <PreviewTable 
                         tournamentMap={tournamentMap}
-                        isSubmitted={isSubmitted}
+                        isSubmitted={isSubmitted}                        
+                        isReadyToSubmit={isReadyToSubmit}
                         submitData={submitData}
-                        isReadyToSubmit={isReadyToSubmit} 
                     />
                 </ExpansionPanel>                
             </ExpansionList>

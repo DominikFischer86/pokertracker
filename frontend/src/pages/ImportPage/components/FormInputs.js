@@ -4,7 +4,7 @@ import propTypes from "prop-types"
 import { Chip } from "@react-md/chip";
 import { Button } from "react-md"
 import { TextField, Switch } from "@react-md/form";
-import { FaEye, FaUndo } from 'react-icons/fa';
+import { FaEye, FaUndo } from "react-icons/fa";
 
 import { formFields, placementFormFields } from "../helpers"
 
@@ -21,7 +21,6 @@ const FormInputs = ({
         isReadyToInput, 
         isReadyToCreate    
      }) => {
-
     return (
         <div className="row pb-1 mb-6">
         <div className="col-lg-12">
@@ -100,19 +99,19 @@ const FormInputs = ({
                         }
                         {isReadyToInput && playerAmountCreator.map(item => {
                             return (
-                            <div key={'outer'+item} className="row mb-2">
+                            <div key={"outer"+item} className="row mb-2">
                                 <div className="col-lg-1 chip">
                                     <Chip disabled>{item}</Chip>
                                 </div>
                                 {placementFormFields.map((field, index) => {
                                     const [id, text, placeholder] = field
                                     return (
-                                        <div key={'inner-'+index} className="col-lg-3">
+                                        <div key={"inner-"+index} className="col-lg-3">
                                             <TextField                                             
                                                 className="form-control"
                                                 type="text"
-                                                id={id+'-'+item}
-                                                name={id+'-'+item}
+                                                id={id+"-"+item}
+                                                name={id+"-"+item}
                                                 label={text}
                                                 pattern="/\w/g"
                                                 disabled={!isReadyToCreate}
@@ -125,7 +124,7 @@ const FormInputs = ({
                                     })}     
                             </div>
                             )
-                            })
+                        })
                         }
                     </form>
                 </div>
