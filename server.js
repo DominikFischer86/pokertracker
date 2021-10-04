@@ -33,7 +33,7 @@ const Tournament = mongoose.model("Tournament", tournamentSchema, "tournaments")
 
 // read route
 app.get("/results", (req, res) => {
-    Tournament.find()
+    Tournament.find().sort({"tournamentId": 1})
         .then(tournaments => res.json(tournaments))
         .catch(err => res.status(400).json("Error:" + err))
 })
@@ -65,6 +65,17 @@ app.post("/import", (req, res) => {
 })
 
 // delete route
+app.delete("/results/:id", (req, res) => {
+    const id = req.params.id
+
+    Tournament.findOneAndDelete({ tournamentId: id}, (req, res, err) => {
+        if (!err) {
+            console.log("Item deleted")
+        } else {
+            console.log(err)
+        }
+    })
+})
 
 // update route
 
