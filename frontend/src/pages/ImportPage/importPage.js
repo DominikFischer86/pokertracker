@@ -1,19 +1,14 @@
 /* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from "react"
 import axios from "axios"
-import { Chip } from "@react-md/chip";
-import { Button } from "react-md"
-import { TextField, Switch } from "@react-md/form";
-import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs";
-import { FaEye, FaUndo, FaCheck } from 'react-icons/fa';
-import {
-    ExpansionList,
-    ExpansionPanel,
-    usePanels,
-  } from "@react-md/expansion-panel";
 
-import { formFields, placementFormFields } from "./helpers"
+import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel";
+
 import { fileConverter } from "./fileConverter";
+
+import PreviewTable from "./components/PreviewTable";
+import FilePicker from "./components/FilePicker"
+import FormInputs from "./components/FormInputs"
 
 const PLAYER = "KeinKönich"
 
@@ -55,8 +50,6 @@ const ImportPage = () => {
     
       const [panel1Props, panel2Props, panel3Props] = panels;
 
-    const tabs = ["Table", "JSON"];
-    
     const handleSwitch = () => {
         setSkipPlacements(!skipPlacements)
     }
@@ -194,7 +187,7 @@ const ImportPage = () => {
         }
         
         await axios.post(url, newTournament, { headers })
-        console.log("Added Tournament: #" + newTournament.tournamentId)
+        alert("Added Tournament: #" + newTournament.tournamentId)
         console.log(tournaments)
         resetForm()
     }
@@ -240,118 +233,22 @@ const ImportPage = () => {
                     }}
                     header="Form input"
                 >
-                    <div className="row pb-1 mb-6">
-                    <div className="col-lg-12">
-                        <div className="row">
-                            {/* FORM SECTION */}
-                            <div className="formNav">
-                                <h3>Enter via Form:</h3>
-                                <div>
-                                    <Button 
-                                        theme="primary" 
-                                        buttonType="icon" 
-                                        aria-label="Reset"
-                                        disabled={!isReadyToInput}
-                                        onClick={resetForm}
-                                    >
-                                        <FaUndo />
-                                    </Button>
-                                    <Button 
-                                        theme="primary" 
-                                        buttonType="icon" 
-                                        aria-label="Preview"
-                                        disabled={!isReadyToInput}
-                                        onClick={convertData}
-                                    >
-                                        <FaEye />
-                                    </Button>
-                                </div>
-                            </div>
-                            <hr />
-                            <form className="col-lg-3" autoComplete="off" onSubmit={submitGeneralFormData}>
-                                <div className="border rounded p-2">
-                                <h4>General Data</h4>
-                                <hr />
-                                    <Switch 
-                                        id="type-switcher" 
-                                        name="type-switcher" 
-                                        label="Skip placements" 
-                                        onChange={handleSwitch}
-                                    />
-                                <hr />
-                                {formFields.map((field, index) => {
-                                    const [id, text, placeholder] = field
-                                    return (
-                                        <TextField 
-                                            key={index} 
-                                            className="form-control mt-2 generalFormInput"
-                                            type="text"
-                                            id={id}
-                                            name={id}
-                                            label={text}
-                                            required
-                                            onBlur={handleBlur}
-                                            placeholder={placeholder}
-                                            onChange={handleFormChange}
-                                        />
-                                    )
-                                })}
-                                <hr />
-                                    <div className="generalDataFormSubmitButton">
-                                        <Button type="submit" theme="warning" themeType="contained" disabled={!isReadyToCreate}>
-                                            {!skipPlacements ? "Enter players" : "Preview Data"}
-                                        </Button>
-                                    </div>
-                                </div>                            
-                            </form>
-                            {/* PLACEMENT SECTION */}
-                            <div className="col-lg-9 playerPlacementSection">
-                                <form className="border rounded p-2" autoComplete="off">
-                                    <h4>Players/Placements</h4>
-                                    <hr />
-                                    {!isReadyToInput && !skipPlacements &&
-                                        <div><p><strong>Please fill in General Data before enabling player/placements input.</strong></p></div>
-                                    }
-                                    {skipPlacements &&
-                                        <div><p><strong>No placement input required. Useful for tournaments with a lot of players.</strong></p></div>
-                                    }
-                                    {isReadyToInput && playerAmountCreator.map(item => {
-                                        return (
-                                        <div key={'outer'+item} className="row mb-2">
-                                            <div className="col-lg-1 chip">
-                                                <Chip disabled>{item}</Chip>
-                                            </div>
-                                            {placementFormFields.map((field, index) => {
-                                                const [id, text, placeholder] = field
-                                                return (
-                                                    <div key={'inner-'+index} className="col-lg-3">
-                                                        <TextField                                             
-                                                            className="form-control"
-                                                            type="text"
-                                                            id={id+'-'+item}
-                                                            name={id+'-'+item}
-                                                            label={text}
-                                                            pattern="/\w/g"
-                                                            disabled={!isReadyToCreate}
-                                                            required
-                                                            placeholder={placeholder}
-                                                            onChange={handlePlacementChange}
-                                                        />
-                                                    </div>
-                                                )
-                                                })}     
-                                        </div>
-                                        )
-                                        })
-                                    }
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
+                   <FormInputs 
+                    resetForm={resetForm}
+                    convertData={convertData}
+                    skipPlacements={skipPlacements}
+                    playerAmountCreator={playerAmountCreator}
+                    submitGeneralFormData={submitGeneralFormData}
+                    handleSwitch={handleSwitch}
+                    handleBlur={handleBlur}
+                    handleFormChange={handleFormChange}
+                    handlePlacementChange={handlePlacementChange}
+                    isReadyToInput={isReadyToInput}
+                    isReadyToCreate={isReadyToCreate}
+                   />
                 </ExpansionPanel>
             
-                 {/* FOLDER PICKER SECTION */}
+                 {/* FILE PICKER SECTION */}
                  <ExpansionPanel 
                     {...panel2Props} 
                     expanded={fileExpanded} 
@@ -362,68 +259,19 @@ const ImportPage = () => {
                         setFormExpanded(false)
                     }}
                 >
-                    <div className="border rounded mt-2 p-2">                   
-                            <h3>File Picker</h3>
-                            <input accept="text/plain" type="file" onChange={pickFile} />     
-                    </div>
+                    <FilePicker pickFile={pickFile} />
                 </ExpansionPanel>
-            {/* PREVIEW TABLE */}
-            <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">
-                <div className="border mt-2 p-2">
-                    <div className="formNav">
-                        <h3>Preview:</h3>
-                        <div>
-                            <Button 
-                                theme="primary" 
-                                buttonType="icon" 
-                                aria-label="Submit"
-                                disabled={!isSubmitted}
-                                onClick={submitData}
-                            >
-                                <FaCheck />
-                            </Button>
-                        </div>
-                    </div>
-                    {isReadyToSubmit &&
-                    <TabsManager tabs={tabs} tabsId="tournament-output">
-                        <Tabs />
-                        <TabPanels>
-                            <TabPanel>
-                                <table className="previewTable border">
-                                    <thead>
-                                        <tr>
-                                            {formFields.map((field,index) => {
-                                                return (
-                                                    <th key={index}>{field[1]}</th>
-                                                )
-                                            })}
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>{tournamentMap.tournamentId}</td>
-                                            <td>${tournamentMap.buyIn}</td>
-                                            <td>${tournamentMap.rake}</td>
-                                            <td>{tournamentMap.playerAmount}</td>
-                                            <td>${tournamentMap.prizePool}</td>
-                                            <td>{tournamentMap.startDate}</td>
-                                            <td>{tournamentMap.startTime} ET</td>
-                                            <td>{tournamentMap.finalPosition}/{tournamentMap.playerAmount}</td>
-                                            <td>${tournamentMap.playerPrizeMoney}</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </TabPanel>
-                            <TabPanel>
-                                <code className="border">{JSON.stringify(tournamentMap)}</code>
-                            </TabPanel>
-                        </TabPanels>
-                    </TabsManager>
-                     }
-                </div>
-              </ExpansionPanel>
-        </ExpansionList>
-    </div>
+                {/* PREVIEW TABLE */}
+                <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">
+                    <PreviewTable 
+                        tournamentMap={tournamentMap}
+                        isSubmitted={isSubmitted}
+                        submitData={submitData}
+                        isReadyToSubmit={isReadyToSubmit} 
+                    />
+                </ExpansionPanel>                
+            </ExpansionList>
+        </div>
     )
 }
 
