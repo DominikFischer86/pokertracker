@@ -44,6 +44,14 @@ app.get("/import", (req, res) => {
         .catch(err => res.status(400).json("Error:" + err))
 })
 
+app.get("/tournament/:id", (req, res) => {
+    const id = req.params.id
+
+    Tournament.find({ tournamentId: id})
+        .then(tournament => res.json(tournament))
+        .catch(err => res.status(400).json("Error: " + err))
+})
+
 // create route
 app.post("/import", (req, res) => {
     const newTournament = new Tournament({

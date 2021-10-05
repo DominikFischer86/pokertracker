@@ -7,6 +7,7 @@ import ImportPage from "./pages/ImportPage/importPage"
 import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
 import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
 import ResultsPage from "./pages/ResultsPage/resultsPage"
+import TournamentPage from "./pages/TournamentPage/tournamentPage"
 
 function App() {
   return (
@@ -53,7 +54,11 @@ function App() {
               render={(props) => (
                 <ResultsPage {...props} />
               )}
-            />    
+            />
+            <Route
+              path="/tournament"
+              component={TournamentPage}
+            />
             <Route 
               path="/player-analysis"
               render={(props) => (

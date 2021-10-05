@@ -35,7 +35,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                                         ? {color: "rgb(0,150,0)", fontWeight: "500"} 
                                         : null                                            
                                     }>
-                                    <td>{tournament.tournamentId}</td>
+                                    <td><a href={`/tournament/${tournament.tournamentId}`}>{tournament.tournamentId}</a></td>
                                     <td>${tournament.buyIn}</td>
                                     <td>${tournament.rake}</td>
                                     <td>{tournament.playerAmount}</td>

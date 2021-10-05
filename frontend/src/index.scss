@@ -33,6 +33,10 @@ table {
             td, th {
                 padding: .5rem .25rem;
                 text-align: center;
+
+                a {
+                    color: inherit;
+                }
             }
          }
     }

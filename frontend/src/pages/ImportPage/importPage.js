@@ -30,8 +30,10 @@ const ImportPage = () => {
     const [fileExpanded, setFileExpanded] = useState(false)
     const [previewExpanded, setPreviewExpanded] = useState(false)
 
+    const url = "http://localhost:3001" + window.location.pathname
+
     useEffect(() => {
-        fetch("http://localhost:3001/import")
+        fetch(url)
             .then(res => {
                 if (res.ok) {
                     return res.json()
