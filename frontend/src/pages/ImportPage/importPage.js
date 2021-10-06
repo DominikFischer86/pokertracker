@@ -187,7 +187,7 @@ const ImportPage = () => {
         
         await axios.post(url, newTournament, { headers })
         alert("Added Tournament: #" + newTournament.tournamentId)
-        console.log("Added Tournament: #" + newTournament.tournamentId)
+        console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         resetForm()
     }
 

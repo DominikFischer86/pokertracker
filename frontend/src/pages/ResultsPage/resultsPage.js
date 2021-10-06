@@ -38,7 +38,7 @@ const ResultsPage = () => {
     const onDelete = id => {
         if (confirm(`Do you really want to remove tournament #${id}`)){
             axios.delete(url + id)
-            console.log("Deleted tournament #" + id)
+            console.log(`%c Deleted tournament: #${id}`, "color: red")
         }         
     }
 
