@@ -1,10 +1,10 @@
 import React from "react"
 import propTypes from "prop-types"
 
-import { Chip } from "@react-md/chip";
+import { Chip } from "@react-md/chip"
 import { Button } from "react-md"
-import { TextField, Switch } from "@react-md/form";
-import { FaEye, FaUndo } from "react-icons/fa";
+import { TextField, Switch } from "@react-md/form"
+import { FaEye, FaUndo } from "react-icons/fa"
 
 import { formFields, placementFormFields } from "../helpers"
 
