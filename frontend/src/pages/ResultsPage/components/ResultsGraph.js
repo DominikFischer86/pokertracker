@@ -137,6 +137,7 @@ const OverviewTable = ({tournaments}) => {
     const profit = parseFloat(winnings - totalBuyIn).toFixed(2)
     const averageProfit = parseFloat(profit / count).toFixed(2)
     const roi = parseFloat(profit / totalBuyIn * 100).toFixed(2)
+    const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
 
     return (
         <table className="resultsTable">
@@ -155,7 +156,7 @@ const OverviewTable = ({tournaments}) => {
                     <tr>
                         <td>{count}</td>
                         <td>{averageProfit}$</td>
-                        <td>{totalBuyIn/count}$</td>
+                        <td>{averageStake}$</td>
                         <td>{roi}%</td>
                         <td>{buyIn}$</td>
                         <td>{rake}$</td>
