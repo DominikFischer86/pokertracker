@@ -20,6 +20,9 @@ table {
     width: 100%;
 
     &.resultsTable {
+        border: 1px solid rgba(0,0,0, .25);
+        border-collapse: collapse;
+
         tr {
             th {
                 background: rgba(0,0,0, .6);
@@ -33,6 +36,7 @@ table {
             td, th {
                 padding: .5rem .25rem;
                 text-align: center;
+                border: 1px solid rgba(0,0,0, .25);
 
                 a {
                     color: inherit;
@@ -57,6 +61,18 @@ div {
     &.playerPlacementSection {
         max-height: 80vh;
         overflow-y: scroll;
+    }
+
+    &.graphWrapper {
+        width: 100%;
+        height: 500px;
+        border: 1px solid rgba(0,0,0, .25);
+        margin-top: 1rem;
+    }
+
+    &.ResultsTitleContainer {
+        display: flex;
+        justify-content: space-between;
     }
 
     &.chip {
