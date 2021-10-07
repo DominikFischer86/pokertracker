@@ -93,6 +93,8 @@ div {
         background: rgba(100,100,100,.1);
         display: block;
         padding: .5rem;
+        max-height: 400px;
+        overflow-y: scroll;
     }
 }
 
