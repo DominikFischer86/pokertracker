@@ -11,6 +11,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                 <table className="resultsTable">
                     <thead>
                         <tr>
+                            <th>#</th>
                             <th>Tournament Id</th>
                             <th>Buy-In</th>
                             <th>Rake</th>
@@ -31,6 +32,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                                     ? {color: "rgb(0,150,0)", fontWeight: "500"} 
                                     : null                                            
                                 }>
+                                <td>#{i+1}</td>
                                 <td><a href={`/tournament/${tournament.tournamentId}`}>{tournament.tournamentId}</a></td>
                                 <td>${tournament.buyIn}</td>
                                 <td>${tournament.rake}</td>
