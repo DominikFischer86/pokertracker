@@ -12,24 +12,15 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     const tickValues = () => {               
         let myArray = []
         let factor
-        switch (tournamentAmount){
-            case tournamentAmount < 10000:
-                factor = 1000;
-            break;
-            case tournamentAmount < 1000:
-                factor = 100;
-            break;
-            case tournamentAmount < 100:
-                factor = 10;
-            break;
-            default:
-                factor = 1
-        }
+        if (tournamentAmount < 10000) factor = 1000;
+        if (tournamentAmount < 1000) factor = 100;
+        if (tournamentAmount < 500) factor = 10;
+        if (tournamentAmount < 10) factor = 1;
         
-            for (let i = 0; i < tournamentAmount/factor ;i++){
-                myArray.push(i*factor)
-            }
-            return myArray.splice(1)
+        for (let i = 0; i < tournamentAmount/factor ;i++){
+            myArray.push(i*factor)
+        }
+        return myArray.splice(1)
     }
 
     return (
@@ -68,7 +59,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                         legendOffset: -40,
                         legendPosition: 'middle'
                     }}
-                    enablePoints={true}
+                    enablePoints={false}
                     enableArea={true}
                     enableGridX={false}
                     isInteractive={true}
