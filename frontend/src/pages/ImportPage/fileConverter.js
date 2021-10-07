@@ -2,6 +2,10 @@ export const fileConverter = (file, player) => {
     const PLACEMENT_START = 6 
     const splitText = file.split("\n")
     const tournamentId = (splitText[0].split(" ")[2]).split(/\D/)[1]
+
+    if (splitText[1].includes("Freeroll")) return {failId: tournamentId, type: "Freeroll"}
+    if (splitText[1].includes("Satellite")) return {failId: tournamentId, type: "Satellite"}
+    
     const buyIn = parseFloat(splitText[1].split("$")[1])
     const rake = parseFloat(splitText[1].split("$")[2])
     const playerAmount = parseFloat(splitText[2].split(" ")[0])
@@ -9,7 +13,6 @@ export const fileConverter = (file, player) => {
     const startDate = splitText[4].split(" ")[2]
     const startTime = splitText[4].split(" ")[3]
     const placementsList = (splitText.slice(PLACEMENT_START, playerAmount + PLACEMENT_START))
-    const finalPosition = parseFloat(splitText[splitText.length - 4].split("(")[0].split(" ")[3].split(/\D/)[0]) || 0
     const placements = placementsList.map(
         listItem => {
             const cleanListItem = listItem.split(" ")
@@ -33,7 +36,7 @@ export const fileConverter = (file, player) => {
             return playerResult
         }
     )
-
+    
     const tournamentMap = [
         [ "tournamentId", tournamentId ],
         [ "buyIn", buyIn ], 
@@ -42,10 +45,10 @@ export const fileConverter = (file, player) => {
         [ "prizePool", prizePool ], 
         [ "startDate", startDate ],
         [ "startTime", startTime ],
-        [ "finalPosition", finalPosition ],
+        [ "finalPosition", playerPrizeMoney.finishPosition ],
         [ "playerPrizeMoney", playerPrizeMoney.prizeMoney],
         [ "placements", placements ]
     ]
-
+    
     return Object.fromEntries(tournamentMap)
 }
