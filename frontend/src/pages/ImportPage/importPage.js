@@ -7,7 +7,7 @@ import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-pa
 import { fileConverter } from "./fileConverter";
 
 import PreviewTable from "./components/PreviewTable";
-import FilePicker from "./components/FilePicker"
+import MultiFilePicker from "./components/FilePicker"
 import FormInputs from "./components/FormInputs"
 
 const PLAYER = "KeinKönich"
@@ -42,7 +42,7 @@ const ImportPage = () => {
             .then(jsonRes => setTournaments(jsonRes))
             .catch(err => console.log(err))
         
-    }, [])
+    }, [previewExpanded])
 
     const [panels, onKeyDown] = usePanels({
         count: 3,
@@ -157,64 +157,70 @@ const ImportPage = () => {
         setPreviewExpanded(true)
     }
 
-    const submitData = async () => {
+    const submitData = () => {        
         const url = "http://localhost:3001/import"
-        const newTournament = {
-            tournamentId: tournamentMap.tournamentId,
-            buyIn: tournamentMap.buyIn,
-            rake: tournamentMap.rake,
-            playerAmount: tournamentMap.playerAmount,
-            prizePool: tournamentMap.prizePool,
-            startDate: tournamentMap.startDate,
-            startTime: tournamentMap.startTime,
-            finalPosition: tournamentMap.finalPosition,
-            playerPrizeMoney: tournamentMap.playerPrizeMoney,
-            placements: tournamentMap.placements
-         }
         const headers = {
             "Access-Control-Allow-Origin" : "*",
             "Content-Type" : "application/json",
             "Access-Control-Allow-Methods":"GET,PUT,POST,DELETE,PATCH,OPTIONS"
         }
 
-        const tournamentExists = tournaments.some(
-            element => element.tournamentId === newTournament.tournamentId
-        )
-        if (tournamentExists) {
-            resetForm()
-            return alert(`Tournament (#${newTournament.tournamentId}) already exists`)
-        }
+        tournamentMap.forEach(tournament => {
+            if (tournament.type){
+                return console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
+            }
+
+            const newTournament = {
+                tournamentId: tournament.tournamentId,
+                buyIn: tournament.buyIn,
+                rake: tournament.rake,
+                playerAmount: tournament.playerAmount,
+                prizePool: tournament.prizePool,
+                startDate: tournament.startDate,
+                startTime: tournament.startTime,
+                finalPosition: tournament.finalPosition,
+                playerPrizeMoney: tournament.playerPrizeMoney,
+                placements: tournament.placements
+             }
+            
+             const tournamentExists = tournaments.some(
+                element => element.tournamentId === newTournament.tournamentId
+            )
+            if (tournamentExists) {
+                resetForm()
+                return console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
+            }
+            
+            axios.post(url, newTournament, { headers })
+            // alert("Added Tournament: #" + newTournament.tournamentId)
+            console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
+        })
         
-        await axios.post(url, newTournament, { headers })
-        alert("Added Tournament: #" + newTournament.tournamentId)
-        console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         resetForm()
-    }
+    }    
 
-    const pickFile = e => {
-       const files = e.target.files
-       const reader = new FileReader()
-       clearState()
+    const pickMultiFile =  e => {
+        const files = e.currentTarget.files
+        const newFiles = []
+        clearState()
 
-       reader.onload = () => {
-           const convertedFile = fileConverter(reader.result, PLAYER)
-           const { playerAmount } = convertedFile
-           if (Number.isNaN(playerAmount)) {
-               console.log("File doesn't fit format")
-           } else {
-            setForm(convertedFile)
-            setTournamentMap(convertedFile)
-            setIsReadyToSubmit(true)
-            setIsSubmitted(true)
-           }           
-       }
-       for (let i = 0; i < files.length; i++){
-        reader.readAsText(files[i])
-       }
+        Object.keys(files).forEach(index => {
+            const file = files[index]            
+             const reader = new FileReader()
+             reader.onload = e => {
+                const convertedFiles = fileConverter(reader.result, PLAYER)
+                newFiles.push(convertedFiles)
+                setForm(newFiles)
+                setTournamentMap(newFiles)
+                setIsReadyToSubmit(true)
+                setIsSubmitted(true)
+             }
+             reader.readAsText(file)            
+        })
 
-       setFormExpanded(false)
-       setFileExpanded(false)
-       setPreviewExpanded(true)       
+        setFormExpanded(false)
+        setFileExpanded(false)
+        setPreviewExpanded(true)        
     }
    
     return (
@@ -258,7 +264,11 @@ const ImportPage = () => {
                         setFormExpanded(false)
                     }}
                 >
-                    <FilePicker pickFile={pickFile} />
+                    <div className="row">
+                        <div className="col-lg-6">
+                            <MultiFilePicker pickMultiFile={pickMultiFile} multiple />
+                        </div>                        
+                    </div>
                 </ExpansionPanel>
                 {/* PREVIEW TABLE */}
                 <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">

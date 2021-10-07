@@ -1,17 +1,16 @@
 import React from "react"
 import propTypes from "prop-types"
 
-const FilePicker = ({pickFile}) => {
+const MultiFilePicker = ({pickMultiFile}) => {
     return (
         <div className="border rounded mt-2 p-2">                   
-            <h3>File Picker</h3>
-            <input accept="text/plain" type="file" onChange={pickFile} />     
+            <h3>Multi Filepicker</h3>
+            <input accept="text/plain" type="file" multiple onChange={pickMultiFile} />
         </div>
     )
 }
-
-FilePicker.propTypes = {
-    pickFile: propTypes.func
+MultiFilePicker.propTypes = {
+    pickMultiFile: propTypes.func
 }
 
-export default FilePicker
+export default MultiFilePicker

@@ -41,17 +41,29 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>{tournamentMap.tournamentId}</td>
-                                    <td>${tournamentMap.buyIn}</td>
-                                    <td>${tournamentMap.rake}</td>
-                                    <td>{tournamentMap.playerAmount}</td>
-                                    <td>${tournamentMap.prizePool}</td>
-                                    <td>{tournamentMap.startDate}</td>
-                                    <td>{tournamentMap.startTime} ET</td>
-                                    <td>{tournamentMap.finalPosition}/{tournamentMap.playerAmount}</td>
-                                    <td>${tournamentMap.playerPrizeMoney}</td>
-                                </tr>
+                                {tournamentMap.map((tournament, i) => {
+                                    if (tournament.type){
+                                        console.log("%c Invalid tournament: #" + tournament.failId + " - " + tournament.type, "color : red" )
+                                    } else {
+                                        return (
+                                        <tr key={i} style={
+                                            tournament.playerPrizeMoney > 0 
+                                                ? {color: "rgb(0,150,0)", fontWeight: "500"} 
+                                                : null                                            
+                                            }>
+                                            <td>{tournament.tournamentId}</td>
+                                            <td>${tournament.buyIn}</td>
+                                            <td>${tournament.rake}</td>
+                                            <td>{tournament.playerAmount}</td>
+                                            <td>${tournament.prizePool}</td>
+                                            <td>{tournament.startDate}</td>
+                                            <td>{tournament.startTime}</td>
+                                            <td>{tournament.finalPosition}</td>
+                                            <td>{tournament.playerPrizeMoney}</td>
+                                        </tr>
+                                        )
+                                    }
+                                })}
                             </tbody>
                         </table>
                     </TabPanel>
