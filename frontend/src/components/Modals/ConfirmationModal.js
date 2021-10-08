@@ -8,7 +8,6 @@ import "./modals.scss"
 export const ImportConfirmationModal = ({confirmationModalIsOpen, closeModal, modalContent}) => {
     
     const { successMessageList, warningMessageList, errorMessageList } = modalContent
-    // console.log(warningMessageList)
 
     return (
         <Modal 
