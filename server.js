@@ -14,7 +14,7 @@ app.use(express.json())
 
 // connect to mongodb
 dotenv.config()
-mongoose.connect(process.env.TOURNAMENT_DB_URI)
+mongoose.connect(process.env.TOURNAMENT_DB_LOCAL)
 
 // data schema
 const tournamentSchema = {
