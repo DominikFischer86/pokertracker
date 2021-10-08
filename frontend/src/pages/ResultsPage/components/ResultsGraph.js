@@ -131,7 +131,8 @@ const OverviewTable = ({tournaments}) => {
     const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
 
     return (
-        <table className="resultsTable">
+        <div className="resultsTable">
+            <table >
                     <thead>
                         <tr>
                             <th>Count</th>
@@ -154,7 +155,8 @@ const OverviewTable = ({tournaments}) => {
                         <td>{profit}$</td>
                     </tr>
                 </tbody>
-        </table>
+            </table>
+        </div>
     )
 }
 

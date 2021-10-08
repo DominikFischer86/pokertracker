@@ -30,42 +30,44 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
                 <Tabs />
                 <TabPanels>
                     <TabPanel>
-                        <table className="previewTable border">
-                            <thead>
-                                <tr>
-                                    {formFields.map((field,index) => {
-                                        return (
-                                            <th key={index}>{field[1]}</th>
-                                        )
+                        <div className="previewTable">
+                            <table className="border">
+                                <thead>
+                                    <tr>
+                                        {formFields.map((field,index) => {
+                                            return (
+                                                <th key={index}>{field[1]}</th>
+                                            )
+                                        })}
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {tournamentMap.map((tournament, i) => {
+                                        if (tournament.type){
+                                            console.log("%c Invalid tournament: #" + tournament.failId + " - " + tournament.type, "color : red" )
+                                        } else {
+                                            return (
+                                            <tr key={i} style={
+                                                tournament.playerPrizeMoney > 0 
+                                                    ? {color: "rgb(0,150,0)", fontWeight: "500"} 
+                                                    : null                                            
+                                                }>
+                                                <td>{tournament.tournamentId}</td>
+                                                <td>${tournament.buyIn}</td>
+                                                <td>${tournament.rake}</td>
+                                                <td>{tournament.playerAmount}</td>
+                                                <td>${tournament.prizePool}</td>
+                                                <td>{tournament.startDate}</td>
+                                                <td>{tournament.startTime}</td>
+                                                <td>{tournament.finalPosition}</td>
+                                                <td>{tournament.playerPrizeMoney}</td>
+                                            </tr>
+                                            )
+                                        }
                                     })}
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {tournamentMap.map((tournament, i) => {
-                                    if (tournament.type){
-                                        console.log("%c Invalid tournament: #" + tournament.failId + " - " + tournament.type, "color : red" )
-                                    } else {
-                                        return (
-                                        <tr key={i} style={
-                                            tournament.playerPrizeMoney > 0 
-                                                ? {color: "rgb(0,150,0)", fontWeight: "500"} 
-                                                : null                                            
-                                            }>
-                                            <td>{tournament.tournamentId}</td>
-                                            <td>${tournament.buyIn}</td>
-                                            <td>${tournament.rake}</td>
-                                            <td>{tournament.playerAmount}</td>
-                                            <td>${tournament.prizePool}</td>
-                                            <td>{tournament.startDate}</td>
-                                            <td>{tournament.startTime}</td>
-                                            <td>{tournament.finalPosition}</td>
-                                            <td>{tournament.playerPrizeMoney}</td>
-                                        </tr>
-                                        )
-                                    }
-                                })}
-                            </tbody>
-                        </table>
+                                </tbody>
+                            </table>
+                        </div>
                     </TabPanel>
                     <TabPanel>
                         <code className="border">{JSON.stringify(tournamentMap)}</code>

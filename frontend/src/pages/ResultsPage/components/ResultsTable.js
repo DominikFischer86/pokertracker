@@ -5,10 +5,10 @@ import { FaTrashAlt } from "react-icons/fa"
 const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 
     return (
-        <div className="row">
+        <div className="row resultsTable">
             {isLoading && <p>Loading...</p>}
             {!isLoading &&
-                <table className="resultsTable">
+                <table>
                     <thead>
                         <tr>
                             <th>#</th>

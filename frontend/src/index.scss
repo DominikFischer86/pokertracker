@@ -16,47 +16,6 @@ button {
     }
 }
 
-table {
-    width: 100%;
-
-    &.resultsTable {
-        border: 1px solid rgba(0,0,0, .25);
-        border-collapse: collapse;
-
-        tr {
-            th {
-                background: rgba(0,0,0, .6);
-                color: #fff;
-            }
-
-            &:nth-child(2n){
-                background: rgba(0,0,0,.1);
-            } 
-     
-            td, th {
-                padding: .5rem .25rem;
-                text-align: center;
-                border: 1px solid rgba(0,0,0, .25);
-
-                a {
-                    color: inherit;
-                }
-            }
-         }
-    }
-
-    &.previewTable {        
-        th, td {
-            text-align: center;
-        }
-
-        th {
-            background: rgba(0,0,0, .4);
-            color: #fff;
-        }
-    }
-}
-
 div {
     &.playerPlacementSection {
         max-height: 80vh;
@@ -95,6 +54,51 @@ div {
         padding: .5rem;
         max-height: 400px;
         overflow-y: scroll;
+    }
+
+    &.resultsTable {
+        max-height: 800px;
+        overflow-y: scroll;
+        
+        table {
+            border: 1px solid rgba(0,0,0, .25);
+            border-collapse: collapse;            
+            width: 100%;
+
+            tr {
+                th {
+                    background: rgba(0,0,0, .6);
+                    color: #fff;
+                }
+    
+                &:nth-child(2n){
+                    background: rgba(0,0,0,.1);
+                } 
+         
+                td, th {
+                    padding: .5rem .25rem;
+                    text-align: center;
+                    border: 1px solid rgba(0,0,0, .25);
+    
+                    a {
+                        color: inherit;
+                    }
+                }
+             }
+        }
+    }
+
+    &.previewTable table {      
+        width: 100%;
+        
+        th, td {
+            text-align: center;
+        }
+
+        th {
+            background: rgba(0,0,0, .4);
+            color: #fff;
+        }
     }
 }
 
