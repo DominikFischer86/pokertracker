@@ -2,10 +2,12 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
 
-import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel";
+import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
+import Modal from "react-modal"
 
-import { fileConverter } from "./fileConverter";
+import {ImportConfirmationModal} from "../../components/Modals"
 
+import { fileConverter } from "./fileConverter"
 import PreviewTable from "./components/PreviewTable";
 import MultiFilePicker from "./components/FilePicker"
 import FormInputs from "./components/FormInputs"
@@ -29,6 +31,8 @@ const ImportPage = () => {
     const [formExpanded, setFormExpanded] = useState(false)
     const [fileExpanded, setFileExpanded] = useState(false)
     const [previewExpanded, setPreviewExpanded] = useState(false)
+
+    const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
 
     const url = "http://localhost:3001" + window.location.pathname
 
@@ -165,9 +169,14 @@ const ImportPage = () => {
             "Access-Control-Allow-Methods":"GET,PUT,POST,DELETE,PATCH,OPTIONS"
         }
 
+        let successMessageList = []
+        let warningMessageList = []
+        let errorMessageList = []
+
         tournamentMap.forEach(tournament => {
             if (tournament.type){
-                return console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
+                return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`)
+                // return console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
             }
 
             const newTournament = {
@@ -188,15 +197,19 @@ const ImportPage = () => {
             )
             if (tournamentExists) {
                 resetForm()
-                return console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
+                return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
+                // return console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
             }
             
             axios.post(url, newTournament, { headers })
-            // alert("Added Tournament: #" + newTournament.tournamentId)
-            console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
+            successMessageList.push(`Added Tournament: #${newTournament.tournamentId}`)
+            // console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         })
-        
-        resetForm()
+
+        const messageLists = {successMessageList, warningMessageList, errorMessageList}
+        // console.log(messageLists)
+
+        openModal()
     }    
 
     const pickMultiFile =  e => {
@@ -222,11 +235,23 @@ const ImportPage = () => {
         setFileExpanded(false)
         setPreviewExpanded(true)        
     }
+
+    const openModal = () => {
+        setConfirmationModalIsOpen(true)
+    }
+
+    const closeModal = () => {
+        setConfirmationModalIsOpen(false)
+    }
    
     return (
         <div>
             <h2>Import Tournaments</h2>
             <hr />
+            <ImportConfirmationModal 
+                confirmationModalIsOpen={confirmationModalIsOpen}
+                closeModal={closeModal}
+            />
             <ExpansionList onKeyDown={onKeyDown}>
                 {/* FORM INPUT SECTION */}
                 <ExpansionPanel 
