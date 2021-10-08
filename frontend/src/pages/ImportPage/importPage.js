@@ -3,10 +3,8 @@ import React, { useState, useEffect } from "react"
 import axios from "axios"
 
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
-import Modal from "react-modal"
 
-import {ImportConfirmationModal} from "../../components/Modals"
-
+import {ImportConfirmationModal} from "../../components/Modals/ConfirmationModal"
 import { fileConverter } from "./fileConverter"
 import PreviewTable from "./components/PreviewTable";
 import MultiFilePicker from "./components/FilePicker"
@@ -33,6 +31,13 @@ const ImportPage = () => {
     const [previewExpanded, setPreviewExpanded] = useState(false)
 
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
+    const [modalContent, setModalContent] = useState(
+        {
+        successMessageList: [], 
+        warningMessageList: [], 
+        errorMessageList:[]
+        }
+    )
 
     const url = "http://localhost:3001" + window.location.pathname
 
@@ -163,11 +168,6 @@ const ImportPage = () => {
 
     const submitData = () => {        
         const url = "http://localhost:3001/import"
-        const headers = {
-            "Access-Control-Allow-Origin" : "*",
-            "Content-Type" : "application/json",
-            "Access-Control-Allow-Methods":"GET,PUT,POST,DELETE,PATCH,OPTIONS"
-        }
 
         let successMessageList = []
         let warningMessageList = []
@@ -175,8 +175,8 @@ const ImportPage = () => {
 
         tournamentMap.forEach(tournament => {
             if (tournament.type){
-                return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`)
-                // return console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
+                console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
+                return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`) 
             }
 
             const newTournament = {
@@ -197,18 +197,17 @@ const ImportPage = () => {
             )
             if (tournamentExists) {
                 resetForm()
+                console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
                 return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
-                // return console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
             }
             
-            axios.post(url, newTournament, { headers })
+            axios.post(url, newTournament)
             successMessageList.push(`Added Tournament: #${newTournament.tournamentId}`)
-            // console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
+            console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         })
 
         const messageLists = {successMessageList, warningMessageList, errorMessageList}
-        // console.log(messageLists)
-
+        setModalContent(messageLists)
         openModal()
     }    
 
@@ -238,10 +237,11 @@ const ImportPage = () => {
 
     const openModal = () => {
         setConfirmationModalIsOpen(true)
+        setPreviewExpanded(false)     
     }
 
     const closeModal = () => {
-        setConfirmationModalIsOpen(false)
+        setConfirmationModalIsOpen(false)          
     }
    
     return (
@@ -251,6 +251,7 @@ const ImportPage = () => {
             <ImportConfirmationModal 
                 confirmationModalIsOpen={confirmationModalIsOpen}
                 closeModal={closeModal}
+                modalContent={modalContent}
             />
             <ExpansionList onKeyDown={onKeyDown}>
                 {/* FORM INPUT SECTION */}
@@ -292,7 +293,10 @@ const ImportPage = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <MultiFilePicker pickMultiFile={pickMultiFile} multiple />
-                        </div>                        
+                        </div>
+                        <div className="col-lg-6">
+                            Filter dood
+                        </div>                
                     </div>
                 </ExpansionPanel>
                 {/* PREVIEW TABLE */}
