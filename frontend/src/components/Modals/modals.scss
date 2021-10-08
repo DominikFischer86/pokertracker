@@ -1,0 +1,82 @@
+.Confirmation_Modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px rgba(0,0,0,.25);
+    background: #fff;
+    padding: 1rem 2rem;
+    max-width: 90%;
+    z-index: 10000;
+
+    &__title {
+        border-bottom: 1px solid rgba(0,0,0,.25);
+        padding: .5rem;
+    }
+
+    &__content {
+        padding: 1rem;
+        max-height: 500px;
+        overflow-y: scroll;
+
+        h3 {
+            font-size: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 1rem;
+            border-bottom: rgba(0,0,0,.5)
+        }
+
+        li {
+            position: relative;
+            &:before {
+                position: absolute;
+                 content: "\2297";
+                 width: 10px;
+                 height: 10px;
+                 left: -1rem;
+            }
+
+            &.success {
+                color: green;
+                &:before { content: "\221a" } // √
+             }
+
+            &.warning {
+               color: orange;
+               &:before { content: "\2666" } // ♦
+            }
+
+            &.error {
+                color: red;
+                &:before { content: "\2297"; } // ⊗
+             }
+        }
+    }
+
+    &__footer {
+        padding: .5rem;
+        border-top: 1px solid rgba(0,0,0,.25);
+        display: flex;
+        justify-content: flex-end;
+
+        button {
+            border: none;
+            padding: .5rem 1rem;
+            box-shadow: 1px 2px 0 rgba(0,0,0,.2);
+        }
+    }
+
+    &__closeButton {
+        position: absolute;
+        top: 0;
+        right: 0;
+        font-size: 28px;
+        cursor: pointer;
+    }
+}
