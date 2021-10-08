@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
 
+import { Switch } from "@react-md/form"
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
 
 import {ImportConfirmationModal} from "../../components/Modals/ConfirmationModal"
@@ -19,7 +20,8 @@ const ImportPage = () => {
     const [tournamentMap, setTournamentMap] = useState({})
     const [playerAmountCreator, setPlayerAmountCreator] = useState([])
 
-    const [skipPlacements, setSkipPlacements] = useState(false)
+    const [skipFormPlacements, setSkipFormPlacements] = useState(false)
+    const [skipFilePlacements, setSkipFilePlacements] = useState(false)
     const [isReadyToCreate, setIsReadyToCreate] = useState(false)
     const [isReadyToInput, setIsReadyToInput] = useState(false)
     const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
@@ -62,7 +64,11 @@ const ImportPage = () => {
     const [panel1Props, panel2Props, panel3Props] = panels;
 
     const handleSwitch = () => {
-        setSkipPlacements(!skipPlacements)
+        setSkipFormPlacements(!skipFormPlacements)
+    }
+
+    const handleFileSwitch = () => {
+        setSkipFilePlacements(!skipFilePlacements)
     }
 
     const handleFormChange = event => {
@@ -110,7 +116,7 @@ const ImportPage = () => {
     const submitGeneralFormData = e => {
         e.preventDefault()
 
-        if (!skipPlacements){
+        if (!skipFormPlacements){
             const playerAmount = parseFloat(Object.values(form.playerAmount).join().replace(",",""))
 
             playerAmountCreator.splice(0, playerAmountCreator.length)
@@ -164,6 +170,7 @@ const ImportPage = () => {
         setFormExpanded(false)
         setFileExpanded(false)
         setPreviewExpanded(true)
+        setSkipFormPlacements(false)
     }
 
     const submitData = () => {        
@@ -179,6 +186,8 @@ const ImportPage = () => {
                 return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`) 
             }
 
+            const isFilterActive = tournament.playerAmount > 45 && !skipFilePlacements           
+   
             const newTournament = {
                 tournamentId: tournament.tournamentId,
                 buyIn: tournament.buyIn,
@@ -189,7 +198,7 @@ const ImportPage = () => {
                 startTime: tournament.startTime,
                 finalPosition: tournament.finalPosition,
                 playerPrizeMoney: tournament.playerPrizeMoney,
-                placements: tournament.placements
+                placements: isFilterActive ? [] : tournament.placements
              }
             
              const tournamentExists = tournaments.some(
@@ -209,6 +218,7 @@ const ImportPage = () => {
         const messageLists = {successMessageList, warningMessageList, errorMessageList}
         setModalContent(messageLists)
         openModal()
+        setSkipFilePlacements(false)
     }    
 
     const pickMultiFile =  e => {
@@ -232,7 +242,8 @@ const ImportPage = () => {
 
         setFormExpanded(false)
         setFileExpanded(false)
-        setPreviewExpanded(true)        
+        setPreviewExpanded(true)
+        setSkipFormPlacements(false)
     }
 
     const openModal = () => {
@@ -267,7 +278,7 @@ const ImportPage = () => {
                    <FormInputs 
                     resetForm={resetForm}
                     convertData={convertData}
-                    skipPlacements={skipPlacements}
+                    skipFormPlacements={skipFormPlacements}
                     playerAmountCreator={playerAmountCreator}
                     submitGeneralFormData={submitGeneralFormData}
                     handleSwitch={handleSwitch}
@@ -295,7 +306,16 @@ const ImportPage = () => {
                             <MultiFilePicker pickMultiFile={pickMultiFile} multiple />
                         </div>
                         <div className="col-lg-6">
-                            Filter dood
+                            <Switch 
+                                id="no-mtt-placement" 
+                                name="no-mtt-placement"
+                                label={!skipFilePlacements 
+                                    ? "Deny MTT placements"
+                                    : "Allow MTT placements (big data load!)"
+                                }
+                                onChange={handleFileSwitch}
+                            />
+                            <p>Player placements from MTTs are denied by default in order to prevent big data loads. Activate at your own risk.</p>
                         </div>                
                     </div>
                 </ExpansionPanel>

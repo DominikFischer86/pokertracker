@@ -11,7 +11,7 @@ import { formFields, placementFormFields } from "../helpers"
 const FormInputs = ({    
         resetForm, 
         convertData,
-        skipPlacements,
+        skipFormPlacements,
         playerAmountCreator,
         submitGeneralFormData, 
         handleSwitch,
@@ -81,7 +81,7 @@ const FormInputs = ({
                     <hr />
                         <div className="generalDataFormSubmitButton">
                             <Button type="submit" theme="warning" themeType="contained" disabled={!isReadyToCreate}>
-                                {!skipPlacements ? "Enter players" : "Preview Data"}
+                                {!skipFormPlacements ? "Enter players" : "Preview Data"}
                             </Button>
                         </div>
                     </div>                            
@@ -91,10 +91,10 @@ const FormInputs = ({
                     <form className="border rounded p-2" autoComplete="off">
                         <h4>Players/Placements</h4>
                         <hr />
-                        {!isReadyToInput && !skipPlacements &&
+                        {!isReadyToInput && !skipFormPlacements &&
                             <div><p><strong>Please fill in General Data before enabling player/placements input.</strong></p></div>
                         }
-                        {skipPlacements &&
+                        {skipFormPlacements &&
                             <div><p><strong>No placement input required. Useful for tournaments with a lot of players.</strong></p></div>
                         }
                         {isReadyToInput && playerAmountCreator.map(item => {
@@ -137,7 +137,7 @@ const FormInputs = ({
 FormInputs.propTypes = {
     resetForm: propTypes.func, 
     convertData: propTypes.func,
-    skipPlacements: propTypes.bool,
+    skipFormPlacements: propTypes.bool,
     playerAmountCreator: propTypes.array,
     submitGeneralFormData: propTypes.func, 
     handleSwitch: propTypes.func,
