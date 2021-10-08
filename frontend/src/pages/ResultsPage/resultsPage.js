@@ -16,25 +16,19 @@ const ResultsPage = () => {
 
     const url = "http://localhost:3001/results/"    
 
-    useEffect(() => {
-        let isFetched = false
-        fetch(url)
-            .then(res => {
-                if (res.ok) {
+    useEffect(async () => {
+        try {
+            await axios.get(url)
+                .then(res => {
                     setIsLoading(false)
-                    return res.json()
-                }
-            })
-            .then(jsonRes => 
-                { if (!isFetched) setTournaments(jsonRes)
-            })
-            .catch(err => console.log(err))
-        
-        return () => {
-            isFetched = true
-        }        
+                    setTournaments(res.data)
+                })
+        } catch (e) {
+            console.log(e)
+        }
     }, [])
 
+    
     const onDelete = id => {
         if (confirm(`Do you really want to remove tournament #${id}`)){
             axios.delete(url + id)
