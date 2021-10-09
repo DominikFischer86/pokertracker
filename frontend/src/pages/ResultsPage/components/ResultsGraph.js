@@ -14,7 +14,8 @@ const ResultsGraph = ({tournaments, isLoading}) => {
         let factor
         if (tournamentAmount < 10000) factor = 1000;
         if (tournamentAmount < 1000) factor = 100;
-        if (tournamentAmount < 500) factor = 10;
+        if (tournamentAmount < 500) factor = 20;
+        if (tournamentAmount < 250) factor = 10;
         if (tournamentAmount < 10) factor = 1;
         
         for (let i = 0; i < tournamentAmount/factor ;i++){
