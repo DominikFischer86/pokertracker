@@ -7,7 +7,7 @@ import { FaCheck } from "react-icons/fa"
 import { formFields } from "../helpers"
 
 const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit }) => {
-    const tabs = ["Table", "JSON"];
+    const tabs = ["Table", "JSON"]
 
     return (
         <div className="border mt-2 p-2">
