@@ -33,13 +33,7 @@ const ImportPage = () => {
     const [previewExpanded, setPreviewExpanded] = useState(false)
 
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
-    const [modalContent, setModalContent] = useState(
-        {
-        successMessageList: [], 
-        warningMessageList: [], 
-        errorMessageList:[]
-        }
-    )
+    const [modalContent, setModalContent] = useState({successMessageList: [], warningMessageList: [], errorMessageList:[]})
 
     const url = "http://localhost:3001" + window.location.pathname
 
@@ -126,10 +120,10 @@ const ImportPage = () => {
             setPlayerAmountCreator(playerAmountCreator)
             setIsReadyToInput(true)
         } else {            
-            setTournamentMap({
+            setTournamentMap([{
                 ...form,
                 "placements": []
-            })
+            }])
             setIsReadyToSubmit(true)
             setIsSubmitted(true)
             setFormExpanded(false)
@@ -161,10 +155,10 @@ const ImportPage = () => {
             newPlacementMap.push(Object.fromEntries(arrList))
         }
 
-        setTournamentMap({
+        setTournamentMap([{
             ...form,
             "placements": newPlacementMap
-        })
+        }])
         setIsReadyToSubmit(true)
         setIsSubmitted(true)
         setFormExpanded(false)
@@ -237,7 +231,7 @@ const ImportPage = () => {
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
              }
-             reader.readAsText(file)            
+             reader.readAsText(file)              
         })
 
         setFormExpanded(false)
