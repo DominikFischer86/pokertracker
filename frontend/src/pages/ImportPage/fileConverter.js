@@ -1,7 +1,11 @@
+import { translateCountry } from "./helpers"
+
 export const fileConverter = (file, player) => {
     const PLACEMENT_START = 6 
     const splitText = file.split("\n")
-    const tournamentId = (splitText[0].split(" ")[2]).split(/\D/)[1]
+    if (!splitText[0].includes("PokerStars")) return {failId: 1, type: "Invalid format"}
+    
+    const tournamentId = (splitText[0].split(" ")[2]).split(/\D/)[1]   
 
     if (splitText[1].includes("Freeroll")) return {failId: tournamentId, type: "Freeroll"}
     if (splitText[1].includes("Satellite")) return {failId: tournamentId, type: "Satellite"}
@@ -19,12 +23,13 @@ export const fileConverter = (file, player) => {
             const playerPlace = parseFloat(cleanListItem[2])
             const playerName = ((listItem.split(" (")[0]).split(":")[1])?.trim()
             const playerCountry = listItem.split(/\(([^)]+)\)/)[1]
+            const translatedCountry = translateCountry(playerCountry)
             const prizeMoney = parseFloat((listItem.split(/\)..\$/g)[1])?.split(" ")[0]) || 0
             
             const placementMap = [
                 [ "finishPosition", playerPlace ],
                 [ "playerName", playerName ],
-                [ "playerCountry", playerCountry ],
+                [ "playerCountry", !translatedCountry ? playerCountry : translatedCountry ],
                 [ "prizeMoney", prizeMoney]
             ]
 

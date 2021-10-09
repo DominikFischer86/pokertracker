@@ -1,3 +1,5 @@
+import { countries } from "../../locales/countries"
+
 export const formFields = [
     ["tournamentId", "Tournament Id", "Only digits"],
     ["buyIn", "Buy-In", "in $$.$$"],
@@ -26,3 +28,14 @@ const timeValue = /[0-9]{2}:[0-9]{2}:[0-9]{2}/
 export const validationRegEx = [
     idValue, moneyValue, moneyValue, amountValue, moneyValue, dateValue, timeValue, idValue, moneyValue
 ]
+
+export const translateCountry = country => {
+    const list = countries.find(element => {
+         if(element.de === country) return element.en         
+    })
+    if (!list){ 
+        console.log(country + " - ignored")
+        return false
+    }
+    if (list.de === country) return list.en
+}
