@@ -33,9 +33,26 @@ export const translateCountry = country => {
     const list = countries.find(element => {
          if(element.de === country) return element.en         
     })
-    if (!list){ 
-        console.log(country + " - ignored")
+    if (!list){
         return false
     }
     if (list.de === country) return list.en
+}
+
+export const formatMonth = timeStamp => {
+    let month = timeStamp.getMonth() + 1
+    return month < 10 ? '0' + month : "" + month
+}
+export const formatDay = timeStamp => {
+    let day = timeStamp.getDate()
+    return day < 10 ? '0' + day : "" + day
+}
+export const formatHour = timeStamp => {
+    let hour = timeStamp.getHours()
+    return hour < 10 ? '0' + hour : "" + hour
+}
+
+export const formatMinute = timeStamp => {
+    let minute = timeStamp.getMinutes()
+    return minute < 10 ? '0' + minute : "" + minute
 }

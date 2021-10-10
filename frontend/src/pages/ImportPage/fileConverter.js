@@ -1,4 +1,5 @@
 import { translateCountry } from "./helpers"
+import { formatMonth, formatDay, formatHour, formatMinute } from "./helpers"
 
 export const fileConverter = (file, player) => {
     const PLACEMENT_START = 6 
@@ -10,12 +11,32 @@ export const fileConverter = (file, player) => {
     if (splitText[1].includes("Freeroll")) return {failId: tournamentId, type: "Freeroll"}
     if (splitText[1].includes("Satellite")) return {failId: tournamentId, type: "Satellite"}
     
+    const rebuyTaken = (splitText[splitText.length - 3]).length > 10
+    let rebuyTimes = 0
+    
+    if (rebuyTaken) rebuyTimes = parseFloat(splitText[splitText.length - 3].split(" ")[2])
     const buyIn = parseFloat(splitText[1].split("$")[1])
     const rake = parseFloat(splitText[1].split("$")[2])
     const playerAmount = parseFloat(splitText[2].split(" ")[0])
     const prizePool = parseFloat(splitText[3].split("$")[1])
-    const startDate = splitText[4].split(" ")[2]
-    const startTime = splitText[4].split(" ")[3]
+
+    // Format date and adjust from ET to CET if applicable
+    let timeZoneOffset = 0
+    const startDateString = splitText[4].split(" ")[2]
+    const startTimeString = splitText[4].split(" ")[3]
+    const startDateYear = startDateString.split("/")
+    const startDateTime = startTimeString.split(":")
+    const timeZone = splitText[4].split(" ")[4]
+    const year = startDateYear[0]
+    const month = parseFloat(startDateYear[1]) -1
+    const day = startDateYear[2]
+    timeZone !== "CET" ? timeZoneOffset = 6 : timeZoneOffset = 0
+    const hour = parseFloat(startDateTime[0]) + timeZoneOffset
+    const minute = startDateTime[1]
+    const timeStamp = new Date(year, month, day, hour, minute)    
+    const startDate = `${timeStamp.getFullYear(timeStamp)}/${formatMonth(timeStamp)}/${formatDay(timeStamp)}`
+    const startTime = `${formatHour(timeStamp)}:${formatMinute(timeStamp)}`
+
     const placementsList = (splitText.slice(PLACEMENT_START, playerAmount + PLACEMENT_START))
     const placements = placementsList.map(
         listItem => {
@@ -25,6 +46,7 @@ export const fileConverter = (file, player) => {
             const playerCountry = listItem.split(/\(([^)]+)\)/)[1]
             const translatedCountry = translateCountry(playerCountry)
             const prizeMoney = parseFloat((listItem.split(/\)..\$/g)[1])?.split(" ")[0]) || 0
+            // Rebuys
             
             const placementMap = [
                 [ "finishPosition", playerPlace ],
@@ -44,16 +66,19 @@ export const fileConverter = (file, player) => {
     
     const tournamentMap = [
         [ "tournamentId", tournamentId ],
-        [ "buyIn", buyIn ], 
+        [ "buyIn", buyIn ],
+        [ "rebuyTimes", rebuyTimes],
         [ "rake", rake ], 
         [ "playerAmount", playerAmount ], 
-        [ "prizePool", prizePool ], 
+        [ "prizePool", prizePool ],
+        [ "timeStamp", timeStamp ],
         [ "startDate", startDate ],
         [ "startTime", startTime ],
         [ "finalPosition", playerPrizeMoney.finishPosition ],
         [ "playerPrizeMoney", playerPrizeMoney.prizeMoney],
         [ "placements", placements ]
     ]
+    // console.log(tournamentMap)
     
     return Object.fromEntries(tournamentMap)
 }
