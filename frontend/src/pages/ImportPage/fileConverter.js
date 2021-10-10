@@ -57,20 +57,17 @@ export const fileConverter = (file, hero) => {
 
             return Object.fromEntries(placementMap)
         })
+
+    const bounties = 0
     const playerPrizeMoney = placements.find(
         element => {
             let players = element.playerName
             if (rebuyTaken) players = element.playerName.split(" [")[0]
             const playerResult = players === hero
-            console.log(hero)
-            
             return playerResult
         }
     )
-    
-    // console.log(splitText)
-    // console.log(playerPrizeMoney)
-    
+
     const tournamentMap = [
         [ "tournamentId", tournamentId ],
         [ "buyIn", buyIn ],
@@ -83,6 +80,7 @@ export const fileConverter = (file, hero) => {
         [ "startTime", startTime ],
         [ "finalPosition", playerPrizeMoney?.finishPosition ],
         [ "playerPrizeMoney", playerPrizeMoney?.prizeMoney],
+        [ "bounties", bounties ],
         [ "placements", placements ]
     ]
     

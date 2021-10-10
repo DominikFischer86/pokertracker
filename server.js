@@ -20,12 +20,15 @@ const tournamentSchema = {
     tournamentId: String,
     buyIn: Number,
     rake: Number,
+    rebuys: Number,
     playerAmount: Number,
     prizePool: Number,
+    timeStamp: Date,
     startDate: String,
     startTime: String,
     finalPosition: Number,
     playerPrizeMoney: Number,
+    bounties: Number,
     placements: Array
 }
 
@@ -59,12 +62,15 @@ app.post("/import", (req, res) => {
         tournamentId: req.body.tournamentId,
         buyIn: req.body.buyIn,
         rake: req.body.rake,
+        rebuys: req.body.rebuys,
         playerAmount: req.body.playerAmount,
         prizePool: req.body.prizePool,
+        timeStamp: req.body.timeStamp,
         startDate: req.body.startDate,
         startTime: req.body.startTime,
         finalPosition: req.body.finalPosition,
         playerPrizeMoney: req.body.playerPrizeMoney,
+        bounties: req.body.bounties,
         placements: req.body.placements
     })
 

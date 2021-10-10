@@ -55,12 +55,14 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
                                                 <td>{tournament.tournamentId}</td>
                                                 <td>${tournament.buyIn}</td>
                                                 <td>${tournament.rake}</td>
+                                                <td>{tournament.rebuys}</td>
                                                 <td>{tournament.playerAmount}</td>
                                                 <td>${tournament.prizePool}</td>
                                                 <td>{tournament.startDate}</td>
                                                 <td>{tournament.startTime}</td>
                                                 <td>{tournament.finalPosition}</td>
                                                 <td>{tournament.playerPrizeMoney}</td>
+                                                <td>{tournament.bounties}</td>
                                             </tr>
                                             )
                                         }

@@ -4,12 +4,14 @@ export const formFields = [
     ["tournamentId", "Tournament Id", "Only digits"],
     ["buyIn", "Buy-In", "in $$.$$"],
     ["rake", "Rake", "in $$.$$"],
+    ["rebuys", "Rebuys", "in $$.$$"],
     ["playerAmount", "Players", "max. Players"],
     ["prizePool", "Prize Pool", "in $$.$$"],
     ["startDate", "Start Date", "in JJJJ/MM/DD"],
     ["startTime", "Start Time", "in HH:MM:SS"],
     ["finalPosition", "Final Position", "Your placement"],
-    ["playerPrizeMoney", "Player Prize money", "in $$.$$"]
+    ["playerPrizeMoney", "Player Prize money", "in $$.$$"],
+    ["bounties", "Bounties", "in $$.$$"]
 ]
 
 export const placementFormFields = [

@@ -15,7 +15,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
         if (tournamentAmount < 10000) factor = 1000;
         if (tournamentAmount < 1000) factor = 100;
         if (tournamentAmount < 500) factor = 20;
-        if (tournamentAmount < 250) factor = 10;
+        if (tournamentAmount < 250) factor = 5;
         if (tournamentAmount < 10) factor = 1;
         
         for (let i = 0; i < tournamentAmount/factor ;i++){
@@ -114,16 +114,19 @@ ResultsGraph.propTypes = {
 }
 
 const OverviewTable = ({tournaments}) => {
+    // console.log(tournaments)
     const count = tournaments.length
-    let buyIn
-    let rake
+    let buyIn = 0
+    let rake = 0
     let winnings = 0
 
-    Object.values(tournaments).forEach((element, index) => {
-        buyIn = parseFloat(element.buyIn * (index+1) + buyIn).toFixed(2)
-        rake = parseFloat(element.rake * (index+1) + rake).toFixed(2)
+    Object.values(tournaments).forEach((element) => {
+        buyIn = parseFloat((element.buyIn + buyIn).toFixed(2))
+        rake = parseFloat((element.rake + rake).toFixed(2))
         winnings = parseFloat((element.playerPrizeMoney + winnings).toFixed(2))
     })
+
+    console.log(winnings)
 
     const totalBuyIn = parseFloat(buyIn) + parseFloat(rake)
     const profit = parseFloat(winnings - totalBuyIn).toFixed(2)
@@ -134,24 +137,24 @@ const OverviewTable = ({tournaments}) => {
     return (
         <div className="resultsTable">
             <table >
-                    <thead>
-                        <tr>
-                            <th>Count</th>
-                            <th>Average profit</th>
-                            <th>Average Stake</th>
-                            <th>Average ROI</th>
-                            <th>Total Buy-In</th>
-                            <th>Total Rake</th>
-                            <th>Total Profit</th>                           
-                        </tr>
-                    </thead>
+                <thead>
+                    <tr>
+                        <th>Count</th>
+                        <th>Average profit</th>
+                        <th>Average Stake</th>
+                        <th>Average ROI</th>
+                        <th>Total Buy-In</th>
+                        <th>Total Rake</th>
+                        <th>Total Profit</th>                           
+                    </tr>
+                </thead>
                 <tbody>
                     <tr>
                         <td>{count}</td>
                         <td>{averageProfit}$</td>
                         <td>{averageStake}$</td>
                         <td>{roi}%</td>
-                        <td>{buyIn}$</td>
+                        <td>{totalBuyIn}$</td>
                         <td>{rake}$</td>
                         <td>{profit}$</td>
                     </tr>

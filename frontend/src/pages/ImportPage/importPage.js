@@ -186,12 +186,15 @@ const ImportPage = () => {
                 tournamentId: tournament.tournamentId,
                 buyIn: tournament.buyIn,
                 rake: tournament.rake,
+                rebuys: tournament.rebuys,
                 playerAmount: tournament.playerAmount,
                 prizePool: tournament.prizePool,
+                timeStamp: tournament.timeStamp,
                 startDate: tournament.startDate,
                 startTime: tournament.startTime,
                 finalPosition: tournament.finalPosition,
                 playerPrizeMoney: tournament.playerPrizeMoney,
+                bounties: tournament.bounties,
                 placements: isFilterActive ? [] : tournament.placements
              }
             
