@@ -48,7 +48,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                         tickRotation: 0,
                         tickValues: tickValues(),
                         legend: 'Tournaments Amount',
-                        legendOffset: 36,
+                        legendOffset: 40,
                         legendPosition: 'middle'
                     }}
                     axisLeft={{
@@ -114,21 +114,20 @@ ResultsGraph.propTypes = {
 }
 
 const OverviewTable = ({tournaments}) => {
-    // console.log(tournaments)
     const count = tournaments.length
     let buyIn = 0
     let rake = 0
     let winnings = 0
+    let bounties = 0
 
     Object.values(tournaments).forEach((element) => {
         buyIn = parseFloat((element.buyIn + buyIn).toFixed(2))
         rake = parseFloat((element.rake + rake).toFixed(2))
         winnings = parseFloat((element.playerPrizeMoney + winnings).toFixed(2))
+        bounties = parseFloat((element.bounties + bounties).toFixed(2))
     })
 
-    console.log(winnings)
-
-    const totalBuyIn = parseFloat(buyIn) + parseFloat(rake)
+    const totalBuyIn = (parseFloat(buyIn) + parseFloat(rake)).toFixed(2)
     const profit = parseFloat(winnings - totalBuyIn).toFixed(2)
     const averageProfit = parseFloat(profit / count).toFixed(2)
     const roi = parseFloat(profit / totalBuyIn * 100).toFixed(2)
@@ -141,11 +140,12 @@ const OverviewTable = ({tournaments}) => {
                     <tr>
                         <th>Count</th>
                         <th>Average profit</th>
-                        <th>Average Stake</th>
+                        <th>Average Stake (+Rake)</th>
                         <th>Average ROI</th>
                         <th>Total Buy-In</th>
                         <th>Total Rake</th>
-                        <th>Total Profit</th>                           
+                        <th>Total Profit</th>
+                        <th>Total Bounties</th>                        
                     </tr>
                 </thead>
                 <tbody>
@@ -157,6 +157,7 @@ const OverviewTable = ({tournaments}) => {
                         <td>{totalBuyIn}$</td>
                         <td>{rake}$</td>
                         <td>{profit}$</td>
+                        <td>{bounties}$</td>
                     </tr>
                 </tbody>
             </table>
