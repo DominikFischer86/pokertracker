@@ -1,7 +1,7 @@
 import { translateCountry } from "./helpers"
 import { formatMonth, formatDay, formatHour, formatMinute } from "./helpers"
 
-export const fileConverter = (file, player) => {
+export const fileConverter = (file, hero) => {
     const PLACEMENT_START = 6 
     const splitText = file.split("\n")
     if (!splitText[0].includes("PokerStars")) return {failId: 1, type: "Invalid format"}
@@ -12,9 +12,9 @@ export const fileConverter = (file, player) => {
     if (splitText[1].includes("Satellite")) return {failId: tournamentId, type: "Satellite"}
     
     const rebuyTaken = (splitText[splitText.length - 3]).length > 10
-    let rebuyTimes = 0
+    let rebuys = 0
     
-    if (rebuyTaken) rebuyTimes = parseFloat(splitText[splitText.length - 3].split(" ")[2])
+    if (rebuyTaken) rebuys = parseFloat(splitText[splitText.length - 3].split(" ")[2])
     const buyIn = parseFloat(splitText[1].split("$")[1])
     const rake = parseFloat(splitText[1].split("$")[2])
     const playerAmount = parseFloat(splitText[2].split(" ")[0])
@@ -59,26 +59,32 @@ export const fileConverter = (file, player) => {
         })
     const playerPrizeMoney = placements.find(
         element => {
-            const playerResult = element.playerName === player
+            let players = element.playerName
+            if (rebuyTaken) players = element.playerName.split(" [")[0]
+            const playerResult = players === hero
+            console.log(hero)
+            
             return playerResult
         }
     )
     
+    // console.log(splitText)
+    // console.log(playerPrizeMoney)
+    
     const tournamentMap = [
         [ "tournamentId", tournamentId ],
         [ "buyIn", buyIn ],
-        [ "rebuyTimes", rebuyTimes],
+        [ "rebuys", rebuys],
         [ "rake", rake ], 
         [ "playerAmount", playerAmount ], 
         [ "prizePool", prizePool ],
         [ "timeStamp", timeStamp ],
         [ "startDate", startDate ],
         [ "startTime", startTime ],
-        [ "finalPosition", playerPrizeMoney.finishPosition ],
-        [ "playerPrizeMoney", playerPrizeMoney.prizeMoney],
+        [ "finalPosition", playerPrizeMoney?.finishPosition ],
+        [ "playerPrizeMoney", playerPrizeMoney?.prizeMoney],
         [ "placements", placements ]
     ]
-    // console.log(tournamentMap)
     
     return Object.fromEntries(tournamentMap)
 }
