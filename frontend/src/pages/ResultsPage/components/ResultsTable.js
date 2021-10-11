@@ -6,8 +6,9 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 
     return (
         <div className="row resultsTable">
+            {!tournaments && <p>No tournaments found</p>}
             {isLoading && <p>Loading...</p>}
-            {!isLoading &&
+            {!isLoading && tournaments &&
                 <table>
                     <thead>
                         <tr>
@@ -25,7 +26,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                             <th>Actions</th>
                         </tr>
                     </thead>
-                    <tbody>                            
+                    <tbody>                     
                         {tournaments.map((tournament, i) => {
                             return (
                             <tr key={i} style={

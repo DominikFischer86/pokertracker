@@ -100,6 +100,45 @@ div {
             color: #fff;
         }
     }
+
+    &.switch_list {
+        display: flex;
+    }
+
+    &.filter_list {
+        display: flex;
+        align-content: center;
+        align-items: center;
+        border: 2px solid rgba(0, 0, 0, 0.5);
+        padding: 0.5rem;
+        transition: .25s all ease;
+        justify-content: space-between;
+
+        span {
+            display: flex;
+            align-content: center;
+            align-items: center;
+        }
+        
+        p {
+            font-weight: bold;
+            margin: 0;
+        }
+
+        button {
+            margin: 4px;
+        }
+
+        div.slider_box {
+            display: flex;
+            margin: 0 20px;
+    
+            button {
+                margin-left: 2rem;
+            }
+        }
+    
+    }
 }
 
 .trash-icon {
