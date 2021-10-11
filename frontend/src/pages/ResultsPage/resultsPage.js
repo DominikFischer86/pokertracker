@@ -9,6 +9,7 @@ const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
     const [viewToggle, setViewToggle] = useState(true)
     const [isLoading, setIsLoading] = useState(true)
+    const [refetch, setRefetch] = useState(0)
 
     const handleSwitch = () => {
         setViewToggle(!viewToggle)
@@ -26,20 +27,25 @@ const ResultsPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [])
+    }, [refetch])
 
-    
-    const onDelete = id => {
+    const onDelete =  id => {
         if (confirm(`Do you really want to remove tournament #${id}`)){
-            axios.delete(url + id)
-            console.log(`%c Deleted tournament: #${id}`, "color: red")
+            try {
+                axios.delete(url + id)
+                setIsLoading(false)
+                console.log(`%c Deleted tournament: #${id}`, "color: red")
+                setRefetch(refetch+1)
+            } catch (e) {
+                console.log(e)
+            }            
         }         
     }
 
     return (
         <div>
             <div className="ResultsTitleContainer">
-                <h2>Tournament Results ({tournaments.length})</h2>
+                <h2>Tournament Results ({tournaments?.length})</h2>
                 <Switch 
                     id="view-switcher" 
                     name="view-switcher" 
@@ -55,7 +61,8 @@ const ResultsPage = () => {
                 onDelete={onDelete}
             />
             : <ResultsGraph 
-                tournaments={tournaments} 
+                tournaments={tournaments}
+                setTournaments={setTournaments}
                 isLoading={isLoading} 
             />
             }
