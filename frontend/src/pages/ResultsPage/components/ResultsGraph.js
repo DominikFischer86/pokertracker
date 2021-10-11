@@ -149,7 +149,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                 <div style={toggleFilter ? {opacity: "100"}: {opacity: "0", pointerEvents: "none"}} className="filter_list">
                     <span>
                         <p>Filter: </p>
-                        <BuyInSlider onBuyInSliderSubmit={filterTournaments} />
+                        <BuyInSlider activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
                     </span>
                     <button className="reset_button" onClick={() => filterTournaments([[], "reset"])}>Remove Filter</button>
                 </div>                       
@@ -227,11 +227,11 @@ OverviewTable.propTypes = {
     ])
 }
 
-const BuyInSlider = ({onBuyInSliderSubmit}) => {
+const BuyInSlider = ({onBuyInSliderSubmit, activeFilters}) => {
     const [buyInValue, setBuyInValue] = useState([0, 5])
     const handleBuyInChange = (event, newValue) => setBuyInValue(newValue)
     const valueText = () => `$${scaleValues(buyInValue)[0]} - $${scaleValues(buyInValue)[1]}`
-    
+
     return (
         <div className="slider_box">
             <Box sx={{ width: 400 }}>
@@ -249,13 +249,14 @@ const BuyInSlider = ({onBuyInSliderSubmit}) => {
                     valueLabelFormat={valueText}
                 />
             </Box>
-            <button onClick={() => onBuyInSliderSubmit([scaleValues(buyInValue), "buy-in-slider"])}>Filter Buy-Ins</button>
+            <button style={activeFilters.includes("buy-in-slider") ? { backgroundColor: "lime" } : null} onClick={() => onBuyInSliderSubmit([scaleValues(buyInValue), "buy-in-slider"])}>Filter Buy-Ins</button>
         </div>
     )
 }
 
 BuyInSlider.propTypes = {
-    onBuyInSliderSubmit: PropTypes.func
+    onBuyInSliderSubmit: PropTypes.func,
+    activeFilters: PropTypes.array
 }
 
 export default ResultsGraph
