@@ -10,7 +10,7 @@ Roadmap:
 4. ~~Convert Example App to TrackerApp~~
 5. ~~Show JSON data in table~~
 6. ~~Save to database~~
-7. ~~Filters
+7. ~~Filters~~
 8. ~~Graphs~~
 
 
