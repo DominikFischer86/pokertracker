@@ -11,7 +11,7 @@ import TournamentPage from "./pages/TournamentPage/tournamentPage"
 
 function App() {
   return (
-   <div>
+   <div className="root_container">
      <nav className="navbar navbar-expand navbar-dark bg-dark">
        <a href="/" className="navbar-brand">
          Pokertracker

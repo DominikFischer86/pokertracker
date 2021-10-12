@@ -9,22 +9,25 @@ export const DateRangePicker = ({ onDateRangePickerSubmit, activeFilters }) => {
 
     return (
         <div className="slider_box">
-            <p>Date</p>
-             <DatePicker 
-                selectsStart 
-                selected={startDate} 
-                onChange={(date) => setStartDate(date)}
-                startDate={startDate}
-                endDate={endDate}
-            />
-             <DatePicker 
-                selectsEnd 
-                selected={endDate} 
-                onChange={(date) => setEndDate(date)}
-                startDate={startDate}
-                endDate={endDate}
-                minDate={startDate}
-            />
+            <div className="date_picker_wrapper">
+                <p>Start Date: </p>
+                <DatePicker 
+                    selectsStart 
+                    selected={startDate} 
+                    onChange={(date) => setStartDate(date)}
+                    startDate={startDate}
+                    endDate={endDate}
+                />
+                <p>End Date: </p>
+                <DatePicker 
+                    selectsEnd 
+                    selected={endDate} 
+                    onChange={(date) => setEndDate(date)}
+                    startDate={startDate}
+                    endDate={endDate}
+                    minDate={startDate}
+                />
+                </div>
              <button 
                 style={
                     activeFilters.includes("date_range_picker") 

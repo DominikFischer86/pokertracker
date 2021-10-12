@@ -8,12 +8,14 @@ import { EntrantsSlider } from "./filters/EntrantsSlider"
 import { ResponsiveLineContainer } from "./config"
 import { DateRangePicker } from "./filters/DateRangePicker"
 
+import "./styles.scss"
+
 const ResultsGraph = ({tournaments, isLoading}) => {
     const [toggleRake, setToggleRake] = useState(false)
     const [toggleFilter, setToggleFilter] = useState(false)
     const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
     const [activeFilters, setActiveFilters] = useState([])
-    // const [formInput, setFormInput] = useState([])
+
     const tournamentAmount = tournaments?.length
 
     const filterTournaments = filterType => {
@@ -21,8 +23,6 @@ const ResultsGraph = ({tournaments, isLoading}) => {
         let hasSameElements
         const values = filterType[0]
         const type = filterType[1]
-
-        console.log(filterType)
         
         switch(type){
             case "buy-in-slider":
@@ -68,7 +68,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
 
     if (!tournaments) isLoading = true
     return (
-        <div>
+        <div className="pb-4">
             {isLoading && <p>Loading...</p>}
             {!isLoading &&
             <>
@@ -101,7 +101,9 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                     <div className="row">
                         <div className="col-lg-10">                             
                             <BuyInSlider width={600} activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
+                            <hr />
                             <EntrantsSlider width={600} activeFilters={activeFilters} onEntrantsSliderSubmit={filterTournaments} />
+                            <hr />
                             <DateRangePicker activeFilters={activeFilters} onDateRangePickerSubmit={filterTournaments}/>
                         </div>
                         <div className="col-lg-2 reset_button_container">

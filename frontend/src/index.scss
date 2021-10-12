@@ -2,6 +2,10 @@
 
 @include react-md-utils;
 
+.root_container {
+    background: #fff;
+}
+
 nav {
     padding: 0 20px;
 
@@ -101,53 +105,6 @@ div {
         }
     }
 
-    &.switch_list {
-        display: flex;
-    }
-
-    &.filter_list {
-        display: flex;
-        flex-direction: column;
-        border: 2px solid rgba(0, 0, 0, 0.5);
-        padding: 0.5rem;
-        transition: .25s all ease;
-        justify-content: space-between;
-
-        .reset_button_container {
-            border-left: 1px solid rgba(0, 0, 0, 0.5)
-        }
-
-        span {
-            display: flex;
-            justify-content: flex-end;
-            align-content: center;
-            align-items: center;            
-        }
-        
-        p {
-            font-weight: bold;
-            margin: 0;
-        }
-
-        button {
-            margin: 4px;
-        }
-
-        div.slider_box {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            margin: 0 20px;
-
-            p {
-                display: flex;
-            }
-    
-            button {
-                margin-left: 2rem;
-            }
-        }    
-    }
 }
 
 .trash-icon {
