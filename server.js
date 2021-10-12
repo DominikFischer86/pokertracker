@@ -3,7 +3,6 @@ const app = express()
 const cors = require("cors")
 const mongoose = require("mongoose")
 const dotenv = require("dotenv")
-const bodyParser = require("body-parser")
 const PORT = 3001
 
 // config
@@ -51,7 +50,7 @@ app.get("/import", (req, res) => {
 app.get("/tournament/:id", (req, res) => {
     const id = req.params.id
 
-    Tournament.find({ tournamentId: id})
+    Tournament.find({ tournamentId: id })
         .then(tournament => res.json(tournament))
         .catch(err => res.status(400).json("Error: " + err))
 })
