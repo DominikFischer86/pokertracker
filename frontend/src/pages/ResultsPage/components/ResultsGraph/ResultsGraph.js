@@ -45,6 +45,16 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                 activeFilters.push(type)
                 setActiveFilters(activeFilters)
                 break
+            case "date_range_picker":
+                filterResult = filteredTournaments.filter(element => {
+                    return element.timeStamp >= values[0] && element.timeStamp <= values[1]
+                })      
+                if (filterResult.length < 1) return alert("No tournaments left. Use less restrictive filters.")
+                hasSameElements = activeFilters.some(element => element === type)
+                if (hasSameElements) return
+                activeFilters.push(type)
+                setActiveFilters(activeFilters)
+                break
             case "reset":
                 filterResult = tournaments
                 setActiveFilters([])

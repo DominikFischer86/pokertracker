@@ -41,7 +41,7 @@ export const EntrantsSlider = ({width, onEntrantsSliderSubmit, activeFilters}) =
                     [entrantsScaleValues(entrantsValue), "entrants-slider"]
                 )}>
                     Filter Entrants
-                </button>
+            </button>
         </div>
     )
 }
