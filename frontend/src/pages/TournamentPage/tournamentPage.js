@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from "react"
+import axios from "axios"
 
 const TournamentPage = () => {
     const [tournament, setTournament] = useState([])
     const [isLoading, setIsLoading] = useState(true)
     const url = "http://localhost:3001" + window.location.pathname
 
-    useEffect(() => {
-        fetch(url)
-            .then(res => {
-                if (res.ok) {
+    // console.log(tournament)
+
+    useEffect(async () => {
+        try {
+            await axios.get(url)
+                .then(res => {
+                    console.log(res)
                     setIsLoading(false)
-                    return res.json()
-                }
-            })
-            .then(jsonRes => {
-                setTournament(jsonRes)
-            })
-            .catch(err => console.log(err))
+                    setTournament(res.data)
+                })
+        } catch (e) {
+            console.log(e)
+        }
     }, [])
 
     return (

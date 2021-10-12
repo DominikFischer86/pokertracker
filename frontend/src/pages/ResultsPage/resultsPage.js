@@ -3,7 +3,7 @@ import axios from "axios"
 import { Switch } from "@react-md/form"
 
 import ResultsTable from "./components/ResultsTable"
-import ResultsGraph from "./components/ResultsGraph"
+import ResultsGraph from "./components/ResultsGraph/ResultsGraph"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
