@@ -1,26 +1,17 @@
-import React, { useState } from "react"
+import React from "react"
 import { Switch, Route, Link } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import Login from "./components/login"
-import ImportPage from "./components/ImportPage/ImportPage"
-import PlayerAnalysisPage from "./components/playerAnalysisPage"
-import TaxReportPage from "./components/taxReportPage"
-import ResultsPage from "./components/resultsPage"
+import HomePage from "./pages/HomePage/homePage"
+import ImportPage from "./pages/ImportPage/importPage"
+import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
+import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
+import ResultsPage from "./pages/ResultsPage/resultsPage"
+import TournamentPage from "./pages/TournamentPage/tournamentPage"
 
 function App() {
-  const [user, setUser] = useState(null)
-
-  const login = async (user = null) => {
-    setUser(user)
-  }
-
-  const logout = async () => {
-    setUser(null)
-  }
-
   return (
-   <div>
+   <div className="root_container">
      <nav className="navbar navbar-expand navbar-dark bg-dark">
        <a href="/" className="navbar-brand">
          Pokertracker
@@ -46,29 +37,12 @@ function App() {
              Tax Report
            </Link>
          </li>
-         <li className="nav-item">
-           { user ? (
-             <button onClick={logout} className="btn nav-link">
-               Logout {user.name}
-             </button>
-           ) : (
-            <Link to={"/login"} className="nav-link">
-              Login
-            </Link>
-           )}
-         </li>
        </div>
      </nav>
 
      <div className="container mt-3">
        <Switch>
-            <Route exact path={["/", "/results"]} component={ResultsPage} />
-            <Route 
-              path="/login"
-              render={(props) => (
-                <Login {...props} login={login} />
-              )}
-            />  
+            <Route exact path={["/"]} component={HomePage} />
             <Route 
               path="/import"
               render={(props) => (
@@ -80,7 +54,11 @@ function App() {
               render={(props) => (
                 <ResultsPage {...props} />
               )}
-            />    
+            />
+            <Route
+              path="/tournament"
+              component={TournamentPage}
+            />
             <Route 
               path="/player-analysis"
               render={(props) => (

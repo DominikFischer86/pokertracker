@@ -2,6 +2,10 @@
 
 @include react-md-utils;
 
+.root_container {
+    background: #fff;
+}
+
 nav {
     padding: 0 20px;
 
@@ -16,44 +20,22 @@ button {
     }
 }
 
-table {
-    width: 100%;
-
-    &.resultsTable {
-        tr {
-            th {
-                background: rgba(0,0,0, .6);
-                color: #fff;
-            }
-
-            &:nth-child(2n){
-                background: rgba(0,0,0,.1);
-            } 
-     
-            td, th {
-                padding: 0 .25rem;
-                text-align: center;
-            }
-         }
-    }
-
-    &.previewTable {
-        
-        th, td {
-            text-align: center;
-        }
-
-        th {
-            background: rgba(0,0,0, .4);
-            color: #fff;
-        }
-    }
-}
-
 div {
     &.playerPlacementSection {
         max-height: 80vh;
         overflow-y: scroll;
+    }
+
+    &.graphWrapper {
+        width: 100%;
+        height: 500px;
+        border: 1px solid rgba(0,0,0, .25);
+        margin-top: 1rem;
+    }
+
+    &.ResultsTitleContainer {
+        display: flex;
+        justify-content: space-between;
     }
 
     &.chip {
@@ -74,5 +56,65 @@ div {
         background: rgba(100,100,100,.1);
         display: block;
         padding: .5rem;
+        max-height: 400px;
+        overflow-y: scroll;
+    }
+
+    &.resultsTable {
+        max-height: 800px;
+        overflow-y: scroll;
+        
+        table {
+            border: 1px solid rgba(0,0,0, .25);
+            border-collapse: collapse;            
+            width: 100%;
+
+            tr {
+                th {
+                    background: rgba(0,0,0, .6);
+                    color: #fff;
+                }
+    
+                &:nth-child(2n){
+                    background: rgba(0,0,0,.1);
+                } 
+         
+                td, th {
+                    padding: .5rem .25rem;
+                    text-align: center;
+                    border: 1px solid rgba(0,0,0, .25);
+    
+                    a {
+                        color: inherit;
+                    }
+                }
+             }
+        }
+    }
+
+    &.previewTable table {      
+        width: 100%;
+        
+        th, td {
+            text-align: center;
+        }
+
+        th {
+            background: rgba(0,0,0, .4);
+            color: #fff;
+        }
+    }
+
+}
+
+.trash-icon {
+    cursor: pointer;
+    opacity: .8;
+    transform: scale(1);
+    transition: .2s all ease;
+
+    &:hover {
+        opacity: 1;        
+        transform: scale(1.1);
     }
 }
