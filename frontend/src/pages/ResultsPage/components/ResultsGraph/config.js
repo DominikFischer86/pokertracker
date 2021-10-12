@@ -127,3 +127,66 @@ export const buyInMarks = [
         label: "$1k"
       }
 ]
+
+export const entrantsMarks = [
+  {
+      value: 0,
+      scaledValue: 2,
+      label: "2"
+    },
+    {
+      value: 5,
+      scaledValue: 3,
+      label: "3"
+    },
+    {
+      value: 10,
+      scaledValue: 4,
+      label: "4"
+    },
+    {
+      value: 15,
+      scaledValue: 6,
+      label: "6"
+    },
+    {
+      value: 20,
+      scaledValue: 9,
+      label: "9"
+    },
+    {
+      value: 25,
+      scaledValue: 18,
+      label: "18"
+    },
+    {
+      value: 30,
+      scaledValue: 45, // down here full numbers
+      label: "45"
+    },
+    {
+      value: 35,
+      scaledValue: 90,
+      label: "90"
+    },
+    {
+      value: 40,
+      scaledValue: 500,
+      label: "500"
+    },
+    {
+      value: 45,
+      scaledValue: 1000,
+      label: "1000"
+    },
+    {
+      value: 50,
+      scaledValue: 5000,
+      label: "5000"
+    },
+    {
+      value: 55,
+      scaledValue: 10000,
+      label: "10000"
+    }
+]

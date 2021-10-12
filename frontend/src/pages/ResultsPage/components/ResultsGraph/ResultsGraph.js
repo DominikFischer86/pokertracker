@@ -3,8 +3,10 @@ import PropTypes from "prop-types"
 import { Switch } from "@react-md/form"
 
 import { OverviewTable } from "./OverviewTable"
-import { BuyInSlider } from "./BuyInSlider"
+import { BuyInSlider } from "./filters/BuyInSlider"
+import { EntrantsSlider } from "./filters/EntrantsSlider"
 import { ResponsiveLineContainer } from "./config"
+import { DateRangePicker } from "./filters/DateRangePicker"
 
 const ResultsGraph = ({tournaments, isLoading}) => {
     const [toggleRake, setToggleRake] = useState(false)
@@ -19,11 +21,23 @@ const ResultsGraph = ({tournaments, isLoading}) => {
         let hasSameElements
         const values = filterType[0]
         const type = filterType[1]
+
+        console.log(filterType)
         
         switch(type){
             case "buy-in-slider":
                 filterResult = filteredTournaments.filter(element => {
                     return element.buyIn >= values[0] && element.buyIn <= values[1]
+                })      
+                if (filterResult.length < 1) return alert("No tournaments left. Use less restrictive filters.")
+                hasSameElements = activeFilters.some(element => element === type)
+                if (hasSameElements) return
+                activeFilters.push(type)
+                setActiveFilters(activeFilters)
+                break
+            case "entrants-slider":
+                filterResult = filteredTournaments.filter(element => {
+                    return element.playerAmount >= values[0] && element.playerAmount <= values[1]
                 })      
                 if (filterResult.length < 1) return alert("No tournaments left. Use less restrictive filters.")
                 hasSameElements = activeFilters.some(element => element === type)
@@ -74,11 +88,20 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                 </div>
                 <hr />
                 <div style={toggleFilter ? {opacity: "100"}: {opacity: "0", pointerEvents: "none"}} className="filter_list">
-                    <span>
-                        <p>Filter: </p>
-                        <BuyInSlider activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
-                    </span>
-                    <button className="reset_button" onClick={() => filterTournaments([[], "reset"])}>Remove Filter</button>
+                    <div className="row">
+                        <div className="col-lg-10">                             
+                            <BuyInSlider width={600} activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
+                            <EntrantsSlider width={600} activeFilters={activeFilters} onEntrantsSliderSubmit={filterTournaments} />
+                            <DateRangePicker activeFilters={activeFilters} onDateRangePickerSubmit={filterTournaments}/>
+                        </div>
+                        <div className="col-lg-2 reset_button_container">
+                            <span>
+                                <button className="reset_button" onClick={() => filterTournaments([[], "reset"])}>
+                                    Remove Filter
+                                </button>
+                            </span>
+                        </div>
+                    </div>
                 </div>                       
             </>//Filter: playerAmount (range), date range
             }       

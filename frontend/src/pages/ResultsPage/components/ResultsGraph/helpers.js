@@ -1,12 +1,17 @@
-import { buyInMarks } from "./config.js"
+import { buyInMarks, entrantsMarks } from "./config.js"
 
 // FILTER 
-export const scaleValues = valueArray => {
-    if (!valueArray[0]){ return [0, scale(valueArray[1])]}
-    return [scale(valueArray[0]), scale(valueArray[1])]
+export const buyInScaleValues = valueArray => {
+    if (!valueArray[0]){ return [0, buyInscale(valueArray[1])]}
+    return [buyInscale(valueArray[0]), buyInscale(valueArray[1])]
 }
 
-const scale = (value) => {
+export const entrantsScaleValues = valueArray => {
+  if (!valueArray[0]){ return [0, entrantsScale(valueArray[1])]}
+  return [entrantsScale(valueArray[0]), entrantsScale(valueArray[1])]
+}
+
+const buyInscale = (value) => {
     if (!value) return undefined
     const prevMarkIndex = Math.floor(value / 5)
     const prevMark = buyInMarks[prevMarkIndex]
@@ -15,6 +20,17 @@ const scale = (value) => {
     const nextMark = buyInMarks[prevMarkIndex + 1]
     const increment = (nextMark.scaledValue - prevMark.scaledValue) / 5
     return remainder * increment + prevMark.scaledValue
+}
+
+const entrantsScale = (value) => {
+  if (!value) return undefined
+  const prevMarkIndex = Math.floor(value / 5)
+  const prevMark = entrantsMarks[prevMarkIndex]
+  const remainder = value % 5
+  if (remainder === 0) return prevMark.scaledValue
+  const nextMark = entrantsMarks[prevMarkIndex + 1]
+  const increment = (nextMark.scaledValue - prevMark.scaledValue) / 5
+  return remainder * increment + prevMark.scaledValue
 }
 
 // GRAPH
