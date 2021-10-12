@@ -36,7 +36,7 @@ const Tournament = mongoose.model("Tournament", tournamentSchema, "tournaments")
 
 // read route
 app.get("/results", (req, res) => {
-    Tournament.find().sort({"tournamentId": 1})
+    Tournament.find().sort({"timeStamp": 1})
         .then(tournaments => res.json(tournaments))
         .catch(err => res.status(400).json("Error:" + err))
 })
