@@ -10,7 +10,7 @@ Roadmap:
 4. ~~Convert Example App to TrackerApp~~
 5. ~~Show JSON data in table~~
 6. ~~Save to database~~
-7. Filters
+7. ~~Filters
 8. ~~Graphs~~
 
 
@@ -32,7 +32,7 @@ Create unique Users from Tournament Placements in Database with
 
 <ResultsPage>:
 - add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)
-- enable deleting of items for faster cleanup when testing
+- ~~enable deleting of items for faster cleanup when testing~~
 - ~~link each entry to <DetailsPage>~~
 
 <DetailsPage>:
