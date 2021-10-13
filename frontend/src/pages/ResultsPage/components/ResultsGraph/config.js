@@ -16,6 +16,7 @@ export const ResponsiveLineContainer = ({ filteredTournaments, toggleRake, tourn
                     yScale={{ type: 'linear', min: 'auto', max: 'auto', stacked: true, reverse: false }}
                     axisTop={null}
                     axisRight={null}
+                    className="svg-container"
                     axisBottom={{
                         orient: 'bottom',
                         format: "",

@@ -1,12 +1,15 @@
 import React, { useState } from "react"
 import PropTypes from "prop-types"
 import { Switch } from "@react-md/form"
+import axios from "axios"
 
 import { OverviewTable } from "./OverviewTable"
 import { BuyInSlider } from "./filters/BuyInSlider"
 import { EntrantsSlider } from "./filters/EntrantsSlider"
 import { ResponsiveLineContainer } from "./config"
 import { DateRangePicker } from "./filters/DateRangePicker"
+
+import { ImageDownloadModal } from "../../../../components/Modals/ImageDownloadModal"
 
 import "./styles.scss"
 
@@ -15,8 +18,78 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     const [toggleFilter, setToggleFilter] = useState(false)
     const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
     const [activeFilters, setActiveFilters] = useState([])
+    const [toggleGraphs, setToggleGraphs] = useState(false)
+    const [windowWidthReader, setWindowWidthReader] = useState(900)
+    const [dataUri, setDataUri] = useState("")
+
+    const [downloadImageModalIsOpen, setDownloadImageModalIsOpen] = useState(false)
+    // const [modalContent, setModalContent] = useState("")
 
     const tournamentAmount = tournaments?.length
+
+    const createGraphs = () => {
+        setWindowWidthReader(window.innerWidth)
+        setToggleGraphs(true)        
+        svgTojpg()
+    }
+
+    const svgTojpg = async () => {
+        let svgString = new XMLSerializer().serializeToString(document.querySelector(".graph_wrapper svg"))
+        await setToggleGraphs(true)
+        let canvas = document.getElementById("canvas")
+        let ctx = canvas.getContext("2d")
+        let DOMURL = self.Url || self.webkitURL || self
+        let img = new Image()
+        var svg = new Blob([svgString], { type: "image/svg+xml;charset=utf-8"})
+        let url = DOMURL.createObjectURL(svg)
+    
+        img.onload = () => {
+            ctx.drawImage(img, 0, 0)
+            let jpg = canvas.toDataURL("image/jpg")
+            setDataUri(jpg)
+            document.querySelector("#jpg-container").innerHTML = `<img src=${url} />`
+            DOMURL.revokeObjectURL(jpg)
+        }
+
+        img.src = url
+        
+        openModal()
+    }
+
+    const openModal = () => {
+        setDownloadImageModalIsOpen(true)
+    }
+
+    const closeModal = () => {
+        setDownloadImageModalIsOpen(false)
+        setDataUri("")        
+    }
+
+    const submitToWeb = async () => {
+        const key = "1234"
+        const url = `https://api.imgbb.com/1/upload?expiration=600&key=${key}`
+        const image = JSON.stringify(dataUri)
+
+        try {
+            await axios({
+                method: "post",
+                url,
+                data: image,
+                headers: {
+                    'Content-Type': 'application/json', 
+                    'accept': 'application/json'
+                  },
+            })
+                .then(res => {
+                    console.log(res)
+                    if (res.success) {
+                        alert("Image successfully uploaded to imgbb.")
+                    }
+                })
+        } catch (e) {
+            console.log(e)
+        }
+    }
 
     const filterTournaments = filterType => {
         let filterResult
@@ -72,11 +145,17 @@ const ResultsGraph = ({tournaments, isLoading}) => {
             {isLoading && <p>Loading...</p>}
             {!isLoading &&
             <>
+                <ImageDownloadModal 
+                    imageDownloadModalIsOpen={downloadImageModalIsOpen}
+                    closeModal={closeModal}
+                    submitToWeb={submitToWeb}
+                    imageString={dataUri}
+                />
                 <div className="overViewTable">
                     <OverviewTable filteredTournaments={filteredTournaments}/>
                 </div>
-                <div className="graphWrapper">
-                   <ResponsiveLineContainer 
+                <div className="graph_wrapper">
+                    <ResponsiveLineContainer 
                         filteredTournaments={filteredTournaments} 
                         toggleRake={toggleRake}
                         tournamentAmount={tournamentAmount}
@@ -95,7 +174,10 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                         label={!toggleFilter ? "Show Filter" : "Hide Filter"}
                         onChange={() => setToggleFilter(!toggleFilter)} 
                     />
-                </div>
+                    {windowWidthReader > 899 &&
+                        <button onClick={createGraphs}>Save image</button>
+                    }                    
+                    </div>
                 <hr />
                 <div style={toggleFilter ? {opacity: "100"}: {opacity: "0", pointerEvents: "none"}} className="filter_list">
                     <div className="row">
@@ -114,9 +196,20 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                             </span>
                         </div>
                     </div>
-                </div>                       
-            </>//Filter: playerAmount (range), date range
-            }       
+                </div>
+                {toggleGraphs &&
+                    <>
+                        <canvas 
+                            id="canvas" 
+                            width={document.querySelector(".graph_wrapper").offsetWidth}
+                            height={document.querySelector(".graph_wrapper").offsetWidth * 0.6 - (windowWidthReader / 5)}
+                        >                            
+                        </canvas>
+                        <div id="jpg-container"></div> 
+                    </>
+                }
+            </>   
+            }    
         </div>
     )
 }

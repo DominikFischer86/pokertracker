@@ -26,11 +26,11 @@ div {
         overflow-y: scroll;
     }
 
-    &.graphWrapper {
-        width: 100%;
-        height: 500px;
+    &.graph_wrapper {
         border: 1px solid rgba(0,0,0, .25);
         margin-top: 1rem;
+        width: 100%;
+        height: 30vw;
     }
 
     &.ResultsTitleContainer {
@@ -63,6 +63,10 @@ div {
     &.resultsTable {
         max-height: 800px;
         overflow-y: scroll;
+
+        &.no_scroll {
+            overflow-y: initial;
+        }
         
         table {
             border: 1px solid rgba(0,0,0, .25);
@@ -117,4 +121,10 @@ div {
         opacity: 1;        
         transform: scale(1.1);
     }
+}
+
+#jpg-container, #canvas {
+    position: fixed;
+    top: 0;
+    left: -9999999999999999999px;
 }

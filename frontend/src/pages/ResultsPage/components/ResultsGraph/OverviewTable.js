@@ -22,7 +22,7 @@ export const OverviewTable = ({filteredTournaments}) => {
     const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
 
     return (
-        <div className="resultsTable">
+        <div className="resultsTable no_scroll">
             <table >
                 <thead>
                     <tr>
