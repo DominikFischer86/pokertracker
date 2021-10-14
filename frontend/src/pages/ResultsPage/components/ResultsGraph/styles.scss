@@ -1,6 +1,7 @@
 div {
     &.switch_list {
         display: flex;
+        margin-top: 1rem;
     }
 
     &.filter_list {
@@ -50,8 +51,13 @@ div {
 
             .date_picker_wrapper {
                 display: flex;
+                flex-direction: row;
                 justify-content: space-between;
                 width: 100%;
+
+                @media (max-width: 1050px){
+                    flex-direction: column;
+                }
 
                 .react-datepicker-wrapper  {
                     width: auto;
