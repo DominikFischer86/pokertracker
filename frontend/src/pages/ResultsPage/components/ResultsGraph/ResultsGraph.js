@@ -25,9 +25,8 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     const [downloadImageModalIsOpen, setDownloadImageModalIsOpen] = useState(false)
     // const [modalContent, setModalContent] = useState("")
 
-    const tournamentAmount = tournaments?.length
-
     const createGraphs = () => {
+        document.querySelector(".graph_wrapper svg rect").setAttribute("fill", "white")
         setWindowWidthReader(window.innerWidth)
         setToggleGraphs(true)        
         svgTojpg()
@@ -158,7 +157,6 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                     <ResponsiveLineContainer 
                         filteredTournaments={filteredTournaments} 
                         toggleRake={toggleRake}
-                        tournamentAmount={tournamentAmount}
                     />
                 </div>
                 <div className="switch_list">
