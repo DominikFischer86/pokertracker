@@ -27,7 +27,9 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
             </div>
             {isReadyToSubmit &&
             <TabsManager tabs={tabs} tabsId="tournament-output">
+                <hr />
                 <Tabs />
+                <hr />
                 <TabPanels>
                     <TabPanel>
                         <div className="previewTable">
