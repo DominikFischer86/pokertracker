@@ -5,7 +5,7 @@ import { FaTrashAlt } from "react-icons/fa"
 const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 
     return (
-        <div className="row resultsTable">
+        <div className="results_table">
             {!tournaments && <p>No tournaments found</p>}
             {isLoading && <p>Loading...</p>}
             {!isLoading && tournaments &&
