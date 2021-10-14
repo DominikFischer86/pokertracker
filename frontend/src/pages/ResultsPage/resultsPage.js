@@ -3,7 +3,6 @@ import axios from "axios"
 
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
-import ResultsTable from "./components/ResultsTable"
 import ResultsGraph from "./components/ResultsGraph/ResultsGraph"
 import { ResultsFolder } from "./components/ResultsFolder/ResultsFolder"
 
@@ -15,7 +14,7 @@ const ResultsPage = () => {
     const [isLoading, setIsLoading] = useState(true)
     const [refetch, setRefetch] = useState(0)
 
-    const tabs = ["All", "Folder", "Graphs"]
+    const tabs = ["Folder", "Graphs"]
 
     console.log(sortedTournaments)
 
@@ -27,6 +26,7 @@ const ResultsPage = () => {
                 .then(res => {
                     setIsLoading(false)
                     setTournaments(res.data)
+                    createFolders(res.data, setSortedTournaments)
                 })
         } catch (e) {
             console.log(e)
@@ -50,22 +50,18 @@ const ResultsPage = () => {
         <div>
             <div className="ResultsTitleContainer">
                 <h2>Tournament Results ({tournaments?.length})</h2>
-                <button onClick={() => createFolders(tournaments, setSortedTournaments)}>Create folders</button>
             </div>
             <hr />
             <TabsManager tabs={tabs} tabsId="tournament-results" onClick={() => alert("Tab")}>
                 <Tabs />
                 <hr />
                 <TabPanels>
-                    <TabPanel> 
-                        <ResultsTable
+                    <TabPanel>
+                        <ResultsFolder 
                             tournaments={tournaments}
                             isLoading={isLoading}
                             onDelete={onDelete}
                         />
-                    </TabPanel>
-                    <TabPanel>
-                        <ResultsFolder tournaments={tournaments} isLoading={isLoading} />
                     </TabPanel>
                     <TabPanel>
                         <ResultsGraph 
