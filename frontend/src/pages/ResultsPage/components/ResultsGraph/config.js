@@ -5,7 +5,9 @@ import {  tickValues } from "./helpers"
 
 import { ResponsiveLine } from '@nivo/line'
 
-export const ResponsiveLineContainer = ({ filteredTournaments, toggleRake, tournamentAmount }) => {
+export const ResponsiveLineContainer = ({ filteredTournaments, toggleRake }) => {
+  const tournamentAmount = filteredTournaments.length
+  
     return (
         <ResponsiveLine
                     data={data(filteredTournaments, toggleRake)}
@@ -16,7 +18,6 @@ export const ResponsiveLineContainer = ({ filteredTournaments, toggleRake, tourn
                     yScale={{ type: 'linear', min: 'auto', max: 'auto', stacked: true, reverse: false }}
                     axisTop={null}
                     axisRight={null}
-                    className="svg-container"
                     axisBottom={{
                         orient: 'bottom',
                         format: "",
@@ -77,8 +78,7 @@ ResponsiveLineContainer.propTypes = {
         PropTypes.object,
         PropTypes.array
     ]),
-    toggleRake: PropTypes.bool,
-    tournamentAmount: PropTypes.number
+    toggleRake: PropTypes.bool
 }
 
 export const buyInMarks = [
