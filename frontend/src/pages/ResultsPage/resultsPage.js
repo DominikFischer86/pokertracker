@@ -1,19 +1,23 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
-import { Switch } from "@react-md/form"
+
+import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
 import ResultsTable from "./components/ResultsTable"
 import ResultsGraph from "./components/ResultsGraph/ResultsGraph"
+import { ResultsFolder } from "./components/ResultsFolder/ResultsFolder"
+
+import { createFolders } from "./helpers"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
-    const [viewToggle, setViewToggle] = useState(true)
+    const [sortedTournaments, setSortedTournaments] = useState([])
     const [isLoading, setIsLoading] = useState(true)
     const [refetch, setRefetch] = useState(0)
 
-    const handleSwitch = () => {
-        setViewToggle(!viewToggle)
-    }
+    const tabs = ["All", "Folder", "Graphs"]
+
+    console.log(sortedTournaments)
 
     const url = "http://localhost:3001/results/"    
 
@@ -46,28 +50,32 @@ const ResultsPage = () => {
         <div>
             <div className="ResultsTitleContainer">
                 <h2>Tournament Results ({tournaments?.length})</h2>
-                <Switch 
-                    id="view-switcher" 
-                    name="view-switcher" 
-                    label={!viewToggle ? "View tables" : "View graph"}
-                    onChange={handleSwitch} 
-                />
+                <button onClick={() => createFolders(tournaments, setSortedTournaments)}>Create folders</button>
             </div>
             <hr />
-            {viewToggle 
-            ? <ResultsTable
-                tournaments={tournaments}
-                isLoading={isLoading}
-                onDelete={onDelete}
-            />
-            : <ResultsGraph 
-                tournaments={tournaments}
-                setTournaments={setTournaments}
-                isLoading={isLoading} 
-            />
-            }
-        </div>
-        
+            <TabsManager tabs={tabs} tabsId="tournament-results" onClick={() => alert("Tab")}>
+                <Tabs />
+                <hr />
+                <TabPanels>
+                    <TabPanel> 
+                        <ResultsTable
+                            tournaments={tournaments}
+                            isLoading={isLoading}
+                            onDelete={onDelete}
+                        />
+                    </TabPanel>
+                    <TabPanel>
+                        <ResultsFolder tournaments={tournaments} isLoading={isLoading} />
+                    </TabPanel>
+                    <TabPanel>
+                        <ResultsGraph 
+                            tournaments={tournaments}
+                            isLoading={isLoading} 
+                        />
+                    </TabPanel>
+                </TabPanels>
+            </TabsManager>
+        </div>        
     )
 }
 
