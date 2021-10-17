@@ -4,19 +4,18 @@ import axios from "axios"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
 import ResultsGraph from "./components/ResultsGraph/ResultsGraph"
-import { ResultsFolder } from "./components/ResultsFolder/ResultsFolder"
+import ResultsFolder from "./components/ResultsFolder/ResultsFolder"
 
 import { createFolders } from "./helpers"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
     const [sortedTournaments, setSortedTournaments] = useState([])
+    const [dateFormattedTournaments, setDateFormattedTournaments] = useState({})
     const [isLoading, setIsLoading] = useState(true)
     const [refetch, setRefetch] = useState(0)
 
     const tabs = ["Folder", "Graphs"]
-
-    console.log(sortedTournaments)
 
     const url = "http://localhost:3001/results/"    
 
@@ -26,7 +25,7 @@ const ResultsPage = () => {
                 .then(res => {
                     setIsLoading(false)
                     setTournaments(res.data)
-                    createFolders(res.data, setSortedTournaments)
+                    createFolders(res.data, setSortedTournaments, setDateFormattedTournaments)
                 })
         } catch (e) {
             console.log(e)
@@ -58,7 +57,8 @@ const ResultsPage = () => {
                 <TabPanels>
                     <TabPanel>
                         <ResultsFolder 
-                            tournaments={tournaments}
+                            sortedTournaments={sortedTournaments}
+                            dateFormattedTournaments={dateFormattedTournaments}
                             isLoading={isLoading}
                             onDelete={onDelete}
                         />

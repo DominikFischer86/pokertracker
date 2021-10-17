@@ -6,9 +6,9 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 
     return (
         <div className="results_table">
-            {!tournaments && <p>No tournaments found</p>}
+            {tournaments?.length < 1 && <p>No tournaments found</p>}
             {isLoading && <p>Loading...</p>}
-            {!isLoading && tournaments &&
+            {!isLoading && tournaments?.length > 0 &&
                 <table>
                     <thead>
                         <tr>
