@@ -23,7 +23,6 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     const [dataUri, setDataUri] = useState("")
 
     const [downloadImageModalIsOpen, setDownloadImageModalIsOpen] = useState(false)
-    // const [modalContent, setModalContent] = useState("")
 
     const createGraphs = () => {
         document.querySelector(".graph_wrapper svg rect").setAttribute("fill", "white")
