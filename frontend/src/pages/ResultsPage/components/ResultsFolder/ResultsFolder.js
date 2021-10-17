@@ -60,7 +60,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
          <div className="row">
           <div className="col-lg-3">
             <h3>Choose folder</h3>
-            <nav>
+            <nav className="results_nav">
               <ul className={`results_nav_year`}>
                 {Object.keys(sortedTournaments).map((year, index) => {
                   return (
