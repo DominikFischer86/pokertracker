@@ -7,10 +7,12 @@
 }
 
 nav {
-    padding: 0 20px;
+    .navbar {
+        padding: 0 20px;
 
-    .navbar-nav {
-        justify-content: flex-end;
+        .navbar-nav {
+            justify-content: flex-end;
+        }
     }
 }
 

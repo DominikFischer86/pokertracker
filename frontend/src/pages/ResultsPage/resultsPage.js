@@ -51,7 +51,7 @@ const ResultsPage = () => {
                 <h2>Tournament Results ({tournaments?.length})</h2>
             </div>
             <hr />
-            <TabsManager tabs={tabs} tabsId="tournament-results" onClick={() => alert("Tab")}>
+            <TabsManager tabs={tabs} tabsId="tournament-results">
                 <Tabs />
                 <hr />
                 <TabPanels>
