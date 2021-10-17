@@ -28,22 +28,41 @@ export const createFolders = (tournaments, setSortedTournaments) => {
 
             const uniqueDays = [...new Set(availableDays)]
 
-            uniqueDays.forEach(day => {
+            uniqueDays.forEach((day) => {
                 const days = months.filter(tournament => {
                     return tournament.startDate.split("/")[2] === day
                 })
-
-                newArray.push( { [year]: { [month]: { [day]: days } } } )
+ 
+                return newArray = {
+                    ...newArray, [year]: {
+                        ...newArray[year], [month]: {
+                            ...newArray[year]?.[month], [day]: days
+                        }
+                    }
+                }
             })
         })
     })
 
-    const sortedTournaments = newArray.reduce((groupedYear, allYears) => {
-        const years = Object.keys(allYears)[0]
-        if (groupedYear[years] == undefined) groupedYear[years] = []
-        groupedYear[years].push(allYears)
-        return groupedYear
-    }, {})
-
-    setSortedTournaments(sortedTournaments)
+    setSortedTournaments(newArray)
 }
+
+export const translate = monthNumber => {
+    const index = parseFloat(monthNumber)
+    return monthNames[index-1]
+}
+
+const monthNames = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+]
