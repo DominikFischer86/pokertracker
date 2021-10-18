@@ -14,20 +14,19 @@ nav.results_nav {
                 align-items: center;
                 transition: all .2s ease;
 
-                svg {
+                svg.year_icon {
+                    transition: all .1s ease;
                     transform: rotate(90deg);
+
+                    &.active {
+                        transform: rotate(0deg);
+                    }
                 }
 
                 &:hover {
                     background: rgba(0,0,0,.1);
                 }
 
-                &.active {
-
-                    svg {
-                        transform: rotate(0deg);
-                    }
-                }
             }
         }
 
@@ -41,21 +40,13 @@ nav.results_nav {
     }
 
     .results_nav_month {
-        background: rgba(0,0,0,.1);
         padding-left: 1rem;
         overflow: hidden;
         max-height: 0;
         transition: all .5s ease;
 
         &.active {
-            max-height: min-content;
-
-            > li > span {  
-
-                svg {
-                    transform: rotate(0deg);
-                }
-            }
+            max-height: 1000px;
         }
 
         > li {
@@ -65,8 +56,13 @@ nav.results_nav {
                 justify-content: space-between;
                 align-items: center;
 
-                svg {
+                svg.month_icon {
                     transform: rotate(90deg);
+                    transition: all .5s ease;
+
+                    &.active {
+                        transform: rotate(0deg);
+                    }
                 }
 
                 &:hover {
@@ -74,7 +70,6 @@ nav.results_nav {
                 }
             }
         }
-
     }
 
     .results_nav_day {
@@ -84,7 +79,7 @@ nav.results_nav {
         transition: all .5s ease;
 
         &.active {
-            max-height: min-content;
+            max-height: 1000px;
         }
 
         > li {

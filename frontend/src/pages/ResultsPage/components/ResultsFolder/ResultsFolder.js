@@ -12,27 +12,47 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
   const [selectedTournaments, setSelectedTournaments] = useState(sortedTournaments)  
 
   const toggleFolder = e => {
-    console.log(e)
+    const yearClass = `.year-${e[0]}`
+    const monthClass = `.year-${e[0]}-${e[1]}`    
     const target = (e[1] == "year") 
-      ? document.querySelector(`.year-${e[0]}`) 
-      : document.querySelector(`.month-${e[0]}`)
-    const sibling = target.previousSibling
-    console.log(target)
-    if (target.classList.contains("active")) {
-      target.classList.remove("active")
-      sibling.classList.remove("active")
+      ? document.querySelector(yearClass) 
+      : document.querySelector(monthClass)
+    const siblingIcon = target.previousSibling.childNodes[1]
+    const itemClassList = Object.values(target.classList)
+ 
+    // TOGGLE YEAR (.results_nav_month)
+    if (itemClassList.includes("results_nav_month") && itemClassList.includes("active")){
+          siblingIcon.classList.remove("active")
+          return target.classList.remove("active")
     }
 
-    // Remove all active classes
-    const allElements = (e[1] == "year")
-      ? Object.values(document.querySelectorAll(".results_nav_year")).concat(Object.values(document.querySelectorAll(".results_nav_year li span")))
-      : Object.values(document.querySelectorAll(".results_nav_month")).concat(Object.values(document.querySelectorAll(".results_nav_year li span")))
-    allElements.map(element => {
-      element.classList.remove("active")
-    })
-        
+    if (itemClassList.includes("results_nav_month")) {
+        const allYears = Object.values(document.querySelectorAll(".results_nav_month"))
+        allYears.map(element => {
+          element.previousSibling.childNodes[1].classList.remove("active")
+          element.classList.remove("active")
+        })
+        siblingIcon.classList.add("active")
+        return target.classList.add("active")
+    }
+
+    // TOGGLE MONTH (.results_nav_day)
+    if (itemClassList.includes("results_nav_day") && itemClassList.includes("active")) {
+      siblingIcon.classList.remove("active")
+      return target.classList.remove("active")
+    }
+
+    if (itemClassList.includes("results_nav_day")) {
+      const allMonths = Object.values(document.querySelectorAll(".results_nav_day"))   
+      allMonths.map(element => {
+        element.previousSibling.childNodes[1].classList.remove("active")
+        element.classList.remove("active")
+      })
+      siblingIcon.classList.add("active")
+      return target.classList.add("active")
+    }
+    
     target.classList.add("active")
-    sibling.classList.add("active")
   }
 
   const selectTournaments = e => {
@@ -75,12 +95,12 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                         return (
                           <li key={index}>
                               <span 
-                                onClick={() => toggleFolder([translateMonth(month), "month"])}
+                                onClick={() => toggleFolder([year, month])}
                                 >
                                   {translateMonth(month)} 
                                   <FaSortDown className="month_icon" />
                               </span>
-                              <ul className={`results_nav_day year-${year} month-${translateMonth(month)}`}>
+                              <ul className={`results_nav_day year-${year}-${month}`}>
                                 {Object.keys(sortedTournaments[year]?.[month]).sort().map((day, index) => {
 
                                   return (
