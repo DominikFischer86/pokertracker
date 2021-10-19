@@ -29,7 +29,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
     if (itemClassList.includes("results_nav_month")) {
         const allYears = Object.values(document.querySelectorAll(".results_nav_month"))
         allYears.map(element => {
-          element.previousSibling.childNodes[1].classList.remove("active")
+          element.previousSibling.lastChild.classList.remove("active")
           element.classList.remove("active")
         })
         siblingIcon.classList.add("active")
@@ -83,11 +83,12 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
             <nav className="results_nav">
               <ul className={`results_nav_year`}>
                 {Object.keys(sortedTournaments).map((year, index) => {
+                
                   return (
                     <li key={index}>
                     <span 
                       onClick={() => toggleFolder([year, "year"])}>
-                        {year} 
+                        {year}
                         <FaSortDown className="year_icon" />
                     </span>
                     <ul className={`results_nav_month year-${year}`}>
@@ -117,8 +118,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                               </ul>
                           </li>
                         )
-                      })}
-                      
+                      })}                      
                     </ul>
                   </li>
                   )
