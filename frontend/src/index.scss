@@ -67,8 +67,8 @@ div {
     }
 
     &.results_table {
-        max-height: 800px;
-        overflow-y: scroll;
+        max-height: 700px;
+        overflow-y: auto;
 
         &.no_scroll {
             overflow-y: initial;
