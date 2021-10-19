@@ -9,7 +9,7 @@ import "./styles.scss"
 
 
 const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, onDelete}) => {
-  const [selectedTournaments, setSelectedTournaments] = useState(sortedTournaments)  
+  const [selectedTournaments, setSelectedTournaments] = useState(sortedTournaments)
 
   const toggleFolder = e => {
     const yearClass = `.year-${e[0]}`
@@ -17,7 +17,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
     const target = (e[1] == "year") 
       ? document.querySelector(yearClass) 
       : document.querySelector(monthClass)
-    const siblingIcon = target.previousSibling.childNodes[1]
+    const siblingIcon = target.previousSibling.lastChild
     const itemClassList = Object.values(target.classList)
  
     // TOGGLE YEAR (.results_nav_month)
@@ -45,7 +45,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
     if (itemClassList.includes("results_nav_day")) {
       const allMonths = Object.values(document.querySelectorAll(".results_nav_day"))   
       allMonths.map(element => {
-        element.previousSibling.childNodes[1].classList.remove("active")
+        element.previousSibling.lastChild.classList.remove("active")
         element.classList.remove("active")
       })
       siblingIcon.classList.add("active")
@@ -92,20 +92,24 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                     </span>
                     <ul className={`results_nav_month year-${year}`}>
                       {Object.keys(sortedTournaments[year]).sort().map((month, index) => {
+                       const amountPerMonth = Object.values(sortedTournaments[year][month]).reduce((sum, element) => {
+                          return element.length + sum
+                        }, 0)
                         return (
                           <li key={index}>
                               <span 
                                 onClick={() => toggleFolder([year, month])}
                                 >
-                                  {translateMonth(month)} 
+                                  {translateMonth(month)} ({amountPerMonth})
                                   <FaSortDown className="month_icon" />
                               </span>
                               <ul className={`results_nav_day year-${year}-${month}`}>
                                 {Object.keys(sortedTournaments[year]?.[month]).sort().map((day, index) => {
-
+                                  const amountPerDay = sortedTournaments[year][month][day].length
+  
                                   return (
                                     <li key={index}>
-                                      <span id={`${year}/${month}/${day}`} onClick={selectTournaments}>{translateDays(day)} <FaSortDown className="day_icon" /></span>
+                                      <span id={`${year}/${month}/${day}`} onClick={selectTournaments}>{translateDays(day)} ({amountPerDay} Tournaments) <FaSortDown className="day_icon" /></span>
                                     </li>
                                    )
                                   })
