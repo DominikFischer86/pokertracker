@@ -63,6 +63,10 @@ div {
                     width: auto;
                 }
             }
+
+            .react-datepicker__navigation {
+                min-width: 0;
+            }
         }    
     }
 }
