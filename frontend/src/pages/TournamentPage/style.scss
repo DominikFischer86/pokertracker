@@ -1,0 +1,58 @@
+.Panel {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.Editable_Panel_Container {
+    box-shadow: 0 2px 2px rgba(0,0,0,.5);
+    padding: 1rem;
+    margin: 1rem;
+
+    .Editable_Panel_Edit, .Editable_Panel_Show {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .Editable_Panel_Show {
+        span {
+            font-size: 20px;
+            display: block;
+            text-align: center;
+            width: 100%;
+        }
+    }
+
+    input {
+        max-width: 100px;
+    }
+
+    .icon {
+        margin: .25rem;
+        cursor: pointer;
+
+        opacity: .5;
+        transition: .2s all ease;
+
+        &.submit_icon {
+            color: green;
+        }
+
+        &.cancel_icon {
+            color: red;
+        }
+
+        &.edit_icon {
+            color: blue;
+            opacity: .25;
+            transition: .25s all ease;
+        }
+
+        &:hover {
+            opacity: 1;
+        }
+
+    }
+}
