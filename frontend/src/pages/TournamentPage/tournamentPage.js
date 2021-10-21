@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react"
 import axios from "axios"
 
 import EditablePanels from "./components/EditablePanels"
+import PlayerPlacements from "./components/PlayerPlacements"
+// import PlayerPlacements from "./components/PlayerPlacements"
 
 const TournamentPage = () => {
     const [tournament, setTournament] = useState([])
@@ -9,9 +11,7 @@ const TournamentPage = () => {
     const [isEditMode, setIsEditMode] = useState(false)
     const [formState, setFormState] = useState({})
     const url = "http://localhost:3001" + window.location.pathname
-
-    console.log(formState)
-
+    
     useEffect( () => {
         try {
              axios.get(url)
@@ -28,7 +28,7 @@ const TournamentPage = () => {
                         finalPosition: res.data[0].finalPosition,
                         playerPrizeMoney: res.data[0].playerPrizeMoney,
                         bounties: res.data[0].bounties
-                    })
+                    })                   
                 })
         } catch (e) {
             console.log(e)
@@ -53,10 +53,12 @@ const TournamentPage = () => {
         tournament: tournament
     }
 
+    if (!tournament) return
+
     return (
         <div>
             {isLoading && <div>Loading data...</div>}
-            {!isLoading &&
+            {!isLoading && tournament &&
             <>
                 <h2>Tournament #{tournament[0]?.tournamentId}</h2>
                 <hr />
@@ -104,6 +106,11 @@ const TournamentPage = () => {
                         property="bounties"
                         {...props}
                     />
+                </div>
+                <hr />
+                <h2>Finish Position of {tournament[0]?.playerAmount} players</h2>
+                <div className="Player_Container">
+                    {Object.keys(tournament[0].placements).map((key,index) => <PlayerPlacements key={index} placement={tournament[0].placements[key]} />)} 
                 </div>
             </>
             }
