@@ -45,6 +45,8 @@ const ResultsPage = () => {
         }         
     }
 
+    if (tournaments?.length == 0) return <div>No tournaments in database</div>
+
     return (
         <div>
             <div className="ResultsTitleContainer">
