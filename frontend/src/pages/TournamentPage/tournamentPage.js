@@ -12,11 +12,11 @@ const TournamentPage = () => {
     const [formState, setFormState] = useState({})
     const url = "http://localhost:3001" + window.location.pathname
     
-    useEffect( () => {
+    useEffect( async () => {
         try {
-             axios.get(url)
-                .then(res => {
-                    setIsLoading(false)
+             await axios.get(url)
+                .then(res => {      
+                    console.log(res)              
                     setTournament(res.data)
                     setFormState({
                         buyIn: res.data[0].buyIn,
@@ -28,7 +28,8 @@ const TournamentPage = () => {
                         finalPosition: res.data[0].finalPosition,
                         playerPrizeMoney: res.data[0].playerPrizeMoney,
                         bounties: res.data[0].bounties
-                    })                   
+                    })         
+                    setIsLoading(false)          
                 })
         } catch (e) {
             console.log(e)
@@ -63,13 +64,11 @@ const TournamentPage = () => {
                 <h2>Tournament #{tournament[0]?.tournamentId}</h2>
                 <hr />
                 <div className="Panel">
-                    <EditablePanels 
-                        isEditable
+                    <EditablePanels
                         property="buyIn"
                         {...props}
                     />
                     <EditablePanels 
-                        isEditable
                         property="rake"
                         {...props}
                     />
@@ -79,7 +78,6 @@ const TournamentPage = () => {
                         {...props}
                     />
                     <EditablePanels 
-                        isEditable
                         property="prizePool"
                         {...props}
                     />
@@ -92,12 +90,10 @@ const TournamentPage = () => {
                         {...props}
                     />
                     <EditablePanels 
-                        isEditable
                         property="finalPosition"
                         {...props}
                     />
                     <EditablePanels
-                        isEditable
                         property="playerPrizeMoney"
                         {...props}
                     />
@@ -108,9 +104,11 @@ const TournamentPage = () => {
                     />
                 </div>
                 <hr />
-                <h2>Finish Position of {tournament[0]?.playerAmount} players</h2>
+                { tournament[0]?.placements.length > 0 &&
+                    <h2>Finish Position of {tournament[0]?.playerAmount} players</h2>
+                }                
                 <div className="Player_Container">
-                    {Object.keys(tournament[0].placements).map((key,index) => <PlayerPlacements key={index} placement={tournament[0].placements[key]} />)} 
+                    {Object.keys(tournament[0]?.placements).map((key,index) => <PlayerPlacements key={index} placement={tournament[0].placements[key]} />)} 
                 </div>
             </>
             }

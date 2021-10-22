@@ -69,21 +69,86 @@
         border: 1px solid rgba(0,0,0,.5);
         flex-direction: column;
         align-items: center;
-        flex-grow: 1;
         transform: scale(1);
         transition: .25s all ease;
+        min-width: 200px;
+        flex-grow: 1;
+        max-width: 400px;
 
         &:hover {
             transform: scale(1.05);
         }
 
-        &:last-child {
-            flex-grow: 0;
+        span.position {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 1rem;
+            position: relative;
+            z-index: 1;
+
+            span {
+                background: #000;
+                color: #fff;
+                display: block;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                border-radius: 100%;
+                position: relative;
+                z-index: 2;
+                top: -.5rem;
+            }
+ 
+            .cash_trophy {
+                font-size: 80px;
+                position: absolute;
+                left: 50%;
+                top: .25rem;
+                transform: translateX(-50%);
+                z-index: 1;
+                color: orange;
+            }
         }
 
-        span.position {
-            font-size: 30px;
+        span.name {
+            font-size: 18px;
             font-weight: bold;
+            margin-top: .5rem;
+            position: relative;
+
+            &:before {
+                position: absolute;
+                content: '';
+                width: 150px;
+                height: 2px;
+                background: rgba(0,0,0,.5);
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+
+        span.country {
+            position: relative;
+            margin-bottom: .5rem;
+
+            &:after {
+                position: absolute;
+                content: '';
+                width: 150px;
+                height: 2px;
+                background: rgba(0,0,0,.5);
+                left: 50%;
+                bottom: -.25rem;
+                transform: translateX(-50%);
+            }
+        }
+
+        span.prize_money {
+            font-weight: 500;
+            .cash_icon {
+                margin-right: .5rem;
+            }
         }
     }
 }
