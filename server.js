@@ -92,6 +92,18 @@ app.delete("/results/:id", (req, res) => {
 })
 
 // update route
+app.patch("/tournament/:id", (req, res) => {
+    const id = req.params.id
+    const data = req.body
+
+    Tournament.findOneAndUpdate({ tournamentId: id}, { $set: data }, err => {
+        if (!err) {
+            console.log(`Tournament ${id} updated.`)
+        } else {
+            console.log(err)
+        }
+    })
+})
 
 app.listen(PORT, function(){
     console.log("Express is running!")

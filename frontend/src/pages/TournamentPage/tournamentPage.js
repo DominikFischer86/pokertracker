@@ -10,8 +10,9 @@ const TournamentPage = () => {
     const [isLoading, setIsLoading] = useState(true)
     const [isEditMode, setIsEditMode] = useState(false)
     const [formState, setFormState] = useState({})
+    const [refetch, setRefetch] = useState(0)
     const url = "http://localhost:3001" + window.location.pathname
-    
+   
     useEffect( async () => {
         try {
              await axios.get(url)
@@ -34,16 +35,34 @@ const TournamentPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [])
+    }, [refetch])
 
     const handleChange = (property, e) => {
         setFormState(oldState => ({ ...oldState, [property]: e.target.value }))
         
     }
 
-    const submitChange = () => {
-        setIsEditMode(false)
+    const submitChange = async () => {
+        const data = {
+            ...tournament[0], 
+            buyIn: parseFloat(formState.buyIn),
+            rake: parseFloat(formState.rake),
+            rebuys: parseFloat(formState.rebuys),
+            prizePool: parseFloat(formState.prizePool),
+            startDate: formState.startDate,
+            startTime: formState.startTime,
+            finalPosition: parseFloat(formState.finalPosition),
+            playerPrizeMoney: parseFloat(formState.playerPrizeMoney),
+            bounties: parseFloat(formState.bounties)
+        }
+
+        await axios.patch(url, data).then(            
+            alert("Successfully updated tournament #" + tournament[0].tournamentId),
+            setIsEditMode(false),
+            setRefetch(refetch + 1)
+        )
     }
+    
 
     const props = {
         isEditMode: isEditMode,
