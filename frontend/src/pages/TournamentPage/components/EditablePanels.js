@@ -8,9 +8,8 @@ import { translate } from "../helper"
 import "../style.scss"
 
 const EditablePanels = ({isEditable, property, isEditMode, setIsEditMode, handleChange, formState, submitChange, tournament}) => {
-    const tournamentItem = tournament[0]
-    const buyIn = tournamentItem?.buyIn
-    const rake = tournamentItem?.rake
+    const buyIn = tournament?.buyIn
+    const rake = tournament?.rake
     
     const rakePercent = (rake/buyIn * 100).toFixed(2)
 
@@ -30,15 +29,15 @@ const EditablePanels = ({isEditable, property, isEditMode, setIsEditMode, handle
             }
             {!isEditMode &&
             <div className="Editable_Panel_Show">
-                {property == "buyIn" && <span>{tournamentItem?.[property]} USD</span>}
-                {property == "rake" && <span>{tournamentItem?.[property]} USD ({rakePercent}%)</span>}
-                {property == "rebuys" && <span>{tournamentItem?.[property]}x (+{tournamentItem?.[property]*(buyIn+rake)} USD)</span>}
-                {property == "prizePool" && <span>{tournamentItem?.[property]} USD</span>}
-                {property == "startDate" && <span>{tournamentItem?.[property]} CET</span>}
-                {property == "startTime" && <span>{tournamentItem?.[property]} h</span>}
-                {property == "finalPosition" && <span>{tournamentItem?.[property]} of {tournamentItem?.playerAmount}</span>}
-                {property == "playerPrizeMoney" && <span>{tournamentItem?.[property]} USD</span>}
-                {property == "bounties" && <span>{tournamentItem?.[property]} USD</span>}
+                {property == "buyIn" && <span>{tournament?.[property]} USD</span>}
+                {property == "rake" && <span>{tournament?.[property]} USD ({rakePercent}%)</span>}
+                {property == "rebuys" && <span>{tournament?.[property]}x (+{tournament?.[property]*(buyIn+rake)} USD)</span>}
+                {property == "prizePool" && <span>{tournament?.[property]} USD</span>}
+                {property == "startDate" && <span>{tournament?.[property]} CET</span>}
+                {property == "startTime" && <span>{tournament?.[property]} h</span>}
+                {property == "finalPosition" && <span>{tournament?.[property]} of {tournament?.playerAmount}</span>}
+                {property == "playerPrizeMoney" && <span>{tournament?.[property]} USD</span>}
+                {property == "bounties" && <span>{tournament?.[property]} USD</span>}
 
                 {isEditable &&
                     <FaPencilAlt className="icon edit_icon" onClick={() => setIsEditMode(true)} />

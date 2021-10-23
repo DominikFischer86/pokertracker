@@ -5,20 +5,23 @@ import EditablePanels from "./components/EditablePanels"
 import PlayerPlacements from "./components/PlayerPlacements"
 // import PlayerPlacements from "./components/PlayerPlacements"
 
+const heroName = "KeinKönich"
+
 const TournamentPage = () => {
     const [tournament, setTournament] = useState([])
     const [isLoading, setIsLoading] = useState(true)
     const [isEditMode, setIsEditMode] = useState(false)
     const [formState, setFormState] = useState({})
     const [refetch, setRefetch] = useState(0)
+    const [playerPosition, setPlayerPosition] = useState(0)
     const url = "http://localhost:3001" + window.location.pathname
    
-    useEffect( async () => {
+    useEffect(async () => {
         try {
              await axios.get(url)
                 .then(res => {      
-                    console.log(res)              
-                    setTournament(res.data)
+                    setPlayerPosition(res.data[0].placements.find(element => element.playerName === heroName).finishPosition)
+                    setTournament(res.data[0])
                     setFormState({
                         buyIn: res.data[0].buyIn,
                         rake: res.data[0].rake,
@@ -44,7 +47,7 @@ const TournamentPage = () => {
 
     const submitChange = async () => {
         const data = {
-            ...tournament[0], 
+            ...tournament, 
             buyIn: parseFloat(formState.buyIn),
             rake: parseFloat(formState.rake),
             rebuys: parseFloat(formState.rebuys),
@@ -57,7 +60,7 @@ const TournamentPage = () => {
         }
 
         await axios.patch(url, data).then(            
-            alert("Successfully updated tournament #" + tournament[0].tournamentId),
+            alert("Successfully updated tournament #" + tournament.tournamentId),
             setIsEditMode(false),
             setRefetch(refetch + 1)
         )
@@ -80,7 +83,7 @@ const TournamentPage = () => {
             {isLoading && <div>Loading data...</div>}
             {!isLoading && tournament &&
             <>
-                <h2>Tournament #{tournament[0]?.tournamentId}</h2>
+                <h2>Tournament #{tournament?.tournamentId}</h2>
                 <hr />
                 <div className="Panel">
                     <EditablePanels
@@ -123,11 +126,17 @@ const TournamentPage = () => {
                     />
                 </div>
                 <hr />
-                { tournament[0]?.placements.length > 0 &&
-                    <h2>Finish Position of {tournament[0]?.playerAmount} players</h2>
+                { tournament?.placements.length > 0 &&
+                    <h2>Final known positions of {tournament?.playerAmount} players</h2>
                 }                
                 <div className="Player_Container">
-                    {Object.keys(tournament[0]?.placements).map((key,index) => <PlayerPlacements key={index} placement={tournament[0].placements[key]} />)} 
+                    {Object.keys(tournament?.placements).map((key,index) => 
+                        <PlayerPlacements 
+                            key={index} 
+                            heroName={heroName} 
+                            heroPosition={playerPosition} 
+                            placement={tournament.placements[key]} 
+                        />)} 
                 </div>
             </>
             }

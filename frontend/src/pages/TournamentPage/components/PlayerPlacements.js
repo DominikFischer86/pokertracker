@@ -4,17 +4,16 @@ import PropTypes from "prop-types"
 import { FaCoins } from "react-icons/fa" 
 import { IoIosTrophy } from "react-icons/io"
 
-const PlayerPlacements = (placement) => {
-    const heroName = "KeinKönich"
-    const { placement: { finishPosition, playerName, playerCountry, prizeMoney }} = placement
+const PlayerPlacements = ({placement, heroPosition, heroName}) => {
+    const { finishPosition, playerName, playerCountry, prizeMoney } = placement
 
     return (
         <div className="Player_Panel" style={{ boxShadow: prizeMoney > 0 ? `0 0 ${10 / finishPosition}px rgba(255, 200, 0, ${1 / finishPosition*5})` :  "0 0 5px rgba(0,0,0,.5)"}}>
             <span className="position">
-                {finishPosition == 1 && <IoIosTrophy color="orange" className="cash_trophy" />}
-                {finishPosition == 2 && <IoIosTrophy color="silver" className="cash_trophy" />}
-                {finishPosition == 3 && <IoIosTrophy color="brown" className="cash_trophy" />}
-                <span style={{background: finishPosition < 4 ? "none" : null}}>
+                {finishPosition == 1 && prizeMoney > 0 && <IoIosTrophy color="orange" className="cash_trophy" />}
+                {finishPosition == 2 && prizeMoney > 0 && <IoIosTrophy color="silver" className="cash_trophy" />}
+                {finishPosition == 3 && prizeMoney > 0 && <IoIosTrophy color="brown" className="cash_trophy" />}
+                <span style={{background: finishPosition < 4 && prizeMoney > 0 ? "none" : null}}>
                     {finishPosition}
                 </span>
             </span>
@@ -27,14 +26,17 @@ const PlayerPlacements = (placement) => {
                     {prizeMoney} USD
                 </>
                 }
-                {!prizeMoney && "Busted"}
+                {!prizeMoney && heroPosition > finishPosition && "Not finished"}
+                {!prizeMoney && heroPosition <= finishPosition && "Busted"}            
             </span>            
         </div>
     )
 }
 
 PlayerPlacements.propTypes = {
-    placement: PropTypes.object.isRequired
+    placement: PropTypes.object.isRequired,
+    heroPosition: PropTypes.number.isRequired,
+    heroName: PropTypes.string.isRequired
 }
 
 export default PlayerPlacements
