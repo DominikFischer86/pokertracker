@@ -15,6 +15,7 @@ import "./styles.scss"
 
 const ResultsGraph = ({tournaments, isLoading}) => {
     const [toggleRake, setToggleRake] = useState(false)
+    const [toggleBounties, setToggleBounties] = useState(false)
     const [toggleFilter, setToggleFilter] = useState(false)
     const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
     const [activeFilters, setActiveFilters] = useState([])
@@ -156,6 +157,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                     <ResponsiveLineContainer 
                         filteredTournaments={filteredTournaments} 
                         toggleRake={toggleRake}
+                        toggleBounties={toggleBounties}
                     />
                 </div>
                 <div className="switch_list">
@@ -164,6 +166,12 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                         name="rake-switcher" 
                         label={!toggleRake ? "Show Rake" : "Hide Rake"}
                         onChange={() => setToggleRake(!toggleRake)} 
+                    />
+                    <Switch 
+                        id="bounty-switcher" 
+                        name="bounty-switcher" 
+                        label={!toggleBounties ? "Show Bounties" : "Hide Bounties"}
+                        onChange={() => setToggleBounties(!toggleBounties)} 
                     />
                     <Switch 
                         id="filter-switcher" 
