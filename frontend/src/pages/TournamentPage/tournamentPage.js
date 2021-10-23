@@ -19,8 +19,8 @@ const TournamentPage = () => {
     useEffect(async () => {
         try {
              await axios.get(url)
-                .then(res => {      
-                    setPlayerPosition(res.data[0].placements.find(element => element.playerName === heroName).finishPosition)
+                .then(res => {
+                    setPlayerPosition(res.data[0].placements.find(element => element.playerName === heroName)?.finishPosition)
                     setTournament(res.data[0])
                     setFormState({
                         buyIn: res.data[0].buyIn,
