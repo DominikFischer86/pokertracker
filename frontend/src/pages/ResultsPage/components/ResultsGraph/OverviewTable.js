@@ -20,6 +20,7 @@ export const OverviewTable = ({filteredTournaments}) => {
     const averageProfit = parseFloat(profit / count).toFixed(2)
     const roi = parseFloat(profit / totalBuyIn * 100).toFixed(2)
     const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
+    const totalProfit = (parseFloat(profit) + parseFloat(bounties)).toFixed(2)
 
     return (
         <div className="results_table no_scroll">
@@ -32,20 +33,22 @@ export const OverviewTable = ({filteredTournaments}) => {
                         <th>Average ROI</th>
                         <th>Total Buy-In</th>
                         <th>Total Rake</th>
-                        <th>Total Profit</th>
-                        <th>Total Bounties</th>                        
+                        <th>Winnings</th>
+                        <th>Total Bounties</th>
+                        <th>Total Profit</th>                       
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>{count}</td>
-                        <td>{averageProfit}$</td>
-                        <td>{averageStake}$</td>
+                        <td>{averageProfit} USD</td>
+                        <td>{averageStake} USD</td>
                         <td>{roi}%</td>
-                        <td>{totalBuyIn}$</td>
-                        <td>{rake}$</td>
-                        <td>{profit}$</td>
-                        <td>{bounties}$</td>
+                        <td>{totalBuyIn} USD</td>
+                        <td>{rake} USD</td>
+                        <td>{profit} USD</td>
+                        <td>{bounties} USD</td>
+                        <td>{totalProfit} USD</td>
                     </tr>
                 </tbody>
             </table>
