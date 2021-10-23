@@ -13,7 +13,7 @@ const PlayerPlacements = ({placement, heroPosition, heroName}) => {
                 {finishPosition == 1 && prizeMoney > 0 && <IoIosTrophy color="orange" className="cash_trophy" />}
                 {finishPosition == 2 && prizeMoney > 0 && <IoIosTrophy color="silver" className="cash_trophy" />}
                 {finishPosition == 3 && prizeMoney > 0 && <IoIosTrophy color="brown" className="cash_trophy" />}
-                <span style={{background: finishPosition < 4 && prizeMoney > 0 ? "none" : null}}>
+                <span style={{background: finishPosition <= 3 && prizeMoney > 0 ? "none" : null}}>
                     {finishPosition}
                 </span>
             </span>

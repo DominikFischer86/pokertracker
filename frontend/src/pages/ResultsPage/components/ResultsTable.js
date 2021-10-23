@@ -13,6 +13,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                     <thead>
                         <tr>
                             <th>#</th>
+                            <th>Typ</th>
                             <th>Tournament Id</th>
                             <th>Buy-In</th>
                             <th>Rake</th>
@@ -21,7 +22,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                             <th>Start Date</th>
                             <th>Start Time</th>
                             <th>Position</th>
-                            <th>Money won</th>
+                            <th>Cashes</th>
                             <th>Bounties</th>
                             <th>Actions</th>
                         </tr>
@@ -35,6 +36,7 @@ const ResultsTable = ({isLoading, tournaments, onDelete}) => {
                                     : null                                            
                                 }>
                                 <td>#{i+1}</td>
+                                <td>{tournament.playerAmount > 45 ? "MTT" : "SNG"}</td>
                                 <td><a href={`/tournament/${tournament.tournamentId}`}>{tournament.tournamentId}</a></td>
                                 <td>${tournament.buyIn}</td>
                                 <td>${tournament.rake}</td>
