@@ -25,7 +25,7 @@ export const ResponsiveLineContainer = ({ filteredTournaments, toggleRake, toggl
                         tickPadding: 10,
                         tickRotation: 0,
                         tickValues: tickValues(tournamentAmount),
-                        legend: 'Tournaments Amount',
+                        legend: 'Tournaments',
                         legendOffset: 40,
                         legendPosition: 'middle'
                     }}
