@@ -25,7 +25,7 @@ button {
 div {
     &.playerPlacementSection {
         max-height: 80vh;
-        overflow-y: scroll;
+        overflow-y: auto;
     }
 
     &.graph_wrapper {
@@ -63,7 +63,7 @@ div {
         display: block;
         padding: .5rem;
         max-height: 400px;
-        overflow-y: scroll;
+        overflow-y: auto;
     }
 
     &.results_table {
