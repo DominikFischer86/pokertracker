@@ -1,5 +1,5 @@
 Start:
-- start server in root: nodemon server
+- start server in root: yarn start
 - start development in ./frontend: yarn start
 
 Roadmap:
@@ -31,12 +31,12 @@ Create unique Users from Tournament Placements in Database with
 - Tournament winnings
 
 <ResultsPage>:
-- add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)
+- ~~add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)~~
 - ~~enable deleting of items for faster cleanup when testing~~
 - ~~link each entry to <DetailsPage>~~
 
 <DetailsPage>:
-- Show Placement details (players, currentUser results after login)
+- ~~Show Placement details (players, currentUser results after login)~~
 
 <ImportPage>:
 - ~~Create folder picker to choose directory for imports~~
