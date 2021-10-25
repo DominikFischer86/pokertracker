@@ -1,10 +1,10 @@
 import { translateCountry } from "./helpers"
 import { formatMonth, formatDay, formatHour, formatMinute } from "./helpers"
 
-export const fileConverter = (file, hero) => {
+export const tournamentFileConverter = (file, hero) => {
     const PLACEMENT_START = 6 
     const splitText = file.split("\n")
-    if (!splitText[0].includes("PokerStars")) return {failId: 1, type: "Invalid format"}
+    if (!splitText[0].includes("PokerStars") || splitText[0].includes("Hand")) return {failId: 1, type: "Invalid format"}
     
     const tournamentId = (splitText[0].split(" ")[2]).split(/\D/)[1]   
 

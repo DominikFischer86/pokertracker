@@ -1,7 +1,7 @@
 import React from "react"
 import propTypes from "prop-types"
 
-const MultiFilePicker = ({pickMultiFile}) => {
+export const HandFilePicker = ({pickMultiFile}) => {
     return (
         <div className="border rounded mt-2 p-2">                   
             <h3>Multi Filepicker</h3>
@@ -9,8 +9,7 @@ const MultiFilePicker = ({pickMultiFile}) => {
         </div>
     )
 }
-MultiFilePicker.propTypes = {
+HandFilePicker.propTypes = {
     pickMultiFile: propTypes.func
 }
 
-export default MultiFilePicker
