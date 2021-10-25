@@ -4,36 +4,31 @@ import axios from "axios"
 
 import { Switch } from "@react-md/form"
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
+import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
-import {ImportConfirmationModal} from "../../components/Modals/ConfirmationModal"
-import { fileConverter } from "./fileConverter"
+import { ImportConfirmationModal } from "../../components/Modals/ConfirmationModal"
+import { tournamentFileConverter } from "./tournamentFileConverter"
+import { handFileConverter } from "./handFileConverter"
 import PreviewTable from "./components/PreviewTable";
-import MultiFilePicker from "./components/FilePicker"
-import FormInputs from "./components/FormInputs"
+import { TournamentFilePicker } from "./components/TournamentFilePicker"
+import { HandFilePicker } from "./components/HandFilePicker"
 
 const PLAYER = "KeinKönich"
 
 const ImportPage = () => {
     const [tournaments, setTournaments] = useState([])
-    const [form, setForm] = useState([])
-    const [placement, setPlacement] = useState([])
     const [tournamentMap, setTournamentMap] = useState({})
-    const [playerAmountCreator, setPlayerAmountCreator] = useState([])
-
-    const [skipFormPlacements, setSkipFormPlacements] = useState(false)
+    const [handMap, setHandMap] = useState({})
     const [skipFilePlacements, setSkipFilePlacements] = useState(false)
-    const [isReadyToCreate, setIsReadyToCreate] = useState(false)
-    const [isReadyToInput, setIsReadyToInput] = useState(false)
     const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
-   
     const [isSubmitted, setIsSubmitted] = useState(false)
-
-    const [formExpanded, setFormExpanded] = useState(false)
     const [fileExpanded, setFileExpanded] = useState(false)
-    const [previewExpanded, setPreviewExpanded] = useState(false)
-
+    const [tournamentPreviewExpanded, setTournamentPreviewExpanded] = useState(false)
+    const [handPreviewExpanded, setHandPreviewExpanded] = useState(false)
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
     const [modalContent, setModalContent] = useState({successMessageList: [], warningMessageList: [], errorMessageList:[]})
+
+    const tabs = ["Tournaments", "Hand Histories"]
 
     const url = "http://localhost:3001" + window.location.pathname
 
@@ -47,124 +42,25 @@ const ImportPage = () => {
             .then(jsonRes => setTournaments(jsonRes))
             .catch(err => console.log(err))
         
-    }, [previewExpanded])
+    }, [tournamentPreviewExpanded])
 
-    const [panels, onKeyDown] = usePanels({
-        count: 3,
+    const [tournamentPanels, onTournamentKeyDown] = usePanels({
+        count: 2,
         multiple: true,
-        idPrefix: "my-panel-group"
+        idPrefix: "tournament-group"
+      });
+
+      const [handPanels, onHandsKeyDown] = usePanels({
+        count: 2,
+        multiple: true,
+        idPrefix: "hands-group"
       });
     
-    const [panel1Props, panel2Props, panel3Props] = panels;
-
-    const handleSwitch = () => {
-        setSkipFormPlacements(!skipFormPlacements)
-    }
+    const [panel1Props, panel2Props] = tournamentPanels;
+    const [panel3Props, panel4Props] = handPanels;
 
     const handleFileSwitch = () => {
         setSkipFilePlacements(!skipFilePlacements)
-    }
-
-    const handleFormChange = event => {
-        const { name, value } = event.target
-        setForm({...form, [name]: value})   
-    }
-
-    const handleBlur = e => {
-        const checkInputKeys = Object.keys(form)
-        const checkInputLength = checkInputKeys.length
-        const inputs = document.querySelectorAll(".generalFormInput")
-
-        if (inputs.length <= checkInputLength) {
-            if (e.target.value === ""){
-                return setIsReadyToCreate(false)
-            }
-            setIsReadyToCreate(true)
-        }
-    }
-
-    const handlePlacementChange = event => {
-        const { name, value } = event.target
-        setPlacement({...placement, [name]: value })
-    }
-
-    const clearState = () => {
-        setForm([])
-        setPlacement([])
-    }
-
-    const resetForm = () => {
-        const inputs = document.querySelectorAll("input[type='text']")
-        inputs.forEach(input => (input.value = ""))
-        clearState()
-        playerAmountCreator.splice(0, playerAmountCreator.length)
-        setIsReadyToCreate(false)
-        setIsReadyToInput(false)
-        setIsSubmitted(false)
-        setTournamentMap([])
-        setFormExpanded(false)
-        setFileExpanded(false)
-        setPreviewExpanded(false)
-    }
-
-    const submitGeneralFormData = e => {
-        e.preventDefault()
-
-        if (!skipFormPlacements){
-            const playerAmount = parseFloat(Object.values(form.playerAmount).join().replace(",",""))
-
-            playerAmountCreator.splice(0, playerAmountCreator.length)
-            for (let i = 1; i <= playerAmount; i++){
-                playerAmountCreator.push(i)
-            }
-            setPlayerAmountCreator(playerAmountCreator)
-            setIsReadyToInput(true)
-        } else {            
-            setTournamentMap([{
-                ...form,
-                "placements": []
-            }])
-            setIsReadyToSubmit(true)
-            setIsSubmitted(true)
-            setFormExpanded(false)
-            setFileExpanded(false)
-            setPreviewExpanded(true)
-        }        
-    }
-
-    const convertData = () => {
-        let newPlacement = []
-        let newPlacementMap = []
-        let arr = []
-        let arrList = []
-        clearState()
-
-        for (let i = 1; i <= form.playerAmount; i++){    
-            let key = Object.keys(placement).filter(item => item.includes(i))
-            newPlacement.push(key)
-
-            for (let j = 0; j < 3; j++){
-                arr.push(placement[newPlacement[i-1][j]])
-                arrList = [
-                    [ "finishPosition", i ],
-                    [ "playerName", arr[i*3-3] ],
-                    [ "playerCountry", arr[i*3-2] ],
-                    [ "prizeMoney", arr[i*3-1] ]
-                ]
-            }
-            newPlacementMap.push(Object.fromEntries(arrList))
-        }
-
-        setTournamentMap([{
-            ...form,
-            "placements": newPlacementMap
-        }])
-        setIsReadyToSubmit(true)
-        setIsSubmitted(true)
-        setFormExpanded(false)
-        setFileExpanded(false)
-        setPreviewExpanded(true)
-        setSkipFormPlacements(false)
     }
 
     const submitData = () => {        
@@ -202,7 +98,6 @@ const ImportPage = () => {
                 element => element.tournamentId === newTournament.tournamentId
             )
             if (tournamentExists) {
-                resetForm()
                 console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
                 return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
             }
@@ -218,18 +113,16 @@ const ImportPage = () => {
         setSkipFilePlacements(false)
     }    
 
-    const pickMultiFile =  e => {
+    const pickTournamentMultiFile =  e => {
         const files = e.currentTarget.files
         const newFiles = []
-        clearState()
 
         Object.keys(files).forEach(index => {
             const file = files[index]            
              const reader = new FileReader()
              reader.onload = e => {
-                const convertedFiles = fileConverter(reader.result, PLAYER)
+                const convertedFiles = tournamentFileConverter(reader.result, PLAYER)
                 newFiles.push(convertedFiles)
-                setForm(newFiles)
                 setTournamentMap(newFiles)
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
@@ -237,15 +130,34 @@ const ImportPage = () => {
              reader.readAsText(file)              
         })
 
-        setFormExpanded(false)
         setFileExpanded(false)
-        setPreviewExpanded(true)
-        setSkipFormPlacements(false)
+        setTournamentPreviewExpanded(true)
+    }
+
+    const pickHandMultiFile =  e => {
+        const files = e.currentTarget.files
+        const newFiles = []
+
+        Object.keys(files).forEach(index => {
+            const file = files[index]            
+             const reader = new FileReader()
+             reader.onload = e => {
+                const convertedFiles = handFileConverter(reader.result, PLAYER)
+                newFiles.push(convertedFiles)
+                setHandMap(newFiles)
+                setIsReadyToSubmit(true)
+                setIsSubmitted(true)
+             }
+             reader.readAsText(file, 'CP1251')              
+        })
+
+        setFileExpanded(false)
+        setHandPreviewExpanded(false)
     }
 
     const openModal = () => {
         setConfirmationModalIsOpen(true)
-        setPreviewExpanded(false)     
+        setTournamentPreviewExpanded(false)     
     }
 
     const closeModal = () => {
@@ -254,79 +166,83 @@ const ImportPage = () => {
    
     return (
         <div>
-            <h2>Import Tournaments</h2>
-            <hr />
-            <ImportConfirmationModal 
-                confirmationModalIsOpen={confirmationModalIsOpen}
-                closeModal={closeModal}
-                modalContent={modalContent}
-            />
-            <ExpansionList onKeyDown={onKeyDown}>
-                {/* FORM INPUT SECTION */}
-                <ExpansionPanel 
-                    {...panel1Props} 
-                    expanded={formExpanded} 
-                    onExpandClick={() => {
-                        setFormExpanded(!formExpanded)
-                        setFileExpanded(false)
-                    }}
-                    header="Form input"
-                >
-                   <FormInputs 
-                    resetForm={resetForm}
-                    convertData={convertData}
-                    skipFormPlacements={skipFormPlacements}
-                    playerAmountCreator={playerAmountCreator}
-                    submitGeneralFormData={submitGeneralFormData}
-                    handleSwitch={handleSwitch}
-                    handleBlur={handleBlur}
-                    handleFormChange={handleFormChange}
-                    handlePlacementChange={handlePlacementChange}
-                    isReadyToInput={isReadyToInput}
-                    isReadyToCreate={isReadyToCreate}
-                   />
-                </ExpansionPanel>
-            
-                 {/* FILE PICKER SECTION */}
-                <ExpansionPanel 
-                    {...panel2Props} 
-                    expanded={fileExpanded} 
-                    header="File Picker" 
-                    className="mt-2" 
-                    onExpandClick={() => {
-                        setFileExpanded(!fileExpanded)
-                        setFormExpanded(false)
-                    }}
-                >
-                    <div className="row">
-                        <div className="col-lg-6">
-                            <MultiFilePicker pickMultiFile={pickMultiFile} multiple />
-                        </div>
-                        <div className="col-lg-6">
-                            <Switch 
-                                id="no-mtt-placement" 
-                                name="no-mtt-placement"
-                                label={!skipFilePlacements 
-                                    ? "Deny MTT placements"
-                                    : "Allow MTT placements (big data load!)"
-                                }
-                                onChange={handleFileSwitch}
-                            />
-                            <p>Player placements from MTTs are denied by default in order to prevent big data loads. Activate at your own risk.</p>
-                        </div>                
-                    </div>
-                </ExpansionPanel>
-                {/* PREVIEW TABLE */}
-                <ExpansionPanel {...panel3Props} expanded={previewExpanded} header="Preview" className="mt-2">
-                    <PreviewTable 
-                        tournamentMap={tournamentMap}
-                        isSubmitted={isSubmitted}                        
-                        isReadyToSubmit={isReadyToSubmit}
-                        submitData={submitData}
-                    />
-                </ExpansionPanel>                
-            </ExpansionList>
-        </div>
+            <TabsManager tabs={tabs} tabsId="tournament-results">
+                <Tabs />
+                <hr />
+                <TabPanels>
+                    <TabPanel>
+                        <h2>Import Tournaments</h2>
+                        <hr />
+                        <ImportConfirmationModal 
+                            confirmationModalIsOpen={confirmationModalIsOpen}
+                            closeModal={closeModal}
+                            modalContent={modalContent}
+                        />
+                        <ExpansionList onKeyDown={onTournamentKeyDown}>
+                            {/* FILE PICKER SECTION */}
+                            <ExpansionPanel 
+                                {...panel1Props} 
+                                expanded={fileExpanded} 
+                                header="File Picker" 
+                                className="mt-2" 
+                                onExpandClick={() => {
+                                    setFileExpanded(!fileExpanded)
+                                }}
+                            >
+                                <div className="row">
+                                    <div className="col-lg-6">
+                                        <TournamentFilePicker pickMultiFile={pickTournamentMultiFile} multiple />
+                                    </div>
+                                    <div className="col-lg-6">
+                                        <Switch 
+                                            id="no-mtt-placement" 
+                                            name="no-mtt-placement"
+                                            label={!skipFilePlacements 
+                                                ? "Deny MTT placements"
+                                                : "Allow MTT placements (big data load!)"
+                                            }
+                                            onChange={handleFileSwitch}
+                                        />
+                                        <p>Player placements from MTTs are denied by default in order to prevent big data loads. Activate at your own risk.</p>
+                                    </div>                
+                                </div>
+                            </ExpansionPanel>
+                            {/* PREVIEW TABLE */}
+                            <ExpansionPanel {...panel2Props} expanded={tournamentPreviewExpanded} header="Preview" className="mt-2">
+                                <PreviewTable 
+                                    tournamentMap={tournamentMap}
+                                    isSubmitted={isSubmitted}                        
+                                    isReadyToSubmit={isReadyToSubmit}
+                                    submitData={submitData}
+                                />
+                            </ExpansionPanel>                
+                        </ExpansionList>                    
+                </TabPanel>
+                <TabPanel>
+                         <h2>Hand Histories</h2>
+                        <hr />
+                        <ExpansionPanel 
+                            {...panel3Props} 
+                            expanded={fileExpanded} 
+                            header="File Picker" 
+                            className="mt-2" 
+                            onExpandClick={() => {
+                                setFileExpanded(!fileExpanded)
+                            }}
+                        >
+                            <div className="row">
+                                <div className="col-lg-6">
+                                    <HandFilePicker pickMultiFile={pickHandMultiFile} multiple />
+                                </div>
+                            </div>
+                        </ExpansionPanel>
+                        <ExpansionPanel {...panel4Props} expanded={handPreviewExpanded} header="Preview" className="mt-2">
+                           <h2>Preview soon...</h2>
+                        </ExpansionPanel>     
+                </TabPanel>
+            </TabPanels>
+        </TabsManager> 
+    </div>      
     )
 }
 
