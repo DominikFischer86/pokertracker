@@ -15,6 +15,12 @@ module.exports = app => {
             .catch(err => res.status(400).json("Error:" + err))
     })
 
+    app.get("/player-analysis", (req, res) => {
+        Tournament.find()
+            .then(tournaments => res.json(tournaments))
+            .catch(err => res.status(400).json("Error:" + err))
+    })
+
     app.get("/tournament/:id", (req, res) => {
         const id = req.params.id
 
