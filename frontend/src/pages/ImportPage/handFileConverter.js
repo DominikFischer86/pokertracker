@@ -6,7 +6,7 @@ export const handFileConverter = (file, hero) => {
 
     // Find amount of total tournament hands
 
-    // filter in tournament meta (buyIn, rake, bounty)
+    // filter in tournament meta (buyIn, rake, bounty, earnedBounty)
 
     // Put all hands in single arrays
 
