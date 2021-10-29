@@ -31,17 +31,6 @@ const PlayerAnalysisPage = () => {
         }
     }, [])
 
-    useEffect(async () => {
-        try {
-             await axios.get(url)
-                .then(res => {
-                    console.log(res)
-                })
-        } catch (e) {
-            console.log(e)
-        }
-    }, [])
-
     const createUserClick = () => {
         const allPlayers = createUsers(tournaments, heroName)
         const url = "http://localhost:3001/player-analysis"
