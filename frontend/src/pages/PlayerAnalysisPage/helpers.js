@@ -1,7 +1,6 @@
 import { v4 as uuidv4 } from 'uuid'
 
-export const createUsers = (tournaments, setIsLoading, setPlayers, heroName) => {
-    setIsLoading(true)
+export const createUsers = (tournaments, heroName) => {
     let allPlayers = []
     let allPlayersList = []
     let tournamentsList = []
@@ -37,9 +36,8 @@ export const createUsers = (tournaments, setIsLoading, setPlayers, heroName) => 
             [ "playerTournaments", tournamentsList ]
         ]
 
-        return {[newPlayerId]: Object.fromEntries(playerMap)}
+        return Object.fromEntries(playerMap)
     })
-    
-    setPlayers(playersMap)
-    setIsLoading(false)
+
+    return playersMap
 }

@@ -22,7 +22,7 @@ export const ImportConfirmationModal = ({confirmationModalIsOpen, closeModal, mo
                 <h2>Import summary</h2>
             </div>
             <div className="Confirmation_Modal__content">
-                {successMessageList.length > 0 &&
+                {successMessageList?.length > 0 &&
                     <div>
                         <h3>Successfully added ({successMessageList.length}):</h3>
                         <ul>
@@ -32,7 +32,7 @@ export const ImportConfirmationModal = ({confirmationModalIsOpen, closeModal, mo
                         </ul>
                     </div>
                 }
-                {warningMessageList.length > 0 &&
+                {warningMessageList?.length > 0 &&
                     <div>
                         <h3>Already existing ({warningMessageList.length}):</h3>
                         <ul>
@@ -42,7 +42,7 @@ export const ImportConfirmationModal = ({confirmationModalIsOpen, closeModal, mo
                         </ul>
                     </div>
                 }
-                {errorMessageList.length > 0 &&
+                {errorMessageList?.length > 0 &&
                     <div>
                         <h3>Not added ({errorMessageList.length}):</h3>
                         <ul>

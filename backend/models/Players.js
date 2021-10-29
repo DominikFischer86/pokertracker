@@ -4,8 +4,8 @@ const playersSchema = {
     playerId: String,
     playerName: String,
     playerCountry: String,
-    playerFinishPositions: Array,
-    tournaments: Array
+    playerIsHero: Boolean,
+    playerTournaments: Array
 }
 
 const Players = mongoose.model("Players", playersSchema, "players")
