@@ -12,14 +12,19 @@ Roadmap:
 6. ~~Save to database~~
 7. ~~Filters~~
 8. ~~Graphs~~
+9. User details
+10. Hand History import
+11. Hand Replayer
+12. Hand Statistics Hero
+13. Hand Statistics all players
 
 
 Nav:
 1. Home
 2. Login (necessary?) -> set Hero
-3. Tourney History Import + Manual import
-4. Tourney Results (Table + Graphs)
-5. Player Analysis
+3. Tourney History Import + Hand History Import
+4. Tourney Results (Table + Graphs + Tournament Details + Hand History)
+5. Player Analysis (played Tournaments, General Stats, Hand History Stats)
 6. Tax Report + Export (XCL)
 
 
@@ -29,6 +34,7 @@ Create unique Users from Tournament Placements in Database with
 - Country
 - Tournaments played
 - Tournament winnings
+- Stats
 
 <ResultsPage>:
 - ~~add pagination (thinking about extensions categorized in days, tabbed into months <- less dependencies)~~
@@ -42,6 +48,7 @@ Create unique Users from Tournament Placements in Database with
 - ~~Create folder picker to choose directory for imports~~
 - ~~Create form to manually entry a tournament into DB (for special non-automated formats)~~
 - write data to database (~~general results~~ and user results)
+- Create HandHistory import via Filepicker
 
 <TaxReportPage>:
 Render table with data:
