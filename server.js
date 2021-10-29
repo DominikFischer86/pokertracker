@@ -15,6 +15,7 @@ dotenv.config()
 mongoose.connect(process.env.TOURNAMENT_DB_LOCAL)
 
 require("./backend/routes/tournament.routes")(app)
+require("./backend/routes/player.routes")(app)
 
 app.listen(PORT, function(){
     console.log("Express is running!")
