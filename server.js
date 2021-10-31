@@ -14,8 +14,9 @@ app.use(express.urlencoded({limit: '50mb', extended: true}));
 dotenv.config()
 mongoose.connect(process.env.TOURNAMENT_DB_LOCAL)
 
-require("./backend/routes/tournament.routes")(app)
 require("./backend/routes/player.routes")(app)
+require("./backend/routes/tournament.routes")(app)
+
 
 app.listen(PORT, function(){
     console.log("Express is running!")

@@ -1,11 +1,21 @@
 const Player = require("../models/Players")
+const Tournament = require("../models/Tournament")
+
 
 module.exports = app => {
     // get routes
     app.get("/player-analysis", (req, res) => {
-        Player.find()
-            .then(players => res.json(players))
-            .catch(err => res.status(400).json("Error: " + err))
+        let results = []
+        Tournament.find()
+        .then(tournaments => {
+            results.push(tournaments)
+            return Player.find()
+        })
+        .then(players => {
+            results.push(players)
+        })
+        .then(() => res.json([...new Set(results)]))
+        .catch(err => res.status(400).json("Error:" + err))
     })
 
     app.get("/player-analysis/:id", (req, res) => {

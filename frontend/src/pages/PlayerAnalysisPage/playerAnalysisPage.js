@@ -22,8 +22,8 @@ const PlayerAnalysisPage = () => {
         try {
              await axios.get(url)
                 .then(res => {
-                    console.log(res)
-                    setTournaments(res.data)
+                    setTournaments(res.data[0])
+                    setPlayers(res.data[1])
                     setIsLoading(false)
                 })
         } catch (e) {
@@ -35,9 +35,10 @@ const PlayerAnalysisPage = () => {
         const allPlayers = createUsers(tournaments, heroName)
         const url = "http://localhost:3001/player-analysis"
         setPlayers(allPlayers)
+        setIsLoading(true)
 
         let successMessageList = []
-        allPlayers.splice(1,10).forEach(player => {
+        allPlayers.splice(1,500).forEach((player,index) => {
             const newPlayer = {
                 playerId: player.playerId,
                 playerName: player.playerName,
@@ -46,13 +47,18 @@ const PlayerAnalysisPage = () => {
                 playerTournaments: player.playerTournaments
             }
             
-            axios.post(url, newPlayer)
-            successMessageList.push(`Added Player: ${newPlayer.playerName} (${newPlayer.playerCountry})`)
-            console.log(`Added Player: ${newPlayer.playerName} (${newPlayer.playerCountry})`)
+            setTimeout(async () => {
+                await axios.post(url, newPlayer)
+                console.log(`Loading ${index+1} of ${allPlayers.length}`)
+            }, 1000)
+            
         })
 
+        successMessageList.push(`Added Players: ${allPlayers.length}`)
+        console.log(`Added Players: ${allPlayers.length}`)
         setModalContent({successMessageList})
         openModal()
+        setIsLoading(false)
     }
 
     const updateUserClick = () => {
@@ -69,7 +75,7 @@ const PlayerAnalysisPage = () => {
 
     return (        
         <div>
-            {isLoading && <div>Loading and creating user list...</div>}
+            {isLoading && <div>Loading user list...</div>}
             {!isLoading &&
                 <div>
                     {players.length > 0 &&
@@ -86,7 +92,7 @@ const PlayerAnalysisPage = () => {
                     </div>
                     <hr />
                     <ul style={{display: "flex", flexWrap: "wrap" }}>
-                        {players.splice(1, 100).map(
+                        {players.map(
                             (player, index) => 
                             <li 
                                 style={{
