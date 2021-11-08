@@ -3,12 +3,12 @@ import axios from "axios"
 
 import EditablePanels from "./components/EditablePanels"
 import PlayerPlacements from "./components/PlayerPlacements"
-// import PlayerPlacements from "./components/PlayerPlacements"
 
 const heroName = "KeinKönich"
 
 const TournamentPage = () => {
     const [tournament, setTournament] = useState([])
+    const [players, setPlayers] = useState([])
     const [isLoading, setIsLoading] = useState(true)
     const [isEditMode, setIsEditMode] = useState(false)
     const [formState, setFormState] = useState({})
@@ -20,19 +20,20 @@ const TournamentPage = () => {
         try {
              await axios.get(url)
                 .then(res => {
-                    setPlayerPosition(res.data[0].placements.find(element => element.playerName === heroName)?.finishPosition)
-                    setTournament(res.data[0])
+                    setPlayerPosition(res.data[0][0].placements.find(element => element.playerName === heroName)?.finishPosition)
+                    setTournament(res.data[0][0])
                     setFormState({
-                        buyIn: res.data[0].buyIn,
-                        rake: res.data[0].rake,
-                        rebuys: res.data[0].rebuys,
-                        prizePool: res.data[0].prizePool,
-                        startDate: res.data[0].startDate,
-                        startTime: res.data[0].startTime,
-                        finalPosition: res.data[0].finalPosition,
-                        playerPrizeMoney: res.data[0].playerPrizeMoney,
-                        bounties: res.data[0].bounties
-                    })         
+                        buyIn: res.data[0][0].buyIn,
+                        rake: res.data[0][0].rake,
+                        rebuys: res.data[0][0].rebuys,
+                        prizePool: res.data[0][0].prizePool,
+                        startDate: res.data[0][0].startDate,
+                        startTime: res.data[0][0].startTime,
+                        finalPosition: res.data[0][0].finalPosition,
+                        playerPrizeMoney: res.data[0][0].playerPrizeMoney,
+                        bounties: res.data[0][0].bounties
+                    })
+                    setPlayers(res.data[1])
                     setIsLoading(false)          
                 })
         } catch (e) {
@@ -129,14 +130,13 @@ const TournamentPage = () => {
                 { tournament?.placements.length > 0 &&
                     <h2>Final known positions of {tournament?.playerAmount} players</h2>
                 }                
-                <div className="Player_Container">
-                    {Object.keys(tournament?.placements).map((key,index) => 
-                        <PlayerPlacements 
-                            key={index} 
-                            heroName={heroName} 
+                <div className="Player_Container">                    
+                        <PlayerPlacements
+                            heroName={heroName}
+                            players={players}
                             heroPosition={playerPosition} 
-                            placement={tournament.placements[key]} 
-                        />)} 
+                            tournament={tournament}
+                        />
                 </div>
             </>
             }
