@@ -5,6 +5,7 @@ export const createUsers = (tournaments, heroName) => {
     let allPlayersList = []
     let tournamentsList = []
     let playerCountry = ""
+    let playerName = ""
 
     tournaments.forEach(item => {
         const placements = item.placements            
@@ -14,18 +15,22 @@ export const createUsers = (tournaments, heroName) => {
 
         allPlayersList = [...new Set(allPlayers)]
     })
-
+    
     const playersMap = allPlayersList.map(player => {
         const allTournaments = tournaments.filter(tournament => {
             return tournament.placements.find(item => item.playerName === player)
         })
+
+        let tournamentsIdList = []
                 
         tournamentsList = [...new Set(allTournaments)]
 
         tournamentsList.find(tournament => {
             playerCountry = (tournament.placements.find(item => item.playerName === player)).playerCountry
+            playerName = (tournament.placements.find(item => item.playerName === player)).playerName
+            if (playerName === player) tournamentsIdList.push(tournament.tournamentId)
         })
-        
+      
         const newPlayerId = uuidv4()
 
         const playerMap = [
@@ -33,9 +38,9 @@ export const createUsers = (tournaments, heroName) => {
             [ "playerName", player ],
             [ "playerCountry", playerCountry ],
             [ "playerIsHero", player === heroName ? true : false ],
-            [ "playerTournaments", tournamentsList ]
+            [ "playerTournaments", tournamentsIdList ]
         ]
-
+        
         return Object.fromEntries(playerMap)
     })
 
