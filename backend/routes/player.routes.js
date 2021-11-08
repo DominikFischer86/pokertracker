@@ -1,4 +1,4 @@
-const Player = require("../models/Players")
+const Players = require("../models/Players")
 const Tournament = require("../models/Tournament")
 
 
@@ -9,7 +9,7 @@ module.exports = app => {
         Tournament.find()
         .then(tournaments => {
             results.push(tournaments)
-            return Player.find()
+            return Players.find()
         })
         .then(players => {
             results.push(players)
@@ -21,24 +21,39 @@ module.exports = app => {
     app.get("/player-analysis/:id", (req, res) => {
         const id = req.params.id
 
-        Player.find({ playerId: id })
+        Players.find({ playerId: id })
+            .then(players => res.json(players))
+            .catch(err => res.status(400).json("Error: " + err))
+    })
+
+    app.get("/player/:id", (req, res) => {
+        const id = req.params.id
+
+        Players.find({ playerId: id })
             .then(players => res.json(players))
             .catch(err => res.status(400).json("Error: " + err))
     })
 
     // create route
     app.post("/player-analysis", (req, res) => {
-        const newPlayer = new Player({
-            playerId: req.body.playerId,
-            playerName: req.body.playerName,
-            playerCountry: req.body.playerCountry,
-            playerIsHero: req.body.playerIsHero,
-            playerTournaments: req.body.playerTournaments
-        })
-
-        newPlayer.save()
+        const newPlayers = new Players()
+        console.log(req.body)
+        Players.collection.insertMany(req.body)
         .then(res.status(200).json("Added player successfully"))
         .catch(err => res.status(400).json("Error: " + err))
+    })
+
+    // delete route
+    app.delete("/player-analysis/:id", (req, res) => {
+        const id = req.params.id
+
+        Players.findOneAndDelete({ playerId: id }, (req, res, err) => {
+            if (!err) {
+                console.log("Player deleted")
+            } else {
+                console.log(err)
+            }
+        })
     })
 
     // update route
@@ -46,7 +61,7 @@ module.exports = app => {
         const data = req.body
         const { id } = data.playerId        
 
-        Player.findOneAndUpdate({ playerId: id }), { $set: data }, err => {
+        Players.updateMany({ playerId: id }), { $set: data }, err => {
             if (!err) {
                 console.log(`Player ${id} updated.`)
             } else {

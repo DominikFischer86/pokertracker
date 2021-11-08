@@ -1,3 +1,4 @@
+const Players = require("../models/Players")
 const Tournament = require("../models/Tournament")
 
 module.exports = app => {
@@ -23,9 +24,19 @@ module.exports = app => {
 
     app.get("/tournament/:id", (req, res) => {
         const id = req.params.id
+        let playerList = []
+        let results = []
 
         Tournament.find({ tournamentId: id })
-            .then(tournament => res.json(tournament))
+            .then(tournament => {                
+                tournament[0].placements.map(player => playerList.push(player.playerName))
+                results.push(tournament)
+                return Players.find({"playerName":{ "$in": playerList}})
+            })
+            .then(players => {
+                results.push(players)
+            })
+            .then(() => res.json([...new Set(results)]))
             .catch(err => res.status(400).json("Error: " + err))
     })
 
@@ -58,7 +69,7 @@ module.exports = app => {
 
         Tournament.findOneAndDelete({ tournamentId: id}, (req, res, err) => {
             if (!err) {
-                console.log("Item deleted")
+                console.log("Tournament deleted")
             } else {
                 console.log(err)
             }

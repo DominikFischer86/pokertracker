@@ -1,5 +1,5 @@
 import React from "react"
-import { Switch, Route, Link } from "react-router-dom"
+import { Switch, Route, NavLink } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
 import HomePage from "./pages/HomePage/homePage"
@@ -8,6 +8,7 @@ import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
 import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
 import ResultsPage from "./pages/ResultsPage/resultsPage"
 import TournamentPage from "./pages/TournamentPage/tournamentPage"
+import PlayerPage from "./pages/PlayerPage/playerPage"
 
 function App() {
   return (
@@ -18,24 +19,24 @@ function App() {
        </a>
        <div className="navbar-nav mr-auto">
          <li className="nav-item">
-           <Link to={"/import"} className="nav-link">
+           <NavLink to={"/import"} className="nav-link">
              Import
-           </Link>
+           </NavLink>
          </li>
          <li className="nav-item">
-           <Link to={"/results"} className="nav-link">
+           <NavLink to={"/results"} className="nav-link">
              Results
-           </Link>
+           </NavLink>
          </li>
          <li className="nav-item">
-           <Link to={"/player-analysis"} className="nav-link">
+           <NavLink to={"/player-analysis"} className="nav-link">
              Player Analysis
-           </Link>
+           </NavLink>
          </li>
          <li className="nav-item">
-           <Link to={"/tax-report"} className="nav-link">
+           <NavLink to={"/tax-report"} className="nav-link">
              Tax Report
-           </Link>
+           </NavLink>
          </li>
        </div>
      </nav>
@@ -64,7 +65,11 @@ function App() {
               render={(props) => (
                 <PlayerAnalysisPage {...props} />
               )}
-            />    
+            />
+            <Route
+              path="/player"
+              component={PlayerPage}
+            />
             <Route 
               path="/tax-report"
               render={(props) => (
