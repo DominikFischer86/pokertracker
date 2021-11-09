@@ -38,11 +38,11 @@ const ResultsPage = () => {
                 axios.delete(url + id)
                 setIsLoading(false)
                 console.log(`%c Deleted tournament: #${id}`, "color: red")
-                setRefetch(refetch+1)
             } catch (e) {
                 console.log(e)
             }            
         }         
+        setRefetch(refetch+1)
     }
 
     if (tournaments?.length == 0) return <div>No tournaments in database</div>
