@@ -2,6 +2,10 @@ Start:
 - start server in root: yarn start
 - start development in ./frontend: yarn start
 
+Videodemo:
+- [![IMAGE ALT TEXT](http://img.youtube.com/vi/pv4PZYIivWI/0.jpg)](http://www.youtube.com/watch?v=pv4PZYIivWI "Pokertracker Videodemo")
+
+
 Roadmap:
 
 1. ~~Read textfiles via node fs and file-select library~~
