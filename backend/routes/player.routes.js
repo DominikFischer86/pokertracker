@@ -28,16 +28,22 @@ module.exports = app => {
 
     app.get("/player/:id", (req, res) => {
         const id = req.params.id
-
-        Players.find({ playerId: id })
-            .then(players => res.json(players))
-            .catch(err => res.status(400).json("Error: " + err))
+        let results = []
+        Tournament.find()
+        .then(tournaments => {
+            results.push(tournaments)
+            return Players.find({ playerId: id })
+        })
+        .then(players => {
+            results.push(players)
+        })
+        .then(() => res.json([...new Set(results)]))
+        .catch(err => res.status(400).json("Error: " + err))
     })
 
     // create route
     app.post("/player-analysis", (req, res) => {
         const newPlayers = new Players()
-        console.log(req.body)
         Players.collection.insertMany(req.body)
         .then(res.status(200).json("Added player successfully"))
         .catch(err => res.status(400).json("Error: " + err))
