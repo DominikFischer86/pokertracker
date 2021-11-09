@@ -131,12 +131,12 @@ const TournamentPage = () => {
                     <h2>Final known positions of {tournament?.playerAmount} players</h2>
                 }                
                 <div className="Player_Container">                    
-                        <PlayerPlacements
-                            heroName={heroName}
-                            players={players}
-                            heroPosition={playerPosition} 
-                            tournament={tournament}
-                        />
+                    <PlayerPlacements
+                        heroName={heroName}
+                        players={players}
+                        heroPosition={playerPosition} 
+                        tournament={tournament}
+                    />
                 </div>
             </>
             }
