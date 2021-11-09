@@ -15,6 +15,12 @@ nav {
             justify-content: flex-end;
         }
     }
+
+    .nav-item {
+        &.disabled {
+            display: none;
+        }
+    }
 }
 
 button {

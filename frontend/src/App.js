@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import HomePage from "./pages/HomePage/homePage"
 import ImportPage from "./pages/ImportPage/importPage"
 import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
-import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
+// import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
 import ResultsPage from "./pages/ResultsPage/resultsPage"
 import TournamentPage from "./pages/TournamentPage/tournamentPage"
 import PlayerPage from "./pages/PlayerPage/playerPage"
@@ -33,7 +33,7 @@ function App() {
              Player Analysis
            </NavLink>
          </li>
-         <li className="nav-item">
+         <li className="nav-item disabled">
            <NavLink to={"/tax-report"} className="nav-link">
              Tax Report
            </NavLink>
@@ -70,12 +70,14 @@ function App() {
               path="/player"
               component={PlayerPage}
             />
+            {/*
             <Route 
               path="/tax-report"
               render={(props) => (
                 <TaxReportPage {...props} />
               )}
-            />    
+            />   
+           */} 
        </Switch>
      </div>
    </div>
