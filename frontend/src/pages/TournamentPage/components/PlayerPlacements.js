@@ -6,7 +6,7 @@ import { FaCoins } from "react-icons/fa"
 const PlayerPlacements = ({players, tournament, heroPosition, heroName}) => {
     const url = "http://localhost:3000/player/"
 
-    const playerUrl = playerName => {
+    const playerUrl = playerName => {        
         const player = players.find(player => player.playerName === playerName)
         const { playerId } = player
         return url+playerId
@@ -14,6 +14,8 @@ const PlayerPlacements = ({players, tournament, heroPosition, heroName}) => {
 
     return (        
          <div className="results_table">
+            {players.length < 1 && <div>No player information available</div>}
+            {players.length > 0 &&
             <table>
                 <thead>
                     <tr>
@@ -39,6 +41,7 @@ const PlayerPlacements = ({players, tournament, heroPosition, heroName}) => {
                         })}
                 </tbody>
             </table>
+            }
         </div>
     )
 }
@@ -46,7 +49,7 @@ const PlayerPlacements = ({players, tournament, heroPosition, heroName}) => {
 PlayerPlacements.propTypes = {
     players: PropTypes.array.isRequired,
     tournament: PropTypes.object.isRequired,
-    heroPosition: PropTypes.number.isRequired,
+    heroPosition: PropTypes.number,
     heroName: PropTypes.string.isRequired
 }
 
