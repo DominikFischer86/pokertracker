@@ -1,3 +1,10 @@
+Name ideas:
+- TracKing
+- TrackAces
+- SnapTrack
+- Trackshot
+- CatchSet
+
 Start:
 - start server in root: yarn start
 - start development in ./frontend: yarn start
