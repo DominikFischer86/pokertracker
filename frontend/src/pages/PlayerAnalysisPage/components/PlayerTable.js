@@ -13,7 +13,6 @@ const PlayerTable = ({isLoading, players, onDelete}) => {
                     <thead>
                         <tr>
                             <th>#</th>
-                            <th>Player Id</th>
                             <th>Name</th>
                             <th>Country</th>
                             <th>Played tournaments</th>
@@ -29,8 +28,7 @@ const PlayerTable = ({isLoading, players, onDelete}) => {
                                     : null                                            
                                 }>
                                 <td>#{i+1}</td>
-                                <td><a href={`/player/${player.playerId}`}>{player.playerId}</a></td>
-                                <td>{player.playerName}</td>
+                                <td><a href={`/player/${player.playerId}`}>{player.playerName}</a></td>
                                 <td>{player.playerCountry}</td>
                                 <td>{player.playerTournaments.length}</td>
                                 <td>
