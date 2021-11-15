@@ -1,69 +1,77 @@
 import React, { useState, useEffect} from "react"
+import { Switch } from "@react-md/form"
 import axios from "axios"
 
+import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
+import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/config"
+
+import "./PlayerPage.scss"
 
 const PlayerPage = () => {
-    const [isLoading, setIsLoading] = useState(true)
-    const [player, setPlayer] = useState([])
-    const [allTournaments, setAllTournaments] = useState([])
-
     const url = "http://localhost:3001" + window.location.pathname
-    const { playerCountry, playerName, playerIsHero, playerTournaments } = player
-
     useEffect(() => {
         try {
              axios.get(url)
                 .then(res => {
-                    setIsLoading(true)
-                    setAllTournaments(res.data[0])
-                    setPlayer(res.data[1][0])
-                    setIsLoading(false)
+                    setDatabase(res.data)
                 })
          } catch (e) {
             console.log(e)
         }
     }, [])
 
+    const [database, setDatabase] = useState([])
+    const [toggleResults, setToggleResults] = useState(false)
+    let player = database[1]?.[0]
+    let allTournaments = database[0]
 
-    const selectTournamentsList = allTournaments.filter(tournament => {
+    if (!player || !allTournaments) return <div>Loading user...</div>
+
+    const { playerCountry, playerName, playerIsHero, playerTournaments } = player
+
+    // Array with all (but unverified) final positions
+    const estimatedTournamentResults = allTournaments.filter(tournament => {
         return tournament.placements?.find(placement => placement.playerName === playerName)
     })
 
-    console.log(selectTournamentsList)
-
-    // (estimated)
-    // unclear data tournaments (finished before hero)
-    // total buy-in
-    // total rake
-    // total winnings
-    // total profit
-    // average ROI
-    // average stake
-    // average profit
-
-     // (real)
-    // clear data tournaments (known final position)
-    // total buy-in
-    // total rake
-    // total winnings
-    // total profit
-    // average ROI
-    // average stake
-    // average profit
-
+    // Create array with player final position earlier than hero final position for verified data
+    const realTournamentResults = estimatedTournamentResults.filter(element => {
+        let heroPosition = element.finalPosition
+        let playerPosition = element.placements.find(placement => {
+            return (placement.playerName === playerName && placement.finishPosition)
+        })
+        return heroPosition < playerPosition.finishPosition
+    })
+  
     // playing dates
     // playing times
 
     return (
         <div>
-        {isLoading && <div>Loading user...</div>}
-            {!isLoading && 
-                <>
-                    <h2>{playerName} ({playerCountry})</h2>
-                    <p>(Tournaments played: {playerIsHero ? allTournaments.length : playerTournaments.length})</p>
-                    <hr />
-                </>
-            }
+            <>
+                <h2>{playerName} ({playerCountry})</h2>
+                <p>(Tournaments played: {playerIsHero ? allTournaments.length : playerTournaments.length})</p>
+                <hr />
+                <div className="PlayerPage__heading">
+                    <h3>{toggleResults ? "Estimated Results" : "Verified Results"}</h3>
+                    <Switch 
+                        id="results-switcher" 
+                        name="results-switcher" 
+                        label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
+                        onChange={() => setToggleResults(!toggleResults)} 
+                    />
+                </div>
+                <div className="overViewTable">                    
+                    <OverviewTable filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}/>                    
+                </div>
+                <div className="graph_wrapper">
+                        <ResponsiveLineContainer 
+                            filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} 
+                            toggleRake={false}
+                            toggleBounties={false}
+                        />
+                </div>
+            </>
         </div>
     )
 }

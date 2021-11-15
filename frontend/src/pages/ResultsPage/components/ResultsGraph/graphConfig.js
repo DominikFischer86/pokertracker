@@ -53,5 +53,6 @@ export const data = (tournaments, toggleRake, toggleBounties) => {
     if (toggleBounties && toggleRake) return dataGraphs
     if (toggleRake) return dataGraphs.filter(element => element.id == "Winnings" || element.id == "Rake")
     if (toggleBounties) return dataGraphs.filter(element => element.id == "Winnings" || element.id == "Bounties")
+    if (!toggleRake || !toggleBounties) return dataGraphs.filter(element => {return element.id == "Winnings"})
     return dataGraphs.filter(element => {return element.id == "Winnings"})
 }
