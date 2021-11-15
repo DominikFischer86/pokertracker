@@ -30,18 +30,23 @@ const PlayerPage = () => {
     const { playerCountry, playerName, playerIsHero, playerTournaments } = player
 
     // Array with all (but unverified) final positions
-    const estimatedTournamentResults = allTournaments.filter(tournament => {
+    let estimatedTournamentResults = allTournaments.filter(tournament => {
         return tournament.placements?.find(placement => placement.playerName === playerName)
     })
 
     // Create array with player final position earlier than hero final position for verified data
-    const realTournamentResults = estimatedTournamentResults.filter(element => {
+    let realTournamentResults = estimatedTournamentResults.filter(element => {
         let heroPosition = element.finalPosition
         let playerPosition = element.placements.find(placement => {
             return (placement.playerName === playerName && placement.finishPosition)
         })
         return heroPosition < playerPosition.finishPosition
     })
+
+    if (playerIsHero) {
+        estimatedTournamentResults = allTournaments
+        realTournamentResults = allTournaments
+    }
   
     // playing dates
     // playing times
