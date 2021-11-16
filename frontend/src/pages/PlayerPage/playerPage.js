@@ -7,6 +7,8 @@ import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTa
 import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/config"
 import PlayerResultsTable from "./components/PlayerResultsTable"
 
+import { data, keys } from "./graphConfig"
+
 import "./PlayerPage.scss"
 
 const PlayerPage = () => {
@@ -107,11 +109,19 @@ const PlayerPage = () => {
                             tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}
                         />
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-4 dayGraph">
                         <h3>Starting dates</h3>
-                        <ResponsiveBar />
+                        <ResponsiveBar 
+                            data={data(estimatedTournamentResults)}
+                            keys={keys()}
+                            indexBy="hour"
+                            valueScale={{ type: 'linear' }}
+                            role="application"
+                            ariaLabel="Start Time Display"
+                        />
                     </div>
                 </div>
+                <hr />
             </>
         </div>
     )
