@@ -1,4 +1,3 @@
-
 export const data = (tournaments, toggleRake, toggleBounties) => {
     let netWin = 0
     let totalCash = 0
