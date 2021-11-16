@@ -1,9 +1,11 @@
 import React, { useState, useEffect} from "react"
 import { Switch } from "@react-md/form"
 import axios from "axios"
+import { ResponsiveBar } from "@nivo/bar"
 
 import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
 import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/config"
+import PlayerResultsTable from "./components/PlayerResultsTable"
 
 import "./PlayerPage.scss"
 
@@ -30,17 +32,38 @@ const PlayerPage = () => {
     const { playerCountry, playerName, playerIsHero, playerTournaments } = player
 
     // Array with all (but unverified) final positions
-    let estimatedTournamentResults = allTournaments.filter(tournament => {
+    let playerSpecificTournaments = allTournaments.filter(tournament => {
         return tournament.placements?.find(placement => placement.playerName === playerName)
     })
 
-    // Create array with player final position earlier than hero final position for verified data
-    let realTournamentResults = estimatedTournamentResults.filter(element => {
-        let heroPosition = element.finalPosition
-        let playerPosition = element.placements.find(placement => {
-            return (placement.playerName === playerName && placement.finishPosition)
+    // Transform array for player specific information
+    let estimatedTournamentResults = playerSpecificTournaments.map(tournament => {
+
+        const player = tournament.placements.find(placement => {
+             return placement.playerName === playerName
         })
-        return heroPosition < playerPosition.finishPosition
+
+        return {
+            buyIn: tournament.buyIn,
+            bounties: 0,
+            rebuys: 0,
+            heroFinalPosition: tournament.finalPosition,
+            finalPosition: player.finishPosition,
+            playerPrizeMoney: player.prizeMoney,
+            playerAmount: tournament.playerAmount,
+            prizePool: tournament.prizePool,
+            rake: tournament.rake,
+            startDate: tournament.startDate,
+            startTime: tournament.startTime,
+            timeStamp: tournament.timeStamp,
+            tournamentId: tournament.tournamentId,
+            _id: tournament._id
+        }
+    })
+  
+    // Create array with player final position earlier than hero final position for verified data
+    let realTournamentResults = estimatedTournamentResults.filter(tournament => {
+        return tournament.heroFinalPosition < tournament.finalPosition
     })
 
     if (playerIsHero) {
@@ -75,6 +98,19 @@ const PlayerPage = () => {
                             toggleRake={false}
                             toggleBounties={false}
                         />
+                </div>
+                <hr />
+                <div className="row mt10">
+                    <div className="col-lg-8">
+                        <h3>All Tournaments ({toggleResults ? estimatedTournamentResults.length : realTournamentResults.length})</h3>
+                        <PlayerResultsTable 
+                            tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}
+                        />
+                    </div>
+                    <div className="col-lg-4">
+                        <h3>Starting dates</h3>
+                        <ResponsiveBar />
+                    </div>
                 </div>
             </>
         </div>
