@@ -15,7 +15,6 @@ const PlayerResultsTable = ({tournaments}) => {
                             <th>Buy-In</th>
                             <th>Rake</th>
                             <th>Prize Pool</th>
-                            <th>Start Date</th>
                             <th>Start Time</th>
                             <th>Position</th>
                             <th>Cashes</th>
@@ -35,8 +34,7 @@ const PlayerResultsTable = ({tournaments}) => {
                                 <td>${tournament.buyIn}</td>
                                 <td>${tournament.rake}</td>
                                 <td>${tournament.prizePool}</td>
-                                <td>{tournament.startDate}</td>
-                                <td>{tournament.startTime}</td>
+                                <td>{tournament.startDate} - {tournament.startTime}</td>
                                 <td>{tournament.finalPosition + "/" + tournament.playerAmount}</td>
                                 <td>{tournament.playerPrizeMoney}</td>             
                             </tr>
