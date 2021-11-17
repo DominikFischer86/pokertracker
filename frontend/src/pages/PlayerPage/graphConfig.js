@@ -1,61 +1,36 @@
-export const keys = () => {
+export const hourKeys = () => {
     let keys = []
-    for(let i = 0; i <= 24; i++){
+    for(let i = 0; i <= 23; i++){
         keys.push(i)
     }
     return keys
 }
 
-export const data = tournaments => {
+export const dayKeys = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+
+export const data = (tournaments, toggleDateResults) => {
     let dataArray = []
-    let keyArray = keys()
-    
-    keyArray.forEach((key, index) => {
+    let keyArray = toggleDateResults ? hourKeys() : dayKeys
+
+    if(toggleDateResults) {
+      keyArray.forEach((key, index) => {
         let counter = 0
         tournaments.map(tournament => {
             let startTime = parseFloat(tournament.startTime.split(":")[0])
-            if (startTime === key) return dataArray[index] = {hour: key, amount: 1 + counter++}
-            return dataArray[index] = {hour: key, amount: counter}
+            if (startTime === key) return dataArray[index] = {x: key.toString(), [key]: 1 + counter++, color: `hsl(${360-15*key}, 100%, 50%)`}
+            return dataArray[index] = {x: key.toString(), [key]: counter, color: `hsl(${360-15*key}, 100%, 50%)`}
         })
-    })
-
+      })
+    } else {
+      keyArray.forEach((key, index) => {
+        let counter = 0
+        tournaments.map(tournament => {
+            const newDate = new Date(tournament.timeStamp)
+            const startDay = newDate.getDay()
+            if (startDay === index) return dataArray[index] = {x: key.toString(), [key]: 1 + counter++, color: `hsl(${360-51*index}, 100%, 50%)`}
+            return dataArray[index] = {x: key.toString(), [key]: counter, color: `hsl(${360-51*index}, 100%, 50%)`}
+        })
+      })
+    }
     return dataArray
 }
-
-export const testData = [
-    {
-      "country": "0",
-      "hot dog": 103,
-      "hot dogColor": "hsl(225, 70%, 50%)"
-    },
-    {
-      "country": "1",
-      "hot dog": 29,
-      "hot dogColor": "hsl(304, 70%, 50%)"
-    },
-    {
-      "country": "2",
-      "hot dog": 135,
-      "hot dogColor": "hsl(154, 70%, 50%)"
-    },
-    {
-      "country": "3",
-      "hot dog": 178,
-      "hot dogColor": "hsl(259, 70%, 50%)"
-    },
-    {
-      "country": "4",
-      "hot dog": 68,
-      "hot dogColor": "hsl(99, 70%, 50%)"
-    },
-    {
-      "country": "5",
-      "hot dog": 145,
-      "hot dogColor": "hsl(306, 70%, 50%)"
-    },
-    {
-      "country": "6",
-      "hot dog": 183,
-      "hot dogColor": "hsl(181, 70%, 50%)"
-    }
-  ]
