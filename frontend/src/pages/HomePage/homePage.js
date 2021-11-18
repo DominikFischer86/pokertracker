@@ -1,9 +1,10 @@
 import React from "react"
+import Spinner from "../../components/Spinner/Spinner"
 
 const HomePage = () => {
     return (
         <div>
-            HomePage
+           <Spinner />
         </div>
     )
 }
