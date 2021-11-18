@@ -15,10 +15,10 @@ const TournamentPage = () => {
     const [refetch, setRefetch] = useState(0)
     const [playerPosition, setPlayerPosition] = useState(0)
     const url = "http://localhost:3001" + window.location.pathname
-   
-    useEffect(async () => {
+
+    useEffect(() => {
         try {
-             await axios.get(url)
+             axios.get(url)
                 .then(res => {
                     setPlayerPosition(res.data[0][0].placements.find(element => element.playerName === heroName)?.finishPosition)
                     setTournament(res.data[0][0])
@@ -34,21 +34,21 @@ const TournamentPage = () => {
                         bounties: res.data[0][0].bounties
                     })
                     setPlayers(res.data[1])
-                    setIsLoading(false)          
+                    setIsLoading(false)
                 })
         } catch (e) {
             console.log(e)
         }
-    }, [refetch])
+    }, [refetch, url])
 
     const handleChange = (property, e) => {
         setFormState(oldState => ({ ...oldState, [property]: e.target.value }))
-        
+
     }
 
     const submitChange = async () => {
         const data = {
-            ...tournament, 
+            ...tournament,
             buyIn: parseFloat(formState.buyIn),
             rake: parseFloat(formState.rake),
             rebuys: parseFloat(formState.rebuys),
@@ -60,13 +60,13 @@ const TournamentPage = () => {
             bounties: parseFloat(formState.bounties)
         }
 
-        await axios.patch(url, data).then(            
+        await axios.patch(url, data).then(
             alert("Successfully updated tournament #" + tournament.tournamentId),
             setIsEditMode(false),
             setRefetch(refetch + 1)
         )
     }
-    
+
 
     const props = {
         isEditMode: isEditMode,
@@ -91,28 +91,28 @@ const TournamentPage = () => {
                         property="buyIn"
                         {...props}
                     />
-                    <EditablePanels 
+                    <EditablePanels
                         property="rake"
                         {...props}
                     />
-                    <EditablePanels 
+                    <EditablePanels
                         isEditable
                         property="rebuys"
                         {...props}
                     />
-                    <EditablePanels 
+                    <EditablePanels
                         property="prizePool"
                         {...props}
                     />
-                    <EditablePanels                         
+                    <EditablePanels
                         property="startDate"
                         {...props}
                     />
-                    <EditablePanels                         
+                    <EditablePanels
                         property="startTime"
                         {...props}
                     />
-                    <EditablePanels 
+                    <EditablePanels
                         property="finalPosition"
                         {...props}
                     />
@@ -120,7 +120,7 @@ const TournamentPage = () => {
                         property="playerPrizeMoney"
                         {...props}
                     />
-                    <EditablePanels 
+                    <EditablePanels
                         isEditable
                         property="bounties"
                         {...props}
@@ -129,12 +129,12 @@ const TournamentPage = () => {
                 <hr />
                 { tournament?.placements.length > 0 &&
                     <h2>Final known positions of {tournament?.playerAmount} players</h2>
-                }                
-                <div className="Player_Container">                    
+                }
+                <div className="Player_Container">
                     <PlayerPlacements
                         heroName={heroName}
                         players={players}
-                        heroPosition={playerPosition} 
+                        heroPosition={playerPosition}
                         tournament={tournament}
                     />
                 </div>

@@ -17,11 +17,11 @@ const ResultsPage = () => {
 
     const tabs = ["Folder", "Graphs"]
 
-    const url = "http://localhost:3001/results/"    
+    const url = "http://localhost:3001/results/"
 
-    useEffect(async () => {
+    useEffect(() => {
         try {
-            await axios.get(url)
+            axios.get(url)
                 .then(res => {
                     setIsLoading(false)
                     setTournaments(res.data)
@@ -40,8 +40,8 @@ const ResultsPage = () => {
                 console.log(`%c Deleted tournament: #${id}`, "color: red")
             } catch (e) {
                 console.log(e)
-            }            
-        }         
+            }
+        }
         setRefetch(refetch+1)
     }
 
@@ -58,7 +58,7 @@ const ResultsPage = () => {
                 <hr />
                 <TabPanels>
                     <TabPanel>
-                        <ResultsFolder 
+                        <ResultsFolder
                             sortedTournaments={sortedTournaments}
                             dateFormattedTournaments={dateFormattedTournaments}
                             isLoading={isLoading}
@@ -66,14 +66,14 @@ const ResultsPage = () => {
                         />
                     </TabPanel>
                     <TabPanel>
-                        <ResultsGraph 
+                        <ResultsGraph
                             tournaments={tournaments}
-                            isLoading={isLoading} 
+                            isLoading={isLoading}
                         />
                     </TabPanel>
                 </TabPanels>
             </TabsManager>
-        </div>        
+        </div>
     )
 }
 

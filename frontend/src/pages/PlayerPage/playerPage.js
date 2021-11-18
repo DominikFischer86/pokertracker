@@ -22,7 +22,7 @@ const PlayerPage = () => {
          } catch (e) {
             console.log(e)
         }
-    }, [])
+    }, [url])
 
     const [database, setDatabase] = useState([])
     const [toggleResults, setToggleResults] = useState(false)
@@ -63,7 +63,7 @@ const PlayerPage = () => {
             _id: tournament._id
         }
     })
-  
+
     // Create array with player final position earlier than hero final position for verified data
     let realTournamentResults = estimatedTournamentResults.filter(tournament => {
         return tournament.heroFinalPosition < tournament.finalPosition
@@ -73,7 +73,7 @@ const PlayerPage = () => {
         estimatedTournamentResults = allTournaments
         realTournamentResults = allTournaments
     }
-  
+
     // playing dates
     // playing times
 
@@ -84,19 +84,19 @@ const PlayerPage = () => {
             <hr />
             <div className="PlayerPage__heading">
                 <h3>{toggleResults ? "Estimated Results" : "Verified Results"}</h3>
-                <Switch 
-                    id="results-switcher" 
-                    name="results-switcher" 
+                <Switch
+                    id="results-switcher"
+                    name="results-switcher"
                     label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
-                    onChange={() => setToggleResults(!toggleResults)} 
+                    onChange={() => setToggleResults(!toggleResults)}
                 />
             </div>
-            <div className="overViewTable">                    
-                <OverviewTable filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}/>                    
+            <div className="overViewTable">
+                <OverviewTable filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}/>
             </div>
             <div className="graph_wrapper">
-                    <ResponsiveLineContainer 
-                        filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} 
+                    <ResponsiveLineContainer
+                        filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}
                         toggleRake={false}
                         toggleBounties={false}
                     />
@@ -104,22 +104,22 @@ const PlayerPage = () => {
             <hr />
             <div>
                 <h3>All Tournaments ({toggleResults ? estimatedTournamentResults.length : realTournamentResults.length})</h3>
-                <PlayerResultsTable 
+                <PlayerResultsTable
                     tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}
                 />
             </div>
             <hr />
             <div className="PlayerPage__heading">
                 <h3>{toggleDateResults ? "Played at these hours" : "Played on these days"}</h3>
-                <Switch 
-                    id="date-switcher" 
-                    name="date-switcher" 
+                <Switch
+                    id="date-switcher"
+                    name="date-switcher"
                     label={!toggleDateResults ? "Show Start Times per day" : "Show Playing Times per week"}
-                    onChange={() => setToggleDateResults(!toggleDateResults)} 
+                    onChange={() => setToggleDateResults(!toggleDateResults)}
                 />
             </div>
-            <div className="dayGraph">                       
-                <ResponsiveBar 
+            <div className="dayGraph">
+                <ResponsiveBar
                     data={data(estimatedTournamentResults, toggleDateResults)}
                     keys={toggleDateResults ? hourKeys() : dayKeys}
                     indexBy="x"
@@ -127,7 +127,7 @@ const PlayerPage = () => {
                     padding={0.3}
                     valueScale={{ type: 'linear' }}
                     indexScale={{ type: 'band', round: true }}
-                    colors={{ scheme: 'category10' }}                        
+                    colors={{ scheme: 'category10' }}
                     borderColor={{ from: 'color', modifiers: [ [ 'darker', 1.6 ] ] }}
                     axisTop={null}
                     axisRight={null}
@@ -149,7 +149,7 @@ const PlayerPage = () => {
                     }}
                     labelSkipWidth={12}
                     labelSkipHeight={12}
-                    labelTextColor={{ from: 'color', modifiers: [ [ 'darker', 1.6 ] ] }}                            
+                    labelTextColor={{ from: 'color', modifiers: [ [ 'darker', 1.6 ] ] }}
                     role="application"
                     ariaLabel="Time of day chart"
                     barAriaLabel={function(e){return e.id+": "+e.formattedValue+" in day: "+e.indexValue}}

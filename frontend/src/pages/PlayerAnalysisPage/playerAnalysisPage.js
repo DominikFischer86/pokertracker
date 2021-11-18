@@ -15,14 +15,14 @@ const PlayerAnalysisPage = () => {
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
     const [modalContent, setModalContent] = useState({successMessageList: []})
     const [refetch, setRefetch] = useState(0)
-    
+
     const heroName = "KeinKönich"
 
     const url = "http://localhost:3001/player-analysis/"
 
-    useEffect(async () => {
+    useEffect(() => {
         try {
-             await axios.get(url)
+             axios.get(url)
                 .then(res => {
                     setTournaments(res.data[0])
                     setPlayers(res.data[1])
@@ -39,9 +39,9 @@ const PlayerAnalysisPage = () => {
         setIsLoading(true)
 
         let successMessageList = []
-        
+
         axios.post(url, allPlayers)
-                
+
         successMessageList.push(`Added Players: ${allPlayers.length}`)
         setModalContent({successMessageList})
         openModal()
@@ -81,11 +81,11 @@ const PlayerAnalysisPage = () => {
     }
 
     const openModal = () => {
-        setConfirmationModalIsOpen(true) 
+        setConfirmationModalIsOpen(true)
     }
 
     const closeModal = () => {
-        setConfirmationModalIsOpen(false)          
+        setConfirmationModalIsOpen(false)
     }
 
     const deletePlayer = id => {
@@ -97,29 +97,29 @@ const PlayerAnalysisPage = () => {
                 setRefetch(refetch+1)
             } catch (e) {
                 console.log(e)
-            }            
-        }         
+            }
+        }
     }
 
-    return (        
+    return (
         <div>
             {isLoading && <div>Loading user list...</div>}
             {!isLoading &&
                 <div>
                     {players.length > 0 &&
-                    <ImportConfirmationModal 
+                    <ImportConfirmationModal
                         confirmationModalIsOpen={confirmationModalIsOpen}
                         closeModal={closeModal}
                         modalContent={modalContent}
                     />
-                    }                     
+                    }
                     <div className="Player_analysis_title">
                         <h2>All Players {players.length > 0 ? `(${players.length})` : null}</h2>
                         <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
                         <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
                     </div>
                     <hr />
-                    <PlayerTable 
+                    <PlayerTable
                         players={players}
                         isLoading={isLoading}
                         onDelete={deletePlayer}

@@ -41,8 +41,8 @@ const ImportPage = () => {
             })
             .then(jsonRes => setTournaments(jsonRes))
             .catch(err => console.log(err))
-        
-    }, [tournamentPreviewExpanded])
+
+    }, [tournamentPreviewExpanded, url])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
@@ -55,7 +55,7 @@ const ImportPage = () => {
         multiple: true,
         idPrefix: "hands-group"
       });
-    
+
     const [panel1Props, panel2Props] = tournamentPanels;
     const [panel3Props, panel4Props] = handPanels;
 
@@ -63,7 +63,7 @@ const ImportPage = () => {
         setSkipFilePlacements(!skipFilePlacements)
     }
 
-    const submitData = () => {        
+    const submitData = () => {
         const url = "http://localhost:3001/import"
 
         let successMessageList = []
@@ -73,11 +73,11 @@ const ImportPage = () => {
         tournamentMap.forEach(tournament => {
             if (tournament.type){
                 console.log("%c Not imported: #" + tournament.failId + " - " + tournament.type, "color : red" )
-                return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`) 
+                return errorMessageList.push(`Not imported: #${tournament.failId} - ${tournament.type}`)
             }
 
-            const isFilterActive = tournament.playerAmount > 45 && !skipFilePlacements           
-   
+            const isFilterActive = tournament.playerAmount > 45 && !skipFilePlacements
+
             const newTournament = {
                 tournamentId: tournament.tournamentId,
                 buyIn: tournament.buyIn,
@@ -93,7 +93,7 @@ const ImportPage = () => {
                 bounties: tournament.bounties,
                 placements: isFilterActive ? [] : tournament.placements
              }
-            
+
              const tournamentExists = tournaments.some(
                 element => element.tournamentId === newTournament.tournamentId
             )
@@ -101,7 +101,7 @@ const ImportPage = () => {
                 console.log(`%c Tournament #${newTournament.tournamentId} already exists.`, "color: orange")
                 return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
             }
-            
+
             axios.post(url, newTournament)
             successMessageList.push(`Added Tournament: #${newTournament.tournamentId}`)
             console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
@@ -111,14 +111,14 @@ const ImportPage = () => {
         setModalContent(messageLists)
         openModal()
         setSkipFilePlacements(false)
-    }    
+    }
 
     const pickTournamentMultiFile =  e => {
         const files = e.currentTarget.files
         const newFiles = []
 
         Object.keys(files).forEach(index => {
-            const file = files[index]            
+            const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
                 const convertedFiles = tournamentFileConverter(reader.result, PLAYER)
@@ -127,7 +127,7 @@ const ImportPage = () => {
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
              }
-             reader.readAsText(file)              
+             reader.readAsText(file)
         })
 
         setFileExpanded(false)
@@ -139,7 +139,7 @@ const ImportPage = () => {
         const newFiles = []
 
         Object.keys(files).forEach(index => {
-            const file = files[index]            
+            const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
                 const convertedFiles = handFileConverter(reader.result, PLAYER)
@@ -148,7 +148,7 @@ const ImportPage = () => {
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
              }
-             reader.readAsText(file, 'CP1251')              
+             reader.readAsText(file, 'CP1251')
         })
 
         setFileExpanded(false)
@@ -157,13 +157,13 @@ const ImportPage = () => {
 
     const openModal = () => {
         setConfirmationModalIsOpen(true)
-        setTournamentPreviewExpanded(false)     
+        setTournamentPreviewExpanded(false)
     }
 
     const closeModal = () => {
-        setConfirmationModalIsOpen(false)          
+        setConfirmationModalIsOpen(false)
     }
-   
+
     return (
         <div>
             <TabsManager tabs={tabs} tabsId="tournament-results">
@@ -173,18 +173,18 @@ const ImportPage = () => {
                     <TabPanel>
                         <h2>Import Tournaments</h2>
                         <hr />
-                        <ImportConfirmationModal 
+                        <ImportConfirmationModal
                             confirmationModalIsOpen={confirmationModalIsOpen}
                             closeModal={closeModal}
                             modalContent={modalContent}
                         />
                         <ExpansionList onKeyDown={onTournamentKeyDown}>
                             {/* FILE PICKER SECTION */}
-                            <ExpansionPanel 
-                                {...panel1Props} 
-                                expanded={fileExpanded} 
-                                header="File Picker" 
-                                className="mt-2" 
+                            <ExpansionPanel
+                                {...panel1Props}
+                                expanded={fileExpanded}
+                                header="File Picker"
+                                className="mt-2"
                                 onExpandClick={() => {
                                     setFileExpanded(!fileExpanded)
                                 }}
@@ -194,38 +194,38 @@ const ImportPage = () => {
                                         <TournamentFilePicker pickMultiFile={pickTournamentMultiFile} multiple />
                                     </div>
                                     <div className="col-lg-6">
-                                        <Switch 
-                                            id="no-mtt-placement" 
+                                        <Switch
+                                            id="no-mtt-placement"
                                             name="no-mtt-placement"
-                                            label={!skipFilePlacements 
+                                            label={!skipFilePlacements
                                                 ? "Deny MTT placements"
                                                 : "Allow MTT placements (big data load!)"
                                             }
                                             onChange={handleFileSwitch}
                                         />
                                         <p>Player placements from MTTs are denied by default in order to prevent big data loads. Activate at your own risk.</p>
-                                    </div>                
+                                    </div>
                                 </div>
                             </ExpansionPanel>
                             {/* PREVIEW TABLE */}
                             <ExpansionPanel {...panel2Props} expanded={tournamentPreviewExpanded} header="Preview" className="mt-2">
-                                <PreviewTable 
+                                <PreviewTable
                                     tournamentMap={tournamentMap}
-                                    isSubmitted={isSubmitted}                        
+                                    isSubmitted={isSubmitted}
                                     isReadyToSubmit={isReadyToSubmit}
                                     submitData={submitData}
                                 />
-                            </ExpansionPanel>                
-                        </ExpansionList>                    
+                            </ExpansionPanel>
+                        </ExpansionList>
                 </TabPanel>
                 <TabPanel>
                          <h2>Hand Histories</h2>
                         <hr />
-                        <ExpansionPanel 
-                            {...panel3Props} 
-                            expanded={fileExpanded} 
-                            header="File Picker" 
-                            className="mt-2" 
+                        <ExpansionPanel
+                            {...panel3Props}
+                            expanded={fileExpanded}
+                            header="File Picker"
+                            className="mt-2"
                             onExpandClick={() => {
                                 setFileExpanded(!fileExpanded)
                             }}
@@ -238,11 +238,11 @@ const ImportPage = () => {
                         </ExpansionPanel>
                         <ExpansionPanel {...panel4Props} expanded={handPreviewExpanded} header="Preview" className="mt-2">
                            <h2>Preview soon...</h2>
-                        </ExpansionPanel>     
+                        </ExpansionPanel>
                 </TabPanel>
             </TabPanels>
-        </TabsManager> 
-    </div>      
+        </TabsManager>
+    </div>
     )
 }
 
