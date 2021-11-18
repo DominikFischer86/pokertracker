@@ -29,6 +29,13 @@ Roadmap:
 12. Hand Statistics Hero
 13. Hand Statistics all players
 
+Maintenance:
+
+1. Refactor routes to be more consistant and avoid duplicates
+2. Remove unnecessary useState usage
+3. Change component files to PascalCase
+4. Add state management using context hooks for active hero
+
 
 Nav:
 1. Home
