@@ -10,6 +10,7 @@ import { ResponsiveLineContainer } from "./config"
 import { DateRangePicker } from "./filters/DateRangePicker"
 
 import { ImageDownloadModal } from "../../../../components/Modals/ImageDownloadModal"
+import Spinner from "../../../../components/Spinner/Spinner"
 
 import "./styles.scss"
 
@@ -141,7 +142,7 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     if (!tournaments) isLoading = true
     return (
         <div className="pb-4">
-            {isLoading && <p>Loading...</p>}
+            {isLoading && <Spinner />}
             {!isLoading &&
             <>
                 <ImageDownloadModal 

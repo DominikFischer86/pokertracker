@@ -2,13 +2,13 @@ import React from "react"
 import { Switch, Route, NavLink } from "react-router-dom"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-import HomePage from "./pages/HomePage/homePage"
-import ImportPage from "./pages/ImportPage/importPage"
-import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/playerAnalysisPage"
-// import TaxReportPage from "./pages/TaxReportPage/taxReportPage"
-import ResultsPage from "./pages/ResultsPage/resultsPage"
-import TournamentPage from "./pages/TournamentPage/tournamentPage"
-import PlayerPage from "./pages/PlayerPage/playerPage"
+import HomePage from "./pages/HomePage/HomePage"
+import ImportPage from "./pages/ImportPage/ImportPage"
+import PlayerAnalysisPage from "./pages/PlayerAnalysisPage/PlayerAnalysisPage"
+// import TaxReportPage from "./pages/TaxReportPage/TaxReportPage"
+import ResultsPage from "./pages/ResultsPage/ResultsPage"
+import TournamentPage from "./pages/TournamentPage/TournamentPage"
+import PlayerPage from "./pages/PlayerPage/PlayerPage"
 
 function App() {
   return (

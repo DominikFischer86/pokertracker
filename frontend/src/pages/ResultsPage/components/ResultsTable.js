@@ -1,13 +1,14 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { FaTrashAlt } from "react-icons/fa"
+import Spinner from "../../../components/Spinner/Spinner"
 
 const ResultsTable = ({isLoading, tournaments, onDelete}) => {
 
     return (
         <div className="results_table">
             {tournaments?.length < 1 && <p>No tournaments found</p>}
-            {isLoading && <p>Loading...</p>}
+            {isLoading && <Spinner />}
             {!isLoading && tournaments?.length > 0 &&
                 <table>
                     <thead>

@@ -4,6 +4,7 @@ import axios from "axios"
 import { createUsers } from "./helpers"
 
 import { ImportConfirmationModal } from "../../components/Modals/ConfirmationModal"
+import Spinner from "../../components/Spinner/Spinner"
 import PlayerTable from "./components/PlayerTable"
 
 import "./playerAnalysisPage.scss"
@@ -103,7 +104,7 @@ const PlayerAnalysisPage = () => {
 
     return (
         <div>
-            {isLoading && <div>Loading user list...</div>}
+            {isLoading && <Spinner />}
             {!isLoading &&
                 <div>
                     {players.length > 0 &&
