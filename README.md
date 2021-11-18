@@ -35,6 +35,7 @@ Maintenance:
 2. Remove unnecessary useState usage
 3. Change component files to PascalCase
 4. Add state management using context hooks for active hero
+5. Add specs
 
 
 Nav:
