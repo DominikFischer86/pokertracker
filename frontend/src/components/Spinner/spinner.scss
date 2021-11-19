@@ -101,22 +101,22 @@ $reliefBlendMode: multiply;
         animation: loadingSpinner 2s infinite linear;
         box-sizing: border-box;
         pointer-events: none;
-      
+
         span {
             width: 98px;
             height: 98px;
-            font-size: 100px;
+            font-size: 5rem;
             position: absolute;
             text-align: center;
             vertical-align: middle;
-            line-height: 85px;
-            color: #fff;        
+            line-height: 5.75rem;
+            color: #fff;
             mix-blend-mode: exclusion;
-            
+
         }
-    
-        span.spades { 
-            color: black;  
+
+        span.spades {
+            color: black;
             animation: spadeSpinner 4s infinite linear;
 
             &:before {
@@ -128,8 +128,8 @@ $reliefBlendMode: multiply;
                 mix-blend-mode: $reliefBlendMode;
             }
         }
-        span.clubs { 
-            color: darkgreen;  
+        span.clubs {
+            color: darkgreen;
             animation: clubSpinner 4s infinite linear;
 
             &:before {
@@ -141,8 +141,8 @@ $reliefBlendMode: multiply;
                 mix-blend-mode: $reliefBlendMode;
             }
         }
-        span.diamonds { 
-            color: darkblue; 
+        span.diamonds {
+            color: darkblue;
             animation: diamondSpinner 4s infinite linear;
 
             &:before {
@@ -154,9 +154,9 @@ $reliefBlendMode: multiply;
                 mix-blend-mode: $reliefBlendMode;
             }
         }
-        span.hearts { 
-            color: darkred; line-height: 95px; 
-            animation: heartSpinner 4s infinite linear; 
+        span.hearts {
+            color: darkred; line-height: 6rem;
+            animation: heartSpinner 4s infinite linear;
 
             &:before {
                 position: $reliefPosition;
@@ -167,7 +167,7 @@ $reliefBlendMode: multiply;
                 mix-blend-mode: $reliefBlendMode;
             }
         }
-    
+
         &:before {
             display: block;
             content: '';
@@ -177,7 +177,7 @@ $reliefBlendMode: multiply;
             animation: shadowSpinner 4s infinite linear;
             border-radius: 50%;
         }
-    
+
         &:after {
             display: block;
             content: '';
@@ -190,5 +190,5 @@ $reliefBlendMode: multiply;
             box-shadow: 0 2px 5px rgba(0,0,0,1);
             border-radius: 50%;
         }
-    }    
+    }
 }
