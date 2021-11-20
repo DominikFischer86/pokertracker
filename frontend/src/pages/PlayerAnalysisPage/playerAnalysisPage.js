@@ -3,7 +3,7 @@ import axios from "axios"
 
 import { createUsers } from "./helpers"
 
-import { ImportConfirmationModal } from "../../components/Modals/ConfirmationModal"
+import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 import Spinner from "../../components/Spinner/Spinner"
 import PlayerTable from "./components/PlayerTable"
 

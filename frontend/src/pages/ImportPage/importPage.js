@@ -6,7 +6,7 @@ import { Switch } from "@react-md/form"
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
-import { ImportConfirmationModal } from "../../components/Modals/ConfirmationModal"
+import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 import { tournamentFileConverter } from "./tournamentFileConverter"
 import { handFileConverter } from "./handFileConverter"
 import PreviewTable from "./components/PreviewTable";
