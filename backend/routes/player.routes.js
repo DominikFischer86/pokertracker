@@ -4,7 +4,7 @@ const Tournament = require("../models/Tournament")
 
 module.exports = app => {
     // get routes
-    app.get("/player-analysis", (req, res) => {
+    app.get("/players", (req, res) => {
         let results = []
         Tournament.find()
         .then(tournaments => {
@@ -18,7 +18,7 @@ module.exports = app => {
         .catch(err => res.status(400).json("Error:" + err))
     })
 
-    app.get("/player-analysis/:id", (req, res) => {
+    app.get("/players/:id", (req, res) => {
         const id = req.params.id
 
         Players.find({ playerId: id })
@@ -42,7 +42,7 @@ module.exports = app => {
     })
 
     // create route
-    app.post("/player-analysis", (req, res) => {
+    app.post("/players", (req, res) => {
         const newPlayers = new Players()
         Players.collection.insertMany(req.body)
         .then(res.status(200).json("Added player successfully"))
@@ -50,7 +50,7 @@ module.exports = app => {
     })
 
     // delete route
-    app.delete("/player-analysis/:id", (req, res) => {
+    app.delete("/player/:id", (req, res) => {
         const id = req.params.id
 
         Players.findOneAndDelete({ playerId: id }, (req, res, err) => {
@@ -63,7 +63,7 @@ module.exports = app => {
     })
 
     // update route
-    app.patch("/player-analysis/:id", (req, res) => {
+    app.patch("/players/:id", (req, res) => {
         const data = req.body
         const { id } = data.playerId        
 
@@ -75,6 +75,4 @@ module.exports = app => {
             }
         }
     })
-    
-    
 }

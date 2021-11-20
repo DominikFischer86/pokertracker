@@ -4,19 +4,13 @@ const Tournament = require("../models/Tournament")
 module.exports = app => {
 
     // get routes
-    app.get("/results", (req, res) => {
+    app.get("/tournaments/dateSorted", (req, res) => {
         Tournament.find().sort({"timeStamp": 1})
             .then(tournaments => res.json(tournaments))
             .catch(err => res.status(400).json("Error:" + err))
     })
 
-    app.get("/import", (req, res) => {
-        Tournament.find()
-            .then(tournaments => res.json(tournaments))
-            .catch(err => res.status(400).json("Error:" + err))
-    })
-
-    app.get("/player-analysis", (req, res) => {
+    app.get("/tournaments/", (req, res) => {
         Tournament.find()
             .then(tournaments => res.json(tournaments))
             .catch(err => res.status(400).json("Error:" + err))
@@ -41,7 +35,7 @@ module.exports = app => {
     })
 
     // create route
-    app.post("/import", (req, res) => {
+    app.post("/tournaments/add", (req, res) => {
         const newTournament = new Tournament({
             tournamentId: req.body.tournamentId,
             buyIn: req.body.buyIn,
@@ -64,7 +58,7 @@ module.exports = app => {
     })
 
     // delete route
-    app.delete("/results/:id", (req, res) => {
+    app.delete("/tournament/:id", (req, res) => {
         const id = req.params.id
 
         Tournament.findOneAndDelete({ tournamentId: id}, (req, res, err) => {

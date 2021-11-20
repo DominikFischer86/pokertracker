@@ -19,11 +19,13 @@ const PlayerAnalysisPage = () => {
 
     const heroName = "KeinKönich"
 
-    const url = "http://localhost:3001/player-analysis/"
+    const getUrl = "http://localhost:3001/players/"
+    const postUrl = "http://localhost:3001/players/"
+    const delUrl = "http://localhost:3001/player/"
 
     useEffect(() => {
         try {
-             axios.get(url)
+             axios.get(getUrl)
                 .then(res => {
                     setPlayers(res.data[1])
                     setTournaments(res.data[0])
@@ -41,7 +43,7 @@ const PlayerAnalysisPage = () => {
 
         let successMessageList = []
 
-        axios.post(url, allPlayers)
+        axios.post(postUrl, allPlayers)
 
         successMessageList.push(`Added Players: ${allPlayers.length}`)
         setModalContent({successMessageList})
@@ -70,7 +72,7 @@ const PlayerAnalysisPage = () => {
             setIsLoading(true)
             let successMessageList = []
             console.log(playerDifferenceList)
-            axios.post(url, playerDifferenceList)
+            axios.post(postUrl, playerDifferenceList)
             successMessageList.push(`Added Players: ${playerDifferenceList.length}`)
             setModalContent({successMessageList})
             openModal()
@@ -92,7 +94,7 @@ const PlayerAnalysisPage = () => {
     const deletePlayer = id => {
        if (confirm(`Do you really want to remove player #${id}`)){
             try {
-                axios.delete(url + id)
+                axios.delete(delUrl + id)
                 setIsLoading(false)
                 console.log(`%c Deleted player: #${id}`, "color: red")
                 setRefetch(refetch+1)

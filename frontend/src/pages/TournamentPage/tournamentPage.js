@@ -14,11 +14,12 @@ const TournamentPage = () => {
     const [formState, setFormState] = useState({})
     const [refetch, setRefetch] = useState(0)
     const [playerPosition, setPlayerPosition] = useState(0)
-    const url = "http://localhost:3001" + window.location.pathname
+    const getUrl = "http://localhost:3001" + window.location.pathname
+    const patchUrl = "http://localhost:3001" + window.location.pathname
 
     useEffect(() => {
         try {
-             axios.get(url)
+             axios.get(getUrl)
                 .then(res => {
                     setPlayerPosition(res.data[0][0].placements.find(element => element.playerName === heroName)?.finishPosition)
                     setTournament(res.data[0][0])
@@ -39,7 +40,7 @@ const TournamentPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [refetch, url])
+    }, [refetch, getUrl])
 
     const handleChange = (property, e) => {
         setFormState(oldState => ({ ...oldState, [property]: e.target.value }))
@@ -60,7 +61,7 @@ const TournamentPage = () => {
             bounties: parseFloat(formState.bounties)
         }
 
-        await axios.patch(url, data).then(
+        await axios.patch(patchUrl, data).then(
             alert("Successfully updated tournament #" + tournament.tournamentId),
             setIsEditMode(false),
             setRefetch(refetch + 1)

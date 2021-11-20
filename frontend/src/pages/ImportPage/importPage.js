@@ -30,10 +30,11 @@ const ImportPage = () => {
 
     const tabs = ["Tournaments", "Hand Histories"]
 
-    const url = "http://localhost:3001" + window.location.pathname
+    const getUrl = "http://localhost:3001/tournaments"
+    const postUrl = "http://localhost:3001/tournaments/add"
 
     useEffect(() => {
-        fetch(url)
+        fetch(getUrl)
             .then(res => {
                 if (res.ok) {
                     return res.json()
@@ -42,7 +43,7 @@ const ImportPage = () => {
             .then(jsonRes => setTournaments(jsonRes))
             .catch(err => console.log(err))
 
-    }, [tournamentPreviewExpanded, url])
+    }, [tournamentPreviewExpanded, getUrl])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
@@ -64,8 +65,6 @@ const ImportPage = () => {
     }
 
     const submitData = () => {
-        const url = "http://localhost:3001/import"
-
         let successMessageList = []
         let warningMessageList = []
         let errorMessageList = []
@@ -102,7 +101,7 @@ const ImportPage = () => {
                 return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
             }
 
-            axios.post(url, newTournament)
+            axios.post(postUrl, newTournament)
             successMessageList.push(`Added Tournament: #${newTournament.tournamentId}`)
             console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         })

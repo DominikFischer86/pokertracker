@@ -17,11 +17,12 @@ const ResultsPage = () => {
 
     const tabs = ["Folder", "Graphs"]
 
-    const url = "http://localhost:3001/results/"
+    const getUrl = "http://localhost:3001/tournaments/dateSorted"
+    const delUrl = "http://localhost:3001/tournament/"
 
     useEffect(() => {
         try {
-            axios.get(url)
+            axios.get(getUrl)
                 .then(res => {
                     setIsLoading(false)
                     setTournaments(res.data)
@@ -35,7 +36,7 @@ const ResultsPage = () => {
     const onDelete =  id => {
         if (confirm(`Do you really want to remove tournament #${id}`)){
             try {
-                axios.delete(url + id)
+                axios.delete(delUrl + id)
                 setIsLoading(false)
                 console.log(`%c Deleted tournament: #${id}`, "color: red")
             } catch (e) {

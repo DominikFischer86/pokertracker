@@ -12,17 +12,18 @@ import { hourKeys, dayKeys, data } from "./graphConfig"
 import "./PlayerPage.scss"
 
 const PlayerPage = () => {
-    const url = "http://localhost:3001" + window.location.pathname
+    const getUrl = "http://localhost:3001" + window.location.pathname
+
     useEffect(() => {
         try {
-             axios.get(url)
+             axios.get(getUrl)
                 .then(res => {
                     setDatabase(res.data)
                 })
          } catch (e) {
             console.log(e)
         }
-    }, [url])
+    }, [getUrl])
 
     const [database, setDatabase] = useState([])
     const [toggleResults, setToggleResults] = useState(false)
