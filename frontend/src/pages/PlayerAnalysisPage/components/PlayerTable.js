@@ -4,6 +4,8 @@ import { FaTrashAlt } from "react-icons/fa"
 import Spinner from "../../../components/Spinner/Spinner"
 
 const PlayerTable = ({isLoading, players, onDelete}) => {
+
+    const filteredPlayers = players.filter(player => player.playerTournaments.length > 4)
  
     return (
         <div className="results_table">
@@ -21,7 +23,7 @@ const PlayerTable = ({isLoading, players, onDelete}) => {
                         </tr>
                     </thead>
                     <tbody>                     
-                        {players.sort((a, b) => b.playerTournaments.length - a.playerTournaments.length).map((player, i) => {
+                        {filteredPlayers.sort((a, b) => b.playerTournaments.length - a.playerTournaments.length).map((player, i) => {
                             return (
                             <tr key={i} style={
                                 player.playerIsHero 
