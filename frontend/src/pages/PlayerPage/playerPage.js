@@ -122,10 +122,10 @@ const PlayerPage = () => {
                         <PlayerResultsTable tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} />
                     </TabPanel>
                     <TabPanel>
-                        <PlayerPlaytimesTab  estimatedTournamentResults={estimatedTournamentResults}/>                    
+                        <PlayerPlaytimesTab tournaments={estimatedTournamentResults}/>                    
                     </TabPanel>
                     <TabPanel>
-                        <PlayerITMTab />
+                        <PlayerITMTab filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} />
                     </TabPanel>
                 </TabPanels>
             </TabsManager>

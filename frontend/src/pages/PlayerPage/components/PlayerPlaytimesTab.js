@@ -6,7 +6,7 @@ import { ResponsiveBar } from "@nivo/bar"
 import { hourKeys, dayKeys, data } from "../graphConfig"
 
 
-const PlayerPlaytimesTab = ({estimatedTournamentResults}) => {
+const PlayerPlaytimesTab = ({tournaments}) => {
     const [toggleDateResults, setToggleDateResults] = useState(false)
 
     return (
@@ -22,7 +22,7 @@ const PlayerPlaytimesTab = ({estimatedTournamentResults}) => {
             </div>
             <div className="dayGraph">
                 <ResponsiveBar
-                    data={data(estimatedTournamentResults, toggleDateResults)}
+                    data={data(tournaments, toggleDateResults)}
                     keys={toggleDateResults ? hourKeys() : dayKeys}
                     indexBy="x"
                     margin={{ top: 50, right: 130, bottom: 50, left: 60 }}
@@ -62,7 +62,7 @@ const PlayerPlaytimesTab = ({estimatedTournamentResults}) => {
 }
 
 PlayerPlaytimesTab.propTypes = {
-    estimatedTournamentResults: PropTypes.oneOfType([
+    tournaments: PropTypes.oneOfType([
         PropTypes.object,
         PropTypes.array
     ])
