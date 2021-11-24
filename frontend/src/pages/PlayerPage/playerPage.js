@@ -4,15 +4,16 @@ import axios from "axios"
 
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
+import Spinner from "../../components/Spinner/Spinner"
 import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
 import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/config"
-import PlayerResultsTable from "./components/PlayerResultsTable"
-import PlayerITMTab from "./components/PlayerITMTab"
+import PlayerResultsTable from "./components/PlayerResultsTab/PlayerResultsTable"
+import PlayerITMTab from "./components/PlayerITMTab/PlayerITMTab"
 
 
 
 import "./PlayerPage.scss"
-import PlayerPlaytimesTab from "./components/PlayerPlaytimesTab"
+import PlayerPlaytimesTab from "./components/PlayerPlaytimesTab/PlayerPlaytimesTab"
 
 const PlayerPage = () => {
     const tabs = ["Overview", "Tournaments", "Playing Times", "ITM"]
@@ -35,7 +36,7 @@ const PlayerPage = () => {
     let player = database[1]?.[0]
     let allTournaments = database[0]
 
-    if (!player || !allTournaments) return <div>Loading user...</div>
+    if (!player || !allTournaments) return <div><Spinner /></div>
 
     const { playerCountry, playerName, playerIsHero, playerTournaments } = player
 

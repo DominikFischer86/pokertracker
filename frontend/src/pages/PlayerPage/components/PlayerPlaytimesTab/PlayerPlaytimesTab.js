@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import { Switch } from "@react-md/form"
 
 import { ResponsiveBar } from "@nivo/bar"
-import { hourKeys, dayKeys, data } from "../graphConfig"
+import { hourKeys, dayKeys, data } from "./graphConfig"
 
 
 const PlayerPlaytimesTab = ({tournaments}) => {
