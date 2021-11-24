@@ -1,11 +1,23 @@
 import React from "react"
+import PropTypes from "prop-types"
 
-const PlayerITMTab = () => {
+import { itmCalc } from "./helper"
+
+const PlayerITMTab = ({filteredTournaments}) => {
+
     return (
         <div>
-            <h2>Player ITM Tab</h2>
+            <h3>ITM Distribution (SNG only)</h3>
+            <p>{itmCalc(filteredTournaments)}</p>
         </div>
     )
+}
+
+PlayerITMTab.propTypes = {
+    filteredTournaments: PropTypes.oneOfType([
+        PropTypes.object,
+        PropTypes.array
+    ])
 }
 
 export default PlayerITMTab
