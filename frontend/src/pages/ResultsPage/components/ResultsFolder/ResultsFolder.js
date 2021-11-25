@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import { FaSortDown } from "react-icons/fa"
 
 import ResultsTable from "../ResultsTable"
-import { translateMonth, translateDays } from "../../helpers"
+import { translateMonth, translateDays } from "../../../../helpers/monthCalc"
 
 import "./styles.scss"
 
