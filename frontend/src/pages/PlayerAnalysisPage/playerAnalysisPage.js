@@ -1,7 +1,8 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState, useContext } from "react"
 import axios from "axios"
 
 import { createUsers } from "./helpers"
+import { MetaContext } from "../../index"
 
 import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 import Spinner from "../../components/Spinner/Spinner"
@@ -10,14 +11,14 @@ import PlayerTable from "./components/PlayerTable"
 import "./playerAnalysisPage.scss"
 
 const PlayerAnalysisPage = () => {
+    const { heroName } = useContext(MetaContext)
+
     const [isLoading, setIsLoading] = useState(true)
     const [players, setPlayers] = useState([])
     const [tournaments, setTournaments] = useState([])
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
     const [modalContent, setModalContent] = useState({successMessageList: []})
     const [refetch, setRefetch] = useState(0)
-
-    const heroName = "KeinKönich"
 
     const getUrl = "http://localhost:3001/players/"
     const postUrl = "http://localhost:3001/players/"

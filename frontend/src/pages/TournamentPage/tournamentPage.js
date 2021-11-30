@@ -1,12 +1,14 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
+
+import { MetaContext } from "../../index"
 
 import EditablePanels from "./components/EditablePanels"
 import PlayerPlacements from "./components/PlayerPlacements"
 
-const heroName = "KeinKönich"
-
 const TournamentPage = () => {
+    const { heroName } = useContext(MetaContext)
+
     const [tournament, setTournament] = useState([])
     const [players, setPlayers] = useState([])
     const [isLoading, setIsLoading] = useState(true)

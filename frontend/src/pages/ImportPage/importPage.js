@@ -1,6 +1,8 @@
 /* eslint-disable no-unused-vars */
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
+
+import { MetaContext } from "../../index"
 
 import { Switch } from "@react-md/form"
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
@@ -13,9 +15,9 @@ import PreviewTable from "./components/PreviewTable";
 import { TournamentFilePicker } from "./components/TournamentFilePicker"
 import { HandFilePicker } from "./components/HandFilePicker"
 
-const PLAYER = "KeinKönich"
-
 const ImportPage = () => {
+    const { heroName } = useContext(MetaContext)
+
     const [tournaments, setTournaments] = useState([])
     const [tournamentMap, setTournamentMap] = useState({})
     const [handMap, setHandMap] = useState({})
@@ -120,7 +122,7 @@ const ImportPage = () => {
             const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
-                const convertedFiles = tournamentFileConverter(reader.result, PLAYER)
+                const convertedFiles = tournamentFileConverter(reader.result, heroName)
                 newFiles.push(convertedFiles)
                 setTournamentMap(newFiles)
                 setIsReadyToSubmit(true)
@@ -141,7 +143,7 @@ const ImportPage = () => {
             const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
-                const convertedFiles = handFileConverter(reader.result, PLAYER)
+                const convertedFiles = handFileConverter(reader.result, heroName)
                 newFiles.push(convertedFiles)
                 setHandMap(newFiles)
                 setIsReadyToSubmit(true)
