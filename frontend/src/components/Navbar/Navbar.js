@@ -19,7 +19,7 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <NavLink to={"/results"} className="nav-link">
-              Results
+              Tournament Results
             </NavLink>
           </li>
           <li className="nav-item">

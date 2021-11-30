@@ -26,6 +26,12 @@ nav {
         &.disabled {
             display: none;
         }
+
+        border-right: 1px solid rgba(#fff,.2);
+
+        &:first-child {
+            border-left:  1px solid rgba(#fff,.2);
+        }
     }
 }
 
