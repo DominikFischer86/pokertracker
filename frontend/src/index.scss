@@ -10,9 +10,15 @@
 nav {
     &.navbar {
         padding: 1rem;
+        justify-content: space-between;
 
         .navbar-nav {
             justify-content: flex-end;
+        }
+
+        .hero {
+            color: #fff;
+            margin: 0;
         }
     }
 
