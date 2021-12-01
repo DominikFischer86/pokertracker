@@ -1,0 +1,26 @@
+.rakeback-form-container {
+    display: flex;
+    align-items: center;
+
+    form {
+        display: flex;
+        justify-content: space-between;    
+        width: 100%;
+    }
+
+    .react-datepicker-wrapper {
+        width: auto;
+    }
+
+    .rakeback-datepicker, .rakeback-type, .rakeback-value {
+        flex-grow: 1;
+        margin: 1rem;
+    }
+
+    .rakeback-datepicker {
+        border: 1px solid rgba(0,0,0,.15);
+        border-radius: 4px;
+        padding: 0.9rem;
+    }
+    
+}
