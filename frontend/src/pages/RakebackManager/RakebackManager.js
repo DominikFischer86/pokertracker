@@ -42,12 +42,15 @@ const RakebackManager = () => {
     const handleSubmit = async (amount, rakebackType, timeStamp) => {
         const idFromTime = new Date()
         const id = `${idFromTime.getFullYear(idFromTime)}${formatMonth(idFromTime)}${formatDay(idFromTime)}-${formatHour(idFromTime)}${formatMinute(idFromTime)}${formatSecond(idFromTime)}`
-
+        const transformDate = new Date(timeStamp)
+        const redeemDate = `${transformDate.getFullYear(transformDate)}/${formatMonth(transformDate)}/${formatDay(transformDate)}`
+        
         const newRakebackEntry = {
             rakebackId: id,
             heroName: heroName,
             rakebackValue: amount,
-            redeemDate: timeStamp,
+            redeemTimeStamp: timeStamp,
+            redeemDate: redeemDate,
             rakebackType: rakebackType
         }
 
