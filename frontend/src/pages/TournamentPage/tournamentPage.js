@@ -42,7 +42,7 @@ const TournamentPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [refetch, getUrl])
+    }, [refetch, getUrl, heroName])
 
     const handleChange = (property, e) => {
         setFormState(oldState => ({ ...oldState, [property]: e.target.value }))
