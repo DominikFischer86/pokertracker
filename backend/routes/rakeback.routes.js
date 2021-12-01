@@ -1,4 +1,3 @@
-const Players = require("../models/Players")
 const Rakeback = require("../models/Rakeback")
 
 module.exports = app => {
@@ -21,7 +20,7 @@ module.exports = app => {
     app.delete("/rakeback/:id", (req, res) => {
         const id = req.params.id
 
-        Tournament.findOneAndDelete({ rakebackId: id}, (req, res, err) => {
+        Rakeback.findOneAndDelete({ rakebackId: id}, (req, res, err) => {
             if (!err) {
                 console.log("Rakeback entry deleted")
             } else {

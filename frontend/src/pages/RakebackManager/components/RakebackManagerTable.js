@@ -1,7 +1,11 @@
 import React from "react"
-import { oneOfType, object, array } from "prop-types"
+import { oneOfType, object, array, func } from "prop-types"
+import { FaTrashAlt } from "react-icons/fa"
 
-const RakebackManagerTable = ({data}) => {
+import { formatMonth, formatDay } from "../../ImportPage/helpers"
+
+const RakebackManagerTable = ({data, onDelete}) => {
+    if (!data) return null
     return (
         <div className="results_table">
             <table >
@@ -17,14 +21,23 @@ const RakebackManagerTable = ({data}) => {
                 </thead>
                 <tbody>
                     {data.map(entry => {
+                        const transformDate = new Date(entry.redeemDate)
+                        const redeemDate = `${transformDate.getFullYear(transformDate)}/${formatMonth(transformDate)}/${formatDay(transformDate)}`
+
                         return (
                         <tr key={entry.rakebackId}>
                            <td>{entry.rakebackId}</td>
                            <td>{entry.heroName}</td>
-                           <td>{entry.redeemDate}</td>
+                           <td>{redeemDate}</td>
                            <td>{entry.rakebackType}</td>
                            <td>{entry.rakebackValue} USD</td>
-                           <td>Delete</td>
+                           <td>
+                           <FaTrashAlt 
+                                onClick={() => onDelete(entry.rakebackId)}
+                                className="trash-icon"
+                                style={{color: "red"}}
+                            />
+                           </td>
                         </tr>
                        )
                     })
@@ -39,7 +52,8 @@ RakebackManagerTable.propTypes = {
     data: oneOfType([
         object,
         array
-    ])
+    ]),
+    onDelete: func
 }
 
 export default RakebackManagerTable

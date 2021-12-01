@@ -58,3 +58,8 @@ export const formatMinute = timeStamp => {
     let minute = timeStamp.getMinutes()
     return minute < 10 ? '0' + minute : "" + minute
 }
+
+export const formatSecond = timeStamp => {
+    let second = timeStamp.getSeconds()
+    return second < 10 ? '0' + second : "" + second
+}

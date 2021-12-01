@@ -2,29 +2,34 @@ import React, { useEffect, useState, useContext } from "react"
 import axios from "axios"
 
 import { MetaContext } from "../../index"
-import { formatMonth, formatDay, formatHour, formatMinute } from "../ImportPage/helpers"
+import { formatMonth, formatDay, formatHour, formatMinute, formatSecond } from "../ImportPage/helpers"
 import RakebackManagerTable from "./components/RakebackManagerTable"
 import RakebackManagerForm from "./components/RakebackManagerForm"
 import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 
 const RakebackManager = () => {
-    const url = "http://localhost:3001/rakeback"
+    const url = "http://localhost:3001/rakeback/"
     const { heroName } = useContext(MetaContext)
 
     const [data, setData] = useState([])
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
-    const [modalContent, setModalContent] = useState("")
+    const [modalContent, setModalContent] = useState({successMessageList: []})
+    const [refetch, setRefetch] = useState(0)
+
+    const fetchData = () => {
+        try {
+            axios.get(url)
+               .then(res => {
+                   setData(res.data)
+               })
+        } catch (e) {
+           console.log(e)
+       }
+    }
 
     useEffect(() => {
-        try {
-             axios.get(url)
-                .then(res => {
-                    setData(res.data)
-                })
-         } catch (e) {
-            console.log(e)
-        }
-    }, [url])
+        fetchData()
+    }, [refetch])
 
     const openModal = () => {
         setConfirmationModalIsOpen(true)
@@ -34,8 +39,9 @@ const RakebackManager = () => {
         setConfirmationModalIsOpen(false)
     }
 
-    const handleSubmit = async (amount, rakebackType, timeStamp) => { 
-        const id = `${timeStamp.getFullYear(timeStamp)}${formatMonth(timeStamp)}${formatDay(timeStamp)}${formatHour(timeStamp)}${formatMinute(timeStamp)}`
+    const handleSubmit = async (amount, rakebackType, timeStamp) => {
+        const idFromTime = new Date()
+        const id = `${idFromTime.getFullYear(idFromTime)}${formatMonth(idFromTime)}${formatDay(idFromTime)}-${formatHour(idFromTime)}${formatMinute(idFromTime)}${formatSecond(idFromTime)}`
 
         const newRakebackEntry = {
             rakebackId: id,
@@ -47,8 +53,22 @@ const RakebackManager = () => {
 
         await axios.post(url, newRakebackEntry)
         console.log(`%c Added Rakeback Entry: #${newRakebackEntry.rakebackId}`, "color: green")
-        setModalContent(`Added Rakeback Entry: #${newRakebackEntry.rakebackId}`)
+        setModalContent({successMessageList: [`Added Rakeback Entry: #${newRakebackEntry.rakebackId}`]})
         openModal()
+        fetchData()
+    }
+
+    const handleDelete = rakebackId => {
+        if (confirm(`Do you really want to remove rakeback entry #${rakebackId}`)){
+            try {
+                axios.delete(url + rakebackId)
+                console.log(`%c Deleted Rakeback Entry: #${rakebackId}`, "color: red")
+            } catch (e) {
+                console.log(e)
+            }
+        }
+
+        setRefetch(refetch+1)
     }
 
     return (
@@ -56,7 +76,7 @@ const RakebackManager = () => {
             <h2>Rakeback Manager</h2>
             <hr />
             <p>Add entries for redeemed Pokerstars boni or earned cash rewards (1000 Stars Coins = 10 USD).</p>
-            <RakebackManagerForm handleSubmit={handleSubmit} />
+            <RakebackManagerForm onSubmit={handleSubmit} />
             <ImportConfirmationModal
                 confirmationModalIsOpen={confirmationModalIsOpen}
                 closeModal={closeModal}
@@ -64,8 +84,8 @@ const RakebackManager = () => {
             />
             <hr />
             {!data.length && <p>No rakeback information yet.</p>}
-            {data.length &&
-                <RakebackManagerTable data={data} />
+            {data.length > 0 &&
+                <RakebackManagerTable data={data} onDelete={handleDelete} />
             }           
         </div>
     )

@@ -8,37 +8,53 @@ import { Button } from "react-md"
 
 import "../RakebackManager.scss"
 
-const RakebackManagerForm = ({ handleSubmit }) => {
+const RakebackManagerForm = ({ onSubmit }) => {
     const [timestamp, setTimestamp] = useState(new Date())
-    const [rakebackType, setRakebackType] = useState(null)
-    const [value, setValue] = useState(null)
+    const [rakebackType, setRakebackType] = useState("")
+    const [value, setValue] = useState("")
 
     const isValid = rakebackType !== null && value !== null
 
     const options = ["Cash Reward", "Ticket", "Shop Item"]
 
+    const handleSelect = e => {
+        setRakebackType(e)
+    }
+
+    const handleValueInput = e => {
+        setValue(e.target.value)
+    }
+
+    const handleSubmit = () => {
+        onSubmit(value, rakebackType, timestamp)
+        setRakebackType("")
+        setValue("")
+    }
+
     return (
         <div className="rakeback-form-container">
             <Form>
                 <DatePicker 
-                    selected={timestamp} 
-                    onChange={(date) => setTimestamp(date)}
+                    selected={timestamp}
+                    onChange={date => setTimestamp(date)}
                     startDate={timestamp}
                     className="rakeback-datepicker"
                 />
                 <Select
-                    id="custom-select-1"
+                    id="rakeback-type"
                     options={options}
                     label="Rakeback Type"
-                    onChange={e => setRakebackType(e)}
+                    onChange={handleSelect}
                     className="rakeback-type"
-                    />
+                    value={rakebackType}
+                />
                 <TextField 
                     id="value"
                     name="value"
-                    onChange={e => setValue(e.target.value)}
+                    onChange={handleValueInput}
                     label="Dollar Value"
                     className="rakeback-value"
+                    value={value}
                 />
             </Form>
             <Button 
@@ -46,7 +62,7 @@ const RakebackManagerForm = ({ handleSubmit }) => {
                 buttonType="icon" 
                 aria-label="Submit"
                 disabled={!isValid}
-                onClick={() => handleSubmit(value, rakebackType, timestamp)}
+                onClick={handleSubmit}
             >
                 <FaCheck />
             </Button>
@@ -55,7 +71,7 @@ const RakebackManagerForm = ({ handleSubmit }) => {
 }
 
 RakebackManagerForm.propTypes = {
-    handleSubmit: func
+    onSubmit: func
 }
 
 export default RakebackManagerForm
