@@ -15,54 +15,11 @@ import "./styles.scss"
 
 const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
     const [toggleRake, setToggleRake] = useState(false)
+    const [toggleRakeback, setToggleRakeback] = useState(false)
     const [toggleBounties, setToggleBounties] = useState(false)
     const [toggleFilter, setToggleFilter] = useState(false)
     const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
     const [activeFilters, setActiveFilters] = useState([])
-    const [toggleGraphs, setToggleGraphs] = useState(false)
-    const [windowWidthReader, setWindowWidthReader] = useState(900)
-    const [dataUri, setDataUri] = useState("")
-
-    const [downloadImageModalIsOpen, setDownloadImageModalIsOpen] = useState(false)
-
-    const createGraphs = () => {
-        document.querySelector(".graph_wrapper svg rect").setAttribute("fill", "white")
-        setWindowWidthReader(window.innerWidth)
-        setToggleGraphs(true)        
-        svgTojpg()
-    }
-
-    const svgTojpg = async () => {
-        let svgString = new XMLSerializer().serializeToString(document.querySelector(".graph_wrapper svg"))
-        await setToggleGraphs(true)
-        let canvas = document.getElementById("canvas")
-        let ctx = canvas.getContext("2d")
-        let DOMURL = self.Url || self.webkitURL || self
-        let img = new Image()
-        var svg = new Blob([svgString], { type: "image/svg+xml;charset=utf-8"})
-        let url = DOMURL.createObjectURL(svg)
-    
-        img.onload = () => {
-            ctx.drawImage(img, 0, 0)
-            let jpg = canvas.toDataURL("image/jpg")
-            setDataUri(jpg)
-            document.querySelector("#jpg-container").innerHTML = `<img src=${url} />`
-            DOMURL.revokeObjectURL(jpg)
-        }
-
-        img.src = url
-        
-        openModal()
-    }
-
-    const openModal = () => {
-        setDownloadImageModalIsOpen(true)
-    }
-
-    const closeModal = () => {
-        setDownloadImageModalIsOpen(false)
-        setDataUri("")        
-    }
 
     const filterTournaments = filterType => {
         let filterResult
@@ -118,11 +75,6 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
             {isLoading && <Spinner />}
             {!isLoading &&
             <>
-                <ImageDownloadModal 
-                    imageDownloadModalIsOpen={downloadImageModalIsOpen}
-                    closeModal={closeModal}
-                    imageString={dataUri}
-                />
                 <div className="overViewTable">
                     <OverviewTable filteredTournaments={filteredTournaments} rakebackData={rakebackData} />
                 </div>
@@ -141,6 +93,12 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                         onChange={() => setToggleRake(!toggleRake)} 
                     />
                     <Switch 
+                        id="rakeback-switcher" 
+                        name="rakeback-switcher" 
+                        label={!toggleRakeback ? "Show Rakeback" : "Hide Rakeback"}
+                        onChange={() => setToggleRakeback(!toggleRakeback)} 
+                    />
+                    <Switch 
                         id="bounty-switcher" 
                         name="bounty-switcher" 
                         label={!toggleBounties ? "Show Bounties" : "Hide Bounties"}
@@ -152,9 +110,6 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                         label={!toggleFilter ? "Show Filter" : "Hide Filter"}
                         onChange={() => setToggleFilter(!toggleFilter)} 
                     />
-                    {windowWidthReader > 899 &&
-                        <button onClick={createGraphs}>Save image</button>
-                    }                    
                     </div>
                 <hr />
                 <div style={toggleFilter ? {opacity: "100"}: {opacity: "0", pointerEvents: "none"}} className="filter_list">
@@ -175,17 +130,6 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                         </div>
                     </div>
                 </div>
-                {toggleGraphs &&
-                    <>
-                        <canvas 
-                            id="canvas" 
-                            width={document.querySelector(".graph_wrapper").offsetWidth}
-                            height={document.querySelector(".graph_wrapper").offsetWidth * 0.6 - (windowWidthReader / 5)}
-                        >                            
-                        </canvas>
-                        <div id="jpg-container"></div> 
-                    </>
-                }
             </>   
             }    
         </div>
