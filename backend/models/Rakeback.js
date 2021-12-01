@@ -4,7 +4,8 @@ const rakebackSchema = {
     rakebackId: String,
     heroName: String,
     rakebackValue: Number,
-    redeemDate: Date,
+    redeemTimeStamp: Date,
+    redeemDate: String,
     rakebackType: String
 }
 
