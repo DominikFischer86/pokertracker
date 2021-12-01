@@ -41,7 +41,7 @@ export const BuyInSlider = ({width, onBuyInSliderSubmit, activeFilters}) => {
                         [buyInScaleValues(buyInValue), "buy-in-slider"]
                     )}>
                         Filter Buy-Ins
-                    </button>
+            </button>
         </div>
     )
 }
