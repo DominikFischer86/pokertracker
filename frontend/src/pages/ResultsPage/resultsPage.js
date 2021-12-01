@@ -10,6 +10,7 @@ import { createFolders } from "./helpers"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
+    const [rakebackData, setRakebackData] = useState([])
     const [sortedTournaments, setSortedTournaments] = useState([])
     const [dateFormattedTournaments, setDateFormattedTournaments] = useState({})
     const [isLoading, setIsLoading] = useState(true)
@@ -25,8 +26,9 @@ const ResultsPage = () => {
             axios.get(getUrl)
                 .then(res => {
                     setIsLoading(false)
-                    setTournaments(res.data)
-                    createFolders(res.data, setSortedTournaments, setDateFormattedTournaments)
+                    setTournaments(res.data[0])
+                    setRakebackData(res.data[1])
+                    createFolders(res.data[0], setSortedTournaments, setDateFormattedTournaments)
                 })
         } catch (e) {
             console.log(e)
@@ -70,6 +72,7 @@ const ResultsPage = () => {
                         <ResultsGraph
                             tournaments={tournaments}
                             isLoading={isLoading}
+                            rakebackData={rakebackData}
                         />
                     </TabPanel>
                 </TabPanels>

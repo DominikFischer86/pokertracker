@@ -1,12 +1,21 @@
 const Players = require("../models/Players")
 const Tournament = require("../models/Tournament")
+const Rakeback = require("../models/Rakeback")
 
 module.exports = app => {
 
     // get routes
     app.get("/tournaments/dateSorted", (req, res) => {
+        let results = []
         Tournament.find().sort({"timeStamp": 1})
-            .then(tournaments => res.json(tournaments))
+            .then(tournaments => { 
+                results.push(tournaments)
+                return Rakeback.find()
+            })
+            .then(rakeback => {
+                results.push(rakeback)
+            })
+            .then(() => res.json([...new Set(results)]))
             .catch(err => res.status(400).json("Error:" + err))
     })
 

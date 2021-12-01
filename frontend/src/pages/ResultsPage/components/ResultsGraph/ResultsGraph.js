@@ -1,7 +1,6 @@
 import React, { useState } from "react"
-import PropTypes from "prop-types"
+import { object, array, oneOfType, bool } from "prop-types"
 import { Switch } from "@react-md/form"
-import axios from "axios"
 
 import { OverviewTable } from "./OverviewTable"
 import { BuyInSlider } from "./filters/BuyInSlider"
@@ -14,7 +13,7 @@ import Spinner from "../../../../components/Spinner/Spinner"
 
 import "./styles.scss"
 
-const ResultsGraph = ({tournaments, isLoading}) => {
+const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
     const [toggleRake, setToggleRake] = useState(false)
     const [toggleBounties, setToggleBounties] = useState(false)
     const [toggleFilter, setToggleFilter] = useState(false)
@@ -63,32 +62,6 @@ const ResultsGraph = ({tournaments, isLoading}) => {
     const closeModal = () => {
         setDownloadImageModalIsOpen(false)
         setDataUri("")        
-    }
-
-    const submitToWeb = async () => {
-        const key = "1234"
-        const url = `https://api.imgbb.com/1/upload?expiration=600&key=${key}`
-        const image = JSON.stringify(dataUri)
-
-        try {
-            await axios({
-                method: "post",
-                url,
-                data: image,
-                headers: {
-                    'Content-Type': 'application/json', 
-                    'accept': 'application/json'
-                  },
-            })
-                .then(res => {
-                    console.log(res)
-                    if (res.success) {
-                        alert("Image successfully uploaded to imgbb.")
-                    }
-                })
-        } catch (e) {
-            console.log(e)
-        }
     }
 
     const filterTournaments = filterType => {
@@ -148,11 +121,10 @@ const ResultsGraph = ({tournaments, isLoading}) => {
                 <ImageDownloadModal 
                     imageDownloadModalIsOpen={downloadImageModalIsOpen}
                     closeModal={closeModal}
-                    submitToWeb={submitToWeb}
                     imageString={dataUri}
                 />
                 <div className="overViewTable">
-                    <OverviewTable filteredTournaments={filteredTournaments}/>
+                    <OverviewTable filteredTournaments={filteredTournaments} rakebackData={rakebackData} />
                 </div>
                 <div className="graph_wrapper">
                     <ResponsiveLineContainer 
@@ -221,11 +193,9 @@ const ResultsGraph = ({tournaments, isLoading}) => {
 }
 
 ResultsGraph.propTypes = {
-    tournaments: PropTypes.oneOfType([
-        PropTypes.object,
-        PropTypes.array
-    ]),
-    isLoading: PropTypes.bool
+    rakebackData: array,
+    tournaments: oneOfType([object,array]),
+    isLoading: bool
 }
 
 export default ResultsGraph
