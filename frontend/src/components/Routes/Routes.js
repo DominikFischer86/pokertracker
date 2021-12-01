@@ -8,6 +8,7 @@ import PlayerAnalysisPage from "../../pages/PlayerAnalysisPage/PlayerAnalysisPag
 import ResultsPage from "../../pages/ResultsPage/ResultsPage"
 import TournamentPage from "../../pages/TournamentPage/TournamentPage"
 import PlayerPage from "../../pages/PlayerPage/PlayerPage"
+import RakebackManager from "../../pages/RakebackManager/RakebackManager"
 
 const Routes = () => {
     return (
@@ -18,6 +19,12 @@ const Routes = () => {
                path="/import"
                render={(props) => (
                  <ImportPage {...props} />
+               )}
+             />
+              <Route 
+               path="/rakeback-manager"
+               render={(props) => (
+                 <RakebackManager {...props} />
                )}
              />
              <Route 

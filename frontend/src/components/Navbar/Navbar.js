@@ -18,6 +18,11 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li className="nav-item">
+            <NavLink to={"/rakeback-manager"} className="nav-link">
+              Rakeback Manager
+            </NavLink>
+          </li>
+          <li className="nav-item">
             <NavLink to={"/results"} className="nav-link">
               Tournament Results
             </NavLink>
