@@ -5,7 +5,7 @@ import PropTypes from "prop-types"
 import { IoIosClose } from "react-icons/io"
 import "./modals.scss"
 
-export const ImageDownloadModal = ({imageDownloadModalIsOpen, submitToWeb, closeModal, imageString}) => {
+export const ImageDownloadModal = ({imageDownloadModalIsOpen, closeModal, imageString}) => {
     
     return (
         <Modal 
@@ -21,7 +21,6 @@ export const ImageDownloadModal = ({imageDownloadModalIsOpen, submitToWeb, close
             </div>
             <div className="Confirmation_Modal__footer">
                 <p>Right-click and save to download.</p>
-                <button onClick={submitToWeb}>Upload to imgbb.com</button>
             </div>            
             <IoIosClose className="Confirmation_Modal__closeButton" onClick={closeModal} />
         </Modal>
@@ -31,6 +30,5 @@ export const ImageDownloadModal = ({imageDownloadModalIsOpen, submitToWeb, close
 ImageDownloadModal.propTypes = {
     imageString: PropTypes.string,
     imageDownloadModalIsOpen: PropTypes.bool,
-    closeModal: PropTypes.func,
-    submitToWeb: PropTypes.func
+    closeModal: PropTypes.func
 }
