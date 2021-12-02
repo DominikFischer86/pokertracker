@@ -1,5 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
+import { number, array, object, oneOfType} from "prop-types"
 import { ResponsiveBar } from "@nivo/bar"
 
 import { sngBubbleCalc } from "../../../../helpers/sngBubbleCalc"
@@ -8,8 +8,8 @@ import { itmCalc } from "./helper"
 
 import "../../PlayerPage.scss"
 
-const PlayerITMTab = ({filteredTournaments}) => {
-    const maxPlayers = 18
+const PlayerITMTab = ({filteredTournaments, sngFilter}) => {
+    const maxPlayers = sngFilter
     const bubble = sngBubbleCalc(maxPlayers)
     const sngOnly = filteredTournaments.filter(tournament => {
         return tournament.playerAmount <= maxPlayers
@@ -29,7 +29,7 @@ const PlayerITMTab = ({filteredTournaments}) => {
     return (
         <div className="row">
             <div className="col-lg-8">
-                <h3>ITM Distribution ({sngOnly?.length}, SNG only)</h3>
+                <h3>ITM Distribution ({sngOnly?.length}, {sngFilter} player SNG only)</h3>
                 <div className="itm-Graph">
                     <ResponsiveBar
                         data={itmDistribution}
@@ -114,10 +114,8 @@ const PlayerITMTab = ({filteredTournaments}) => {
 }
 
 PlayerITMTab.propTypes = {
-    filteredTournaments: PropTypes.oneOfType([
-        PropTypes.object,
-        PropTypes.array
-    ])
+    filteredTournaments: oneOfType([object,array]),
+    sngFilter: number
 }
 
 export default PlayerITMTab

@@ -10,14 +10,13 @@ import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/
 import PlayerResultsTable from "./components/PlayerResultsTab/PlayerResultsTable"
 import PlayerITMTab from "./components/PlayerITMTab/PlayerITMTab"
 
-
-
 import "./PlayerPage.scss"
 import PlayerPlaytimesTab from "./components/PlayerPlaytimesTab/PlayerPlaytimesTab"
 
 const PlayerPage = () => {
     const tabs = ["Overview", "Tournaments", "Playing Times", "ITM"]
     const getUrl = "http://localhost:3001" + window.location.pathname
+    const sngFilter = 18
 
     useEffect(() => {
         try {
@@ -36,12 +35,16 @@ const PlayerPage = () => {
     let player = database[1]?.[0]
     let allTournaments = database[0]
 
-    if (!player || !allTournaments) return <div><Spinner /></div>
+    const sngTournaments = allTournaments.filter(tournament => {
+        return tournament.playerAmount === sngFilter
+    })
+
+    if (!player || !sngTournaments) return <div><Spinner /></div>
 
     const { playerCountry, playerName, playerIsHero, playerTournaments } = player
 
     // Array with all (but unverified) final positions
-    let playerSpecificTournaments = allTournaments.filter(tournament => {
+    let playerSpecificTournaments = sngTournaments.filter(tournament => {
         return tournament.placements?.find(placement => placement.playerName === playerName)
     })
 
@@ -76,14 +79,14 @@ const PlayerPage = () => {
     })
 
     if (playerIsHero) {
-        estimatedTournamentResults = allTournaments
-        realTournamentResults = allTournaments
+        estimatedTournamentResults = sngTournaments
+        realTournamentResults = sngTournaments
     }
 
     return (
         <div>
             <h2>{playerName} ({playerCountry})</h2>
-            <p>(Tournaments played: {playerIsHero ? allTournaments.length : playerTournaments.length})</p>
+            <p>(Tournaments played: {playerIsHero ? sngTournaments.length : playerTournaments.length})</p>
             <hr />
             <TabsManager tabs={tabs} tabsId="player-results">
                 <Tabs />
@@ -100,7 +103,14 @@ const PlayerPage = () => {
                             />
                         </div>
                         <div className="overViewTable">
-                            <OverviewTable filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}/>
+                            <OverviewTable 
+                                filteredTournaments={
+                                    toggleResults 
+                                    ? estimatedTournamentResults 
+                                    : realTournamentResults
+                                }
+                                rakebackData={[]}
+                            />
                         </div>
                         <div className="graph_wrapper">
                             <ResponsiveLineContainer
@@ -126,7 +136,14 @@ const PlayerPage = () => {
                         <PlayerPlaytimesTab tournaments={estimatedTournamentResults}/>                    
                     </TabPanel>
                     <TabPanel>
-                        <PlayerITMTab filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} />
+                        <PlayerITMTab 
+                            filteredTournaments={
+                                toggleResults 
+                                ? estimatedTournamentResults 
+                                : realTournamentResults
+                            }
+                            sngFilter={sngFilter} 
+                        />
                     </TabPanel>
                 </TabPanels>
             </TabsManager>
