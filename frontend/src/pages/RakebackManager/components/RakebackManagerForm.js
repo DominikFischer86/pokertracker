@@ -13,7 +13,7 @@ const RakebackManagerForm = ({ onSubmit }) => {
     const [rakebackType, setRakebackType] = useState("")
     const [value, setValue] = useState("")
 
-    const isValid = rakebackType !== null && value !== null
+    const isValid = rakebackType !== "" && value !== ""
 
     const options = ["Cash Reward", "Ticket", "Shop Item"]
 
@@ -34,7 +34,7 @@ const RakebackManagerForm = ({ onSubmit }) => {
     return (
         <div className="rakeback-form-container">
             <Form>
-                <DatePicker 
+                <DatePicker
                     selected={timestamp}
                     onChange={date => setTimestamp(date)}
                     startDate={timestamp}
@@ -48,7 +48,7 @@ const RakebackManagerForm = ({ onSubmit }) => {
                     className="rakeback-type"
                     value={rakebackType}
                 />
-                <TextField 
+                <TextField
                     id="value"
                     name="value"
                     onChange={handleValueInput}
@@ -57,9 +57,9 @@ const RakebackManagerForm = ({ onSubmit }) => {
                     value={value}
                 />
             </Form>
-            <Button 
-                theme="primary" 
-                buttonType="icon" 
+            <Button
+                theme="primary"
+                buttonType="icon"
                 aria-label="Submit"
                 disabled={!isValid}
                 onClick={handleSubmit}
