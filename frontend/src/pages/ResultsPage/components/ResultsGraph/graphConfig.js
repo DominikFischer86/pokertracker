@@ -10,7 +10,7 @@ export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
     let newBountyData = []
     let newRakebackData = []
     
-    const orderedRakebackData = rakebackData.reduce((acc, obj) => {
+    const orderedRakebackData = rakebackData?.reduce((acc, obj) => {
         const key = obj["redeemDate"]
         if (!acc[key]) {
             acc[key] = []
@@ -19,7 +19,7 @@ export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
         return acc
     }, {})
 
-    Object.values(orderedRakebackData).forEach(element => {
+    if (orderedRakebackData) Object.values(orderedRakebackData).forEach(element => {
         const valuePerDate = element.reduce((acc, obj) => {
             return acc + obj.rakebackValue
         }, 0)
