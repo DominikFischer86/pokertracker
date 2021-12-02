@@ -25,7 +25,7 @@ export const OverviewTable = ({filteredTournaments, rakebackData}) => {
     const averageProfit = parseFloat(profit / count).toFixed(2)
     const roi = parseFloat(profit / totalBuyIn * 100).toFixed(2)
     const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
-    const totalProfit = (parseFloat(profit) + parseFloat(bounties)).toFixed(2)
+    const totalProfit = (parseFloat(profit) + parseFloat(bounties) + parseFloat(rakeback)).toFixed(2)
     const rakebackPercent = parseFloat(rakeback / rake * 100).toFixed(2)
 
     return (
