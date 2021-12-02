@@ -34,8 +34,9 @@ const PlayerPage = () => {
 
     let player = database[1]?.[0]
     let allTournaments = database[0]
+    let sngTournaments = []
 
-    const sngTournaments = allTournaments.filter(tournament => {
+    if (allTournaments) sngTournaments = allTournaments.filter(tournament => {
         return tournament.playerAmount === sngFilter
     })
 
@@ -103,10 +104,10 @@ const PlayerPage = () => {
                             />
                         </div>
                         <div className="overViewTable">
-                            <OverviewTable 
+                            <OverviewTable
                                 filteredTournaments={
-                                    toggleResults 
-                                    ? estimatedTournamentResults 
+                                    toggleResults
+                                    ? estimatedTournamentResults
                                     : realTournamentResults
                                 }
                                 rakebackData={[]}
@@ -129,20 +130,20 @@ const PlayerPage = () => {
                                 label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
                                 onChange={() => setToggleResults(!toggleResults)}
                             />
-                        </div>                            
+                        </div>
                         <PlayerResultsTable tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} />
                     </TabPanel>
                     <TabPanel>
-                        <PlayerPlaytimesTab tournaments={estimatedTournamentResults}/>                    
+                        <PlayerPlaytimesTab tournaments={estimatedTournamentResults}/>
                     </TabPanel>
                     <TabPanel>
-                        <PlayerITMTab 
+                        <PlayerITMTab
                             filteredTournaments={
-                                toggleResults 
-                                ? estimatedTournamentResults 
+                                toggleResults
+                                ? estimatedTournamentResults
                                 : realTournamentResults
                             }
-                            sngFilter={sngFilter} 
+                            sngFilter={sngFilter}
                         />
                     </TabPanel>
                 </TabPanels>
