@@ -8,7 +8,6 @@ import { EntrantsSlider } from "./filters/EntrantsSlider"
 import { ResponsiveLineContainer } from "./config"
 import { DateRangePicker } from "./filters/DateRangePicker"
 
-import { ImageDownloadModal } from "../../../../components/Modals/ImageDownloadModal"
 import Spinner from "../../../../components/Spinner/Spinner"
 
 import "./styles.scss"
@@ -76,11 +75,15 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
             {!isLoading &&
             <>
                 <div className="overViewTable">
-                    <OverviewTable filteredTournaments={filteredTournaments} rakebackData={rakebackData} />
+                    <OverviewTable 
+                        filteredTournaments={filteredTournaments} 
+                        rakebackData={rakebackData} 
+                    />
                 </div>
                 <div className="graph_wrapper">
                     <ResponsiveLineContainer 
-                        filteredTournaments={filteredTournaments} 
+                        filteredTournaments={filteredTournaments}
+                        rakebackData={rakebackData} 
                         toggleRake={toggleRake}
                         toggleBounties={toggleBounties}
                     />

@@ -1,11 +1,31 @@
-export const data = (tournaments, toggleRake, toggleBounties) => {
+export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
     let netWin = 0
     let totalCash = 0
     let totalRake = 0
     let totalBounties = 0
+    let totalRakeback = 0
+    let filteredRakebackData = []
     let newWinningData = []
     let newRakeData = []
     let newBountyData = []
+    let newRakebackData = []
+    
+    const orderedRakebackData = rakebackData.reduce((acc, obj) => {
+        const key = obj["redeemDate"]
+        if (!acc[key]) {
+            acc[key] = []
+        }
+        acc[key].push(obj)
+        return acc
+    }, {})
+
+    Object.values(orderedRakebackData).forEach(element => {
+        const valuePerDate = element.reduce((acc, obj) => {
+            return acc + obj.rakebackValue
+        }, 0)
+
+        return filteredRakebackData.push({[element[0].redeemDate]: valuePerDate})
+    })
 
     tournaments.forEach((element, index) => {
         let buyIn = parseFloat((element.buyIn).toFixed(2))
@@ -16,6 +36,11 @@ export const data = (tournaments, toggleRake, toggleBounties) => {
         totalRake = parseFloat((totalRake + rake).toFixed(2))
         netWin = parseFloat((winnings - (buyIn + rake)).toFixed(2)) 
         totalCash = parseFloat((netWin + totalCash).toFixed(2))
+        totalRakeback = filteredRakebackData.find(entry => {
+            const key = Object.keys(entry)[0]
+            return key === element.startDate
+        })
+        if (totalRakeback && Object.keys(totalRakeback)[0] === element.startDate) console.log(index+1)
         // console.log(index+1) DEBUGGER
         // console.log(`%c BuyIn + Rake: ${rake + buyIn}`, "color : red")
         // console.log(`%c NetWins: ${netWin}`, "color : orange")
@@ -26,10 +51,14 @@ export const data = (tournaments, toggleRake, toggleBounties) => {
         let winningsObject = { "x": (index+1), "y": totalCash}
         let rakeObject = {"x": (index+1), "y": totalRake}
         let bountyObject = {"x": (index+1), "y": totalBounties}
+        let rakebackObject = {"x": (index+1), "y": totalRakeback}
         newWinningData.push(winningsObject)
         newRakeData.push(rakeObject)
         newBountyData.push(bountyObject)
+        newRakebackData.push(rakebackObject)
     })
+
+    // console.log(newRakebackData)
 
     const dataGraphs = [
         {
