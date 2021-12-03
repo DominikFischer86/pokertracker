@@ -33,10 +33,10 @@ Roadmap:
 
 Maintenance:
 
-1. Refactor routes to be more consistant and avoid duplicates
+~~1. Refactor routes to be more consistant and avoid duplicates~~
 2. Remove unnecessary useState usage
-3. Change component files to PascalCase
-4. Add state management using context hooks for active hero
+~~3. Change component files to PascalCase~~
+~~4. Add state management using context hooks for active hero~~
 5. Add specs
 
 
@@ -81,3 +81,12 @@ Render table with data:
 - placement
 - winnings
 - profit = winnings - (buyIn + rake)
+
+Roadmap:
+- Reusable filter components
+- Add filters to Player Analysis and Tournament Results
+- Add ITM Stats for tournaments (no graph, but stats)
+- Add Average daily winnings to Playing Times
+- Add pagination for long lists
+- Add hand import and extract bountiy data
+- Add Specs
