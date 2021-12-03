@@ -1,10 +1,10 @@
-export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
+export const data = (tournaments, rakebackData, toggleBounties, toggleRakeback) => {
     let netWin = 0
     let totalCash = 0
     let totalRake = 0
     let totalBounties = 0
     let totalRakeback = 0
-    let filteredRakebackData = []
+    let rakebackFactor = 0
     let newWinningData = []
     let newRakeData = []
     let newBountyData = []
@@ -23,24 +23,27 @@ export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
         const valuePerDate = element.reduce((acc, obj) => {
             return acc + obj.rakebackValue
         }, 0)
-
-        return filteredRakebackData.push({[element[0].redeemDate]: valuePerDate})
+        totalRakeback = totalRakeback + valuePerDate
     })
+
+    const allRake = tournaments.reduce((acc, obj) => {
+        return acc + obj.rake
+    }, 0)
+
+    rakebackFactor = totalRakeback / allRake
 
     tournaments.forEach((element, index) => {
         let buyIn = parseFloat((element.buyIn).toFixed(2))
         let rake = parseFloat((element.rake).toFixed(2))        
         let winnings = parseFloat((element.playerPrizeMoney).toFixed(2))
         let bounties = parseFloat((element.bounties).toFixed(2))
+
         totalBounties = parseFloat((totalBounties + bounties).toFixed(2))
         totalRake = parseFloat((totalRake + rake).toFixed(2))
         netWin = parseFloat((winnings - (buyIn + rake)).toFixed(2)) 
         totalCash = parseFloat((netWin + totalCash).toFixed(2))
-        totalRakeback = filteredRakebackData.find(entry => {
-            const key = Object.keys(entry)[0]
-            return key === element.startDate
-        })
-        if (totalRakeback && Object.keys(totalRakeback)[0] === element.startDate) console.log(index+1)
+        totalRakeback = parseFloat((totalRake*rakebackFactor).toFixed(2))
+
         // console.log(index+1) DEBUGGER
         // console.log(`%c BuyIn + Rake: ${rake + buyIn}`, "color : red")
         // console.log(`%c NetWins: ${netWin}`, "color : orange")
@@ -58,8 +61,6 @@ export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
         newRakebackData.push(rakebackObject)
     })
 
-    // console.log(newRakebackData)
-
     const dataGraphs = [
         {
           "id": "Winnings",
@@ -67,20 +68,20 @@ export const data = (tournaments, rakebackData, toggleRake, toggleBounties) => {
           "data": newWinningData
         },
         {
-            "id": "Rake",
-            "color": "blue",
-            "data": newRakeData
-        },
-        {
             "id": "Bounties",
             "color": "orange",
             "data": newBountyData
+        },
+        {
+            "id": "Rakeback",
+            "color": "green",
+            "data": newRakebackData
         }
     ]
 
-    if (toggleBounties && toggleRake) return dataGraphs
-    if (toggleRake) return dataGraphs.filter(element => element.id == "Winnings" || element.id == "Rake")
+    if (toggleBounties && toggleRakeback) return dataGraphs
     if (toggleBounties) return dataGraphs.filter(element => element.id == "Winnings" || element.id == "Bounties")
-    if (!toggleRake || !toggleBounties) return dataGraphs.filter(element => {return element.id == "Winnings"})
-    return dataGraphs.filter(element => {return element.id == "Winnings"})
+    if (toggleRakeback) return dataGraphs.filter(element => element.id == "Winnings" || element.id == "Rakeback")
+    if (!toggleBounties || !toggleRakeback ) return dataGraphs.filter(element => {return element.id == "Winnings"})
+    return dataGraphs.filter(element => element.id == "Winnings")
 }

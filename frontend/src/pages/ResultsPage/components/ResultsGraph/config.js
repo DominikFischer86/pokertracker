@@ -5,12 +5,12 @@ import {  tickValues } from "./helpers"
 
 import { ResponsiveLine } from '@nivo/line'
 
-export const ResponsiveLineContainer = ({ filteredTournaments, rakebackData, toggleRake, toggleBounties }) => {
+export const ResponsiveLineContainer = ({ filteredTournaments, rakebackData, toggleBounties, toggleRakeback }) => {
   const tournamentAmount = filteredTournaments.length
   
     return (
         <ResponsiveLine
-                    data={data(filteredTournaments, rakebackData, toggleRake, toggleBounties)}
+                    data={data(filteredTournaments, rakebackData, toggleBounties, toggleRakeback)}
                     colors={d => d.color}
                     margin={{ top: 50, right: 110, bottom: 50, left: 60 }}
                     type="linear"
@@ -76,8 +76,8 @@ export const ResponsiveLineContainer = ({ filteredTournaments, rakebackData, tog
 ResponsiveLineContainer.propTypes = {
     filteredTournaments: oneOfType([object,array]),
     rakebackData: array,
-    toggleRake: bool,
-    toggleBounties: bool
+    toggleBounties: bool,
+    toggleRakeback: bool
 }
 
 export const buyInMarks = [

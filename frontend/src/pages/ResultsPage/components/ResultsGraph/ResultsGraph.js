@@ -13,7 +13,6 @@ import Spinner from "../../../../components/Spinner/Spinner"
 import "./styles.scss"
 
 const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
-    const [toggleRake, setToggleRake] = useState(false)
     const [toggleRakeback, setToggleRakeback] = useState(false)
     const [toggleBounties, setToggleBounties] = useState(false)
     const [toggleFilter, setToggleFilter] = useState(false)
@@ -83,18 +82,12 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                 <div className="graph_wrapper">
                     <ResponsiveLineContainer 
                         filteredTournaments={filteredTournaments}
-                        rakebackData={rakebackData} 
-                        toggleRake={toggleRake}
+                        rakebackData={rakebackData}
                         toggleBounties={toggleBounties}
+                        toggleRakeback={toggleRakeback}
                     />
                 </div>
                 <div className="switch_list">
-                    <Switch 
-                        id="rake-switcher" 
-                        name="rake-switcher" 
-                        label={!toggleRake ? "Show Rake" : "Hide Rake"}
-                        onChange={() => setToggleRake(!toggleRake)} 
-                    />
                     <Switch 
                         id="rakeback-switcher" 
                         name="rakeback-switcher" 
