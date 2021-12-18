@@ -62,6 +62,16 @@ module.exports = app => {
         })
     })
 
+    app.delete("/killall", (req, res) => {
+        Players.deleteMany((err, ok) => {
+            if (!err) {
+                console.log("All Players deleted")
+            } else {
+                console.log(err)
+            }
+        })
+    })
+
     // update route
     app.patch("/players/:id", (req, res) => {
         const data = req.body
