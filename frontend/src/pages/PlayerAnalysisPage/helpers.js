@@ -1,5 +1,3 @@
-import { v4 as uuidv4 } from 'uuid'
-
 export const createUsers = (tournaments, heroName) => {
     let allPlayers = []
     let allPlayersList = []
@@ -16,7 +14,7 @@ export const createUsers = (tournaments, heroName) => {
         allPlayersList = [...new Set(allPlayers)]
     })
     
-    const playersMap = allPlayersList.map(player => {
+    const playersMap = allPlayersList.map((player, index) => {
         const allTournaments = tournaments.filter(tournament => {
             return tournament.placements.find(item => item.playerName === player)
         })
@@ -30,11 +28,9 @@ export const createUsers = (tournaments, heroName) => {
             playerName = (tournament.placements.find(item => item.playerName === player)).playerName
             if (playerName === player) tournamentsIdList.push(tournament.tournamentId)
         })
-      
-        const newPlayerId = uuidv4()
 
         const playerMap = [
-            [ "playerId", newPlayerId ],
+            [ "playerId", `${index+1}` ],
             [ "playerName", player ],
             [ "playerCountry", playerCountry ],
             [ "playerIsHero", player === heroName ? true : false ],
