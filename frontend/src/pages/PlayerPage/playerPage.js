@@ -5,6 +5,7 @@ import axios from "axios"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
 import Spinner from "../../components/Spinner/Spinner"
+import { Filters } from "../../components/Filters/Filters"
 import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
 import { ResponsiveLineContainer } from "../ResultsPage/components/ResultsGraph/config"
 import PlayerResultsTable from "./components/PlayerResultsTab/PlayerResultsTable"
@@ -23,6 +24,7 @@ const PlayerPage = () => {
              axios.get(getUrl)
                 .then(res => {
                     setDatabase(res.data)
+                    setFilteredTournaments(res.data[0])
                 })
          } catch (e) {
             console.log(e)
@@ -31,12 +33,15 @@ const PlayerPage = () => {
 
     const [database, setDatabase] = useState([])
     const [toggleResults, setToggleResults] = useState(false)
+    const [toggleFilter, setToggleFilter] = useState(false)    
 
-    let player = database[1]?.[0]
-    let allTournaments = database[0]
+    const player = database[1]?.[0]
+    const allTournaments = database[0]
     let sngTournaments = []
 
-    if (allTournaments) sngTournaments = allTournaments.filter(tournament => {
+    const [filteredTournaments, setFilteredTournaments] = useState(database[0])
+
+    if (filteredTournaments) sngTournaments = filteredTournaments.filter(tournament => {
         return tournament.playerAmount === sngFilter
     })
 
@@ -87,7 +92,23 @@ const PlayerPage = () => {
     return (
         <div>
             <h2>{playerName} ({playerCountry})</h2>
-            <p>(Tournaments played: {playerIsHero ? sngTournaments.length : playerTournaments.length})</p>
+            <div className="subheader">
+                <p>(Tournaments played: {playerIsHero ? sngTournaments.length : playerTournaments.length})</p>
+                <Switch 
+                    id="filter-switcher" 
+                    name="filter-switcher" 
+                    label={!toggleFilter ? "Show Filter" : "Hide Filter"}
+                    onChange={() => setToggleFilter(!toggleFilter)} 
+                />
+            </div>
+            <div className={`filter_list ${toggleFilter ? "active" : ""}`}>
+                   <Filters 
+                    allTournaments={allTournaments} 
+                    filteredTournaments={filteredTournaments} 
+                    setFilteredTournaments={setFilteredTournaments}
+                    hasBuyInSlider
+                    />
+                </div>   
             <hr />
             <TabsManager tabs={tabs} tabsId="player-results">
                 <Tabs />
