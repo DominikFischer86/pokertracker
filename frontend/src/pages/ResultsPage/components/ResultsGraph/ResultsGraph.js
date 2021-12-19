@@ -57,7 +57,7 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                     />
                     </div>
                 <hr />
-                <div style={toggleFilter ? {opacity: "100"}: {opacity: "0", pointerEvents: "none"}} className="filter_list">
+                <div className={`filter_list ${toggleFilter ? "active" : ""}`}>
                    <Filters 
                     allTournaments={tournaments} 
                     filteredTournaments={filteredTournaments} 
