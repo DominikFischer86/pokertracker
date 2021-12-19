@@ -8,7 +8,7 @@ import { Pagination } from "../../../hooks/Pagination"
 
 const PlayerTable = ({isLoading, players, onDelete}) => {
     const [currentPage, setCurrentPage] = useState(1)
-    const [entriesPerPage] = useState(10)
+    const [entriesPerPage] = useState(15)
 
     const filteredPlayers = players.filter(player => player.playerTournaments.length > 9).sort((a, b) => b.playerTournaments.length - a.playerTournaments.length)
 
@@ -36,14 +36,14 @@ const PlayerTable = ({isLoading, players, onDelete}) => {
                     </tr>
                 </thead>
                 <tbody>                     
-                    {currentEntries.map((player, i) => {
+                    {currentEntries.map(player => {
                         return (
-                        <tr key={i} style={
+                        <tr key={player.playerId} style={
                             player.playerIsHero 
                                 ? {color: "rgb(0,0,150)", fontWeight: "500"} 
                                 : null                                            
                             }>
-                            <td>#{i+1}</td>
+                            <td>#{player.playerId}</td>
                             <td><a href={`/player/${player.playerId}`}>{player.playerName}</a></td>
                             <td>{player.playerCountry}</td>
                             <td>{player.playerTournaments.length}</td>
