@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useContext } from "react"
 import axios from "axios"
+import { ResponsivePie } from '@nivo/pie'
 
 import { createUsers } from "./helpers"
 import { MetaContext } from "../../index"
@@ -37,6 +38,26 @@ const PlayerAnalysisPage = () => {
             console.log(e)
         }
     }, [refetch])
+
+    const countPlayerCountries = players.reduce((allPlayers, country) => {
+        const { playerCountry } = country
+        if (playerCountry in allPlayers) {
+            allPlayers[playerCountry]++
+        } else {
+            allPlayers[playerCountry] = 1
+        } return allPlayers
+    }, {})
+
+    const countries = Object.keys(countPlayerCountries)
+    const countryChartData = []
+    countries.map(country => {
+        const countryObject = {
+            "id": country,
+            "label": country,
+            "value": countPlayerCountries[country]
+        }
+        if (countPlayerCountries[country] > 150) countryChartData.push(countryObject)
+    })
 
     const createUserClick = () => {
         const allPlayers = createUsers(tournaments, heroName)
@@ -116,30 +137,80 @@ const PlayerAnalysisPage = () => {
         <div>
             {isLoading && <Spinner />}
             {!isLoading &&
-                <div>
-                    {players.length > 0 &&
-                    <ImportConfirmationModal
-                        confirmationModalIsOpen={confirmationModalIsOpen}
-                        closeModal={closeModal}
-                        modalContent={modalContent}
-                    />
-                    }
-                    <div className="Player_analysis_title">
-                        <h2>All Players {players.length > 0 ? `(${players.length})` : null}*</h2>
-                        <div>
-                            <button onClick={removeUsersClick}>Remove all users</button>
-                            <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
-                            <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
+                <>
+                    <div>
+                        {players.length > 0 &&
+                        <ImportConfirmationModal
+                            confirmationModalIsOpen={confirmationModalIsOpen}
+                            closeModal={closeModal}
+                            modalContent={modalContent}
+                        />
+                        }
+                        <div className="Player_analysis_title">
+                            <h2>All Players {players.length > 0 ? `(${players.length})` : null}*</h2>
+                            <div>
+                                <button onClick={removeUsersClick}>Remove all users</button>
+                                <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
+                                <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
+                            </div>
                         </div>
+                        <hr />
+                        <p>* only show players with 10 or more tournaments</p>
+                        <PlayerTable
+                            players={players}
+                            isLoading={isLoading}
+                            onDelete={deletePlayer}
+                        />
                     </div>
                     <hr />
-                    <p>* only show players with 5 or more tournaments</p>
-                    <PlayerTable
-                        players={players}
-                        isLoading={isLoading}
-                        onDelete={deletePlayer}
-                    />
-                </div>
+                    <h2>Country stats</h2>
+                    {!players.length && <p>No player based countries detected</p>}
+                    {players.length > 0 &&
+                    <>
+                        <p>Show top {countryChartData.length} countries from {countries.length} countries total</p>
+                        <div className="countryChart">
+                            <ResponsivePie 
+                                data={countryChartData}
+                                margin={{ top: 40, right: 80, bottom: 80, left: 80 }}
+                                padAngle={0.5}
+                                sortByValue
+                                activeOuterRadiusOffset={20}
+                                arcLabelsRadiusOffset={0.8}
+                                innerRadius={0.5}
+                                borderWidth={1}
+                                colors={{ scheme: 'category10' }}
+                                borderColor={{ from: 'color', modifiers: [ [ 'darker', 0.2 ] ] }}
+                                legends={[
+                                    {
+                                        anchor: 'left',
+                                        direction: 'column',
+                                        justify: false,
+                                        translateX: 0,
+                                        translateY: 56,
+                                        itemsSpacing: 0,
+                                        itemWidth: 100,
+                                        itemHeight: 18,
+                                        itemTextColor: '#999',
+                                        itemDirection: 'left-to-right',
+                                        itemOpacity: 1,
+                                        symbolSize: 18,
+                                        symbolShape: 'circle',
+                                        effects: [
+                                            {
+                                                on: 'hover',
+                                                style: {
+                                                    itemTextColor: '#000'
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }        
+                            />
+                        </div>
+                    </>
+                    }
+                </>
             }
         </div>
     )
