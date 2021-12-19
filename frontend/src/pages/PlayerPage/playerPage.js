@@ -1,9 +1,10 @@
-import React, { useState, useEffect} from "react"
+import React, { useState, useEffect, useContext} from "react"
 import { Switch } from "@react-md/form"
 import axios from "axios"
 
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
+import { MetaContext } from "../../index"
 import Spinner from "../../components/Spinner/Spinner"
 import { Filters } from "../../components/Filters/Filters"
 import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
@@ -15,6 +16,7 @@ import "./PlayerPage.scss"
 import PlayerPlaytimesTab from "./components/PlayerPlaytimesTab/PlayerPlaytimesTab"
 
 const PlayerPage = () => {
+    const { heroName } = useContext(MetaContext)
     const tabs = ["Overview", "Tournaments", "Playing Times", "ITM"]
     const getUrl = "http://localhost:3001" + window.location.pathname
     const sngFilter = 18
@@ -89,6 +91,7 @@ const PlayerPage = () => {
         realTournamentResults = sngTournaments
     }
 
+    console.log(playerIsHero)
     return (
         <div>
             <h2>{playerName} ({playerCountry})</h2>
@@ -117,15 +120,18 @@ const PlayerPage = () => {
                     <TabPanel>
                         <div className="PlayerPage__heading">
                             <h3>{toggleResults ? "Estimated Results" : "Verified Results"}</h3>
-                            <Switch
-                                id="results-switcher"
-                                name="results-switcher"
-                                label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
-                                onChange={() => setToggleResults(!toggleResults)}
-                            />
+                            {!playerIsHero &&
+                                <Switch
+                                    id="results-switcher"
+                                    name="results-switcher"
+                                    label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
+                                    onChange={() => setToggleResults(!toggleResults)}
+                                />
+                            }
                         </div>
                         <div className="overViewTable">
                             <OverviewTable
+                                allTournamentsAmount={allTournaments.length}
                                 filteredTournaments={
                                     toggleResults
                                     ? estimatedTournamentResults
@@ -136,6 +142,7 @@ const PlayerPage = () => {
                         </div>
                         <div className="graph_wrapper">
                             <ResponsiveLineContainer
+                                allTournamentsAmount={allTournaments.length}
                                 filteredTournaments={toggleResults ? estimatedTournamentResults : realTournamentResults}
                                 toggleRake={false}
                                 toggleBounties={false}
@@ -145,12 +152,14 @@ const PlayerPage = () => {
                     <TabPanel>
                         <div className="PlayerPage__heading">
                             <h3>All Tournaments ({toggleResults ? estimatedTournamentResults.length : realTournamentResults.length})</h3>
-                            <Switch
-                                id="results-switcher"
-                                name="results-switcher"
-                                label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
-                                onChange={() => setToggleResults(!toggleResults)}
-                            />
+                            {!playerIsHero &&
+                                <Switch
+                                  id="results-switcher"
+                                  name="results-switcher"
+                                  label={!toggleResults ? "Show Estimated Results" : "Show Verified Results"}
+                                  onChange={() => setToggleResults(!toggleResults)}
+                              />
+                            }                          
                         </div>
                         <PlayerResultsTable tournaments={toggleResults ? estimatedTournamentResults : realTournamentResults} />
                     </TabPanel>
