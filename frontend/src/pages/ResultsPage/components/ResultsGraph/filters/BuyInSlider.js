@@ -4,8 +4,7 @@ import PropTypes from "prop-types"
 import Box from '@mui/material/Box'
 import Slider from '@mui/material/Slider'
 
-import { buyInScaleValues } from "../helpers"
-import { buyInMarks } from "../config"
+import { buyInScaleValues, buyInMarks } from "./filterConfig"
 
 
 export const BuyInSlider = ({width, onBuyInSliderSubmit, activeFilters}) => {
