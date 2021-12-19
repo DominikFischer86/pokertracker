@@ -41,6 +41,10 @@ button {
     }
 }
 
+.container {
+    min-height: 100vh;
+}
+
 div {
     &.playerPlacementSection {
         max-height: 80vh;
