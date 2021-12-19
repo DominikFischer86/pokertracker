@@ -85,11 +85,12 @@ ResponsiveLineContainer.propTypes = {
 export const tickValues = tournamentAmount => {               
   let myArray = []
   let factor
-  if (tournamentAmount < 10000) factor = 200;
-  if (tournamentAmount < 1000) factor = 100;
+  if (tournamentAmount < 10000) factor = 100;
+  if (tournamentAmount < 1000) factor = 50;
   if (tournamentAmount < 500) factor = 20;
-  if (tournamentAmount < 250) factor = 5;
-  if (tournamentAmount < 10) factor = 1;
+  if (tournamentAmount < 250) factor = 10;
+  if (tournamentAmount < 100) factor = 2;
+  if (tournamentAmount < 50) factor = 1;
   
   for (let i = 0; i < tournamentAmount/factor ;i++){
       myArray.push(i*factor)
