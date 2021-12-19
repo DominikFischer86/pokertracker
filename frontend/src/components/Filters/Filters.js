@@ -1,11 +1,17 @@
 import React, { useState } from "react"
-import { object, array, oneOfType, func } from "prop-types"
+import { object, array, oneOfType, func, bool } from "prop-types"
 
 import { BuyInSlider } from "./components/BuyInSlider"
 import { EntrantsSlider } from "./components/EntrantsSlider"
 import { DateRangePicker } from "./components/DateRangePicker"
 
-export const Filters = ({allTournaments, filteredTournaments, setFilteredTournaments}) => {
+export const Filters = ({
+        allTournaments, 
+        filteredTournaments, 
+        setFilteredTournaments,
+        hasBuyInSlider,
+        hasEntrantsSlider
+    }) => {
     const [activeFilters, setActiveFilters] = useState([])
 
     const filterTournaments = filterType => {
@@ -59,11 +65,19 @@ export const Filters = ({allTournaments, filteredTournaments, setFilteredTournam
 
     return (
         <div className="row">
-            <div className="col-lg-10">                             
-                <BuyInSlider width={600} activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
-                <hr />
-                <EntrantsSlider width={600} activeFilters={activeFilters} onEntrantsSliderSubmit={filterTournaments} />
-                <hr />
+            <div className="col-lg-10">
+                {hasBuyInSlider &&
+                    <>                      
+                        <BuyInSlider width={600} activeFilters={activeFilters} onBuyInSliderSubmit={filterTournaments} />
+                        <hr />
+                    </>
+                }
+                {hasEntrantsSlider &&
+                    <>
+                        <EntrantsSlider width={600} activeFilters={activeFilters} onEntrantsSliderSubmit={filterTournaments} />
+                        <hr />
+                    </>
+                }               
                 <DateRangePicker activeFilters={activeFilters} onDateRangePickerSubmit={filterTournaments}/>
             </div>
             <div className="col-lg-2 reset_button_container">
@@ -80,5 +94,7 @@ export const Filters = ({allTournaments, filteredTournaments, setFilteredTournam
 Filters.propTypes = {
     allTournaments: oneOfType([object,array]),
     filteredTournaments: oneOfType([object,array]),
-    setFilteredTournaments: func
+    setFilteredTournaments: func,
+    hasBuyInSlider: bool,
+    hasEntrantsSlider: bool
 }

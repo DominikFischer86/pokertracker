@@ -61,7 +61,10 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                    <Filters 
                     allTournaments={tournaments} 
                     filteredTournaments={filteredTournaments} 
-                    setFilteredTournaments={setFilteredTournaments} />
+                    setFilteredTournaments={setFilteredTournaments}
+                    hasBuyInSlider
+                    hasEntrantsSlider
+                    />
                 </div>
             </>   
             }    
