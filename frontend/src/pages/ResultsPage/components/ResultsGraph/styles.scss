@@ -13,6 +13,13 @@ div {
         justify-content: space-between;
         margin-bottom: 2rem;
 
+        &.active {
+            max-height: 300px;
+            pointer-events: auto;
+            overflow: visible;
+            opacity: 1;
+        }
+
         .reset_button_container {
             border-left: 1px solid rgba(0, 0, 0, 0.5)
         }

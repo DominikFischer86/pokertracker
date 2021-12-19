@@ -4,8 +4,7 @@ import PropTypes from "prop-types"
 import Box from '@mui/material/Box'
 import Slider from '@mui/material/Slider'
 
-import { entrantsScaleValues } from "../helpers"
-import { entrantsMarks } from "../config"
+import { entrantsScaleValues, entrantsMarks } from "./filterConfig"
 
 
 export const EntrantsSlider = ({width, onEntrantsSliderSubmit, activeFilters}) => {
