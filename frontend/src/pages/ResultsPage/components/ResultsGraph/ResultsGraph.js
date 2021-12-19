@@ -24,6 +24,7 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
             <>
                 <div className="overViewTable">
                     <OverviewTable 
+                        allTournamentsAmount={tournaments.length}
                         filteredTournaments={filteredTournaments} 
                         rakebackData={rakebackData} 
                     />
@@ -31,6 +32,7 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                 <div className="graph_wrapper">
                     <ResponsiveLineContainer 
                         filteredTournaments={filteredTournaments}
+                        allTournamentsAmount={tournaments.length}
                         rakebackData={rakebackData}
                         toggleBounties={toggleBounties}
                         toggleRakeback={toggleRakeback}

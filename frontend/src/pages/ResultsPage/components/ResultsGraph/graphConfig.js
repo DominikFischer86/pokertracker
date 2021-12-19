@@ -1,4 +1,4 @@
-export const data = (tournaments, rakebackData, toggleBounties, toggleRakeback) => {
+export const data = (tournaments, tournamentRatio, rakebackData, toggleBounties, toggleRakeback) => {
     let netWin = 0
     let totalCash = 0
     let totalRake = 0
@@ -42,7 +42,7 @@ export const data = (tournaments, rakebackData, toggleBounties, toggleRakeback) 
         totalRake = parseFloat((totalRake + rake).toFixed(2))
         netWin = parseFloat((winnings - (buyIn + rake)).toFixed(2)) 
         totalCash = parseFloat((netWin + totalCash).toFixed(2))
-        totalRakeback = parseFloat((totalRake*rakebackFactor).toFixed(2))
+        totalRakeback = parseFloat(((totalRake*rakebackFactor)*tournamentRatio).toFixed(2))
 
         // console.log(index+1) DEBUGGER
         // console.log(`%c BuyIn + Rake: ${rake + buyIn}`, "color : red")

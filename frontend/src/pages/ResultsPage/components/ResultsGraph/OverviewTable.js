@@ -1,8 +1,9 @@
 import React from "react"
-import { array, object, oneOfType} from "prop-types"
+import { array, object, number, oneOfType} from "prop-types"
 
-export const OverviewTable = ({filteredTournaments, rakebackData}) => {
+export const OverviewTable = ({allTournamentsAmount, filteredTournaments, rakebackData}) => {
     const count = filteredTournaments.length
+    const tournamentRatio = count / allTournamentsAmount
     let buyIn = 0
     let rake = 0
     let winnings = 0
@@ -17,7 +18,7 @@ export const OverviewTable = ({filteredTournaments, rakebackData}) => {
     })
 
     rakebackData.forEach(element => {
-        rakeback = parseFloat((element.rakebackValue + rakeback).toFixed(2))
+        rakeback = parseFloat(((element.rakebackValue + rakeback)).toFixed(2))
     })
 
     const totalBuyIn = (parseFloat(buyIn) + parseFloat(rake)).toFixed(2)
@@ -26,7 +27,8 @@ export const OverviewTable = ({filteredTournaments, rakebackData}) => {
     const roi = parseFloat(profit / totalBuyIn * 100).toFixed(2)
     const averageStake = parseFloat(totalBuyIn/count).toFixed(2)
     const totalProfit = (parseFloat(profit) + parseFloat(bounties) + parseFloat(rakeback)).toFixed(2)
-    const rakebackPercent = parseFloat(rakeback / rake * 100).toFixed(2)
+    const rakebackPercent = parseFloat((rakeback / rake * 100)*tournamentRatio).toFixed(2)
+    const totalRakeback = parseFloat(rakeback * tournamentRatio).toFixed(2)
 
     return (
         <div className="results_table no_scroll">
@@ -54,7 +56,7 @@ export const OverviewTable = ({filteredTournaments, rakebackData}) => {
                         <td>{totalBuyIn} USD</td>
                         <td>{rake} USD</td>
                         <td>{profit} USD</td>
-                        <td>{rakeback} USD ({rakebackPercent}%)</td>
+                        <td>{totalRakeback} USD ({rakebackPercent}%)</td>
                         <td>{bounties} USD</td>
                         <td>{totalProfit} USD</td>
                     </tr>
@@ -66,6 +68,7 @@ export const OverviewTable = ({filteredTournaments, rakebackData}) => {
 }
 
 OverviewTable.propTypes = {
+    allTournamentsAmount: number,
     filteredTournaments: oneOfType([object, array]),
     rakebackData: array
 }

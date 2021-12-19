@@ -1,15 +1,16 @@
 import React from "react"
-import { oneOfType, array, object, bool} from "prop-types"
+import { oneOfType, array, object, bool, number} from "prop-types"
 import { data } from "./graphConfig"
 
 import { ResponsiveLine } from '@nivo/line'
 
-export const ResponsiveLineContainer = ({ filteredTournaments, rakebackData, toggleBounties, toggleRakeback }) => {
+export const ResponsiveLineContainer = ({ filteredTournaments, allTournamentsAmount, rakebackData, toggleBounties, toggleRakeback }) => {
   const tournamentAmount = filteredTournaments.length
+  const tournamentRatio = tournamentAmount / allTournamentsAmount
   
     return (
         <ResponsiveLine
-            data={data(filteredTournaments, rakebackData, toggleBounties, toggleRakeback)}
+            data={data(filteredTournaments, tournamentRatio, rakebackData, toggleBounties, toggleRakeback)}
             colors={d => d.color}
             margin={{ top: 50, right: 110, bottom: 50, left: 60 }}
             type="linear"
@@ -74,6 +75,7 @@ export const ResponsiveLineContainer = ({ filteredTournaments, rakebackData, tog
 
 ResponsiveLineContainer.propTypes = {
     filteredTournaments: oneOfType([object,array]),
+    allTournamentsAmount: number,
     rakebackData: array,
     toggleBounties: bool,
     toggleRakeback: bool
