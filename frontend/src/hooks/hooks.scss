@@ -1,0 +1,22 @@
+.paginationNav {
+    display: flex;
+    justify-content: center;
+
+    .pagination {
+        margin: 1rem;
+    
+        .page-item {
+    
+            .page-link {
+                &:hover {
+                    cursor: pointer;
+                }
+
+                &.active {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+
