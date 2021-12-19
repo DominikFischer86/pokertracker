@@ -126,9 +126,11 @@ const PlayerAnalysisPage = () => {
                     }
                     <div className="Player_analysis_title">
                         <h2>All Players {players.length > 0 ? `(${players.length})` : null}*</h2>
-                        <button onClick={removeUsersClick}>Remove all users</button>
-                        <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
-                        <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
+                        <div>
+                            <button onClick={removeUsersClick}>Remove all users</button>
+                            <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
+                            <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
+                        </div>
                     </div>
                     <hr />
                     <p>* only show players with 5 or more tournaments</p>

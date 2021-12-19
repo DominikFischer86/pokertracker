@@ -1,9 +1,18 @@
 .Player_analysis_title {
     display: flex;
     justify-content: space-between;
+
+    div {
+        display: flex;
+        justify-content: space-between;
+    }
     
     button {
         margin: .5rem;
         padding: .5rem;
+
+        &:hover {
+            background: rgba(0,0,0,.15)
+        }
     }
 }
