@@ -1,0 +1,2442 @@
+ï»¿PokerStars Hand #232301088803: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:33:56 CET [2021/12/17 17:33:56 ET]
+Table '3322230304 2' 9-max Seat #1 is the button
+Seat 1: Barellinof (1500 in chips) 
+Seat 2: theonlytk (1500 in chips) 
+Seat 3: vosi44 (1500 in chips) 
+Seat 4: TheGreatRus (1500 in chips) 
+Seat 5: yokerone1 (1500 in chips) 
+Seat 6: pedriim879 (1500 in chips) 
+Seat 7: moharp (1500 in chips) 
+Seat 8: KeinKönich (1500 in chips) 
+Seat 9: consuldean (1500 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+theonlytk: posts small blind 10
+vosi44: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 3h]
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: raises 33 to 53
+moharp: folds 
+KeinKönich: folds 
+consuldean: calls 53
+Barellinof: calls 53
+theonlytk: folds 
+vosi44: folds 
+*** FLOP *** [Th 4s Kc]
+pedriim879: checks 
+consuldean: checks 
+Barellinof: checks 
+*** TURN *** [Th 4s Kc] [Ts]
+pedriim879: checks 
+consuldean: checks 
+Barellinof: bets 108
+pedriim879: folds 
+consuldean: folds 
+Uncalled bet (108) returned to Barellinof
+Barellinof collected 216 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [Th 4s Kc Ts]
+Seat 1: Barellinof (button) collected (216)
+Seat 2: theonlytk (small blind) folded before Flop
+Seat 3: vosi44 (big blind) folded before Flop
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded on the Turn
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded on the Turn
+
+
+
+PokerStars Hand #232301136976: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:35:18 CET [2021/12/17 17:35:18 ET]
+Table '3322230304 2' 9-max Seat #2 is the button
+Seat 1: Barellinof (1660 in chips) 
+Seat 2: theonlytk (1487 in chips) 
+Seat 3: vosi44 (1477 in chips) 
+Seat 4: TheGreatRus (1497 in chips) 
+Seat 5: yokerone1 (1497 in chips) 
+Seat 6: pedriim879 (1444 in chips) 
+Seat 7: moharp (1497 in chips) 
+Seat 8: KeinKönich (1497 in chips) 
+Seat 9: consuldean (1444 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+vosi44: posts small blind 10
+TheGreatRus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h Kc]
+yokerone1: raises 30 to 50
+pedriim879: folds 
+moharp: folds 
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+Uncalled bet (30) returned to yokerone1
+yokerone1 collected 77 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 4: TheGreatRus (big blind) folded before Flop
+Seat 5: yokerone1 collected (77)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301150243: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:35:47 CET [2021/12/17 17:35:47 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 1: Barellinof (1657 in chips) 
+Seat 2: theonlytk (1484 in chips) 
+Seat 3: vosi44 (1464 in chips) 
+Seat 4: TheGreatRus (1474 in chips) 
+Seat 5: yokerone1 (1551 in chips) 
+Seat 6: pedriim879 (1441 in chips) 
+Seat 7: moharp (1494 in chips) 
+Seat 8: KeinKönich (1494 in chips) 
+Seat 9: consuldean (1441 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+TheGreatRus: posts small blind 10
+yokerone1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s 3c]
+pedriim879: raises 33 to 53
+moharp: folds 
+KeinKönich: folds 
+consuldean: calls 53
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+*** FLOP *** [6c Td Ks]
+pedriim879: checks 
+consuldean: checks 
+*** TURN *** [6c Td Ks] [8c]
+pedriim879: checks 
+consuldean: bets 163
+pedriim879: folds 
+Uncalled bet (163) returned to consuldean
+consuldean collected 163 from pot
+*** SUMMARY ***
+Total pot 163 | Rake 0 
+Board [6c Td Ks 8c]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 4: TheGreatRus (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: pedriim879 folded on the Turn
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean collected (163)
+
+
+
+PokerStars Hand #232301178741: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:36:48 CET [2021/12/17 17:36:48 ET]
+Table '3322230304 2' 9-max Seat #4 is the button
+Seat 1: Barellinof (1654 in chips) 
+Seat 2: theonlytk (1481 in chips) 
+Seat 3: vosi44 (1461 in chips) 
+Seat 4: TheGreatRus (1461 in chips) 
+Seat 5: yokerone1 (1528 in chips) 
+Seat 6: pedriim879 (1385 in chips) 
+Seat 7: moharp (1491 in chips) 
+Seat 8: KeinKönich (1491 in chips) 
+Seat 9: consuldean (1548 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+yokerone1: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ah]
+moharp: folds 
+KeinKönich: raises 40 to 60
+consuldean: calls 60
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+*** FLOP *** [6d Kd Tc]
+KeinKönich: bets 90
+consuldean: folds 
+Uncalled bet (90) returned to KeinKönich
+KeinKönich collected 177 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 177 | Rake 0 
+Board [6d Kd Tc]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: pedriim879 (big blind) folded before Flop
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich collected (177)
+Seat 9: consuldean folded on the Flop
+
+
+
+PokerStars Hand #232301194536: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:37:22 CET [2021/12/17 17:37:22 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 1: Barellinof (1651 in chips) 
+Seat 2: theonlytk (1478 in chips) 
+Seat 3: vosi44 (1458 in chips) 
+Seat 4: TheGreatRus (1458 in chips) 
+Seat 5: yokerone1 (1515 in chips) 
+Seat 6: pedriim879 (1362 in chips) 
+Seat 7: moharp (1488 in chips) 
+Seat 8: KeinKönich (1605 in chips) 
+Seat 9: consuldean (1485 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+pedriim879: posts small blind 10
+moharp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 9h]
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: raises 45 to 65
+moharp: folds 
+Uncalled bet (45) returned to pedriim879
+pedriim879 collected 67 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: pedriim879 (small blind) collected (67)
+Seat 7: moharp (big blind) folded before Flop
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301204725: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:37:44 CET [2021/12/17 17:37:44 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 1: Barellinof (1648 in chips) 
+Seat 2: theonlytk (1475 in chips) 
+Seat 3: vosi44 (1455 in chips) 
+Seat 4: TheGreatRus (1455 in chips) 
+Seat 5: yokerone1 (1512 in chips) 
+Seat 6: pedriim879 (1406 in chips) 
+Seat 7: moharp (1465 in chips) 
+Seat 8: KeinKönich (1602 in chips) 
+Seat 9: consuldean (1482 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+moharp: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 7s]
+consuldean: folds 
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: raises 30 to 50
+yokerone1: folds 
+pedriim879: folds 
+moharp: folds 
+KeinKönich: calls 30
+*** FLOP *** [6h Th Ah]
+KeinKönich: checks 
+TheGreatRus: bets 42
+KeinKönich: folds 
+Uncalled bet (42) returned to TheGreatRus
+TheGreatRus collected 137 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [6h Th Ah]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus collected (137)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 (button) folded before Flop (didn't bet)
+Seat 7: moharp (small blind) folded before Flop
+Seat 8: KeinKönich (big blind) folded on the Flop
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301227245: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:38:33 CET [2021/12/17 17:38:33 ET]
+Table '3322230304 2' 9-max Seat #7 is the button
+Seat 1: Barellinof (1645 in chips) 
+Seat 2: theonlytk (1472 in chips) 
+Seat 3: vosi44 (1452 in chips) 
+Seat 4: TheGreatRus (1539 in chips) 
+Seat 5: yokerone1 (1509 in chips) 
+Seat 6: pedriim879 (1403 in chips) 
+Seat 7: moharp (1452 in chips) 
+Seat 8: KeinKönich (1549 in chips) 
+Seat 9: consuldean (1479 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+KeinKönich: posts small blind 10
+consuldean: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Qd]
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: folds 
+KeinKönich: raises 40 to 60
+consuldean: raises 80 to 140
+KeinKönich: folds 
+Uncalled bet (80) returned to consuldean
+consuldean collected 147 from pot
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp (button) folded before Flop (didn't bet)
+Seat 8: KeinKönich (small blind) folded before Flop
+Seat 9: consuldean (big blind) collected (147)
+
+
+
+PokerStars Hand #232301237601: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:38:55 CET [2021/12/17 17:38:55 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 1: Barellinof (1642 in chips) 
+Seat 2: theonlytk (1469 in chips) 
+Seat 3: vosi44 (1449 in chips) 
+Seat 4: TheGreatRus (1536 in chips) 
+Seat 5: yokerone1 (1506 in chips) 
+Seat 6: pedriim879 (1400 in chips) 
+Seat 7: moharp (1449 in chips) 
+Seat 8: KeinKönich (1486 in chips) 
+Seat 9: consuldean (1563 in chips) 
+Barellinof: posts the ante 3
+theonlytk: posts the ante 3
+vosi44: posts the ante 3
+TheGreatRus: posts the ante 3
+yokerone1: posts the ante 3
+pedriim879: posts the ante 3
+moharp: posts the ante 3
+KeinKönich: posts the ante 3
+consuldean: posts the ante 3
+consuldean: posts small blind 10
+Barellinof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 7c]
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: raises 30 to 50
+yokerone1: folds 
+pedriim879: folds 
+moharp: folds 
+KeinKönich: raises 100 to 150
+consuldean: folds 
+Barellinof: folds 
+TheGreatRus: folds 
+Uncalled bet (100) returned to KeinKönich
+KeinKönich collected 157 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Seat 1: Barellinof (big blind) folded before Flop
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich (button) collected (157)
+Seat 9: consuldean (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301258071: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:39:39 CET [2021/12/17 17:39:39 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 1: Barellinof (1619 in chips) 
+Seat 2: theonlytk (1466 in chips) 
+Seat 3: vosi44 (1446 in chips) 
+Seat 4: TheGreatRus (1483 in chips) 
+Seat 5: yokerone1 (1503 in chips) 
+Seat 6: pedriim879 (1397 in chips) 
+Seat 7: moharp (1446 in chips) 
+Seat 8: KeinKönich (1590 in chips) 
+Seat 9: consuldean (1550 in chips) 
+Barellinof: posts the ante 4
+theonlytk: posts the ante 4
+vosi44: posts the ante 4
+TheGreatRus: posts the ante 4
+yokerone1: posts the ante 4
+pedriim879: posts the ante 4
+moharp: posts the ante 4
+KeinKönich: posts the ante 4
+consuldean: posts the ante 4
+Barellinof: posts small blind 15
+theonlytk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 6c]
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 30
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: calls 15
+theonlytk: checks 
+*** FLOP *** [7c Jd Kh]
+Barellinof: checks 
+theonlytk: checks 
+moharp: checks 
+*** TURN *** [7c Jd Kh] [7h]
+Barellinof: checks 
+theonlytk: checks 
+moharp: bets 30
+Barellinof: calls 30
+theonlytk: folds 
+*** RIVER *** [7c Jd Kh 7h] [5s]
+Barellinof: checks 
+moharp: bets 30
+Barellinof: folds 
+Uncalled bet (30) returned to moharp
+moharp collected 186 from pot
+moharp: doesn't show hand 
+*** SUMMARY ***
+Total pot 186 | Rake 0 
+Board [7c Jd Kh 7h 5s]
+Seat 1: Barellinof (small blind) folded on the River
+Seat 2: theonlytk (big blind) folded on the Turn
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp collected (186)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301301219: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:41:12 CET [2021/12/17 17:41:12 ET]
+Table '3322230304 2' 9-max Seat #1 is the button
+Seat 1: Barellinof (1555 in chips) 
+Seat 2: theonlytk (1432 in chips) 
+Seat 3: vosi44 (1442 in chips) 
+Seat 4: TheGreatRus (1479 in chips) 
+Seat 5: yokerone1 (1499 in chips) 
+Seat 6: pedriim879 (1393 in chips) 
+Seat 7: moharp (1568 in chips) 
+Seat 8: KeinKönich (1586 in chips) 
+Seat 9: consuldean (1546 in chips) 
+Barellinof: posts the ante 4
+theonlytk: posts the ante 4
+vosi44: posts the ante 4
+TheGreatRus: posts the ante 4
+yokerone1: posts the ante 4
+pedriim879: posts the ante 4
+moharp: posts the ante 4
+KeinKönich: posts the ante 4
+consuldean: posts the ante 4
+theonlytk: posts small blind 15
+vosi44: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 5c]
+TheGreatRus: raises 45 to 75
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 75
+KeinKönich: folds 
+consuldean: calls 75
+Barellinof has timed out
+Barellinof: folds 
+Barellinof is sitting out
+theonlytk: calls 60
+vosi44: folds 
+*** FLOP *** [2s 3c Qc]
+Barellinof has returned
+theonlytk: checks 
+TheGreatRus: checks 
+moharp: checks 
+consuldean: checks 
+*** TURN *** [2s 3c Qc] [4c]
+theonlytk: checks 
+TheGreatRus: checks 
+moharp: checks 
+consuldean: checks 
+*** RIVER *** [2s 3c Qc 4c] [6h]
+theonlytk: checks 
+TheGreatRus: checks 
+moharp: bets 30
+consuldean: folds 
+consuldean is sitting out
+theonlytk: calls 30
+TheGreatRus: folds 
+*** SHOW DOWN ***
+moharp: shows [Th 5h] (a straight, Deuce to Six)
+theonlytk: mucks hand 
+moharp collected 426 from pot
+*** SUMMARY ***
+Total pot 426 | Rake 0 
+Board [2s 3c Qc 4c 6h]
+Seat 1: Barellinof (button) folded before Flop (didn't bet)
+Seat 2: theonlytk (small blind) mucked [Jh Kc]
+Seat 3: vosi44 (big blind) folded before Flop
+Seat 4: TheGreatRus folded on the River
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp showed [Th 5h] and won (426) with a straight, Deuce to Six
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded on the River
+
+
+
+PokerStars Hand #232301376894: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:43:41 CET [2021/12/17 17:43:41 ET]
+Table '3322230304 2' 9-max Seat #2 is the button
+Seat 1: Barellinof (1551 in chips) 
+Seat 2: theonlytk (1323 in chips) 
+Seat 3: vosi44 (1408 in chips) 
+Seat 4: TheGreatRus (1400 in chips) 
+Seat 5: yokerone1 (1495 in chips) 
+Seat 6: pedriim879 (1389 in chips) 
+Seat 7: moharp (1885 in chips) 
+Seat 8: KeinKönich (1582 in chips) 
+Seat 9: consuldean (1467 in chips) is sitting out
+Barellinof: posts the ante 4
+theonlytk: posts the ante 4
+vosi44: posts the ante 4
+TheGreatRus: posts the ante 4
+yokerone1: posts the ante 4
+pedriim879: posts the ante 4
+moharp: posts the ante 4
+KeinKönich: posts the ante 4
+consuldean: posts the ante 4
+vosi44: posts small blind 15
+TheGreatRus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h Ah]
+yokerone1: folds 
+pedriim879: raises 40 to 70
+moharp: calls 70
+KeinKönich: calls 70
+consuldean: folds 
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+consuldean has returned
+TheGreatRus: folds 
+*** FLOP *** [7d 4c 2h]
+pedriim879: bets 120
+moharp: folds 
+KeinKönich: calls 120
+*** TURN *** [7d 4c 2h] [3c]
+pedriim879: checks 
+KeinKönich: bets 266
+pedriim879: folds 
+Uncalled bet (266) returned to KeinKönich
+KeinKönich collected 531 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 531 | Rake 0 
+Board [7d 4c 2h 3c]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 4: TheGreatRus (big blind) folded before Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded on the Turn
+Seat 7: moharp folded on the Flop
+Seat 8: KeinKönich collected (531)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301411101: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:44:57 CET [2021/12/17 17:44:57 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 1: Barellinof (1547 in chips) 
+Seat 2: theonlytk (1319 in chips) 
+Seat 3: vosi44 (1389 in chips) 
+Seat 4: TheGreatRus (1366 in chips) 
+Seat 5: yokerone1 (1491 in chips) 
+Seat 6: pedriim879 (1195 in chips) 
+Seat 7: moharp (1811 in chips) 
+Seat 8: KeinKönich (1919 in chips) 
+Seat 9: consuldean (1463 in chips) 
+Barellinof: posts the ante 6
+theonlytk: posts the ante 6
+vosi44: posts the ante 6
+TheGreatRus: posts the ante 6
+yokerone1: posts the ante 6
+pedriim879: posts the ante 6
+moharp: posts the ante 6
+KeinKönich: posts the ante 6
+consuldean: posts the ante 6
+TheGreatRus: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 6d]
+pedriim879: folds 
+moharp: folds 
+KeinKönich: folds 
+consuldean: calls 50
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: checks 
+*** FLOP *** [Tc 2c 9d]
+yokerone1: checks 
+consuldean: checks 
+*** TURN *** [Tc 2c 9d] [2h]
+yokerone1: checks 
+consuldean: checks 
+*** RIVER *** [Tc 2c 9d 2h] [5c]
+yokerone1: checks 
+consuldean: checks 
+*** SHOW DOWN ***
+yokerone1: shows [Ac 5s] (two pair, Fives and Deuces)
+consuldean: mucks hand 
+yokerone1 collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Board [Tc 2c 9d 2h 5c]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 4: TheGreatRus (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) showed [Ac 5s] and won (179) with two pair, Fives and Deuces
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean mucked [As 4s]
+
+
+
+PokerStars Hand #232301436545: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:45:53 CET [2021/12/17 17:45:53 ET]
+Table '3322230304 2' 9-max Seat #4 is the button
+Seat 1: Barellinof (1541 in chips) 
+Seat 2: theonlytk (1313 in chips) 
+Seat 3: vosi44 (1383 in chips) 
+Seat 4: TheGreatRus (1335 in chips) 
+Seat 5: yokerone1 (1614 in chips) 
+Seat 6: pedriim879 (1189 in chips) 
+Seat 7: moharp (1805 in chips) 
+Seat 8: KeinKönich (1913 in chips) 
+Seat 9: consuldean (1407 in chips) 
+Barellinof: posts the ante 6
+theonlytk: posts the ante 6
+vosi44: posts the ante 6
+TheGreatRus: posts the ante 6
+yokerone1: posts the ante 6
+pedriim879: posts the ante 6
+moharp: posts the ante 6
+KeinKönich: posts the ante 6
+consuldean: posts the ante 6
+yokerone1: posts small blind 25
+pedriim879: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 9c]
+moharp: folds 
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+theonlytk: calls 50
+vosi44: raises 100 to 150
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+theonlytk: calls 100
+*** FLOP *** [5h 7d 9s]
+theonlytk: checks 
+vosi44: bets 429
+theonlytk: folds 
+Uncalled bet (429) returned to vosi44
+vosi44 collected 429 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Board [5h 7d 9s]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded on the Flop
+Seat 3: vosi44 collected (429)
+Seat 4: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: pedriim879 (big blind) folded before Flop
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301459140: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:46:43 CET [2021/12/17 17:46:43 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 1: Barellinof (1535 in chips) 
+Seat 2: theonlytk (1157 in chips) 
+Seat 3: vosi44 (1656 in chips) 
+Seat 4: TheGreatRus (1329 in chips) 
+Seat 5: yokerone1 (1583 in chips) 
+Seat 6: pedriim879 (1133 in chips) 
+Seat 7: moharp (1799 in chips) 
+Seat 8: KeinKönich (1907 in chips) 
+Seat 9: consuldean (1401 in chips) 
+Barellinof: posts the ante 6
+theonlytk: posts the ante 6
+vosi44: posts the ante 6
+TheGreatRus: posts the ante 6
+yokerone1: posts the ante 6
+pedriim879: posts the ante 6
+moharp: posts the ante 6
+KeinKönich: posts the ante 6
+consuldean: posts the ante 6
+pedriim879: posts small blind 25
+moharp: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc Qs]
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: raises 75 to 125
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 75
+*** FLOP *** [Jh 8c 8d]
+moharp: checks 
+Barellinof: bets 165
+moharp: calls 165
+*** TURN *** [Jh 8c 8d] [6c]
+moharp: checks 
+Barellinof: bets 330
+moharp: folds 
+Uncalled bet (330) returned to Barellinof
+Barellinof collected 659 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 659 | Rake 0 
+Board [Jh 8c 8d 6c]
+Seat 1: Barellinof collected (659)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: pedriim879 (small blind) folded before Flop
+Seat 7: moharp (big blind) folded on the Turn
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301493318: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:47:59 CET [2021/12/17 17:47:59 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 1: Barellinof (1898 in chips) 
+Seat 2: theonlytk (1151 in chips) 
+Seat 3: vosi44 (1650 in chips) 
+Seat 4: TheGreatRus (1323 in chips) 
+Seat 5: yokerone1 (1577 in chips) 
+Seat 6: pedriim879 (1102 in chips) 
+Seat 7: moharp (1503 in chips) 
+Seat 8: KeinKönich (1901 in chips) 
+Seat 9: consuldean (1395 in chips) 
+Barellinof: posts the ante 6
+theonlytk: posts the ante 6
+vosi44: posts the ante 6
+TheGreatRus: posts the ante 6
+yokerone1: posts the ante 6
+pedriim879: posts the ante 6
+moharp: posts the ante 6
+KeinKönich: posts the ante 6
+consuldean: posts the ante 6
+moharp: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 7c]
+consuldean: folds 
+Barellinof: folds 
+theonlytk: folds 
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: folds 
+Uncalled bet (25) returned to KeinKönich
+KeinKönich collected 104 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 104 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 (button) folded before Flop (didn't bet)
+Seat 7: moharp (small blind) folded before Flop
+Seat 8: KeinKönich (big blind) collected (104)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301510986: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:48:38 CET [2021/12/17 17:48:38 ET]
+Table '3322230304 2' 9-max Seat #7 is the button
+Seat 1: Barellinof (1892 in chips) 
+Seat 2: theonlytk (1145 in chips) 
+Seat 3: vosi44 (1644 in chips) 
+Seat 4: TheGreatRus (1317 in chips) 
+Seat 5: yokerone1 (1571 in chips) 
+Seat 6: pedriim879 (1096 in chips) 
+Seat 7: moharp (1472 in chips) 
+Seat 8: KeinKönich (1974 in chips) 
+Seat 9: consuldean (1389 in chips) 
+Barellinof: posts the ante 6
+theonlytk: posts the ante 6
+vosi44: posts the ante 6
+TheGreatRus: posts the ante 6
+yokerone1: posts the ante 6
+pedriim879: posts the ante 6
+moharp: posts the ante 6
+KeinKönich: posts the ante 6
+consuldean: posts the ante 6
+KeinKönich: posts small blind 25
+consuldean: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 4c]
+Barellinof: folds 
+theonlytk: folds 
+vosi44: calls 50
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 50
+KeinKönich: folds 
+consuldean: raises 50 to 100
+vosi44: calls 50
+moharp: calls 50
+*** FLOP *** [3d 2d 3h]
+consuldean: checks 
+vosi44: bets 379
+moharp: folds 
+consuldean: calls 379
+*** TURN *** [3d 2d 3h] [Kh]
+consuldean: checks 
+vosi44: bets 1137
+consuldean: folds 
+Uncalled bet (1137) returned to vosi44
+vosi44 collected 1137 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 1137 | Rake 0 
+Board [3d 2d 3h Kh]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: theonlytk folded before Flop (didn't bet)
+Seat 3: vosi44 collected (1137)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp (button) folded on the Flop
+Seat 8: KeinKönich (small blind) folded before Flop
+Seat 9: consuldean (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232301546217: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:49:57 CET [2021/12/17 17:49:57 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 1: Barellinof (1886 in chips) 
+Seat 2: theonlytk (1139 in chips) 
+Seat 3: vosi44 (2296 in chips) 
+Seat 4: TheGreatRus (1311 in chips) 
+Seat 5: yokerone1 (1565 in chips) 
+Seat 6: pedriim879 (1090 in chips) 
+Seat 7: moharp (1366 in chips) 
+Seat 8: KeinKönich (1943 in chips) 
+Seat 9: consuldean (904 in chips) 
+Barellinof: posts the ante 10
+theonlytk: posts the ante 10
+vosi44: posts the ante 10
+TheGreatRus: posts the ante 10
+yokerone1: posts the ante 10
+pedriim879: posts the ante 10
+moharp: posts the ante 10
+KeinKönich: posts the ante 10
+consuldean: posts the ante 10
+consuldean: posts small blind 40
+Barellinof: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 4s]
+theonlytk: calls 80
+vosi44: folds 
+TheGreatRus: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: folds 
+KeinKönich: calls 80
+consuldean: folds 
+Barellinof: checks 
+*** FLOP *** [Qd 4d 2d]
+Barellinof: checks 
+theonlytk: bets 240
+KeinKönich: calls 240
+Barellinof: folds 
+*** TURN *** [Qd 4d 2d] [7c]
+theonlytk: bets 240
+KeinKönich: raises 1330 to 1570
+theonlytk: calls 569 and is all-in
+Uncalled bet (761) returned to KeinKönich
+*** RIVER *** [Qd 4d 2d 7c] [Tc]
+*** SHOW DOWN ***
+theonlytk: shows [Ad Ah] (a pair of Aces)
+KeinKönich: shows [4c 4s] (three of a kind, Fours)
+KeinKönich collected 2468 from pot
+theonlytk finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2468 | Rake 0 
+Board [Qd 4d 2d 7c Tc]
+Seat 1: Barellinof (big blind) folded on the Flop
+Seat 2: theonlytk showed [Ad Ah] and lost with a pair of Aces
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: TheGreatRus folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich (button) showed [4c 4s] and won (2468) with three of a kind, Fours
+Seat 9: consuldean (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301575372: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:51:02 CET [2021/12/17 17:51:02 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 1: Barellinof (1796 in chips) 
+Seat 3: vosi44 (2286 in chips) 
+Seat 5: yokerone1 (1555 in chips) 
+Seat 6: pedriim879 (1080 in chips) 
+Seat 7: moharp (1356 in chips) 
+Seat 8: KeinKönich (3272 in chips) 
+Seat 9: consuldean (854 in chips) 
+Barellinof: posts the ante 10
+vosi44: posts the ante 10
+yokerone1: posts the ante 10
+pedriim879: posts the ante 10
+moharp: posts the ante 10
+KeinKönich: posts the ante 10
+consuldean: posts the ante 10
+Barellinof: posts small blind 40
+vosi44: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 6s]
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 80
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: calls 40
+vosi44: checks 
+*** FLOP *** [4h Qc Td]
+Barellinof: checks 
+vosi44: checks 
+moharp: checks 
+*** TURN *** [4h Qc Td] [5d]
+Barellinof: bets 155
+vosi44: calls 155
+moharp: calls 155
+*** RIVER *** [4h Qc Td 5d] [Ad]
+Barellinof: checks 
+vosi44: checks 
+moharp: bets 80
+Barellinof: calls 80
+vosi44: folds 
+*** SHOW DOWN ***
+moharp: shows [Kc Jd] (a straight, Ten to Ace)
+Barellinof: mucks hand 
+moharp collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | Rake 0 
+Board [4h Qc Td 5d Ad]
+Seat 1: Barellinof (small blind) mucked [Qh 6h]
+Seat 3: vosi44 (big blind) folded on the River
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp showed [Kc Jd] and won (935) with a straight, Ten to Ace
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301616492: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:52:34 CET [2021/12/17 17:52:34 ET]
+Table '3322230304 2' 9-max Seat #1 is the button
+Seat 1: Barellinof (1471 in chips) 
+Seat 3: vosi44 (2041 in chips) 
+Seat 5: yokerone1 (1545 in chips) 
+Seat 6: pedriim879 (1070 in chips) 
+Seat 7: moharp (1966 in chips) 
+Seat 8: KeinKönich (3262 in chips) 
+Seat 9: consuldean (844 in chips) 
+Barellinof: posts the ante 10
+vosi44: posts the ante 10
+yokerone1: posts the ante 10
+pedriim879: posts the ante 10
+moharp: posts the ante 10
+KeinKönich: posts the ante 10
+consuldean: posts the ante 10
+vosi44: posts small blind 40
+yokerone1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 6c]
+pedriim879: folds 
+moharp: folds 
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+vosi44: folds 
+Uncalled bet (40) returned to yokerone1
+yokerone1 collected 150 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Barellinof (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) collected (150)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 7: moharp folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301627095: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:52:57 CET [2021/12/17 17:52:57 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 1: Barellinof (1461 in chips) 
+Seat 3: vosi44 (1991 in chips) 
+Seat 5: yokerone1 (1645 in chips) 
+Seat 6: pedriim879 (1060 in chips) 
+Seat 7: moharp (1956 in chips) 
+Seat 8: KeinKönich (3252 in chips) 
+Seat 9: consuldean (834 in chips) 
+Barellinof: posts the ante 10
+vosi44: posts the ante 10
+yokerone1: posts the ante 10
+pedriim879: posts the ante 10
+moharp: posts the ante 10
+KeinKönich: posts the ante 10
+consuldean: posts the ante 10
+yokerone1: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 7d]
+moharp: calls 80
+KeinKönich: calls 80
+consuldean: calls 80
+Barellinof: raises 1371 to 1451 and is all-in
+vosi44: folds 
+yokerone1: folds 
+pedriim879: folds 
+moharp: calls 1371
+KeinKönich: folds 
+consuldean: folds 
+*** FLOP *** [As 7s Jc]
+*** TURN *** [As 7s Jc] [8h]
+*** RIVER *** [As 7s Jc 8h] [6s]
+*** SHOW DOWN ***
+moharp: shows [Th Ts] (a pair of Tens)
+Barellinof: shows [Ad Ks] (a pair of Aces)
+Barellinof collected 3252 from pot
+*** SUMMARY ***
+Total pot 3252 | Rake 0 
+Board [As 7s Jc 8h 6s]
+Seat 1: Barellinof showed [Ad Ks] and won (3252) with a pair of Aces
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: pedriim879 (big blind) folded before Flop
+Seat 7: moharp showed [Th Ts] and lost with a pair of Tens
+Seat 8: KeinKönich folded before Flop
+Seat 9: consuldean folded before Flop
+
+
+
+PokerStars Hand #232301656558: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:54:04 CET [2021/12/17 17:54:04 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 1: Barellinof (3252 in chips) 
+Seat 3: vosi44 (1981 in chips) 
+Seat 5: yokerone1 (1595 in chips) 
+Seat 6: pedriim879 (970 in chips) 
+Seat 7: moharp (495 in chips) 
+Seat 8: KeinKönich (3162 in chips) 
+Seat 9: consuldean (744 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+moharp: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+pedriim879: posts small blind 60
+moharp: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Ac]
+KeinKönich: folds 
+consuldean: calls 120
+Barellinof: folds 
+vosi44: folds 
+yokerone1: folds 
+pedriim879: raises 835 to 955 and is all-in
+moharp: calls 360 and is all-in
+consuldean: calls 609 and is all-in
+Uncalled bet (226) returned to pedriim879
+*** FLOP *** [5c Tc 4d]
+*** TURN *** [5c Tc 4d] [Kh]
+*** RIVER *** [5c Tc 4d Kh] [9c]
+*** SHOW DOWN ***
+pedriim879: shows [8s Ad] (high card Ace)
+consuldean: shows [5h 5d] (three of a kind, Fives)
+consuldean collected 498 from side pot
+moharp: shows [Ks 9h] (two pair, Kings and Nines)
+consuldean collected 1545 from main pot
+moharp finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2043 Main pot 1545. Side pot 498. | Rake 0 
+Board [5c Tc 4d Kh 9c]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: pedriim879 (small blind) showed [8s Ad] and lost with high card Ace
+Seat 7: moharp (big blind) showed [Ks 9h] and lost with two pair, Kings and Nines
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean showed [5h 5d] and won (2043) with three of a kind, Fives
+
+
+
+PokerStars Hand #232301676308: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:54:49 CET [2021/12/17 17:54:49 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 1: Barellinof (3237 in chips) 
+Seat 3: vosi44 (1966 in chips) 
+Seat 5: yokerone1 (1580 in chips) 
+Seat 6: pedriim879 (226 in chips) 
+Seat 8: KeinKönich (3147 in chips) 
+Seat 9: consuldean (2043 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+KeinKönich: posts small blind 60
+consuldean: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 6s]
+Barellinof: folds 
+vosi44: calls 120
+yokerone1: folds 
+pedriim879: folds 
+KeinKönich: calls 60
+consuldean: checks 
+*** FLOP *** [As 7s Kd]
+KeinKönich: checks 
+consuldean: checks 
+vosi44: bets 450
+KeinKönich: folds 
+consuldean: folds 
+Uncalled bet (450) returned to vosi44
+vosi44 collected 450 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [As 7s Kd]
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 3: vosi44 collected (450)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 (button) folded before Flop (didn't bet)
+Seat 8: KeinKönich (small blind) folded on the Flop
+Seat 9: consuldean (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232301800894: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:00:25 CET [2021/12/17 18:00:25 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 1: Barellinof (3222 in chips) 
+Seat 3: vosi44 (2281 in chips) 
+Seat 5: yokerone1 (1565 in chips) 
+Seat 6: pedriim879 (211 in chips) 
+Seat 8: KeinKönich (3012 in chips) 
+Seat 9: consuldean (1908 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+consuldean: posts small blind 60
+Barellinof: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Qs]
+vosi44: folds 
+yokerone1: folds 
+pedriim879: raises 76 to 196 and is all-in
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: calls 76
+*** FLOP *** [Ks 2c 7s]
+*** TURN *** [Ks 2c 7s] [5d]
+*** RIVER *** [Ks 2c 7s 5d] [2d]
+*** SHOW DOWN ***
+Barellinof: shows [3s As] (a pair of Deuces)
+pedriim879: shows [Ah Th] (a pair of Deuces - Ace+King+Ten kicker)
+pedriim879 collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | Rake 0 
+Board [Ks 2c 7s 5d 2d]
+Seat 1: Barellinof (big blind) showed [3s As] and lost with a pair of Deuces
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 showed [Ah Th] and won (542) with a pair of Deuces
+Seat 8: KeinKönich (button) folded before Flop (didn't bet)
+Seat 9: consuldean (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301812613: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:00:55 CET [2021/12/17 18:00:55 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 1: Barellinof (3011 in chips) 
+Seat 3: vosi44 (2266 in chips) 
+Seat 5: yokerone1 (1550 in chips) 
+Seat 6: pedriim879 (542 in chips) 
+Seat 8: KeinKönich (2997 in chips) 
+Seat 9: consuldean (1833 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+Barellinof: posts small blind 60
+vosi44: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 7c]
+yokerone1: raises 1415 to 1535 and is all-in
+pedriim879: folds 
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+vosi44: folds 
+Uncalled bet (1415) returned to yokerone1
+yokerone1 collected 390 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Barellinof (small blind) folded before Flop
+Seat 3: vosi44 (big blind) folded before Flop
+Seat 5: yokerone1 collected (390)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301823445: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:01:21 CET [2021/12/17 18:01:21 ET]
+Table '3322230304 2' 9-max Seat #1 is the button
+Seat 1: Barellinof (2936 in chips) 
+Seat 3: vosi44 (2131 in chips) 
+Seat 5: yokerone1 (1805 in chips) 
+Seat 6: pedriim879 (527 in chips) 
+Seat 8: KeinKönich (2982 in chips) 
+Seat 9: consuldean (1818 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+vosi44: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 2s]
+pedriim879: raises 392 to 512 and is all-in
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+vosi44: folds 
+yokerone1: folds 
+Uncalled bet (392) returned to pedriim879
+pedriim879 collected 390 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Barellinof (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: pedriim879 collected (390)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301832562: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:01:43 CET [2021/12/17 18:01:43 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 1: Barellinof (2921 in chips) 
+Seat 3: vosi44 (2056 in chips) 
+Seat 5: yokerone1 (1670 in chips) 
+Seat 6: pedriim879 (782 in chips) 
+Seat 8: KeinKönich (2967 in chips) 
+Seat 9: consuldean (1803 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+yokerone1: posts small blind 60
+pedriim879: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Ah]
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: raises 120 to 240
+vosi44: folds 
+yokerone1: folds 
+pedriim879: folds 
+Uncalled bet (120) returned to Barellinof
+Barellinof collected 390 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Barellinof collected (390)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: pedriim879 (big blind) folded before Flop
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301846001: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:02:14 CET [2021/12/17 18:02:14 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 1: Barellinof (3176 in chips) 
+Seat 3: vosi44 (2041 in chips) 
+Seat 5: yokerone1 (1595 in chips) 
+Seat 6: pedriim879 (647 in chips) 
+Seat 8: KeinKönich (2952 in chips) 
+Seat 9: consuldean (1788 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+pedriim879: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 8h]
+consuldean: folds 
+Barellinof: folds 
+vosi44: folds 
+yokerone1: folds 
+pedriim879: folds 
+Uncalled bet (60) returned to KeinKönich
+KeinKönich collected 210 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: pedriim879 (small blind) folded before Flop
+Seat 8: KeinKönich (big blind) collected (210)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301851560: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:02:27 CET [2021/12/17 18:02:27 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 1: Barellinof (3161 in chips) 
+Seat 3: vosi44 (2026 in chips) 
+Seat 5: yokerone1 (1580 in chips) 
+Seat 6: pedriim879 (572 in chips) 
+Seat 8: KeinKönich (3087 in chips) 
+Seat 9: consuldean (1773 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+KeinKönich: posts small blind 60
+consuldean: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h Qs]
+Barellinof: folds 
+vosi44: folds 
+yokerone1: folds 
+pedriim879: folds 
+KeinKönich: raises 120 to 240
+consuldean: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 330 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 (button) folded before Flop (didn't bet)
+Seat 8: KeinKönich (small blind) collected (330)
+Seat 9: consuldean (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301859224: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:02:44 CET [2021/12/17 18:02:44 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 1: Barellinof (3146 in chips) 
+Seat 3: vosi44 (2011 in chips) 
+Seat 5: yokerone1 (1565 in chips) 
+Seat 6: pedriim879 (557 in chips) 
+Seat 8: KeinKönich (3282 in chips) 
+Seat 9: consuldean (1638 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+consuldean: posts small blind 60
+Barellinof: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 8s]
+vosi44: folds 
+yokerone1: folds 
+pedriim879: folds 
+KeinKönich: folds 
+consuldean: raises 120 to 240
+Barellinof: calls 120
+*** FLOP *** [5d Kc 9d]
+consuldean: checks 
+Barellinof: bets 240
+consuldean: calls 240
+*** TURN *** [5d Kc 9d] [As]
+consuldean: bets 525
+Barellinof: folds 
+Uncalled bet (525) returned to consuldean
+consuldean collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [5d Kc 9d As]
+Seat 1: Barellinof (big blind) folded on the Turn
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 folded before Flop (didn't bet)
+Seat 8: KeinKönich (button) folded before Flop (didn't bet)
+Seat 9: consuldean (small blind) collected (1050)
+
+
+
+PokerStars Hand #232301883775: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:03:41 CET [2021/12/17 18:03:41 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 1: Barellinof (2651 in chips) 
+Seat 3: vosi44 (1996 in chips) 
+Seat 5: yokerone1 (1550 in chips) 
+Seat 6: pedriim879 (542 in chips) 
+Seat 8: KeinKönich (3267 in chips) 
+Seat 9: consuldean (2193 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+pedriim879: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+Barellinof: posts small blind 60
+vosi44: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Kc]
+yokerone1: folds 
+pedriim879: raises 407 to 527 and is all-in
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: raises 2109 to 2636 and is all-in
+vosi44: folds 
+Uncalled bet (2109) returned to Barellinof
+*** FLOP *** [3c 3h Ah]
+*** TURN *** [3c 3h Ah] [9h]
+*** RIVER *** [3c 3h Ah 9h] [6c]
+*** SHOW DOWN ***
+Barellinof: shows [6s 6h] (a full house, Sixes full of Threes)
+pedriim879: shows [Jd As] (two pair, Aces and Threes)
+Barellinof collected 1264 from pot
+pedriim879 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 1264 | Rake 0 
+Board [3c 3h Ah 9h 6c]
+Seat 1: Barellinof (small blind) showed [6s 6h] and won (1264) with a full house, Sixes full of Threes
+Seat 3: vosi44 (big blind) folded before Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: pedriim879 showed [Jd As] and lost with two pair, Aces and Threes
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301893679: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:04:03 CET [2021/12/17 18:04:03 ET]
+Table '3322230304 2' 9-max Seat #1 is the button
+Seat 1: Barellinof (3373 in chips) 
+Seat 3: vosi44 (1861 in chips) 
+Seat 5: yokerone1 (1535 in chips) 
+Seat 8: KeinKönich (3252 in chips) 
+Seat 9: consuldean (2178 in chips) 
+Barellinof: posts the ante 15
+vosi44: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+consuldean: posts the ante 15
+vosi44: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 2d]
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: folds 
+vosi44: folds 
+Uncalled bet (60) returned to yokerone1
+yokerone1 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: Barellinof (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) collected (195)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301905859: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:04:30 CET [2021/12/17 18:04:30 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 1: Barellinof (3358 in chips) 
+Seat 2: ursdari (2274 in chips) 
+Seat 3: vosi44 (1786 in chips) 
+Seat 4: DizzyDiz (5948 in chips) out of hand (moved from another table into small blind)
+Seat 5: yokerone1 (1655 in chips) 
+Seat 6: leledoni (2150 in chips) 
+Seat 7: AndreMDSilva (4429 in chips) 
+Seat 8: KeinKönich (3237 in chips) 
+Seat 9: consuldean (2163 in chips) 
+DizzyDiz will be allowed to play after the button
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+yokerone1: posts small blind 80
+leledoni: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 8c]
+AndreMDSilva: folds 
+KeinKönich: raises 160 to 320
+consuldean: folds 
+Barellinof: folds 
+ursdari: folds 
+vosi44: folds 
+yokerone1: folds 
+leledoni has timed out
+leledoni: folds 
+leledoni is sitting out
+Uncalled bet (160) returned to KeinKönich
+KeinKönich collected 560 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: leledoni (big blind) folded before Flop
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich collected (560)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301931888: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:05:12 CET [2021/12/17 18:05:12 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 1: Barellinof (3338 in chips) 
+Seat 2: ursdari (2254 in chips) 
+Seat 3: vosi44 (1766 in chips) 
+Seat 4: DizzyDiz (5948 in chips) 
+Seat 5: yokerone1 (1555 in chips) 
+Seat 6: leledoni (1970 in chips) is sitting out
+Seat 7: AndreMDSilva (4409 in chips) 
+Seat 8: KeinKönich (3617 in chips) 
+Seat 9: consuldean (2143 in chips) 
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+leledoni: posts small blind 80
+AndreMDSilva: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 6s]
+KeinKönich: folds 
+leledoni has returned
+consuldean: folds 
+Barellinof: folds 
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+Uncalled bet (80) returned to AndreMDSilva
+AndreMDSilva collected 340 from pot
+AndreMDSilva: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: leledoni (small blind) folded before Flop
+Seat 7: AndreMDSilva (big blind) collected (340)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301942397: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:05:36 CET [2021/12/17 18:05:36 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 1: Barellinof (3318 in chips) 
+Seat 2: ursdari (2234 in chips) 
+Seat 3: vosi44 (1746 in chips) 
+Seat 4: DizzyDiz (5928 in chips) 
+Seat 5: yokerone1 (1535 in chips) 
+Seat 6: leledoni (1870 in chips) 
+Seat 7: AndreMDSilva (4649 in chips) 
+Seat 8: KeinKönich (3597 in chips) 
+Seat 9: consuldean (2123 in chips) 
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+AndreMDSilva: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 5d]
+consuldean: folds 
+Barellinof: folds 
+ursdari: raises 2054 to 2214 and is all-in
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+Uncalled bet (2054) returned to ursdari
+ursdari collected 580 from pot
+ursdari: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: ursdari collected (580)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni (button) folded before Flop (didn't bet)
+Seat 7: AndreMDSilva (small blind) folded before Flop
+Seat 8: KeinKönich (big blind) folded before Flop
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301956368: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:06:08 CET [2021/12/17 18:06:08 ET]
+Table '3322230304 2' 9-max Seat #7 is the button
+Seat 1: Barellinof (3298 in chips) 
+Seat 2: ursdari (2634 in chips) 
+Seat 3: vosi44 (1726 in chips) 
+Seat 4: DizzyDiz (5908 in chips) 
+Seat 5: yokerone1 (1515 in chips) 
+Seat 6: leledoni (1850 in chips) 
+Seat 7: AndreMDSilva (4549 in chips) 
+Seat 8: KeinKönich (3417 in chips) 
+Seat 9: consuldean (2103 in chips) 
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+KeinKönich: posts small blind 80
+consuldean: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 2d]
+Barellinof: folds 
+ursdari: raises 240 to 400
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+consuldean: folds 
+Uncalled bet (240) returned to ursdari
+ursdari collected 580 from pot
+ursdari: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: Barellinof folded before Flop (didn't bet)
+Seat 2: ursdari collected (580)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 8: KeinKönich (small blind) folded before Flop
+Seat 9: consuldean (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301965202: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:06:28 CET [2021/12/17 18:06:28 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 1: Barellinof (3278 in chips) 
+Seat 2: ursdari (3034 in chips) 
+Seat 3: vosi44 (1706 in chips) 
+Seat 4: DizzyDiz (5888 in chips) 
+Seat 5: yokerone1 (1495 in chips) 
+Seat 6: leledoni (1830 in chips) 
+Seat 7: AndreMDSilva (4529 in chips) 
+Seat 8: KeinKönich (3317 in chips) 
+Seat 9: consuldean (1923 in chips) 
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+consuldean: posts small blind 80
+Barellinof: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Ks]
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: raises 160 to 320
+consuldean: raises 160 to 480
+Barellinof: folds 
+KeinKönich: folds 
+Uncalled bet (160) returned to consuldean
+consuldean collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Seat 1: Barellinof (big blind) folded before Flop
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich (button) folded before Flop
+Seat 9: consuldean (small blind) collected (980)
+
+
+
+PokerStars Hand #232301978664: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:06:59 CET [2021/12/17 18:06:59 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 1: Barellinof (3098 in chips) 
+Seat 2: ursdari (3014 in chips) 
+Seat 3: vosi44 (1686 in chips) 
+Seat 4: DizzyDiz (5868 in chips) 
+Seat 5: yokerone1 (1475 in chips) 
+Seat 6: leledoni (1810 in chips) 
+Seat 7: AndreMDSilva (4509 in chips) 
+Seat 8: KeinKönich (2977 in chips) 
+Seat 9: consuldean (2563 in chips) 
+Barellinof: posts the ante 20
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+Barellinof: posts small blind 80
+ursdari: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 7c]
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: raises 168 to 328
+KeinKönich: folds 
+consuldean: folds 
+Barellinof: raises 2750 to 3078 and is all-in
+ursdari: folds 
+AndreMDSilva: calls 2750
+*** FLOP *** [9h 2s Qh]
+*** TURN *** [9h 2s Qh] [7d]
+*** RIVER *** [9h 2s Qh 7d] [7s]
+*** SHOW DOWN ***
+Barellinof: shows [Ks Ah] (a pair of Sevens)
+AndreMDSilva: shows [Qc As] (two pair, Queens and Sevens)
+AndreMDSilva collected 6496 from pot
+Barellinof finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 6496 | Rake 0 
+Board [9h 2s Qh 7d 7s]
+Seat 1: Barellinof (small blind) showed [Ks Ah] and lost with a pair of Sevens
+Seat 2: ursdari (big blind) folded before Flop
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva showed [Qc As] and won (6496) with two pair, Queens and Sevens
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301997914: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:07:44 CET [2021/12/17 18:07:44 ET]
+Table '3322230304 2' 9-max Seat #2 is the button
+Seat 2: ursdari (2834 in chips) 
+Seat 3: vosi44 (1666 in chips) 
+Seat 4: DizzyDiz (5848 in chips) 
+Seat 5: yokerone1 (1455 in chips) 
+Seat 6: leledoni (1790 in chips) 
+Seat 7: AndreMDSilva (7907 in chips) 
+Seat 8: KeinKönich (2957 in chips) 
+Seat 9: consuldean (2543 in chips) 
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+vosi44: posts small blind 80
+DizzyDiz: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 9s]
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+consuldean: calls 160
+ursdari: folds 
+vosi44: raises 640 to 800
+DizzyDiz: folds 
+consuldean: folds 
+Uncalled bet (640) returned to vosi44
+vosi44 collected 640 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Seat 2: ursdari (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) collected (640)
+Seat 4: DizzyDiz (big blind) folded before Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop
+
+
+
+PokerStars Hand #232302009157: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:08:10 CET [2021/12/17 18:08:10 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 2: ursdari (2814 in chips) 
+Seat 3: vosi44 (2126 in chips) 
+Seat 4: DizzyDiz (5668 in chips) 
+Seat 5: yokerone1 (1435 in chips) 
+Seat 6: leledoni (1770 in chips) 
+Seat 7: AndreMDSilva (7887 in chips) 
+Seat 8: KeinKönich (2937 in chips) 
+Seat 9: consuldean (2363 in chips) 
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+DizzyDiz: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 5c]
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: raises 160 to 320
+consuldean: folds 
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: calls 160
+*** FLOP *** [9h 3c 9s]
+yokerone1: checks 
+KeinKönich: checks 
+*** TURN *** [9h 3c 9s] [Kc]
+yokerone1: checks 
+KeinKönich: bets 440
+yokerone1: folds 
+Uncalled bet (440) returned to KeinKönich
+KeinKönich collected 880 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [9h 3c 9s Kc]
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 4: DizzyDiz (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded on the Turn
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich collected (880)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302031278: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:08:49 CET [2021/12/17 18:08:49 ET]
+Table '3322230304 2' 9-max Seat #4 is the button
+Seat 2: ursdari (2794 in chips) 
+Seat 3: vosi44 (2106 in chips) 
+Seat 4: DizzyDiz (5568 in chips) 
+Seat 5: yokerone1 (1095 in chips) 
+Seat 6: leledoni (1750 in chips) 
+Seat 7: AndreMDSilva (7867 in chips) 
+Seat 8: KeinKönich (3477 in chips) 
+Seat 9: consuldean (2343 in chips) 
+ursdari: posts the ante 20
+vosi44: posts the ante 20
+DizzyDiz: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+consuldean: posts the ante 20
+yokerone1: posts small blind 80
+leledoni: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 2d]
+AndreMDSilva: folds 
+KeinKönich: folds 
+consuldean: calls 160
+ursdari: folds 
+vosi44: raises 480 to 640
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+consuldean: calls 480
+*** FLOP *** [8h 2s 5d]
+consuldean: checks 
+vosi44: checks 
+*** TURN *** [8h 2s 5d] [6h]
+consuldean: checks 
+vosi44: checks 
+*** RIVER *** [8h 2s 5d 6h] [8s]
+consuldean: bets 160
+vosi44: raises 1286 to 1446 and is all-in
+consuldean: folds 
+Uncalled bet (1286) returned to vosi44
+vosi44 collected 2000 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Board [8h 2s 5d 6h 8s]
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 collected (2000)
+Seat 4: DizzyDiz (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: leledoni (big blind) folded before Flop
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded on the River
+
+
+
+PokerStars Hand #232302057074: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:09:50 CET [2021/12/17 18:09:50 ET]
+Table '3322230304 2' 9-max Seat #5 is the button
+Seat 2: ursdari (2774 in chips) 
+Seat 3: vosi44 (3286 in chips) 
+Seat 4: DizzyDiz (5548 in chips) 
+Seat 5: yokerone1 (995 in chips) 
+Seat 6: leledoni (1570 in chips) 
+Seat 7: AndreMDSilva (7847 in chips) 
+Seat 8: KeinKönich (3457 in chips) 
+Seat 9: consuldean (1523 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+leledoni: posts small blind 100
+AndreMDSilva: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 7c]
+KeinKönich: raises 200 to 400
+consuldean has timed out
+consuldean: folds 
+consuldean is sitting out
+ursdari: folds 
+vosi44: calls 400
+DizzyDiz: calls 400
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: calls 200
+*** FLOP *** [6h Tc Kd]
+AndreMDSilva: checks 
+KeinKönich: checks 
+vosi44: bets 1900
+DizzyDiz: folds 
+AndreMDSilva: folds 
+consuldean has returned
+KeinKönich: folds 
+Uncalled bet (1900) returned to vosi44
+vosi44 collected 1900 from pot
+vosi44: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Board [6h Tc Kd]
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 collected (1900)
+Seat 4: DizzyDiz folded on the Flop
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: leledoni (small blind) folded before Flop
+Seat 7: AndreMDSilva (big blind) folded on the Flop
+Seat 8: KeinKönich folded on the Flop
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302087058: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:10:59 CET [2021/12/17 18:10:59 ET]
+Table '3322230304 2' 9-max Seat #6 is the button
+Seat 2: ursdari (2749 in chips) 
+Seat 3: vosi44 (4761 in chips) 
+Seat 4: DizzyDiz (5123 in chips) 
+Seat 5: yokerone1 (970 in chips) 
+Seat 6: leledoni (1445 in chips) 
+Seat 7: AndreMDSilva (7422 in chips) 
+Seat 8: KeinKönich (3032 in chips) 
+Seat 9: consuldean (1498 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+AndreMDSilva: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 7h]
+consuldean: folds 
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: raises 400 to 600
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+Uncalled bet (400) returned to DizzyDiz
+DizzyDiz collected 700 from pot
+DizzyDiz: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz collected (700)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni (button) folded before Flop (didn't bet)
+Seat 7: AndreMDSilva (small blind) folded before Flop
+Seat 8: KeinKönich (big blind) folded before Flop
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302095460: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:11:19 CET [2021/12/17 18:11:19 ET]
+Table '3322230304 2' 9-max Seat #7 is the button
+Seat 2: ursdari (2724 in chips) 
+Seat 3: vosi44 (4736 in chips) 
+Seat 4: DizzyDiz (5598 in chips) 
+Seat 5: yokerone1 (945 in chips) 
+Seat 6: leledoni (1420 in chips) 
+Seat 7: AndreMDSilva (7297 in chips) 
+Seat 8: KeinKönich (2807 in chips) 
+Seat 9: consuldean (1473 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+KeinKönich: posts small blind 100
+consuldean: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Qs]
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: raises 7072 to 7272 and is all-in
+KeinKönich: folds 
+consuldean: folds 
+Uncalled bet (7072) returned to AndreMDSilva
+AndreMDSilva collected 700 from pot
+AndreMDSilva: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva (button) collected (700)
+Seat 8: KeinKönich (small blind) folded before Flop
+Seat 9: consuldean (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302103045: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:11:37 CET [2021/12/17 18:11:37 ET]
+Table '3322230304 2' 9-max Seat #8 is the button
+Seat 2: ursdari (2699 in chips) 
+Seat 3: vosi44 (4711 in chips) 
+Seat 4: DizzyDiz (5573 in chips) 
+Seat 5: yokerone1 (920 in chips) 
+Seat 6: leledoni (1395 in chips) 
+Seat 7: AndreMDSilva (7772 in chips) 
+Seat 8: KeinKönich (2682 in chips) 
+Seat 9: consuldean (1248 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+consuldean: posts small blind 100
+ursdari: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 2d]
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: raises 2457 to 2657 and is all-in
+consuldean: folds 
+ursdari: folds 
+Uncalled bet (2457) returned to KeinKönich
+KeinKönich collected 700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: ursdari (big blind) folded before Flop
+Seat 3: vosi44 folded before Flop (didn't bet)
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich (button) collected (700)
+Seat 9: consuldean (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302109277: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:11:51 CET [2021/12/17 18:11:51 ET]
+Table '3322230304 2' 9-max Seat #9 is the button
+Seat 2: ursdari (2474 in chips) 
+Seat 3: vosi44 (4686 in chips) 
+Seat 4: DizzyDiz (5548 in chips) 
+Seat 5: yokerone1 (895 in chips) 
+Seat 6: leledoni (1370 in chips) 
+Seat 7: AndreMDSilva (7747 in chips) 
+Seat 8: KeinKönich (3157 in chips) 
+Seat 9: consuldean (1123 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+ursdari: posts small blind 100
+vosi44: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh Jd]
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+AndreMDSilva: raises 210 to 410
+KeinKönich: folds 
+consuldean: raises 688 to 1098 and is all-in
+ursdari: folds 
+vosi44: folds 
+AndreMDSilva: calls 688
+*** FLOP *** [Jh 3c Qh]
+*** TURN *** [Jh 3c Qh] [Ks]
+*** RIVER *** [Jh 3c Qh Ks] [7c]
+*** SHOW DOWN ***
+AndreMDSilva: shows [9s Ah] (high card Ace)
+consuldean: shows [Ad Qd] (a pair of Queens)
+consuldean collected 2696 from pot
+*** SUMMARY ***
+Total pot 2696 | Rake 0 
+Board [Jh 3c Qh Ks 7c]
+Seat 2: ursdari (small blind) folded before Flop
+Seat 3: vosi44 (big blind) folded before Flop
+Seat 4: DizzyDiz folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva showed [9s Ah] and lost with high card Ace
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean (button) showed [Ad Qd] and won (2696) with a pair of Queens
+
+
+
+PokerStars Hand #232302125307: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:12:29 CET [2021/12/17 18:12:29 ET]
+Table '3322230304 2' 9-max Seat #2 is the button
+Seat 2: ursdari (2349 in chips) 
+Seat 3: vosi44 (4461 in chips) 
+Seat 4: DizzyDiz (5523 in chips) 
+Seat 5: yokerone1 (870 in chips) 
+Seat 6: leledoni (1345 in chips) 
+Seat 7: AndreMDSilva (6624 in chips) 
+Seat 8: KeinKönich (3132 in chips) 
+Seat 9: consuldean (2696 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+vosi44: posts small blind 100
+DizzyDiz: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 2h]
+yokerone1: raises 645 to 845 and is all-in
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+consuldean: folds 
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+Uncalled bet (645) returned to yokerone1
+yokerone1 collected 700 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: ursdari (button) folded before Flop (didn't bet)
+Seat 3: vosi44 (small blind) folded before Flop
+Seat 4: DizzyDiz (big blind) folded before Flop
+Seat 5: yokerone1 collected (700)
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302131694: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:12:44 CET [2021/12/17 18:12:44 ET]
+Table '3322230304 2' 9-max Seat #3 is the button
+Seat 2: ursdari (2324 in chips) 
+Seat 3: vosi44 (4336 in chips) 
+Seat 4: DizzyDiz (5298 in chips) 
+Seat 5: yokerone1 (1345 in chips) 
+Seat 6: leledoni (1320 in chips) 
+Seat 7: AndreMDSilva (6599 in chips) 
+Seat 8: KeinKönich (3107 in chips) 
+Seat 9: consuldean (2671 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+DizzyDiz: posts small blind 100
+yokerone1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 8s]
+leledoni: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+consuldean: calls 200
+ursdari: folds 
+vosi44: folds 
+DizzyDiz: folds 
+yokerone1: checks 
+*** FLOP *** [Kd Qd 4c]
+yokerone1: checks 
+consuldean: bets 200
+yokerone1: folds 
+Uncalled bet (200) returned to consuldean
+consuldean collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Kd Qd 4c]
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 (button) folded before Flop (didn't bet)
+Seat 4: DizzyDiz (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded on the Flop
+Seat 6: leledoni folded before Flop (didn't bet)
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich folded before Flop (didn't bet)
+Seat 9: consuldean collected (700)
+
+
+
+PokerStars Hand #232302154747: Tournament #3322230304, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:13:18 CET [2021/12/17 18:13:18 ET]
+Table '3322230304 2' 9-max Seat #4 is the button
+Seat 2: ursdari (2299 in chips) 
+Seat 3: vosi44 (4311 in chips) 
+Seat 4: DizzyDiz (5173 in chips) 
+Seat 5: yokerone1 (1120 in chips) 
+Seat 6: leledoni (1295 in chips) 
+Seat 7: AndreMDSilva (6574 in chips) 
+Seat 8: KeinKönich (3082 in chips) 
+Seat 9: consuldean (3146 in chips) 
+ursdari: posts the ante 25
+vosi44: posts the ante 25
+DizzyDiz: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+AndreMDSilva: posts the ante 25
+KeinKönich: posts the ante 25
+consuldean: posts the ante 25
+yokerone1: posts small blind 100
+leledoni: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 5h]
+AndreMDSilva: folds 
+KeinKönich: raises 200 to 400
+consuldean: folds 
+ursdari: folds 
+vosi44: calls 400
+DizzyDiz: folds 
+yokerone1: folds 
+leledoni: folds 
+*** FLOP *** [5s 4s Jd]
+KeinKönich: checks 
+vosi44: bets 650
+KeinKönich: raises 2007 to 2657 and is all-in
+vosi44: calls 2007
+*** TURN *** [5s 4s Jd] [3d]
+*** RIVER *** [5s 4s Jd 3d] [Qd]
+*** SHOW DOWN ***
+KeinKönich: shows [5d 5h] (three of a kind, Fives)
+vosi44: shows [4d Ad] (a flush, Ace high)
+vosi44 collected 6614 from pot
+KeinKönich finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 6614 | Rake 0 
+Board [5s 4s Jd 3d Qd]
+Seat 2: ursdari folded before Flop (didn't bet)
+Seat 3: vosi44 showed [4d Ad] and won (6614) with a flush, Ace high
+Seat 4: DizzyDiz (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: leledoni (big blind) folded before Flop
+Seat 7: AndreMDSilva folded before Flop (didn't bet)
+Seat 8: KeinKönich showed [5d 5h] and lost with three of a kind, Fives
+Seat 9: consuldean folded before Flop (didn't bet)
+
+
+

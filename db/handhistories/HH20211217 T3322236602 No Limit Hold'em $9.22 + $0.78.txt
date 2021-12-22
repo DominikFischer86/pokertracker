@@ -1,0 +1,1681 @@
+ï»¿PokerStars Hand #232301447553: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:46:17 CET [2021/12/17 17:46:17 ET]
+Table '3322236602 1' 9-max Seat #1 is the button
+Seat 1: yokerone1 (1500 in chips) 
+Seat 2: russell_stuart1 (1500 in chips) 
+Seat 3: pedriim879 (1500 in chips) 
+Seat 4: makind796 (1500 in chips) 
+Seat 5: god67 (1500 in chips) 
+Seat 6: lokirime (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: squeak445 (1500 in chips) 
+Seat 9: Saran1302 (1500 in chips) is sitting out
+yokerone1: posts the ante 3
+russell_stuart1: posts the ante 3
+pedriim879: posts the ante 3
+makind796: posts the ante 3
+god67: posts the ante 3
+lokirime: posts the ante 3
+KeinKönich: posts the ante 3
+squeak445: posts the ante 3
+Saran1302: posts the ante 3
+russell_stuart1: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js Ks]
+Saran1302 has returned
+makind796: folds 
+god67: raises 60 to 80
+lokirime: calls 80
+KeinKönich: calls 80
+squeak445: calls 80
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+*** FLOP *** [5h Jc 7h]
+god67: checks 
+lokirime: checks 
+KeinKönich: bets 190
+squeak445: folds 
+god67: folds 
+lokirime: calls 190
+*** TURN *** [5h Jc 7h] [Tc]
+lokirime: checks 
+KeinKönich: checks 
+*** RIVER *** [5h Jc 7h Tc] [Kc]
+lokirime: checks 
+KeinKönich: bets 170
+lokirime: calls 170
+*** SHOW DOWN ***
+KeinKönich: shows [Js Ks] (two pair, Kings and Jacks)
+lokirime: mucks hand 
+KeinKönich collected 1097 from pot
+*** SUMMARY ***
+Total pot 1097 | Rake 0 
+Board [5h Jc 7h Tc Kc]
+Seat 1: yokerone1 (button) folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) folded before Flop
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded on the Flop
+Seat 6: lokirime mucked [As Jh]
+Seat 7: KeinKönich showed [Js Ks] and won (1097) with two pair, Kings and Jacks
+Seat 8: squeak445 folded on the Flop
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301481269: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:47:32 CET [2021/12/17 17:47:32 ET]
+Table '3322236602 1' 9-max Seat #2 is the button
+Seat 1: yokerone1 (1497 in chips) 
+Seat 2: russell_stuart1 (1487 in chips) 
+Seat 3: pedriim879 (1477 in chips) 
+Seat 4: makind796 (1497 in chips) 
+Seat 5: god67 (1417 in chips) 
+Seat 6: lokirime (1057 in chips) 
+Seat 7: KeinKönich (2154 in chips) 
+Seat 8: squeak445 (1417 in chips) 
+Seat 9: Saran1302 (1497 in chips) 
+yokerone1: posts the ante 3
+russell_stuart1: posts the ante 3
+pedriim879: posts the ante 3
+makind796: posts the ante 3
+god67: posts the ante 3
+lokirime: posts the ante 3
+KeinKönich: posts the ante 3
+squeak445: posts the ante 3
+Saran1302: posts the ante 3
+pedriim879: posts small blind 10
+makind796: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh Js]
+god67: folds 
+lokirime: calls 20
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: checks 
+*** FLOP *** [8c 3s 4s]
+makind796: checks 
+lokirime: bets 39
+makind796: folds 
+Uncalled bet (39) returned to lokirime
+lokirime collected 77 from pot
+lokirime: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Board [8c 3s 4s]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) folded before Flop
+Seat 4: makind796 (big blind) folded on the Flop
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 6: lokirime collected (77)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301500803: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:48:15 CET [2021/12/17 17:48:15 ET]
+Table '3322236602 1' 9-max Seat #3 is the button
+Seat 1: yokerone1 (1494 in chips) 
+Seat 2: russell_stuart1 (1484 in chips) 
+Seat 3: pedriim879 (1464 in chips) 
+Seat 4: makind796 (1474 in chips) 
+Seat 5: god67 (1414 in chips) 
+Seat 6: lokirime (1111 in chips) 
+Seat 7: KeinKönich (2151 in chips) 
+Seat 8: squeak445 (1414 in chips) 
+Seat 9: Saran1302 (1494 in chips) 
+yokerone1: posts the ante 3
+russell_stuart1: posts the ante 3
+pedriim879: posts the ante 3
+makind796: posts the ante 3
+god67: posts the ante 3
+lokirime: posts the ante 3
+KeinKönich: posts the ante 3
+squeak445: posts the ante 3
+Saran1302: posts the ante 3
+makind796: posts small blind 10
+god67: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 6s]
+lokirime: folds 
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 20
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: folds 
+god67: checks 
+*** FLOP *** [7s Tc 4d]
+god67: checks 
+Saran1302: checks 
+*** TURN *** [7s Tc 4d] [3h]
+god67: checks 
+Saran1302: checks 
+*** RIVER *** [7s Tc 4d 3h] [3s]
+god67: bets 60
+Saran1302: folds 
+Uncalled bet (60) returned to god67
+god67 collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Board [7s Tc 4d 3h 3s]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 (button) folded before Flop (didn't bet)
+Seat 4: makind796 (small blind) folded before Flop
+Seat 5: god67 (big blind) collected (77)
+Seat 6: lokirime folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded on the River
+
+
+
+PokerStars Hand #232301526239: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:49:12 CET [2021/12/17 17:49:12 ET]
+Table '3322236602 1' 9-max Seat #4 is the button
+Seat 1: yokerone1 (1491 in chips) 
+Seat 2: russell_stuart1 (1481 in chips) 
+Seat 3: pedriim879 (1461 in chips) 
+Seat 4: makind796 (1461 in chips) 
+Seat 5: god67 (1468 in chips) 
+Seat 6: lokirime (1108 in chips) 
+Seat 7: KeinKönich (2148 in chips) 
+Seat 8: squeak445 (1411 in chips) 
+Seat 9: Saran1302 (1471 in chips) 
+yokerone1: posts the ante 3
+russell_stuart1: posts the ante 3
+pedriim879: posts the ante 3
+makind796: posts the ante 3
+god67: posts the ante 3
+lokirime: posts the ante 3
+KeinKönich: posts the ante 3
+squeak445: posts the ante 3
+Saran1302: posts the ante 3
+god67: posts small blind 10
+lokirime: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 4c]
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 20
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: raises 40 to 60
+god67: calls 50
+lokirime: calls 40
+Saran1302: calls 40
+*** FLOP *** [4d 8c Ad]
+god67: checks 
+lokirime: checks 
+Saran1302: checks 
+makind796: bets 100
+god67: folds 
+lokirime: folds 
+Saran1302: folds 
+Uncalled bet (100) returned to makind796
+makind796 collected 267 from pot
+makind796: doesn't show hand 
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Board [4d 8c Ad]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: makind796 (button) collected (267)
+Seat 5: god67 (small blind) folded on the Flop
+Seat 6: lokirime (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded on the Flop
+
+
+
+PokerStars Hand #232301553115: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:50:12 CET [2021/12/17 17:50:12 ET]
+Table '3322236602 1' 9-max Seat #5 is the button
+Seat 1: yokerone1 (1488 in chips) 
+Seat 2: russell_stuart1 (1478 in chips) 
+Seat 3: pedriim879 (1458 in chips) 
+Seat 4: makind796 (1665 in chips) 
+Seat 5: god67 (1405 in chips) 
+Seat 6: lokirime (1045 in chips) 
+Seat 7: KeinKönich (2145 in chips) 
+Seat 8: squeak445 (1408 in chips) 
+Seat 9: Saran1302 (1408 in chips) 
+yokerone1: posts the ante 3
+russell_stuart1: posts the ante 3
+pedriim879: posts the ante 3
+makind796: posts the ante 3
+god67: posts the ante 3
+lokirime: posts the ante 3
+KeinKönich: posts the ante 3
+squeak445: posts the ante 3
+Saran1302: posts the ante 3
+lokirime: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 5h]
+squeak445: raises 40 to 60
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: folds 
+god67: calls 60
+lokirime: calls 50
+KeinKönich: calls 40
+*** FLOP *** [As 8c 8h]
+lokirime: checks 
+KeinKönich: checks 
+squeak445: checks 
+god67: checks 
+*** TURN *** [As 8c 8h] [3c]
+lokirime: checks 
+KeinKönich: checks 
+squeak445: checks 
+god67: checks 
+*** RIVER *** [As 8c 8h 3c] [Js]
+lokirime: checks 
+KeinKönich: checks 
+squeak445: bets 80
+god67: calls 80
+lokirime: folds 
+KeinKönich: folds 
+*** SHOW DOWN ***
+squeak445: shows [Ah 7d] (two pair, Aces and Eights)
+god67: mucks hand 
+squeak445 collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Board [As 8c 8h 3c Js]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 (button) mucked [Jd 9d]
+Seat 6: lokirime (small blind) folded on the River
+Seat 7: KeinKönich (big blind) folded on the River
+Seat 8: squeak445 showed [Ah 7d] and won (427) with two pair, Aces and Eights
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301599448: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:51:56 CET [2021/12/17 17:51:56 ET]
+Table '3322236602 1' 9-max Seat #6 is the button
+Seat 1: yokerone1 (1485 in chips) 
+Seat 2: russell_stuart1 (1475 in chips) 
+Seat 3: pedriim879 (1455 in chips) 
+Seat 4: makind796 (1662 in chips) 
+Seat 5: god67 (1262 in chips) 
+Seat 6: lokirime (982 in chips) 
+Seat 7: KeinKönich (2082 in chips) 
+Seat 8: squeak445 (1692 in chips) 
+Seat 9: Saran1302 (1405 in chips) 
+yokerone1: posts the ante 4
+russell_stuart1: posts the ante 4
+pedriim879: posts the ante 4
+makind796: posts the ante 4
+god67: posts the ante 4
+lokirime: posts the ante 4
+KeinKönich: posts the ante 4
+squeak445: posts the ante 4
+Saran1302: posts the ante 4
+KeinKönich: posts small blind 15
+squeak445: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 3s]
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: raises 40 to 70
+makind796: folds 
+god67: calls 70
+lokirime: calls 70
+KeinKönich: folds 
+squeak445: calls 40
+*** FLOP *** [3h 2h 9d]
+squeak445: checks 
+pedriim879: bets 210
+god67: calls 210
+lokirime: folds 
+squeak445: folds 
+*** TURN *** [3h 2h 9d] [5d]
+pedriim879: bets 1171 and is all-in
+god67: calls 978 and is all-in
+Uncalled bet (193) returned to pedriim879
+*** RIVER *** [3h 2h 9d 5d] [8c]
+*** SHOW DOWN ***
+pedriim879: shows [As 9c] (a pair of Nines)
+god67: shows [Ac Ad] (a pair of Aces)
+god67 collected 2707 from pot
+*** SUMMARY ***
+Total pot 2707 | Rake 0 
+Board [3h 2h 9d 5d 8c]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 showed [As 9c] and lost with a pair of Nines
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 showed [Ac Ad] and won (2707) with a pair of Aces
+Seat 6: lokirime (button) folded on the Flop
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: squeak445 (big blind) folded on the Flop
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301630123: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:53:04 CET [2021/12/17 17:53:04 ET]
+Table '3322236602 1' 9-max Seat #7 is the button
+Seat 1: yokerone1 (1481 in chips) 
+Seat 2: russell_stuart1 (1471 in chips) 
+Seat 3: pedriim879 (193 in chips) 
+Seat 4: makind796 (1658 in chips) 
+Seat 5: god67 (2707 in chips) 
+Seat 6: lokirime (908 in chips) 
+Seat 7: KeinKönich (2063 in chips) 
+Seat 8: squeak445 (1618 in chips) 
+Seat 9: Saran1302 (1401 in chips) 
+yokerone1: posts the ante 4
+russell_stuart1: posts the ante 4
+pedriim879: posts the ante 4
+makind796: posts the ante 4
+god67: posts the ante 4
+lokirime: posts the ante 4
+KeinKönich: posts the ante 4
+squeak445: posts the ante 4
+Saran1302: posts the ante 4
+squeak445: posts small blind 15
+Saran1302: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s 4c]
+yokerone1: folds 
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: folds 
+god67: calls 30
+lokirime: folds 
+KeinKönich: calls 30
+squeak445: calls 15
+Saran1302: checks 
+*** FLOP *** [Ac Kh 3c]
+squeak445: checks 
+Saran1302: checks 
+god67: checks 
+KeinKönich: bets 90
+squeak445: raises 180 to 270
+Saran1302: folds 
+god67: folds 
+KeinKönich: folds 
+Uncalled bet (180) returned to squeak445
+squeak445 collected 336 from pot
+squeak445: doesn't show hand 
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Board [Ac Kh 3c]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded on the Flop
+Seat 6: lokirime folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded on the Flop
+Seat 8: squeak445 (small blind) collected (336)
+Seat 9: Saran1302 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232301661709: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:54:16 CET [2021/12/17 17:54:16 ET]
+Table '3322236602 1' 9-max Seat #8 is the button
+Seat 1: yokerone1 (1477 in chips) 
+Seat 2: russell_stuart1 (1467 in chips) 
+Seat 3: pedriim879 (189 in chips) 
+Seat 4: makind796 (1654 in chips) 
+Seat 5: god67 (2673 in chips) 
+Seat 6: lokirime (904 in chips) 
+Seat 7: KeinKönich (1939 in chips) 
+Seat 8: squeak445 (1830 in chips) 
+Seat 9: Saran1302 (1367 in chips) 
+yokerone1: posts the ante 4
+russell_stuart1: posts the ante 4
+pedriim879: posts the ante 4
+makind796: posts the ante 4
+god67: posts the ante 4
+lokirime: posts the ante 4
+KeinKönich: posts the ante 4
+squeak445: posts the ante 4
+Saran1302: posts the ante 4
+Saran1302: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Kh]
+russell_stuart1: folds 
+pedriim879: folds 
+makind796: folds 
+god67: folds 
+lokirime: raises 60 to 90
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: raises 1383 to 1473 and is all-in
+lokirime: folds 
+Uncalled bet (1383) returned to yokerone1
+yokerone1 collected 231 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Seat 1: yokerone1 (big blind) collected (231)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 6: lokirime folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 (button) folded before Flop (didn't bet)
+Seat 9: Saran1302 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301680934: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:54:59 CET [2021/12/17 17:54:59 ET]
+Table '3322236602 1' 9-max Seat #9 is the button
+Seat 1: yokerone1 (1614 in chips) 
+Seat 2: russell_stuart1 (1463 in chips) 
+Seat 3: pedriim879 (185 in chips) 
+Seat 4: makind796 (1650 in chips) 
+Seat 5: god67 (2669 in chips) 
+Seat 6: lokirime (810 in chips) 
+Seat 7: KeinKönich (1935 in chips) 
+Seat 8: squeak445 (1826 in chips) 
+Seat 9: Saran1302 (1348 in chips) 
+yokerone1: posts the ante 4
+russell_stuart1: posts the ante 4
+pedriim879: posts the ante 4
+makind796: posts the ante 4
+god67: posts the ante 4
+lokirime: posts the ante 4
+KeinKönich: posts the ante 4
+squeak445: posts the ante 4
+Saran1302: posts the ante 4
+yokerone1: posts small blind 15
+russell_stuart1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 9s]
+pedriim879: raises 151 to 181 and is all-in
+makind796: folds 
+god67: calls 181
+lokirime: folds 
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 181
+yokerone1: folds 
+russell_stuart1: folds 
+*** FLOP *** [7h Jc 6c]
+god67: checks 
+Saran1302: checks 
+*** TURN *** [7h Jc 6c] [Ts]
+god67: checks 
+Saran1302: checks 
+*** RIVER *** [7h Jc 6c Ts] [3c]
+god67: checks 
+Saran1302: bets 312
+god67: folds 
+Uncalled bet (312) returned to Saran1302
+*** SHOW DOWN ***
+Saran1302: shows [7c Kc] (a flush, King high)
+pedriim879: shows [Js Kd] (a pair of Jacks)
+Saran1302 collected 624 from pot
+pedriim879 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 624 | Rake 0 
+Board [7h Jc 6c Ts 3c]
+Seat 1: yokerone1 (small blind) folded before Flop
+Seat 2: russell_stuart1 (big blind) folded before Flop
+Seat 3: pedriim879 showed [Js Kd] and lost with a pair of Jacks
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded on the River
+Seat 6: lokirime folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 (button) showed [7c Kc] and won (624) with a flush, King high
+
+
+
+PokerStars Hand #232301807127: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/18 0:00:41 CET [2021/12/17 18:00:41 ET]
+Table '3322236602 1' 9-max Seat #1 is the button
+Seat 1: yokerone1 (1595 in chips) 
+Seat 2: russell_stuart1 (1429 in chips) 
+Seat 4: makind796 (1646 in chips) 
+Seat 5: god67 (2484 in chips) 
+Seat 6: lokirime (806 in chips) 
+Seat 7: KeinKönich (1931 in chips) 
+Seat 8: squeak445 (1822 in chips) 
+Seat 9: Saran1302 (1787 in chips) 
+yokerone1: posts the ante 4
+russell_stuart1: posts the ante 4
+makind796: posts the ante 4
+god67: posts the ante 4
+lokirime: posts the ante 4
+KeinKönich: posts the ante 4
+squeak445: posts the ante 4
+Saran1302: posts the ante 4
+russell_stuart1: posts small blind 15
+makind796: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 9c]
+god67: folds 
+lokirime: folds 
+KeinKönich: raises 45 to 75
+squeak445: calls 75
+Saran1302: calls 75
+yokerone1: folds 
+russell_stuart1: calls 60
+makind796: folds 
+*** FLOP *** [Td 3c 2d]
+russell_stuart1: checks 
+KeinKönich: bets 180
+squeak445: calls 180
+Saran1302: folds 
+russell_stuart1: folds 
+*** TURN *** [Td 3c 2d] [9h]
+KeinKönich: bets 360
+squeak445: calls 360
+*** RIVER *** [Td 3c 2d 9h] [9s]
+KeinKönich: bets 420
+squeak445: calls 420
+*** SHOW DOWN ***
+KeinKönich: shows [Tc 9c] (a full house, Nines full of Tens)
+squeak445: mucks hand 
+KeinKönich collected 2282 from pot
+*** SUMMARY ***
+Total pot 2282 | Rake 0 
+Board [Td 3c 2d 9h 9s]
+Seat 1: yokerone1 (button) folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (small blind) folded on the Flop
+Seat 4: makind796 (big blind) folded before Flop
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 6: lokirime folded before Flop (didn't bet)
+Seat 7: KeinKönich showed [Tc 9c] and won (2282) with a full house, Nines full of Tens
+Seat 8: squeak445 mucked [Kc Th]
+Seat 9: Saran1302 folded on the Flop
+
+
+
+PokerStars Hand #232301849677: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:02:23 CET [2021/12/17 18:02:23 ET]
+Table '3322236602 1' 9-max Seat #2 is the button
+Seat 1: yokerone1 (1591 in chips) 
+Seat 2: russell_stuart1 (1350 in chips) 
+Seat 4: makind796 (1612 in chips) 
+Seat 5: god67 (2480 in chips) 
+Seat 6: lokirime (802 in chips) 
+Seat 7: KeinKönich (3174 in chips) 
+Seat 8: squeak445 (783 in chips) 
+Seat 9: Saran1302 (1708 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+lokirime: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+makind796: posts small blind 25
+god67: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 4d]
+lokirime has timed out
+lokirime: folds 
+lokirime is sitting out
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 50
+yokerone1: folds 
+russell_stuart1: folds 
+lokirime has returned
+makind796: folds 
+god67: checks 
+*** FLOP *** [3d 9h Kc]
+god67: checks 
+Saran1302: bets 50
+god67: folds 
+Uncalled bet (50) returned to Saran1302
+Saran1302 collected 173 from pot
+Saran1302: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Board [3d 9h Kc]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (button) folded before Flop (didn't bet)
+Seat 4: makind796 (small blind) folded before Flop
+Seat 5: god67 (big blind) folded on the Flop
+Seat 6: lokirime folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 collected (173)
+
+
+
+PokerStars Hand #232301879256: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:03:30 CET [2021/12/17 18:03:30 ET]
+Table '3322236602 1' 9-max Seat #4 is the button
+Seat 1: yokerone1 (1585 in chips) 
+Seat 2: russell_stuart1 (1344 in chips) 
+Seat 4: makind796 (1581 in chips) 
+Seat 5: god67 (2424 in chips) 
+Seat 6: lokirime (796 in chips) 
+Seat 7: KeinKönich (3168 in chips) 
+Seat 8: squeak445 (777 in chips) 
+Seat 9: Saran1302 (1825 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+lokirime: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+god67: posts small blind 25
+lokirime: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 5c]
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+Uncalled bet (25) returned to lokirime
+lokirime collected 98 from pot
+lokirime: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 (button) folded before Flop (didn't bet)
+Seat 5: god67 (small blind) folded before Flop
+Seat 6: lokirime (big blind) collected (98)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301891224: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:03:58 CET [2021/12/17 18:03:58 ET]
+Table '3322236602 1' 9-max Seat #5 is the button
+Seat 1: yokerone1 (1579 in chips) 
+Seat 2: russell_stuart1 (1338 in chips) 
+Seat 4: makind796 (1575 in chips) 
+Seat 5: god67 (2393 in chips) 
+Seat 6: lokirime (863 in chips) 
+Seat 7: KeinKönich (3162 in chips) 
+Seat 8: squeak445 (771 in chips) 
+Seat 9: Saran1302 (1819 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+lokirime: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+lokirime: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 2d]
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+lokirime: raises 807 to 857 and is all-in
+KeinKönich: folds 
+Uncalled bet (807) returned to lokirime
+lokirime collected 148 from pot
+lokirime: doesn't show hand 
+*** SUMMARY ***
+Total pot 148 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 (button) folded before Flop (didn't bet)
+Seat 6: lokirime (small blind) collected (148)
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301902978: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:04:24 CET [2021/12/17 18:04:24 ET]
+Table '3322236602 1' 9-max Seat #6 is the button
+Seat 1: yokerone1 (1573 in chips) 
+Seat 2: russell_stuart1 (1332 in chips) 
+Seat 4: makind796 (1569 in chips) 
+Seat 5: god67 (2387 in chips) 
+Seat 6: lokirime (955 in chips) 
+Seat 7: KeinKönich (3106 in chips) 
+Seat 8: squeak445 (765 in chips) 
+Seat 9: Saran1302 (1813 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+lokirime: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+KeinKönich: posts small blind 25
+squeak445: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 2h]
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+lokirime: folds 
+KeinKönich: folds 
+Uncalled bet (25) returned to squeak445
+squeak445 collected 98 from pot
+squeak445: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 6: lokirime (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: squeak445 (big blind) collected (98)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301907282: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:04:34 CET [2021/12/17 18:04:34 ET]
+Table '3322236602 1' 9-max Seat #7 is the button
+Seat 1: yokerone1 (1567 in chips) 
+Seat 2: russell_stuart1 (1326 in chips) 
+Seat 4: makind796 (1563 in chips) 
+Seat 5: god67 (2381 in chips) 
+Seat 6: lokirime (949 in chips) 
+Seat 7: KeinKönich (3075 in chips) 
+Seat 8: squeak445 (832 in chips) 
+Seat 9: Saran1302 (1807 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+lokirime: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+squeak445: posts small blind 25
+Saran1302: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Kd]
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+lokirime: raises 100 to 150
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 100
+*** FLOP *** [3d 6h Qs]
+Saran1302: checks 
+lokirime: bets 187
+Saran1302: raises 1464 to 1651 and is all-in
+lokirime: calls 606 and is all-in
+Uncalled bet (858) returned to Saran1302
+*** TURN *** [3d 6h Qs] [5d]
+*** RIVER *** [3d 6h Qs 5d] [2s]
+*** SHOW DOWN ***
+Saran1302: shows [6s 4d] (a straight, Deuce to Six)
+lokirime: shows [Ts Th] (a pair of Tens)
+Saran1302 collected 1959 from pot
+lokirime finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1959 | Rake 0 
+Board [3d 6h Qs 5d 2s]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 6: lokirime showed [Ts Th] and lost with a pair of Tens
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: squeak445 (small blind) folded before Flop
+Seat 9: Saran1302 (big blind) showed [6s 4d] and won (1959) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #232301935229: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:05:19 CET [2021/12/17 18:05:19 ET]
+Table '3322236602 1' 9-max Seat #8 is the button
+Seat 1: yokerone1 (1561 in chips) 
+Seat 2: russell_stuart1 (1320 in chips) 
+Seat 4: makind796 (1557 in chips) 
+Seat 5: god67 (2375 in chips) 
+Seat 7: KeinKönich (3069 in chips) 
+Seat 8: squeak445 (801 in chips) 
+Seat 9: Saran1302 (2817 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+Saran1302: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 7c]
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+KeinKönich: folds 
+squeak445: raises 745 to 795 and is all-in
+Saran1302: folds 
+yokerone1: folds 
+Uncalled bet (745) returned to squeak445
+squeak445 collected 167 from pot
+squeak445: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: yokerone1 (big blind) folded before Flop
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 (button) collected (167)
+Seat 9: Saran1302 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301947496: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:05:48 CET [2021/12/17 18:05:48 ET]
+Table '3322236602 1' 9-max Seat #9 is the button
+Seat 1: yokerone1 (1505 in chips) 
+Seat 2: russell_stuart1 (1314 in chips) 
+Seat 4: makind796 (1551 in chips) 
+Seat 5: god67 (2369 in chips) 
+Seat 7: KeinKönich (3063 in chips) 
+Seat 8: squeak445 (912 in chips) 
+Seat 9: Saran1302 (2786 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+yokerone1: posts small blind 25
+russell_stuart1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 9c]
+makind796: folds 
+god67: folds 
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 50
+yokerone1: calls 25
+russell_stuart1: raises 50 to 100
+Saran1302: calls 50
+yokerone1: calls 50
+*** FLOP *** [3d Jc 6s]
+yokerone1: checks 
+russell_stuart1: bets 150
+Saran1302: folds 
+yokerone1: folds 
+Uncalled bet (150) returned to russell_stuart1
+russell_stuart1 collected 342 from pot
+russell_stuart1: doesn't show hand 
+*** SUMMARY ***
+Total pot 342 | Rake 0 
+Board [3d Jc 6s]
+Seat 1: yokerone1 (small blind) folded on the Flop
+Seat 2: russell_stuart1 (big blind) collected (342)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 (button) folded on the Flop
+
+
+
+PokerStars Hand #232301965535: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:06:29 CET [2021/12/17 18:06:29 ET]
+Table '3322236602 1' 9-max Seat #1 is the button
+Seat 1: yokerone1 (1399 in chips) 
+Seat 2: russell_stuart1 (1550 in chips) 
+Seat 4: makind796 (1545 in chips) 
+Seat 5: god67 (2363 in chips) 
+Seat 7: KeinKönich (3057 in chips) 
+Seat 8: squeak445 (906 in chips) 
+Seat 9: Saran1302 (2680 in chips) 
+yokerone1: posts the ante 6
+russell_stuart1: posts the ante 6
+makind796: posts the ante 6
+god67: posts the ante 6
+KeinKönich: posts the ante 6
+squeak445: posts the ante 6
+Saran1302: posts the ante 6
+russell_stuart1: posts small blind 25
+makind796: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 4s]
+god67: calls 50
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: checks 
+*** FLOP *** [Qc Kh Ah]
+makind796: checks 
+god67: bets 150
+makind796: folds 
+Uncalled bet (150) returned to god67
+god67 collected 167 from pot
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Qc Kh Ah]
+Seat 1: yokerone1 (button) folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (small blind) folded before Flop
+Seat 4: makind796 (big blind) folded on the Flop
+Seat 5: god67 collected (167)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301979111: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:07:00 CET [2021/12/17 18:07:00 ET]
+Table '3322236602 1' 9-max Seat #2 is the button
+Seat 1: yokerone1 (1393 in chips) 
+Seat 2: russell_stuart1 (1519 in chips) 
+Seat 4: makind796 (1489 in chips) 
+Seat 5: god67 (2474 in chips) 
+Seat 7: KeinKönich (3051 in chips) 
+Seat 8: squeak445 (900 in chips) 
+Seat 9: Saran1302 (2674 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+makind796: posts small blind 40
+god67: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s Qs]
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: calls 40
+god67: checks 
+*** FLOP *** [Jc Ac 8s]
+makind796: bets 80
+god67: folds 
+Uncalled bet (80) returned to makind796
+makind796 collected 230 from pot
+makind796: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [Jc Ac 8s]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (button) folded before Flop (didn't bet)
+Seat 4: makind796 (small blind) collected (230)
+Seat 5: god67 (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301994037: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:07:35 CET [2021/12/17 18:07:35 ET]
+Table '3322236602 1' 9-max Seat #4 is the button
+Seat 1: yokerone1 (1383 in chips) 
+Seat 2: russell_stuart1 (1509 in chips) 
+Seat 4: makind796 (1629 in chips) 
+Seat 5: god67 (2384 in chips) 
+Seat 7: KeinKönich (3041 in chips) 
+Seat 8: squeak445 (890 in chips) 
+Seat 9: Saran1302 (2664 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+god67: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 5s]
+squeak445: folds 
+Saran1302: calls 80
+yokerone1: folds 
+russell_stuart1: calls 80
+makind796: folds 
+god67: folds 
+KeinKönich: checks 
+*** FLOP *** [Qd Qc Th]
+KeinKönich: checks 
+Saran1302: checks 
+russell_stuart1: checks 
+*** TURN *** [Qd Qc Th] [4s]
+KeinKönich: checks 
+Saran1302: checks 
+russell_stuart1: checks 
+*** RIVER *** [Qd Qc Th 4s] [Qh]
+KeinKönich: checks 
+Saran1302: checks 
+russell_stuart1: checks 
+*** SHOW DOWN ***
+KeinKönich: shows [3s 5s] (three of a kind, Queens)
+Saran1302: shows [Jc 9d] (three of a kind, Queens - Jack kicker)
+russell_stuart1: shows [Ac 6c] (three of a kind, Queens - Ace kicker)
+russell_stuart1 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [Qd Qc Th 4s Qh]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 showed [Ac 6c] and won (350) with three of a kind, Queens
+Seat 4: makind796 (button) folded before Flop (didn't bet)
+Seat 5: god67 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) showed [3s 5s] and lost with three of a kind, Queens
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 showed [Jc 9d] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #232302017762: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:08:31 CET [2021/12/17 18:08:31 ET]
+Table '3322236602 1' 9-max Seat #5 is the button
+Seat 1: yokerone1 (1373 in chips) 
+Seat 2: russell_stuart1 (1769 in chips) 
+Seat 4: makind796 (1619 in chips) 
+Seat 5: god67 (2334 in chips) 
+Seat 7: KeinKönich (2951 in chips) 
+Seat 8: squeak445 (880 in chips) 
+Seat 9: Saran1302 (2574 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+KeinKönich: posts small blind 40
+squeak445: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 4h]
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+KeinKönich: folds 
+Uncalled bet (40) returned to squeak445
+squeak445 collected 150 from pot
+squeak445: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: squeak445 (big blind) collected (150)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302030501: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:08:47 CET [2021/12/17 18:08:47 ET]
+Table '3322236602 1' 9-max Seat #7 is the button
+Seat 1: yokerone1 (1363 in chips) 
+Seat 2: russell_stuart1 (1759 in chips) 
+Seat 4: makind796 (1609 in chips) 
+Seat 5: god67 (2324 in chips) 
+Seat 7: KeinKönich (2901 in chips) 
+Seat 8: squeak445 (980 in chips) 
+Seat 9: Saran1302 (2564 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+squeak445: posts small blind 40
+Saran1302: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 8d]
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+KeinKönich: raises 80 to 160
+squeak445: folds 
+Saran1302: calls 80
+*** FLOP *** [9h Ts Ac]
+Saran1302: checks 
+KeinKönich: bets 215
+Saran1302: calls 215
+*** TURN *** [9h Ts Ac] [Qs]
+Saran1302: checks 
+KeinKönich: checks 
+*** RIVER *** [9h Ts Ac Qs] [3d]
+Saran1302: bets 180
+KeinKönich: folds 
+Uncalled bet (180) returned to Saran1302
+Saran1302 collected 860 from pot
+Saran1302: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [9h Ts Ac Qs 3d]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded on the River
+Seat 8: squeak445 (small blind) folded before Flop
+Seat 9: Saran1302 (big blind) collected (860)
+
+
+
+PokerStars Hand #232302053052: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:09:40 CET [2021/12/17 18:09:40 ET]
+Table '3322236602 1' 9-max Seat #8 is the button
+Seat 1: yokerone1 (1353 in chips) 
+Seat 2: russell_stuart1 (1749 in chips) 
+Seat 4: makind796 (1599 in chips) 
+Seat 5: god67 (2314 in chips) 
+Seat 7: KeinKönich (2516 in chips) 
+Seat 8: squeak445 (930 in chips) 
+Seat 9: Saran1302 (3039 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+Saran1302: posts small blind 40
+yokerone1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Ts]
+russell_stuart1: folds 
+makind796: folds 
+god67: calls 80
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 40
+yokerone1: checks 
+*** FLOP *** [Qc 5d 6s]
+Saran1302: checks 
+yokerone1: checks 
+god67: bets 80
+Saran1302: folds 
+yokerone1: folds 
+Uncalled bet (80) returned to god67
+god67 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Qc 5d 6s]
+Seat 1: yokerone1 (big blind) folded on the Flop
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 collected (310)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 (button) folded before Flop (didn't bet)
+Seat 9: Saran1302 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232302071023: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:10:22 CET [2021/12/17 18:10:22 ET]
+Table '3322236602 1' 9-max Seat #9 is the button
+Seat 1: yokerone1 (1263 in chips) 
+Seat 2: russell_stuart1 (1739 in chips) 
+Seat 4: makind796 (1589 in chips) 
+Seat 5: god67 (2534 in chips) 
+Seat 7: KeinKönich (2506 in chips) 
+Seat 8: squeak445 (920 in chips) 
+Seat 9: Saran1302 (2949 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+yokerone1: posts small blind 40
+russell_stuart1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 2h]
+makind796: folds 
+god67: calls 80
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: checks 
+*** FLOP *** [7s 8d Jd]
+russell_stuart1: bets 160
+god67: calls 160
+*** TURN *** [7s 8d Jd] [Qc]
+russell_stuart1: checks 
+god67: bets 240
+russell_stuart1: folds 
+Uncalled bet (240) returned to god67
+god67 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [7s 8d Jd Qc]
+Seat 1: yokerone1 (small blind) folded before Flop
+Seat 2: russell_stuart1 (big blind) folded on the Turn
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 collected (590)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302091179: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:11:09 CET [2021/12/17 18:11:09 ET]
+Table '3322236602 1' 9-max Seat #1 is the button
+Seat 1: yokerone1 (1213 in chips) 
+Seat 2: russell_stuart1 (1489 in chips) 
+Seat 4: makind796 (1579 in chips) 
+Seat 5: god67 (2874 in chips) 
+Seat 7: KeinKönich (2496 in chips) 
+Seat 8: squeak445 (910 in chips) 
+Seat 9: Saran1302 (2939 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+russell_stuart1: posts small blind 40
+makind796: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 2c]
+god67: folds 
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+Uncalled bet (40) returned to makind796
+makind796 collected 150 from pot
+makind796: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: yokerone1 (button) folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (small blind) folded before Flop
+Seat 4: makind796 (big blind) collected (150)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302098929: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:11:27 CET [2021/12/17 18:11:27 ET]
+Table '3322236602 1' 9-max Seat #2 is the button
+Seat 1: yokerone1 (1203 in chips) 
+Seat 2: russell_stuart1 (1439 in chips) 
+Seat 4: makind796 (1679 in chips) 
+Seat 5: god67 (2864 in chips) 
+Seat 7: KeinKönich (2486 in chips) 
+Seat 8: squeak445 (900 in chips) 
+Seat 9: Saran1302 (2929 in chips) 
+yokerone1: posts the ante 10
+russell_stuart1: posts the ante 10
+makind796: posts the ante 10
+god67: posts the ante 10
+KeinKönich: posts the ante 10
+squeak445: posts the ante 10
+Saran1302: posts the ante 10
+makind796: posts small blind 40
+god67: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 8s]
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 80
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: calls 40
+god67: checks 
+*** FLOP *** [9s 7s 8d]
+makind796: checks 
+god67: checks 
+Saran1302: bets 80
+makind796: calls 80
+god67: calls 80
+*** TURN *** [9s 7s 8d] [4s]
+makind796: checks 
+god67: checks 
+Saran1302: bets 275
+makind796: calls 275
+god67: folds 
+*** RIVER *** [9s 7s 8d 4s] [8c]
+makind796: checks 
+Saran1302: bets 550
+makind796: calls 550
+*** SHOW DOWN ***
+Saran1302: shows [6h Th] (a straight, Six to Ten)
+makind796: shows [Jh Td] (a straight, Seven to Jack)
+makind796 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [9s 7s 8d 4s 8c]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (button) folded before Flop (didn't bet)
+Seat 4: makind796 (small blind) showed [Jh Td] and won (2200) with a straight, Seven to Jack
+Seat 5: god67 (big blind) folded on the Turn
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 showed [6h Th] and lost with a straight, Six to Ten
+
+
+
+PokerStars Hand #232302129733: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:12:39 CET [2021/12/17 18:12:39 ET]
+Table '3322236602 1' 9-max Seat #4 is the button
+Seat 1: yokerone1 (1193 in chips) 
+Seat 2: russell_stuart1 (1429 in chips) 
+Seat 4: makind796 (2884 in chips) 
+Seat 5: god67 (2694 in chips) 
+Seat 7: KeinKönich (2476 in chips) 
+Seat 8: squeak445 (890 in chips) 
+Seat 9: Saran1302 (1934 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+god67: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s As]
+squeak445: folds 
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+Uncalled bet (60) returned to KeinKönich
+KeinKönich collected 225 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 (button) folded before Flop (didn't bet)
+Seat 5: god67 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) collected (225)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302144416: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:12:54 CET [2021/12/17 18:12:54 ET]
+Table '3322236602 1' 9-max Seat #5 is the button
+Seat 1: yokerone1 (1178 in chips) 
+Seat 2: russell_stuart1 (1414 in chips) 
+Seat 4: makind796 (2869 in chips) 
+Seat 5: god67 (2619 in chips) 
+Seat 7: KeinKönich (2626 in chips) 
+Seat 8: squeak445 (875 in chips) 
+Seat 9: Saran1302 (1919 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+KeinKönich: posts small blind 60
+squeak445: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd Qd]
+Saran1302: folds 
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+KeinKönich: raises 2491 to 2611 and is all-in
+squeak445: calls 740 and is all-in
+Uncalled bet (1751) returned to KeinKönich
+*** FLOP *** [Kd 8s 5s]
+*** TURN *** [Kd 8s 5s] [3d]
+*** RIVER *** [Kd 8s 5s 3d] [5c]
+*** SHOW DOWN ***
+KeinKönich: shows [Jd Qd] (a pair of Fives)
+squeak445: shows [9h Ks] (two pair, Kings and Fives)
+squeak445 collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | Rake 0 
+Board [Kd 8s 5s 3d 5c]
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) showed [Jd Qd] and lost with a pair of Fives
+Seat 8: squeak445 (big blind) showed [9h Ks] and won (1825) with two pair, Kings and Fives
+Seat 9: Saran1302 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302154956: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:13:19 CET [2021/12/17 18:13:19 ET]
+Table '3322236602 1' 9-max Seat #7 is the button
+Seat 1: yokerone1 (1163 in chips) 
+Seat 2: russell_stuart1 (1399 in chips) 
+Seat 4: makind796 (2854 in chips) 
+Seat 5: god67 (2604 in chips) 
+Seat 7: KeinKönich (1751 in chips) 
+Seat 8: squeak445 (1825 in chips) 
+Seat 9: Saran1302 (1904 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+squeak445: posts small blind 60
+Saran1302: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 6s]
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+god67: folds 
+KeinKönich: folds 
+squeak445: raises 120 to 240
+Saran1302: folds 
+Uncalled bet (120) returned to squeak445
+squeak445 collected 345 from pot
+squeak445: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: yokerone1 folded before Flop (didn't bet)
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: squeak445 (small blind) collected (345)
+Seat 9: Saran1302 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302165310: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:13:43 CET [2021/12/17 18:13:43 ET]
+Table '3322236602 1' 9-max Seat #8 is the button
+Seat 1: yokerone1 (1148 in chips) 
+Seat 2: russell_stuart1 (1384 in chips) 
+Seat 4: makind796 (2839 in chips) 
+Seat 5: god67 (2589 in chips) 
+Seat 7: KeinKönich (1736 in chips) 
+Seat 8: squeak445 (2035 in chips) 
+Seat 9: Saran1302 (1769 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+Saran1302: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 2d]
+russell_stuart1: folds 
+makind796: folds 
+god67: calls 120
+KeinKönich: folds 
+squeak445: calls 120
+Saran1302: folds 
+yokerone1: checks 
+*** FLOP *** [Ah Ad 9c]
+yokerone1: checks 
+god67: checks 
+squeak445: checks 
+*** TURN *** [Ah Ad 9c] [Jd]
+yokerone1: checks 
+god67: checks 
+squeak445: checks 
+*** RIVER *** [Ah Ad 9c Jd] [Th]
+yokerone1: checks 
+god67: bets 120
+squeak445: folds 
+yokerone1: folds 
+Uncalled bet (120) returned to god67
+god67 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [Ah Ad 9c Jd Th]
+Seat 1: yokerone1 (big blind) folded on the River
+Seat 2: russell_stuart1 folded before Flop (didn't bet)
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 collected (525)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 (button) folded on the River
+Seat 9: Saran1302 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302189674: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:14:41 CET [2021/12/17 18:14:41 ET]
+Table '3322236602 1' 9-max Seat #9 is the button
+Seat 1: yokerone1 (1013 in chips) 
+Seat 2: russell_stuart1 (1369 in chips) 
+Seat 4: makind796 (2824 in chips) 
+Seat 5: god67 (2979 in chips) 
+Seat 7: KeinKönich (1721 in chips) 
+Seat 8: squeak445 (1900 in chips) 
+Seat 9: Saran1302 (1694 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+yokerone1: posts small blind 60
+russell_stuart1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 8c]
+makind796: folds 
+god67: calls 120
+KeinKönich: folds 
+squeak445: folds 
+Saran1302: calls 120
+yokerone1: folds 
+russell_stuart1: checks 
+*** FLOP *** [As Ah 3s]
+russell_stuart1: checks 
+god67: bets 120
+Saran1302: calls 120
+russell_stuart1: folds 
+*** TURN *** [As Ah 3s] [Th]
+god67: bets 120
+Saran1302: calls 120
+*** RIVER *** [As Ah 3s Th] [6d]
+god67: checks 
+Saran1302: bets 503
+god67: folds 
+Uncalled bet (503) returned to Saran1302
+Saran1302 collected 1005 from pot
+Saran1302: doesn't show hand 
+*** SUMMARY ***
+Total pot 1005 | Rake 0 
+Board [As Ah 3s Th 6d]
+Seat 1: yokerone1 (small blind) folded before Flop
+Seat 2: russell_stuart1 (big blind) folded on the Flop
+Seat 4: makind796 folded before Flop (didn't bet)
+Seat 5: god67 folded on the River
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 (button) collected (1005)
+
+
+
+PokerStars Hand #232302209636: Tournament #3322236602, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:15:28 CET [2021/12/17 18:15:28 ET]
+Table '3322236602 1' 9-max Seat #1 is the button
+Seat 1: yokerone1 (938 in chips) 
+Seat 2: russell_stuart1 (1234 in chips) 
+Seat 4: makind796 (2809 in chips) 
+Seat 5: god67 (2604 in chips) 
+Seat 7: KeinKönich (1706 in chips) 
+Seat 8: squeak445 (1885 in chips) 
+Seat 9: Saran1302 (2324 in chips) 
+yokerone1: posts the ante 15
+russell_stuart1: posts the ante 15
+makind796: posts the ante 15
+god67: posts the ante 15
+KeinKönich: posts the ante 15
+squeak445: posts the ante 15
+Saran1302: posts the ante 15
+russell_stuart1: posts small blind 60
+makind796: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Ad]
+god67: folds 
+KeinKönich: raises 120 to 240
+squeak445: folds 
+Saran1302: calls 240
+yokerone1: folds 
+russell_stuart1: folds 
+makind796: folds 
+*** FLOP *** [4d 4s Kh]
+KeinKönich: bets 360
+Saran1302: raises 1709 to 2069 and is all-in
+KeinKönich: calls 1091 and is all-in
+Uncalled bet (618) returned to Saran1302
+*** TURN *** [4d 4s Kh] [4h]
+*** RIVER *** [4d 4s Kh 4h] [9c]
+*** SHOW DOWN ***
+KeinKönich: shows [8c Ad] (three of a kind, Fours)
+Saran1302: shows [5c 5d] (a full house, Fours full of Fives)
+Saran1302 collected 3667 from pot
+KeinKönich finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3667 | Rake 0 
+Board [4d 4s Kh 4h 9c]
+Seat 1: yokerone1 (button) folded before Flop (didn't bet)
+Seat 2: russell_stuart1 (small blind) folded before Flop
+Seat 4: makind796 (big blind) folded before Flop
+Seat 5: god67 folded before Flop (didn't bet)
+Seat 7: KeinKönich showed [8c Ad] and lost with three of a kind, Fours
+Seat 8: squeak445 folded before Flop (didn't bet)
+Seat 9: Saran1302 showed [5c 5d] and won (3667) with a full house, Fours full of Fives
+
+
+

@@ -1,0 +1,1135 @@
+ï»¿PokerStars Hand #232298018815: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:50:56 CET [2021/12/17 15:50:56 ET]
+Table '3322159643 2' 9-max Seat #1 is the button
+Seat 1: 1angler1 (1500 in chips) 
+Seat 2: DJForrest (1500 in chips) 
+Seat 3: BahijFC (1500 in chips) 
+Seat 4: darkjf (1500 in chips) 
+Seat 5: Shady B Bones (1500 in chips) 
+Seat 6: gismo1973417 (1500 in chips) 
+Seat 7: pedriim879 (1500 in chips) 
+Seat 8: D'lirio15 (1500 in chips) 
+Seat 9: KeinKönich (1500 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+Shady B Bones: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+DJForrest: posts small blind 10
+BahijFC: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 5s]
+darkjf: folds 
+Shady B Bones has timed out
+Shady B Bones: folds 
+Shady B Bones is sitting out
+gismo1973417: folds 
+pedriim879: folds 
+D'lirio15: raises 40 to 60
+KeinKönich: folds 
+1angler1: calls 60
+DJForrest: calls 50
+BahijFC: folds 
+*** FLOP *** [9d Jh 9h]
+DJForrest: checks 
+D'lirio15: checks 
+1angler1: checks 
+*** TURN *** [9d Jh 9h] [8d]
+DJForrest: bets 100
+D'lirio15: calls 100
+1angler1: folds 
+*** RIVER *** [9d Jh 9h 8d] [Jd]
+DJForrest: checks 
+Shady B Bones has returned
+D'lirio15: checks 
+*** SHOW DOWN ***
+DJForrest: shows [7c Kh] (two pair, Jacks and Nines)
+D'lirio15: shows [Ad 4d] (a flush, Ace high)
+D'lirio15 collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Board [9d Jh 9h 8d Jd]
+Seat 1: 1angler1 (button) folded on the Turn
+Seat 2: DJForrest (small blind) showed [7c Kh] and lost with two pair, Jacks and Nines
+Seat 3: BahijFC (big blind) folded before Flop
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: Shady B Bones folded before Flop (didn't bet)
+Seat 6: gismo1973417 folded before Flop (didn't bet)
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 showed [Ad 4d] and won (427) with a flush, Ace high
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298059617: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:52:18 CET [2021/12/17 15:52:18 ET]
+Table '3322159643 2' 9-max Seat #2 is the button
+Seat 1: 1angler1 (1437 in chips) 
+Seat 2: DJForrest (1337 in chips) 
+Seat 3: BahijFC (1477 in chips) 
+Seat 4: darkjf (1497 in chips) 
+Seat 5: Shady B Bones (1497 in chips) 
+Seat 6: gismo1973417 (1497 in chips) 
+Seat 7: pedriim879 (1497 in chips) 
+Seat 8: D'lirio15 (1764 in chips) 
+Seat 9: KeinKönich (1497 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+Shady B Bones: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+BahijFC: posts small blind 10
+darkjf: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 5h]
+Shady B Bones: calls 20
+gismo1973417: raises 20 to 40
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: folds 
+1angler1: folds 
+DJForrest: raises 20 to 60
+BahijFC: folds 
+darkjf: calls 40
+Shady B Bones: raises 80 to 140
+gismo1973417: calls 100
+DJForrest: raises 80 to 220
+darkjf: calls 160
+Shady B Bones: raises 1274 to 1494 and is all-in
+gismo1973417: folds 
+DJForrest: calls 1114 and is all-in
+darkjf: folds 
+Uncalled bet (160) returned to Shady B Bones
+*** FLOP *** [9h Jd 6c]
+*** TURN *** [9h Jd 6c] [Ts]
+*** RIVER *** [9h Jd 6c Ts] [Ks]
+*** SHOW DOWN ***
+Shady B Bones: shows [Ac Ad] (a pair of Aces)
+DJForrest: shows [Jh Kh] (two pair, Kings and Jacks)
+DJForrest collected 3065 from pot
+*** SUMMARY ***
+Total pot 3065 | Rake 0 
+Board [9h Jd 6c Ts Ks]
+Seat 1: 1angler1 folded before Flop (didn't bet)
+Seat 2: DJForrest (button) showed [Jh Kh] and won (3065) with two pair, Kings and Jacks
+Seat 3: BahijFC (small blind) folded before Flop
+Seat 4: darkjf (big blind) folded before Flop
+Seat 5: Shady B Bones showed [Ac Ad] and lost with a pair of Aces
+Seat 6: gismo1973417 folded before Flop
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298087734: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:53:15 CET [2021/12/17 15:53:15 ET]
+Table '3322159643 2' 9-max Seat #3 is the button
+Seat 1: 1angler1 (1434 in chips) 
+Seat 2: DJForrest (3065 in chips) 
+Seat 3: BahijFC (1464 in chips) 
+Seat 4: darkjf (1274 in chips) 
+Seat 5: Shady B Bones (160 in chips) 
+Seat 6: gismo1973417 (1354 in chips) 
+Seat 7: pedriim879 (1494 in chips) 
+Seat 8: D'lirio15 (1761 in chips) 
+Seat 9: KeinKönich (1494 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+Shady B Bones: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+darkjf: posts small blind 10
+Shady B Bones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 8s]
+gismo1973417: raises 20 to 40
+Shady B Bones said, "fu"
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: folds 
+1angler1: folds 
+DJForrest: folds 
+BahijFC: calls 40
+darkjf: calls 30
+Shady B Bones: raises 117 to 157 and is all-in
+gismo1973417: calls 117
+BahijFC: folds 
+darkjf: calls 117
+*** FLOP *** [Ad As Ac]
+darkjf: checks 
+gismo1973417: bets 180
+darkjf: calls 180
+*** TURN *** [Ad As Ac] [2h]
+darkjf: checks 
+gismo1973417: bets 320
+darkjf: folds 
+Uncalled bet (320) returned to gismo1973417
+*** RIVER *** [Ad As Ac 2h] [2d]
+*** SHOW DOWN ***
+gismo1973417: shows [Kc Tc] (a full house, Aces full of Deuces)
+gismo1973417 collected 360 from side pot
+Shady B Bones: shows [9h Js] (a full house, Aces full of Deuces)
+Shady B Bones collected 269 from main pot
+gismo1973417 collected 269 from main pot
+*** SUMMARY ***
+Total pot 898 Main pot 538. Side pot 360. | Rake 0 
+Board [Ad As Ac 2h 2d]
+Seat 1: 1angler1 folded before Flop (didn't bet)
+Seat 2: DJForrest folded before Flop (didn't bet)
+Seat 3: BahijFC (button) folded before Flop
+Seat 4: darkjf (small blind) folded on the Turn
+Seat 5: Shady B Bones (big blind) showed [9h Js] and won (269) with a full house, Aces full of Deuces
+Seat 6: gismo1973417 showed [Kc Tc] and won (629) with a full house, Aces full of Deuces
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298114764: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:54:09 CET [2021/12/17 15:54:09 ET]
+Table '3322159643 2' 9-max Seat #4 is the button
+Seat 1: 1angler1 (1431 in chips) 
+Seat 2: DJForrest (3062 in chips) 
+Seat 3: BahijFC (1421 in chips) 
+Seat 4: darkjf (934 in chips) 
+Seat 5: Shady B Bones (269 in chips) 
+Seat 6: gismo1973417 (1643 in chips) 
+Seat 7: pedriim879 (1491 in chips) 
+Seat 8: D'lirio15 (1758 in chips) 
+Seat 9: KeinKönich (1491 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+Shady B Bones: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+Shady B Bones: posts small blind 10
+gismo1973417: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c 6d]
+pedriim879: raises 33 to 53
+D'lirio15: folds 
+KeinKönich: folds 
+1angler1: folds 
+DJForrest: calls 53
+BahijFC: folds 
+darkjf: folds 
+Shady B Bones: raises 213 to 266 and is all-in
+gismo1973417: calls 246
+pedriim879: folds 
+DJForrest: folds 
+*** FLOP *** [3d 7s 7c]
+*** TURN *** [3d 7s 7c] [6h]
+*** RIVER *** [3d 7s 7c 6h] [5c]
+*** SHOW DOWN ***
+Shady B Bones: shows [5d As] (two pair, Sevens and Fives)
+gismo1973417: shows [Qs 9c] (a pair of Sevens)
+Shady B Bones collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | Rake 0 
+Board [3d 7s 7c 6h 5c]
+Seat 1: 1angler1 folded before Flop (didn't bet)
+Seat 2: DJForrest folded before Flop
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf (button) folded before Flop (didn't bet)
+Seat 5: Shady B Bones (small blind) showed [5d As] and won (665) with two pair, Sevens and Fives
+Seat 6: gismo1973417 (big blind) showed [Qs 9c] and lost with a pair of Sevens
+Seat 7: pedriim879 folded before Flop
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298132604: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:54:45 CET [2021/12/17 15:54:45 ET]
+Table '3322159643 2' 9-max Seat #5 is the button
+Seat 1: 1angler1 (1428 in chips) 
+Seat 2: DJForrest (3006 in chips) 
+Seat 3: BahijFC (1418 in chips) 
+Seat 4: darkjf (931 in chips) 
+Seat 5: Shady B Bones (665 in chips) 
+Seat 6: gismo1973417 (1374 in chips) 
+Seat 7: pedriim879 (1435 in chips) 
+Seat 8: D'lirio15 (1755 in chips) 
+Seat 9: KeinKönich (1488 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+Shady B Bones: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+gismo1973417: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 8s]
+D'lirio15: folds 
+KeinKönich: folds 
+1angler1: raises 20 to 40
+DJForrest: raises 20 to 60
+BahijFC: folds 
+darkjf: folds 
+Shady B Bones: raises 602 to 662 and is all-in
+gismo1973417: folds 
+pedriim879: folds 
+1angler1: folds 
+DJForrest: calls 602
+*** FLOP *** [Qs 3d 6d]
+*** TURN *** [Qs 3d 6d] [Qd]
+*** RIVER *** [Qs 3d 6d Qd] [9h]
+*** SHOW DOWN ***
+DJForrest: shows [Jd As] (a pair of Queens)
+Shady B Bones: shows [Kd Th] (a pair of Queens - lower kicker)
+DJForrest collected 1421 from pot
+Shady B Bones finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 1421 | Rake 0 
+Board [Qs 3d 6d Qd 9h]
+Seat 1: 1angler1 folded before Flop
+Seat 2: DJForrest showed [Jd As] and won (1421) with a pair of Queens
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: Shady B Bones (button) showed [Kd Th] and lost with a pair of Queens
+Seat 6: gismo1973417 (small blind) folded before Flop
+Seat 7: pedriim879 (big blind) folded before Flop
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298271981: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:00:25 CET [2021/12/17 16:00:25 ET]
+Table '3322159643 2' 9-max Seat #6 is the button
+Seat 1: 1angler1 (1385 in chips) 
+Seat 2: DJForrest (3762 in chips) 
+Seat 3: BahijFC (1415 in chips) 
+Seat 4: darkjf (928 in chips) 
+Seat 6: gismo1973417 (1361 in chips) 
+Seat 7: pedriim879 (1412 in chips) 
+Seat 8: D'lirio15 (1752 in chips) 
+Seat 9: KeinKönich (1485 in chips) 
+1angler1: posts the ante 3
+DJForrest: posts the ante 3
+BahijFC: posts the ante 3
+darkjf: posts the ante 3
+gismo1973417: posts the ante 3
+pedriim879: posts the ante 3
+D'lirio15: posts the ante 3
+KeinKönich: posts the ante 3
+pedriim879: posts small blind 10
+D'lirio15: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Js]
+KeinKönich: raises 40 to 60
+1angler1: raises 100 to 160
+DJForrest: calls 160
+BahijFC: folds 
+darkjf: folds 
+gismo1973417: folds 
+pedriim879: folds 
+D'lirio15: calls 140
+KeinKönich: calls 100
+*** FLOP *** [Kd Tc 6d]
+D'lirio15: checks 
+KeinKönich: checks 
+1angler1: bets 540
+DJForrest: raises 540 to 1080
+D'lirio15: folds 
+KeinKönich: folds 
+1angler1: calls 540
+*** TURN *** [Kd Tc 6d] [3c]
+1angler1: bets 142 and is all-in
+DJForrest: calls 142
+*** RIVER *** [Kd Tc 6d 3c] [7c]
+*** SHOW DOWN ***
+1angler1: shows [Ah As] (a pair of Aces)
+DJForrest: shows [Kc Th] (two pair, Kings and Tens)
+DJForrest collected 3118 from pot
+1angler1 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 3118 | Rake 0 
+Board [Kd Tc 6d 3c 7c]
+Seat 1: 1angler1 showed [Ah As] and lost with a pair of Aces
+Seat 2: DJForrest showed [Kc Th] and won (3118) with two pair, Kings and Tens
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 6: gismo1973417 (button) folded before Flop (didn't bet)
+Seat 7: pedriim879 (small blind) folded before Flop
+Seat 8: D'lirio15 (big blind) folded on the Flop
+Seat 9: KeinKönich folded on the Flop
+
+
+
+PokerStars Hand #232298309770: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:01:34 CET [2021/12/17 16:01:34 ET]
+Table '3322159643 2' 9-max Seat #7 is the button
+Seat 2: DJForrest (5495 in chips) 
+Seat 3: BahijFC (1412 in chips) 
+Seat 4: darkjf (925 in chips) 
+Seat 6: gismo1973417 (1358 in chips) 
+Seat 7: pedriim879 (1399 in chips) 
+Seat 8: D'lirio15 (1589 in chips) 
+Seat 9: KeinKönich (1322 in chips) 
+DJForrest: posts the ante 4
+BahijFC: posts the ante 4
+darkjf: posts the ante 4
+gismo1973417: posts the ante 4
+pedriim879: posts the ante 4
+D'lirio15: posts the ante 4
+KeinKönich: posts the ante 4
+D'lirio15: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 3c]
+DJForrest: calls 30
+BahijFC: calls 30
+darkjf: folds 
+gismo1973417: folds 
+pedriim879: folds 
+D'lirio15: calls 15
+KeinKönich: checks 
+*** FLOP *** [2s 3s 2c]
+D'lirio15: checks 
+KeinKönich: checks 
+DJForrest: checks 
+BahijFC: bets 89
+D'lirio15: folds 
+KeinKönich: calls 89
+DJForrest: folds 
+*** TURN *** [2s 3s 2c] [9h]
+KeinKönich: checks 
+BahijFC: checks 
+*** RIVER *** [2s 3s 2c 9h] [Ah]
+KeinKönich: checks 
+BahijFC: bets 330
+KeinKönich: folds 
+Uncalled bet (330) returned to BahijFC
+BahijFC collected 326 from pot
+BahijFC: doesn't show hand 
+*** SUMMARY ***
+Total pot 326 | Rake 0 
+Board [2s 3s 2c 9h Ah]
+Seat 2: DJForrest folded on the Flop
+Seat 3: BahijFC collected (326)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 6: gismo1973417 folded before Flop (didn't bet)
+Seat 7: pedriim879 (button) folded before Flop (didn't bet)
+Seat 8: D'lirio15 (small blind) folded on the Flop
+Seat 9: KeinKönich (big blind) folded on the River
+
+
+
+PokerStars Hand #232298344681: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:02:45 CET [2021/12/17 16:02:45 ET]
+Table '3322159643 2' 9-max Seat #8 is the button
+Seat 2: DJForrest (5461 in chips) 
+Seat 3: BahijFC (1615 in chips) 
+Seat 4: darkjf (921 in chips) 
+Seat 6: gismo1973417 (1354 in chips) 
+Seat 7: pedriim879 (1395 in chips) 
+Seat 8: D'lirio15 (1555 in chips) 
+Seat 9: KeinKönich (1199 in chips) 
+DJForrest: posts the ante 4
+BahijFC: posts the ante 4
+darkjf: posts the ante 4
+gismo1973417: posts the ante 4
+pedriim879: posts the ante 4
+D'lirio15: posts the ante 4
+KeinKönich: posts the ante 4
+KeinKönich: posts small blind 15
+DJForrest: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 4s]
+BahijFC: folds 
+darkjf: folds 
+gismo1973417: folds 
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: folds 
+Uncalled bet (15) returned to DJForrest
+DJForrest collected 58 from pot
+DJForrest: doesn't show hand 
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 2: DJForrest (big blind) collected (58)
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 6: gismo1973417 folded before Flop (didn't bet)
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298352361: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:03:01 CET [2021/12/17 16:03:01 ET]
+Table '3322159643 2' 9-max Seat #9 is the button
+Seat 2: DJForrest (5500 in chips) 
+Seat 3: BahijFC (1611 in chips) 
+Seat 4: darkjf (917 in chips) 
+Seat 5: dapitanboy (1384 in chips) 
+Seat 6: gismo1973417 (1350 in chips) 
+Seat 7: pedriim879 (1391 in chips) 
+Seat 8: D'lirio15 (1551 in chips) 
+Seat 9: KeinKönich (1180 in chips) 
+DJForrest: posts the ante 4
+BahijFC: posts the ante 4
+darkjf: posts the ante 4
+dapitanboy: posts the ante 4
+gismo1973417: posts the ante 4
+pedriim879: posts the ante 4
+D'lirio15: posts the ante 4
+KeinKönich: posts the ante 4
+DJForrest: posts small blind 15
+BahijFC: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 4h]
+darkjf: folds 
+dapitanboy: folds 
+gismo1973417: folds 
+pedriim879: raises 40 to 70
+D'lirio15: folds 
+KeinKönich: folds 
+DJForrest: calls 55
+BahijFC: calls 40
+*** FLOP *** [2d Ad Qh]
+DJForrest: checks 
+BahijFC: checks 
+pedriim879: checks 
+*** TURN *** [2d Ad Qh] [8s]
+DJForrest: checks 
+BahijFC: checks 
+pedriim879: checks 
+*** RIVER *** [2d Ad Qh 8s] [5c]
+DJForrest: bets 30
+BahijFC: folds 
+pedriim879: raises 255 to 285
+DJForrest: folds 
+Uncalled bet (255) returned to pedriim879
+pedriim879 collected 302 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 302 | Rake 0 
+Board [2d Ad Qh 8s 5c]
+Seat 2: DJForrest (small blind) folded on the River
+Seat 3: BahijFC (big blind) folded on the River
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 6: gismo1973417 folded before Flop (didn't bet)
+Seat 7: pedriim879 collected (302)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298394703: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:04:26 CET [2021/12/17 16:04:26 ET]
+Table '3322159643 2' 9-max Seat #2 is the button
+Seat 2: DJForrest (5396 in chips) 
+Seat 3: BahijFC (1537 in chips) 
+Seat 4: darkjf (913 in chips) 
+Seat 5: dapitanboy (1380 in chips) 
+Seat 6: gismo1973417 (1346 in chips) 
+Seat 7: pedriim879 (1589 in chips) 
+Seat 8: D'lirio15 (1547 in chips) 
+Seat 9: KeinKönich (1176 in chips) 
+DJForrest: posts the ante 4
+BahijFC: posts the ante 4
+darkjf: posts the ante 4
+dapitanboy: posts the ante 4
+gismo1973417: posts the ante 4
+pedriim879: posts the ante 4
+D'lirio15: posts the ante 4
+KeinKönich: posts the ante 4
+BahijFC: posts small blind 15
+darkjf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 6c]
+dapitanboy: folds 
+gismo1973417: raises 30 to 60
+pedriim879: folds 
+D'lirio15: calls 60
+KeinKönich: calls 60
+DJForrest: calls 60
+BahijFC: calls 45
+darkjf: calls 30
+*** FLOP *** [2c 8c Qh]
+BahijFC: checks 
+darkjf: checks 
+gismo1973417: bets 90
+D'lirio15: calls 90
+KeinKönich: folds 
+DJForrest: raises 120 to 210
+BahijFC: raises 1263 to 1473 and is all-in
+darkjf: folds 
+gismo1973417: folds 
+D'lirio15: folds 
+DJForrest: folds 
+Uncalled bet (1263) returned to BahijFC
+BahijFC collected 992 from pot
+BahijFC: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [2c 8c Qh]
+Seat 2: DJForrest (button) folded on the Flop
+Seat 3: BahijFC (small blind) collected (992)
+Seat 4: darkjf (big blind) folded on the Flop
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 6: gismo1973417 folded on the Flop
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded on the Flop
+Seat 9: KeinKönich folded on the Flop
+
+
+
+PokerStars Hand #232298443943: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:06:03 CET [2021/12/17 16:06:03 ET]
+Table '3322159643 2' 9-max Seat #3 is the button
+Seat 2: DJForrest (5122 in chips) 
+Seat 3: BahijFC (2255 in chips) 
+Seat 4: darkjf (849 in chips) 
+Seat 5: dapitanboy (1376 in chips) 
+Seat 6: gismo1973417 (1192 in chips) 
+Seat 7: pedriim879 (1585 in chips) 
+Seat 8: D'lirio15 (1393 in chips) 
+Seat 9: KeinKönich (1112 in chips) 
+DJForrest: posts the ante 4
+BahijFC: posts the ante 4
+darkjf: posts the ante 4
+dapitanboy: posts the ante 4
+gismo1973417: posts the ante 4
+pedriim879: posts the ante 4
+D'lirio15: posts the ante 4
+KeinKönich: posts the ante 4
+darkjf: posts small blind 15
+dapitanboy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s Kh]
+gismo1973417: folds 
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: raises 45 to 75
+DJForrest: calls 75
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: folds 
+*** FLOP *** [4c 3c 8s]
+KeinKönich: bets 130
+DJForrest: raises 130 to 260
+KeinKönich: folds 
+Uncalled bet (130) returned to DJForrest
+DJForrest collected 487 from pot
+DJForrest: doesn't show hand 
+*** SUMMARY ***
+Total pot 487 | Rake 0 
+Board [4c 3c 8s]
+Seat 2: DJForrest collected (487)
+Seat 3: BahijFC (button) folded before Flop (didn't bet)
+Seat 4: darkjf (small blind) folded before Flop
+Seat 5: dapitanboy (big blind) folded before Flop
+Seat 6: gismo1973417 folded before Flop (didn't bet)
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded on the Flop
+
+
+
+PokerStars Hand #232298471402: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:06:58 CET [2021/12/17 16:06:58 ET]
+Table '3322159643 2' 9-max Seat #4 is the button
+Seat 3: BahijFC (2251 in chips) 
+Seat 4: darkjf (830 in chips) 
+Seat 5: dapitanboy (1342 in chips) 
+Seat 6: gismo1973417 (1188 in chips) 
+Seat 7: pedriim879 (1581 in chips) 
+Seat 8: D'lirio15 (1389 in chips) 
+Seat 9: KeinKönich (903 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+gismo1973417: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+dapitanboy: posts small blind 25
+gismo1973417: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 8s]
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: folds 
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: calls 25
+gismo1973417: checks 
+*** FLOP *** [7c 2c Ad]
+dapitanboy: bets 78
+gismo1973417: calls 78
+*** TURN *** [7c 2c Ad] [4c]
+dapitanboy: bets 224
+gismo1973417: calls 224
+*** RIVER *** [7c 2c Ad 4c] [7s]
+dapitanboy: bets 246
+gismo1973417: calls 246
+*** SHOW DOWN ***
+dapitanboy: shows [Jd As] (two pair, Aces and Sevens)
+gismo1973417: mucks hand 
+dapitanboy collected 1238 from pot
+*** SUMMARY ***
+Total pot 1238 | Rake 0 
+Board [7c 2c Ad 4c 7s]
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf (button) folded before Flop (didn't bet)
+Seat 5: dapitanboy (small blind) showed [Jd As] and won (1238) with two pair, Aces and Sevens
+Seat 6: gismo1973417 (big blind) mucked [Ac 2s]
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298493477: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:07:42 CET [2021/12/17 16:07:42 ET]
+Table '3322159643 2' 9-max Seat #5 is the button
+Seat 3: BahijFC (2245 in chips) 
+Seat 4: darkjf (824 in chips) 
+Seat 5: dapitanboy (1976 in chips) 
+Seat 6: gismo1973417 (584 in chips) 
+Seat 7: pedriim879 (1575 in chips) 
+Seat 8: D'lirio15 (1383 in chips) 
+Seat 9: KeinKönich (897 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+gismo1973417: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+gismo1973417: posts small blind 25
+pedriim879: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 5s]
+D'lirio15: folds 
+KeinKönich: folds 
+BahijFC: raises 75 to 125
+darkjf: folds 
+dapitanboy: folds 
+gismo1973417: folds 
+pedriim879: calls 75
+*** FLOP *** [Ks 7h 2h]
+pedriim879: checks 
+BahijFC: bets 105
+pedriim879: folds 
+Uncalled bet (105) returned to BahijFC
+BahijFC collected 317 from pot
+BahijFC: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Board [Ks 7h 2h]
+Seat 3: BahijFC collected (317)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy (button) folded before Flop (didn't bet)
+Seat 6: gismo1973417 (small blind) folded before Flop
+Seat 7: pedriim879 (big blind) folded on the Flop
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298516582: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:08:27 CET [2021/12/17 16:08:27 ET]
+Table '3322159643 2' 9-max Seat #6 is the button
+Seat 3: BahijFC (2431 in chips) 
+Seat 4: darkjf (818 in chips) 
+Seat 5: dapitanboy (1970 in chips) 
+Seat 6: gismo1973417 (553 in chips) 
+Seat 7: pedriim879 (1444 in chips) 
+Seat 8: D'lirio15 (1377 in chips) 
+Seat 9: KeinKönich (891 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+gismo1973417: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+pedriim879: posts small blind 25
+D'lirio15: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 6c]
+KeinKönich: folds 
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: raises 50 to 100
+gismo1973417: calls 100
+pedriim879: folds 
+D'lirio15: raises 150 to 250
+dapitanboy: folds 
+gismo1973417: calls 150
+*** FLOP *** [4d Kh Td]
+D'lirio15: bets 550
+gismo1973417: calls 297 and is all-in
+Uncalled bet (253) returned to D'lirio15
+*** TURN *** [4d Kh Td] [Jd]
+*** RIVER *** [4d Kh Td Jd] [Jc]
+*** SHOW DOWN ***
+D'lirio15: shows [Ad Tc] (two pair, Jacks and Tens)
+gismo1973417: shows [7h Th] (two pair, Jacks and Tens - lower kicker)
+D'lirio15 collected 1261 from pot
+gismo1973417 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 1261 | Rake 0 
+Board [4d Kh Td Jd Jc]
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop
+Seat 6: gismo1973417 (button) showed [7h Th] and lost with two pair, Jacks and Tens
+Seat 7: pedriim879 (small blind) folded before Flop
+Seat 8: D'lirio15 (big blind) showed [Ad Tc] and won (1261) with two pair, Jacks and Tens
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298534757: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:09:04 CET [2021/12/17 16:09:04 ET]
+Table '3322159643 2' 9-max Seat #7 is the button
+Seat 3: BahijFC (2425 in chips) 
+Seat 4: darkjf (812 in chips) 
+Seat 5: dapitanboy (1864 in chips) 
+Seat 7: pedriim879 (1413 in chips) 
+Seat 8: D'lirio15 (2085 in chips) 
+Seat 9: KeinKönich (885 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+D'lirio15: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 2c]
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: raises 50 to 100
+pedriim879: folds 
+D'lirio15: calls 75
+KeinKönich: raises 779 to 879 and is all-in
+dapitanboy: folds 
+D'lirio15: folds 
+Uncalled bet (779) returned to KeinKönich
+KeinKönich collected 336 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop
+Seat 7: pedriim879 (button) folded before Flop (didn't bet)
+Seat 8: D'lirio15 (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) collected (336)
+
+
+
+PokerStars Hand #232298554929: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:09:44 CET [2021/12/17 16:09:44 ET]
+Table '3322159643 2' 9-max Seat #8 is the button
+Seat 3: BahijFC (2419 in chips) 
+Seat 4: darkjf (806 in chips) 
+Seat 5: dapitanboy (1758 in chips) 
+Seat 7: pedriim879 (1407 in chips) 
+Seat 8: D'lirio15 (1979 in chips) 
+Seat 9: KeinKönich (1115 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+KeinKönich: posts small blind 25
+BahijFC: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 3d]
+darkjf: folds 
+dapitanboy: folds 
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: raises 50 to 100
+BahijFC: calls 50
+*** FLOP *** [4s Jd 5s]
+KeinKönich: bets 150
+BahijFC: folds 
+Uncalled bet (150) returned to KeinKönich
+KeinKönich collected 236 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 236 | Rake 0 
+Board [4s Jd 5s]
+Seat 3: BahijFC (big blind) folded on the Flop
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) collected (236)
+
+
+
+PokerStars Hand #232298573612: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:10:21 CET [2021/12/17 16:10:21 ET]
+Table '3322159643 2' 9-max Seat #9 is the button
+Seat 3: BahijFC (2313 in chips) 
+Seat 4: darkjf (800 in chips) 
+Seat 5: dapitanboy (1752 in chips) 
+Seat 7: pedriim879 (1401 in chips) 
+Seat 8: D'lirio15 (1973 in chips) 
+Seat 9: KeinKönich (1245 in chips) 
+BahijFC: posts the ante 6
+darkjf: posts the ante 6
+dapitanboy: posts the ante 6
+pedriim879: posts the ante 6
+D'lirio15: posts the ante 6
+KeinKönich: posts the ante 6
+BahijFC: posts small blind 25
+darkjf: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 7h]
+dapitanboy: folds 
+pedriim879: raises 59 to 109
+D'lirio15: folds 
+KeinKönich: raises 166 to 275
+BahijFC: folds 
+darkjf: folds 
+pedriim879: raises 1120 to 1395 and is all-in
+KeinKönich: folds 
+Uncalled bet (1120) returned to pedriim879
+pedriim879 collected 661 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 661 | Rake 0 
+Seat 3: BahijFC (small blind) folded before Flop
+Seat 4: darkjf (big blind) folded before Flop
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 7: pedriim879 collected (661)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop
+
+
+
+PokerStars Hand #232298604488: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:11:24 CET [2021/12/17 16:11:24 ET]
+Table '3322159643 2' 9-max Seat #3 is the button
+Seat 3: BahijFC (2282 in chips) 
+Seat 4: darkjf (744 in chips) 
+Seat 5: dapitanboy (1746 in chips) 
+Seat 7: pedriim879 (1781 in chips) 
+Seat 8: D'lirio15 (1967 in chips) 
+Seat 9: KeinKönich (964 in chips) 
+BahijFC: posts the ante 10
+darkjf: posts the ante 10
+dapitanboy: posts the ante 10
+pedriim879: posts the ante 10
+D'lirio15: posts the ante 10
+KeinKönich: posts the ante 10
+darkjf: posts small blind 40
+dapitanboy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 2c]
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: folds 
+BahijFC: raises 96 to 176
+darkjf: calls 136
+dapitanboy: folds 
+*** FLOP *** [4d 8h 2s]
+darkjf: checks 
+BahijFC: checks 
+*** TURN *** [4d 8h 2s] [Th]
+darkjf: checks 
+BahijFC: checks 
+*** RIVER *** [4d 8h 2s Th] [6s]
+darkjf: checks 
+BahijFC: checks 
+*** SHOW DOWN ***
+darkjf: shows [Ac 3h] (high card Ace)
+BahijFC: mucks hand 
+darkjf collected 492 from pot
+*** SUMMARY ***
+Total pot 492 | Rake 0 
+Board [4d 8h 2s Th 6s]
+Seat 3: BahijFC (button) mucked [Ks 9s]
+Seat 4: darkjf (small blind) showed [Ac 3h] and won (492) with high card Ace
+Seat 5: dapitanboy (big blind) folded before Flop
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298629092: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:14 CET [2021/12/17 16:12:14 ET]
+Table '3322159643 2' 9-max Seat #4 is the button
+Seat 3: BahijFC (2096 in chips) 
+Seat 4: darkjf (1050 in chips) 
+Seat 5: dapitanboy (1656 in chips) 
+Seat 7: pedriim879 (1771 in chips) 
+Seat 8: D'lirio15 (1957 in chips) 
+Seat 9: KeinKönich (954 in chips) 
+BahijFC: posts the ante 10
+darkjf: posts the ante 10
+dapitanboy: posts the ante 10
+pedriim879: posts the ante 10
+D'lirio15: posts the ante 10
+KeinKönich: posts the ante 10
+dapitanboy: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 7d]
+D'lirio15: folds 
+KeinKönich: folds 
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: calls 40
+pedriim879: raises 240 to 320
+dapitanboy: folds 
+Uncalled bet (240) returned to pedriim879
+pedriim879 collected 220 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf (button) folded before Flop (didn't bet)
+Seat 5: dapitanboy (small blind) folded before Flop
+Seat 7: pedriim879 (big blind) collected (220)
+Seat 8: D'lirio15 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298642593: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:41 CET [2021/12/17 16:12:41 ET]
+Table '3322159643 2' 9-max Seat #5 is the button
+Seat 3: BahijFC (2086 in chips) 
+Seat 4: darkjf (1040 in chips) 
+Seat 5: dapitanboy (1566 in chips) 
+Seat 7: pedriim879 (1901 in chips) 
+Seat 8: D'lirio15 (1947 in chips) 
+Seat 9: KeinKönich (944 in chips) 
+BahijFC: posts the ante 10
+darkjf: posts the ante 10
+dapitanboy: posts the ante 10
+pedriim879: posts the ante 10
+D'lirio15: posts the ante 10
+KeinKönich: posts the ante 10
+pedriim879: posts small blind 40
+D'lirio15: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d Qc]
+KeinKönich: folds 
+BahijFC: folds 
+darkjf: folds 
+dapitanboy: folds 
+pedriim879: raises 118 to 198
+D'lirio15: calls 118
+*** FLOP *** [5s Th As]
+pedriim879: checks 
+D'lirio15: bets 240
+pedriim879: folds 
+Uncalled bet (240) returned to D'lirio15
+D'lirio15 collected 456 from pot
+D'lirio15: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Board [5s Th As]
+Seat 3: BahijFC folded before Flop (didn't bet)
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy (button) folded before Flop (didn't bet)
+Seat 7: pedriim879 (small blind) folded on the Flop
+Seat 8: D'lirio15 (big blind) collected (456)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298654195: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:13:05 CET [2021/12/17 16:13:05 ET]
+Table '3322159643 2' 9-max Seat #7 is the button
+Seat 3: BahijFC (2076 in chips) 
+Seat 4: darkjf (1030 in chips) 
+Seat 5: dapitanboy (1556 in chips) 
+Seat 7: pedriim879 (1693 in chips) 
+Seat 8: D'lirio15 (2195 in chips) 
+Seat 9: KeinKönich (934 in chips) 
+BahijFC: posts the ante 10
+darkjf: posts the ante 10
+dapitanboy: posts the ante 10
+pedriim879: posts the ante 10
+D'lirio15: posts the ante 10
+KeinKönich: posts the ante 10
+D'lirio15: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 9d]
+BahijFC: raises 96 to 176
+darkjf: folds 
+dapitanboy: folds 
+pedriim879: folds 
+D'lirio15: calls 136
+KeinKönich: folds 
+*** FLOP *** [Th 2d 9c]
+D'lirio15: bets 160
+BahijFC: folds 
+Uncalled bet (160) returned to D'lirio15
+D'lirio15 collected 492 from pot
+D'lirio15: doesn't show hand 
+*** SUMMARY ***
+Total pot 492 | Rake 0 
+Board [Th 2d 9c]
+Seat 3: BahijFC folded on the Flop
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 7: pedriim879 (button) folded before Flop (didn't bet)
+Seat 8: D'lirio15 (small blind) collected (492)
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232298670119: Tournament #3322159643, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:13:37 CET [2021/12/17 16:13:37 ET]
+Table '3322159643 2' 9-max Seat #8 is the button
+Seat 3: BahijFC (1890 in chips) 
+Seat 4: darkjf (1020 in chips) 
+Seat 5: dapitanboy (1546 in chips) 
+Seat 7: pedriim879 (1683 in chips) 
+Seat 8: D'lirio15 (2501 in chips) 
+Seat 9: KeinKönich (844 in chips) 
+BahijFC: posts the ante 10
+darkjf: posts the ante 10
+dapitanboy: posts the ante 10
+pedriim879: posts the ante 10
+D'lirio15: posts the ante 10
+KeinKönich: posts the ante 10
+KeinKönich: posts small blind 40
+BahijFC: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s Th]
+darkjf: folds 
+dapitanboy: folds 
+pedriim879: folds 
+D'lirio15: folds 
+KeinKönich: raises 754 to 834 and is all-in
+BahijFC: calls 754
+*** FLOP *** [7c Qh Qc]
+*** TURN *** [7c Qh Qc] [Ah]
+*** RIVER *** [7c Qh Qc Ah] [6c]
+*** SHOW DOWN ***
+KeinKönich: shows [2s Th] (a pair of Queens)
+BahijFC: shows [Kd Jc] (a pair of Queens - Ace+King kicker)
+BahijFC collected 1728 from pot
+*** SUMMARY ***
+Total pot 1728 | Rake 0 
+Board [7c Qh Qc Ah 6c]
+Seat 3: BahijFC (big blind) showed [Kd Jc] and won (1728) with a pair of Queens
+Seat 4: darkjf folded before Flop (didn't bet)
+Seat 5: dapitanboy folded before Flop (didn't bet)
+Seat 7: pedriim879 folded before Flop (didn't bet)
+Seat 8: D'lirio15 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) showed [2s Th] and lost with a pair of Queens
+
+
+

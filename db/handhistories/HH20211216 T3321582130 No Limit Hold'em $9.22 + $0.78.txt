@@ -1,0 +1,2418 @@
+ï»¿PokerStars Hand #232274107942: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:12:50 CET [2021/12/16 17:12:50 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (1500 in chips) 
+Seat 2: AndreMDSilva (1500 in chips) 
+Seat 3: Grospelllier (1500 in chips) 
+Seat 4: KeinKönich (1500 in chips) 
+Seat 5: Gboyslim (1500 in chips) 
+Seat 6: vitalij300 (1500 in chips) 
+Seat 7: vonBaranow (1500 in chips) 
+Seat 8: dublinsw (1500 in chips) 
+Seat 9: erikwilson23 (1500 in chips) 
+mbdrozd: posts the ante 3
+AndreMDSilva: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+Gboyslim: posts the ante 3
+vitalij300: posts the ante 3
+vonBaranow: posts the ante 3
+dublinsw: posts the ante 3
+erikwilson23: posts the ante 3
+AndreMDSilva: posts small blind 10
+Grospelllier: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 6d]
+KeinKönich: folds 
+Gboyslim: folds 
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: calls 20
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: calls 10
+Grospelllier: checks 
+*** FLOP *** [Kh 5h Qh]
+AndreMDSilva: checks 
+Grospelllier: checks 
+dublinsw: bets 87
+AndreMDSilva: folds 
+Grospelllier: folds 
+Uncalled bet (87) returned to dublinsw
+dublinsw collected 87 from pot
+dublinsw: doesn't show hand 
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Board [Kh 5h Qh]
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 2: AndreMDSilva (small blind) folded on the Flop
+Seat 3: Grospelllier (big blind) folded on the Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw collected (87)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274150702: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:13:58 CET [2021/12/16 17:13:58 ET]
+Table '3321582130 2' 9-max Seat #2 is the button
+Seat 1: mbdrozd (1497 in chips) 
+Seat 2: AndreMDSilva (1477 in chips) 
+Seat 3: Grospelllier (1477 in chips) 
+Seat 4: KeinKönich (1497 in chips) 
+Seat 5: Gboyslim (1497 in chips) 
+Seat 6: vitalij300 (1497 in chips) 
+Seat 7: vonBaranow (1497 in chips) 
+Seat 8: dublinsw (1564 in chips) 
+Seat 9: erikwilson23 (1497 in chips) 
+mbdrozd: posts the ante 3
+AndreMDSilva: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+Gboyslim: posts the ante 3
+vitalij300: posts the ante 3
+vonBaranow: posts the ante 3
+dublinsw: posts the ante 3
+erikwilson23: posts the ante 3
+Grospelllier: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Qc]
+Gboyslim: folds 
+vitalij300: folds 
+vonBaranow: raises 30 to 50
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: calls 50
+Grospelllier: folds 
+KeinKönich: calls 30
+*** FLOP *** [7s 3s Kc]
+KeinKönich: checks 
+vonBaranow: checks 
+AndreMDSilva: checks 
+*** TURN *** [7s 3s Kc] [Td]
+KeinKönich: checks 
+vonBaranow: checks 
+AndreMDSilva: checks 
+*** RIVER *** [7s 3s Kc Td] [4d]
+KeinKönich: checks 
+vonBaranow: checks 
+AndreMDSilva: checks 
+*** SHOW DOWN ***
+KeinKönich: shows [8c Qc] (high card King)
+vonBaranow: shows [9d 9h] (a pair of Nines)
+AndreMDSilva: mucks hand 
+vonBaranow collected 187 from pot
+*** SUMMARY ***
+Total pot 187 | Rake 0 
+Board [7s 3s Kc Td 4d]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva (button) mucked [Ah Qh]
+Seat 3: Grospelllier (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) showed [8c Qc] and lost with high card King
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow showed [9d 9h] and won (187) with a pair of Nines
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274194320: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:15:29 CET [2021/12/16 17:15:29 ET]
+Table '3321582130 2' 9-max Seat #3 is the button
+Seat 1: mbdrozd (1494 in chips) 
+Seat 2: AndreMDSilva (1424 in chips) 
+Seat 3: Grospelllier (1464 in chips) 
+Seat 4: KeinKönich (1444 in chips) 
+Seat 5: Gboyslim (1494 in chips) 
+Seat 6: vitalij300 (1494 in chips) 
+Seat 7: vonBaranow (1631 in chips) 
+Seat 8: dublinsw (1561 in chips) 
+Seat 9: erikwilson23 (1494 in chips) 
+mbdrozd: posts the ante 3
+AndreMDSilva: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+Gboyslim: posts the ante 3
+vitalij300: posts the ante 3
+vonBaranow: posts the ante 3
+dublinsw: posts the ante 3
+erikwilson23: posts the ante 3
+KeinKönich: posts small blind 10
+Gboyslim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Th]
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (10) returned to Gboyslim
+Gboyslim collected 47 from pot
+Gboyslim: doesn't show hand 
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Gboyslim (big blind) collected (47)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274206522: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:15:54 CET [2021/12/16 17:15:54 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (1491 in chips) 
+Seat 2: AndreMDSilva (1421 in chips) 
+Seat 3: Grospelllier (1461 in chips) 
+Seat 4: KeinKönich (1431 in chips) 
+Seat 5: Gboyslim (1528 in chips) 
+Seat 6: vitalij300 (1491 in chips) 
+Seat 7: vonBaranow (1628 in chips) 
+Seat 8: dublinsw (1558 in chips) 
+Seat 9: erikwilson23 (1491 in chips) 
+mbdrozd: posts the ante 3
+AndreMDSilva: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+Gboyslim: posts the ante 3
+vitalij300: posts the ante 3
+vonBaranow: posts the ante 3
+dublinsw: posts the ante 3
+erikwilson23: posts the ante 3
+Gboyslim: posts small blind 10
+vitalij300: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Td]
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: raises 20 to 40
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: calls 30
+vitalij300: folds 
+*** FLOP *** [2h Kd Jc]
+Gboyslim: checks 
+mbdrozd: checks 
+*** TURN *** [2h Kd Jc] [Ac]
+Gboyslim: checks 
+mbdrozd: bets 64
+Gboyslim: folds 
+Uncalled bet (64) returned to mbdrozd
+mbdrozd collected 127 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 127 | Rake 0 
+Board [2h Kd Jc Ac]
+Seat 1: mbdrozd collected (127)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Gboyslim (small blind) folded on the Turn
+Seat 6: vitalij300 (big blind) folded before Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274228130: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:16:38 CET [2021/12/16 17:16:38 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (1575 in chips) 
+Seat 2: AndreMDSilva (1418 in chips) 
+Seat 3: Grospelllier (1458 in chips) 
+Seat 4: KeinKönich (1428 in chips) 
+Seat 5: Gboyslim (1485 in chips) 
+Seat 6: vitalij300 (1468 in chips) 
+Seat 7: vonBaranow (1625 in chips) 
+Seat 8: dublinsw (1555 in chips) 
+Seat 9: erikwilson23 (1488 in chips) 
+mbdrozd: posts the ante 3
+AndreMDSilva: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+Gboyslim: posts the ante 3
+vitalij300: posts the ante 3
+vonBaranow: posts the ante 3
+dublinsw: posts the ante 3
+erikwilson23: posts the ante 3
+vitalij300: posts small blind 10
+vonBaranow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Js]
+dublinsw: calls 20
+erikwilson23: folds 
+mbdrozd: calls 20
+AndreMDSilva: calls 20
+Grospelllier: calls 20
+KeinKönich: folds 
+Gboyslim: calls 20
+vitalij300: folds 
+vonBaranow: checks 
+*** FLOP *** [4d Ks Ac]
+vonBaranow: checks 
+dublinsw: checks 
+mbdrozd: checks 
+AndreMDSilva: checks 
+Grospelllier: bets 104
+Gboyslim: folds 
+vonBaranow: folds 
+dublinsw: folds 
+mbdrozd: calls 104
+AndreMDSilva: folds 
+*** TURN *** [4d Ks Ac] [Jc]
+mbdrozd: checks 
+Grospelllier: bets 240
+mbdrozd: folds 
+Uncalled bet (240) returned to Grospelllier
+Grospelllier collected 365 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 365 | Rake 0 
+Board [4d Ks Ac Jc]
+Seat 1: mbdrozd folded on the Turn
+Seat 2: AndreMDSilva folded on the Flop
+Seat 3: Grospelllier collected (365)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) folded on the Flop
+Seat 6: vitalij300 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded on the Flop
+Seat 8: dublinsw folded on the Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274267253: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:17:59 CET [2021/12/16 17:17:59 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (1448 in chips) 
+Seat 2: AndreMDSilva (1395 in chips) 
+Seat 3: Grospelllier (1696 in chips) 
+Seat 4: KeinKönich (1425 in chips) 
+Seat 5: Gboyslim (1462 in chips) 
+Seat 6: vitalij300 (1455 in chips) 
+Seat 7: vonBaranow (1602 in chips) 
+Seat 8: dublinsw (1532 in chips) 
+Seat 9: erikwilson23 (1485 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+vonBaranow: posts small blind 15
+dublinsw: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 6c]
+erikwilson23: folds 
+mbdrozd: raises 30 to 60
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+vitalij300: calls 60
+vonBaranow: folds 
+dublinsw: calls 30
+*** FLOP *** [4d Ts 9c]
+dublinsw: checks 
+mbdrozd: bets 116
+vitalij300: folds 
+dublinsw: folds 
+Uncalled bet (116) returned to mbdrozd
+mbdrozd collected 231 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Board [4d Ts 9c]
+Seat 1: mbdrozd collected (231)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 (button) folded on the Flop
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 8: dublinsw (big blind) folded on the Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274292233: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:18:51 CET [2021/12/16 17:18:51 ET]
+Table '3321582130 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (1615 in chips) 
+Seat 2: AndreMDSilva (1391 in chips) 
+Seat 3: Grospelllier (1692 in chips) 
+Seat 4: KeinKönich (1421 in chips) 
+Seat 5: Gboyslim (1458 in chips) 
+Seat 6: vitalij300 (1391 in chips) 
+Seat 7: vonBaranow (1583 in chips) 
+Seat 8: dublinsw (1468 in chips) 
+Seat 9: erikwilson23 (1481 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+dublinsw: posts small blind 15
+erikwilson23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Ac]
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: raises 45 to 75
+Gboyslim: folds 
+vitalij300: folds 
+vonBaranow: calls 75
+dublinsw: calls 60
+erikwilson23: calls 45
+*** FLOP *** [6h 3s 5c]
+dublinsw: checks 
+erikwilson23: checks 
+KeinKönich: bets 168
+vonBaranow: calls 168
+dublinsw: calls 168
+erikwilson23: folds 
+*** TURN *** [6h 3s 5c] [6d]
+dublinsw: checks 
+KeinKönich: checks 
+vonBaranow: checks 
+*** RIVER *** [6h 3s 5c 6d] [Qh]
+dublinsw: checks 
+KeinKönich: bets 330
+vonBaranow: folds 
+dublinsw: calls 330
+*** SHOW DOWN ***
+KeinKönich: shows [4h Ac] (a pair of Sixes)
+dublinsw: shows [Qs Ks] (two pair, Queens and Sixes)
+dublinsw collected 1500 from pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [6h 3s 5c 6d Qh]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich showed [4h Ac] and lost with a pair of Sixes
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) folded on the River
+Seat 8: dublinsw (small blind) showed [Qs Ks] and won (1500) with two pair, Queens and Sixes
+Seat 9: erikwilson23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232274349346: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:20:43 CET [2021/12/16 17:20:43 ET]
+Table '3321582130 2' 9-max Seat #8 is the button
+Seat 1: mbdrozd (1611 in chips) 
+Seat 2: AndreMDSilva (1387 in chips) 
+Seat 3: Grospelllier (1688 in chips) 
+Seat 4: KeinKönich (844 in chips) 
+Seat 5: Gboyslim (1454 in chips) 
+Seat 6: vitalij300 (1387 in chips) 
+Seat 7: vonBaranow (1336 in chips) 
+Seat 8: dublinsw (2391 in chips) 
+Seat 9: erikwilson23 (1402 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+erikwilson23: posts small blind 15
+mbdrozd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs Kh]
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: raises 45 to 75
+Gboyslim: raises 135 to 210
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: folds 
+Uncalled bet (135) returned to Gboyslim
+Gboyslim collected 231 from pot
+Gboyslim: doesn't show hand 
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Seat 1: mbdrozd (big blind) folded before Flop
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop
+Seat 5: Gboyslim collected (231)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw (button) folded before Flop (didn't bet)
+Seat 9: erikwilson23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274361003: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:21:07 CET [2021/12/16 17:21:07 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (1577 in chips) 
+Seat 2: AndreMDSilva (1383 in chips) 
+Seat 3: Grospelllier (1684 in chips) 
+Seat 4: KeinKönich (765 in chips) 
+Seat 5: Gboyslim (1606 in chips) 
+Seat 6: vitalij300 (1383 in chips) 
+Seat 7: vonBaranow (1332 in chips) 
+Seat 8: dublinsw (2387 in chips) 
+Seat 9: erikwilson23 (1383 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+mbdrozd: posts small blind 15
+AndreMDSilva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 4c]
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+vitalij300: raises 30 to 60
+vonBaranow: calls 60
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: calls 45
+AndreMDSilva: folds 
+*** FLOP *** [Jc 5d Td]
+mbdrozd: checks 
+vitalij300: bets 81
+vonBaranow: folds 
+mbdrozd: folds 
+Uncalled bet (81) returned to vitalij300
+vitalij300 collected 246 from pot
+vitalij300: doesn't show hand 
+*** SUMMARY ***
+Total pot 246 | Rake 0 
+Board [Jc 5d Td]
+Seat 1: mbdrozd (small blind) folded on the Flop
+Seat 2: AndreMDSilva (big blind) folded before Flop
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 collected (246)
+Seat 7: vonBaranow folded on the Flop
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274385883: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:22:00 CET [2021/12/16 17:22:00 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (1513 in chips) 
+Seat 2: AndreMDSilva (1349 in chips) 
+Seat 3: Grospelllier (1680 in chips) 
+Seat 4: KeinKönich (761 in chips) 
+Seat 5: Gboyslim (1602 in chips) 
+Seat 6: vitalij300 (1565 in chips) 
+Seat 7: vonBaranow (1268 in chips) 
+Seat 8: dublinsw (2383 in chips) 
+Seat 9: erikwilson23 (1379 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+AndreMDSilva: posts small blind 15
+Grospelllier: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 7h]
+KeinKönich: folds 
+Gboyslim: folds 
+vitalij300: raises 30 to 60
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: folds 
+Uncalled bet (30) returned to vitalij300
+vitalij300 collected 111 from pot
+vitalij300: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 2: AndreMDSilva (small blind) folded before Flop
+Seat 3: Grospelllier (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 collected (111)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274401289: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:22:32 CET [2021/12/16 17:22:32 ET]
+Table '3321582130 2' 9-max Seat #2 is the button
+Seat 1: mbdrozd (1509 in chips) 
+Seat 2: AndreMDSilva (1330 in chips) 
+Seat 3: Grospelllier (1646 in chips) 
+Seat 4: KeinKönich (757 in chips) 
+Seat 5: Gboyslim (1598 in chips) 
+Seat 6: vitalij300 (1642 in chips) 
+Seat 7: vonBaranow (1264 in chips) 
+Seat 8: dublinsw (2379 in chips) 
+Seat 9: erikwilson23 (1375 in chips) 
+mbdrozd: posts the ante 4
+AndreMDSilva: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+Gboyslim: posts the ante 4
+vitalij300: posts the ante 4
+vonBaranow: posts the ante 4
+dublinsw: posts the ante 4
+erikwilson23: posts the ante 4
+Grospelllier: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 7d]
+Gboyslim: folds 
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: raises 30 to 60
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: calls 30
+*** FLOP *** [Ks 4c 9h]
+KeinKönich: checks 
+mbdrozd: bets 68
+KeinKönich: calls 68
+*** TURN *** [Ks 4c 9h] [Th]
+KeinKönich: checks 
+mbdrozd: bets 154
+KeinKönich: folds 
+Uncalled bet (154) returned to mbdrozd
+mbdrozd collected 307 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 307 | Rake 0 
+Board [Ks 4c 9h Th]
+Seat 1: mbdrozd collected (307)
+Seat 2: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 3: Grospelllier (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded on the Turn
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274424947: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:23:22 CET [2021/12/16 17:23:22 ET]
+Table '3321582130 2' 9-max Seat #3 is the button
+Seat 1: mbdrozd (1684 in chips) 
+Seat 2: AndreMDSilva (1326 in chips) 
+Seat 3: Grospelllier (1627 in chips) 
+Seat 4: KeinKönich (625 in chips) 
+Seat 5: Gboyslim (1594 in chips) 
+Seat 6: vitalij300 (1638 in chips) 
+Seat 7: vonBaranow (1260 in chips) 
+Seat 8: dublinsw (2375 in chips) 
+Seat 9: erikwilson23 (1371 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+KeinKönich: posts small blind 25
+Gboyslim: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad Qd]
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: raises 50 to 100
+KeinKönich: raises 519 to 619 and is all-in
+Gboyslim: folds 
+Grospelllier: calls 519
+*** FLOP *** [8s 5s 3c]
+*** TURN *** [8s 5s 3c] [4c]
+*** RIVER *** [8s 5s 3c 4c] [4s]
+*** SHOW DOWN ***
+KeinKönich: shows [Ad Qd] (a pair of Fours)
+Grospelllier: shows [Qh Kc] (a pair of Fours - lower kicker)
+KeinKönich collected 1342 from pot
+*** SUMMARY ***
+Total pot 1342 | Rake 0 
+Board [8s 5s 3c 4c 4s]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier (button) showed [Qh Kc] and lost with a pair of Fours
+Seat 4: KeinKönich (small blind) showed [Ad Qd] and won (1342) with a pair of Fours
+Seat 5: Gboyslim (big blind) folded before Flop
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274445853: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:24:06 CET [2021/12/16 17:24:06 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (1678 in chips) 
+Seat 2: AndreMDSilva (1320 in chips) 
+Seat 3: Grospelllier (1002 in chips) 
+Seat 4: KeinKönich (1342 in chips) 
+Seat 5: Gboyslim (1538 in chips) 
+Seat 6: vitalij300 (1632 in chips) 
+Seat 7: vonBaranow (1254 in chips) 
+Seat 8: dublinsw (2369 in chips) 
+Seat 9: erikwilson23 (1365 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+Gboyslim: posts small blind 25
+vitalij300: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 2c]
+vonBaranow: raises 50 to 100
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: calls 75
+vitalij300: folds 
+*** FLOP *** [Qd 6h Ts]
+Gboyslim: checks 
+vonBaranow: checks 
+*** TURN *** [Qd 6h Ts] [2s]
+Gboyslim: checks 
+vonBaranow: bets 100
+Gboyslim: folds 
+Uncalled bet (100) returned to vonBaranow
+vonBaranow collected 304 from pot
+vonBaranow: doesn't show hand 
+*** SUMMARY ***
+Total pot 304 | Rake 0 
+Board [Qd 6h Ts 2s]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Gboyslim (small blind) folded on the Turn
+Seat 6: vitalij300 (big blind) folded before Flop
+Seat 7: vonBaranow collected (304)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274481868: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:25:17 CET [2021/12/16 17:25:17 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (1672 in chips) 
+Seat 2: AndreMDSilva (1314 in chips) 
+Seat 3: Grospelllier (996 in chips) 
+Seat 4: KeinKönich (1336 in chips) 
+Seat 5: Gboyslim (1432 in chips) 
+Seat 6: vitalij300 (1576 in chips) 
+Seat 7: vonBaranow (1452 in chips) 
+Seat 8: dublinsw (2363 in chips) 
+Seat 9: erikwilson23 (1359 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+vitalij300: posts small blind 25
+vonBaranow: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 8s]
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: raises 50 to 100
+AndreMDSilva: folds 
+Grospelllier: raises 890 to 990 and is all-in
+KeinKönich: folds 
+Gboyslim: raises 436 to 1426 and is all-in
+vitalij300: folds 
+vonBaranow: folds 
+mbdrozd: folds 
+Uncalled bet (436) returned to Gboyslim
+*** FLOP *** [Th 4s 6h]
+*** TURN *** [Th 4s 6h] [6d]
+*** RIVER *** [Th 4s 6h 6d] [7c]
+*** SHOW DOWN ***
+Grospelllier: shows [Kd Ad] (a pair of Sixes)
+Gboyslim: shows [Ks Ah] (a pair of Sixes)
+Grospelllier collected 1105 from pot
+Gboyslim collected 1104 from pot
+*** SUMMARY ***
+Total pot 2209 | Rake 0 
+Board [Th 4s 6h 6d 7c]
+Seat 1: mbdrozd folded before Flop
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier showed [Kd Ad] and won (1105) with a pair of Sixes
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) showed [Ks Ah] and won (1104) with a pair of Sixes
+Seat 6: vitalij300 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded before Flop
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274498999: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:25:53 CET [2021/12/16 17:25:53 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (1566 in chips) 
+Seat 2: AndreMDSilva (1308 in chips) 
+Seat 3: Grospelllier (1105 in chips) 
+Seat 4: KeinKönich (1330 in chips) 
+Seat 5: Gboyslim (1540 in chips) 
+Seat 6: vitalij300 (1545 in chips) 
+Seat 7: vonBaranow (1396 in chips) 
+Seat 8: dublinsw (2357 in chips) 
+Seat 9: erikwilson23 (1353 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+vonBaranow: posts small blind 25
+dublinsw: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd Ad]
+erikwilson23: raises 60 to 110
+mbdrozd: folds 
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: raises 1214 to 1324 and is all-in
+Gboyslim: folds 
+vitalij300: raises 215 to 1539 and is all-in
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+Uncalled bet (215) returned to vitalij300
+*** FLOP *** [6c 4c Ah]
+*** TURN *** [6c 4c Ah] [4s]
+*** RIVER *** [6c 4c Ah 4s] [9h]
+*** SHOW DOWN ***
+KeinKönich: shows [Kd Ad] (two pair, Aces and Fours)
+vitalij300: shows [Qh Qd] (two pair, Queens and Fours)
+KeinKönich collected 2887 from pot
+*** SUMMARY ***
+Total pot 2887 | Rake 0 
+Board [6c 4c Ah 4s 9h]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich showed [Kd Ad] and won (2887) with two pair, Aces and Fours
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 (button) showed [Qh Qd] and lost with two pair, Queens and Fours
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 8: dublinsw (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop
+
+
+
+PokerStars Hand #232274520480: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:26:39 CET [2021/12/16 17:26:39 ET]
+Table '3321582130 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (1560 in chips) 
+Seat 2: AndreMDSilva (1302 in chips) 
+Seat 3: Grospelllier (1099 in chips) 
+Seat 4: KeinKönich (2887 in chips) 
+Seat 5: Gboyslim (1534 in chips) 
+Seat 6: vitalij300 (215 in chips) 
+Seat 7: vonBaranow (1365 in chips) 
+Seat 8: dublinsw (2301 in chips) 
+Seat 9: erikwilson23 (1237 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+dublinsw: posts small blind 25
+erikwilson23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah Kc]
+mbdrozd: folds 
+AndreMDSilva: raises 52 to 102
+Grospelllier: folds 
+KeinKönich: raises 198 to 300
+Gboyslim: folds 
+vitalij300: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+AndreMDSilva: folds 
+Uncalled bet (198) returned to KeinKönich
+KeinKönich collected 333 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 333 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 2: AndreMDSilva folded before Flop
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich collected (333)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) folded before Flop (didn't bet)
+Seat 8: dublinsw (small blind) folded before Flop
+Seat 9: erikwilson23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232274541169: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:27:22 CET [2021/12/16 17:27:22 ET]
+Table '3321582130 2' 9-max Seat #8 is the button
+Seat 1: mbdrozd (1554 in chips) 
+Seat 2: AndreMDSilva (1194 in chips) 
+Seat 3: Grospelllier (1093 in chips) 
+Seat 4: KeinKönich (3112 in chips) 
+Seat 5: Gboyslim (1528 in chips) 
+Seat 6: vitalij300 (209 in chips) 
+Seat 7: vonBaranow (1359 in chips) 
+Seat 8: dublinsw (2270 in chips) 
+Seat 9: erikwilson23 (1181 in chips) 
+mbdrozd: posts the ante 6
+AndreMDSilva: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+Gboyslim: posts the ante 6
+vitalij300: posts the ante 6
+vonBaranow: posts the ante 6
+dublinsw: posts the ante 6
+erikwilson23: posts the ante 6
+erikwilson23: posts small blind 25
+mbdrozd: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 3h]
+AndreMDSilva: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+vitalij300: raises 100 to 150
+vonBaranow: folds 
+dublinsw: calls 150
+erikwilson23: folds 
+mbdrozd: calls 100
+*** FLOP *** [8h 9h Jh]
+mbdrozd: checks 
+vitalij300: bets 53 and is all-in
+dublinsw: calls 53
+mbdrozd: calls 53
+*** TURN *** [8h 9h Jh] [7s]
+mbdrozd: checks 
+dublinsw: checks 
+*** RIVER *** [8h 9h Jh 7s] [Kd]
+mbdrozd: checks 
+dublinsw: checks 
+*** SHOW DOWN ***
+mbdrozd: shows [7c 9s] (two pair, Nines and Sevens)
+vitalij300: mucks hand 
+dublinsw: mucks hand 
+mbdrozd collected 688 from pot
+vitalij300 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 688 | Rake 0 
+Board [8h 9h Jh 7s Kd]
+Seat 1: mbdrozd (big blind) showed [7c 9s] and won (688) with two pair, Nines and Sevens
+Seat 2: AndreMDSilva folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: vitalij300 mucked [Js Qh]
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw (button) mucked [Qs Jc]
+Seat 9: erikwilson23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274561811: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:28:06 CET [2021/12/16 17:28:06 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (2033 in chips) 
+Seat 2: AndreMDSilva (1188 in chips) 
+Seat 3: Grospelllier (1087 in chips) 
+Seat 4: KeinKönich (3106 in chips) 
+Seat 5: Gboyslim (1522 in chips) 
+Seat 7: vonBaranow (1353 in chips) 
+Seat 8: dublinsw (2061 in chips) 
+Seat 9: erikwilson23 (1150 in chips) 
+mbdrozd: posts the ante 10
+AndreMDSilva: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+mbdrozd: posts small blind 40
+AndreMDSilva: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 5s]
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+vonBaranow: folds 
+dublinsw: raises 280 to 360
+erikwilson23: folds 
+mbdrozd: folds 
+AndreMDSilva: folds 
+Uncalled bet (280) returned to dublinsw
+dublinsw collected 280 from pot
+dublinsw: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: mbdrozd (small blind) folded before Flop
+Seat 2: AndreMDSilva (big blind) folded before Flop
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw collected (280)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274576968: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:28:38 CET [2021/12/16 17:28:38 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (1983 in chips) 
+Seat 2: AndreMDSilva (1098 in chips) 
+Seat 3: Grospelllier (1077 in chips) 
+Seat 4: KeinKönich (3096 in chips) 
+Seat 5: Gboyslim (1512 in chips) 
+Seat 7: vonBaranow (1343 in chips) 
+Seat 8: dublinsw (2251 in chips) 
+Seat 9: erikwilson23 (1140 in chips) 
+mbdrozd: posts the ante 10
+AndreMDSilva: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+AndreMDSilva: posts small blind 40
+Grospelllier: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 7d]
+KeinKönich: folds 
+Gboyslim: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: calls 80
+AndreMDSilva: raises 1008 to 1088 and is all-in
+Grospelllier: folds 
+mbdrozd: calls 1008
+*** FLOP *** [9c Ah 5s]
+*** TURN *** [9c Ah 5s] [3s]
+*** RIVER *** [9c Ah 5s 3s] [5c]
+*** SHOW DOWN ***
+AndreMDSilva: shows [Td Ts] (two pair, Tens and Fives)
+mbdrozd: shows [As 8c] (two pair, Aces and Fives)
+mbdrozd collected 2336 from pot
+AndreMDSilva finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 2336 | Rake 0 
+Board [9c Ah 5s 3s 5c]
+Seat 1: mbdrozd (button) showed [As 8c] and won (2336) with two pair, Aces and Fives
+Seat 2: AndreMDSilva (small blind) showed [Td Ts] and lost with two pair, Tens and Fives
+Seat 3: Grospelllier (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274596438: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:29:20 CET [2021/12/16 17:29:20 ET]
+Table '3321582130 2' 9-max Seat #3 is the button
+Seat 1: mbdrozd (3221 in chips) 
+Seat 3: Grospelllier (987 in chips) 
+Seat 4: KeinKönich (3086 in chips) 
+Seat 5: Gboyslim (1502 in chips) 
+Seat 7: vonBaranow (1333 in chips) 
+Seat 8: dublinsw (2241 in chips) 
+Seat 9: erikwilson23 (1130 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+KeinKönich: posts small blind 40
+Gboyslim: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h Ts]
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (40) returned to Gboyslim
+Gboyslim collected 150 from pot
+Gboyslim: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 3: Grospelllier (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Gboyslim (big blind) collected (150)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274603233: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:29:35 CET [2021/12/16 17:29:35 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (3211 in chips) 
+Seat 3: Grospelllier (977 in chips) 
+Seat 4: KeinKönich (3036 in chips) 
+Seat 5: Gboyslim (1602 in chips) 
+Seat 6: Leko59 (1968 in chips) 
+Seat 7: vonBaranow (1323 in chips) 
+Seat 8: dublinsw (2231 in chips) 
+Seat 9: erikwilson23 (1120 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+Leko59: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+Gboyslim: posts small blind 40
+Leko59: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 3s]
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: raises 80 to 160
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59 has timed out
+Leko59: folds 
+Leko59 is sitting out
+Uncalled bet (80) returned to mbdrozd
+mbdrozd collected 280 from pot
+mbdrozd: doesn't show hand 
+Leko59 has returned
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: mbdrozd collected (280)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Gboyslim (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274624149: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:30:08 CET [2021/12/16 17:30:08 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (3401 in chips) 
+Seat 3: Grospelllier (967 in chips) 
+Seat 4: KeinKönich (3026 in chips) 
+Seat 5: Gboyslim (1552 in chips) 
+Seat 6: Leko59 (1878 in chips) 
+Seat 7: vonBaranow (1313 in chips) 
+Seat 8: dublinsw (2221 in chips) 
+Seat 9: erikwilson23 (1110 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+Leko59: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+Leko59: posts small blind 40
+vonBaranow: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 6s]
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: raises 80 to 160
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: calls 80
+*** FLOP *** [Ad 8h Qd]
+vonBaranow: bets 392
+mbdrozd: calls 392
+*** TURN *** [Ad 8h Qd] [9s]
+vonBaranow: checks 
+mbdrozd: bets 612
+vonBaranow: folds 
+Uncalled bet (612) returned to mbdrozd
+mbdrozd collected 1224 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1224 | Rake 0 
+Board [Ad 8h Qd 9s]
+Seat 1: mbdrozd collected (1224)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded on the Turn
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274637502: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:30:37 CET [2021/12/16 17:30:37 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (4063 in chips) 
+Seat 3: Grospelllier (957 in chips) 
+Seat 4: KeinKönich (3016 in chips) 
+Seat 5: Gboyslim (1542 in chips) 
+Seat 6: Leko59 (1828 in chips) 
+Seat 7: vonBaranow (751 in chips) 
+Seat 8: dublinsw (2211 in chips) 
+Seat 9: erikwilson23 (1100 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+Leko59: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+vonBaranow: posts small blind 40
+dublinsw: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 8d]
+erikwilson23: folds 
+mbdrozd: folds 
+Grospelllier: folds 
+KeinKönich: raises 80 to 160
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+dublinsw: calls 80
+*** FLOP *** [Qs Ts 5h]
+dublinsw: checks 
+KeinKönich: bets 220
+dublinsw: folds 
+Uncalled bet (220) returned to KeinKönich
+KeinKönich collected 440 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Qs Ts 5h]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich collected (440)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 (button) folded before Flop (didn't bet)
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 8: dublinsw (big blind) folded on the Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274649333: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:31:03 CET [2021/12/16 17:31:03 ET]
+Table '3321582130 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (4053 in chips) 
+Seat 3: Grospelllier (947 in chips) 
+Seat 4: KeinKönich (3286 in chips) 
+Seat 5: Gboyslim (1532 in chips) 
+Seat 6: Leko59 (1818 in chips) 
+Seat 7: vonBaranow (701 in chips) 
+Seat 8: dublinsw (2041 in chips) 
+Seat 9: erikwilson23 (1090 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+Leko59: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+dublinsw: posts small blind 40
+erikwilson23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 2c]
+mbdrozd: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: raises 120 to 200
+Leko59: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: calls 120
+*** FLOP *** [9d 4c 8h]
+erikwilson23: checks 
+Gboyslim: checks 
+*** TURN *** [9d 4c 8h] [Jc]
+erikwilson23: checks 
+Gboyslim: checks 
+*** RIVER *** [9d 4c 8h Jc] [3s]
+erikwilson23: bets 343
+Gboyslim: folds 
+Uncalled bet (343) returned to erikwilson23
+erikwilson23 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9d 4c 8h Jc 3s]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded on the River
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) folded before Flop (didn't bet)
+Seat 8: dublinsw (small blind) folded before Flop
+Seat 9: erikwilson23 (big blind) collected (520)
+
+
+
+PokerStars Hand #232274680842: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:32:11 CET [2021/12/16 17:32:11 ET]
+Table '3321582130 2' 9-max Seat #8 is the button
+Seat 1: mbdrozd (4043 in chips) 
+Seat 3: Grospelllier (937 in chips) 
+Seat 4: KeinKönich (3276 in chips) 
+Seat 5: Gboyslim (1322 in chips) 
+Seat 6: Leko59 (1808 in chips) 
+Seat 7: vonBaranow (691 in chips) 
+Seat 8: dublinsw (1991 in chips) 
+Seat 9: erikwilson23 (1400 in chips) 
+mbdrozd: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+Gboyslim: posts the ante 10
+Leko59: posts the ante 10
+vonBaranow: posts the ante 10
+dublinsw: posts the ante 10
+erikwilson23: posts the ante 10
+erikwilson23: posts small blind 40
+mbdrozd: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 9d]
+Grospelllier: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: calls 40
+mbdrozd: checks 
+*** FLOP *** [Js 4d Kd]
+erikwilson23: checks 
+mbdrozd: checks 
+*** TURN *** [Js 4d Kd] [Ts]
+erikwilson23: bets 120
+mbdrozd: folds 
+Uncalled bet (120) returned to erikwilson23
+erikwilson23 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 4d Kd Ts]
+Seat 1: mbdrozd (big blind) folded on the Turn
+Seat 3: Grospelllier folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw (button) folded before Flop (didn't bet)
+Seat 9: erikwilson23 (small blind) collected (240)
+
+
+
+PokerStars Hand #232274712331: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:32:58 CET [2021/12/16 17:32:58 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (3953 in chips) 
+Seat 3: Grospelllier (927 in chips) 
+Seat 4: KeinKönich (3266 in chips) 
+Seat 5: Gboyslim (1312 in chips) 
+Seat 6: Leko59 (1798 in chips) 
+Seat 7: vonBaranow (681 in chips) 
+Seat 8: dublinsw (1981 in chips) 
+Seat 9: erikwilson23 (1550 in chips) 
+mbdrozd: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+dublinsw: posts the ante 15
+erikwilson23: posts the ante 15
+mbdrozd: posts small blind 60
+Grospelllier: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Ah]
+KeinKönich: raises 120 to 240
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+dublinsw: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+Grospelllier: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 420 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: mbdrozd (small blind) folded before Flop
+Seat 3: Grospelllier (big blind) folded before Flop
+Seat 4: KeinKönich collected (420)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: dublinsw folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274722621: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:33:21 CET [2021/12/16 17:33:21 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (3878 in chips) 
+Seat 3: Grospelllier (792 in chips) 
+Seat 4: KeinKönich (3551 in chips) 
+Seat 5: Gboyslim (1297 in chips) 
+Seat 6: Leko59 (1783 in chips) 
+Seat 7: vonBaranow (666 in chips) 
+Seat 9: erikwilson23 (1535 in chips) 
+mbdrozd: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+Grospelllier: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d Ts]
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+erikwilson23: raises 1400 to 1520 and is all-in
+mbdrozd: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (1400) returned to erikwilson23
+erikwilson23 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 3: Grospelllier (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded before Flop
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 collected (405)
+
+
+
+PokerStars Hand #232274732699: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:33:42 CET [2021/12/16 17:33:42 ET]
+Table '3321582130 2' 9-max Seat #3 is the button
+Seat 1: mbdrozd (3863 in chips) 
+Seat 3: Grospelllier (717 in chips) 
+Seat 4: KeinKönich (3416 in chips) 
+Seat 5: Gboyslim (1282 in chips) 
+Seat 6: Leko59 (1768 in chips) 
+Seat 7: vonBaranow (651 in chips) 
+Seat 9: erikwilson23 (1805 in chips) 
+mbdrozd: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+KeinKönich: posts small blind 60
+Gboyslim: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Ks]
+Leko59: folds 
+vonBaranow: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+Grospelllier: raises 582 to 702 and is all-in
+KeinKönich: folds 
+Gboyslim: folds 
+Uncalled bet (582) returned to Grospelllier
+Grospelllier collected 405 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 3: Grospelllier (button) collected (405)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Gboyslim (big blind) folded before Flop
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274742845: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:34:04 CET [2021/12/16 17:34:04 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (3848 in chips) 
+Seat 3: Grospelllier (987 in chips) 
+Seat 4: KeinKönich (3341 in chips) 
+Seat 5: Gboyslim (1147 in chips) 
+Seat 6: Leko59 (1753 in chips) 
+Seat 7: vonBaranow (636 in chips) 
+Seat 9: erikwilson23 (1790 in chips) 
+mbdrozd: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+Gboyslim: posts small blind 60
+Leko59: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 8h]
+vonBaranow: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+Grospelllier: raises 852 to 972 and is all-in
+KeinKönich: folds 
+Gboyslim: raises 160 to 1132 and is all-in
+Leko59: calls 1012
+*** FLOP *** [7c Ac 8d]
+*** TURN *** [7c Ac 8d] [3d]
+*** RIVER *** [7c Ac 8d 3d] [As]
+*** SHOW DOWN ***
+Gboyslim: shows [Kc Ah] (three of a kind, Aces)
+Leko59: shows [Ad Qh] (three of a kind, Aces - lower kicker)
+Gboyslim collected 320 from side pot
+Grospelllier: shows [Kh Jd] (a pair of Aces)
+Gboyslim collected 3021 from main pot
+Grospelllier finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3341 Main pot 3021. Side pot 320. | Rake 0 
+Board [7c Ac 8d 3d As]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 3: Grospelllier showed [Kh Jd] and lost with a pair of Aces
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Gboyslim (small blind) showed [Kc Ah] and won (3341) with three of a kind, Aces
+Seat 6: Leko59 (big blind) showed [Ad Qh] and lost with three of a kind, Aces
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274754541: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:34:30 CET [2021/12/16 17:34:30 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (3833 in chips) 
+Seat 4: KeinKönich (3326 in chips) 
+Seat 5: Gboyslim (3341 in chips) 
+Seat 6: Leko59 (606 in chips) 
+Seat 7: vonBaranow (621 in chips) 
+Seat 9: erikwilson23 (1775 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+Leko59: posts small blind 60
+vonBaranow: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 3h]
+erikwilson23: folds 
+mbdrozd: raises 240 to 360
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+Uncalled bet (240) returned to mbdrozd
+mbdrozd collected 390 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: mbdrozd collected (390)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274761206: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:34:45 CET [2021/12/16 17:34:45 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (4088 in chips) 
+Seat 4: KeinKönich (3311 in chips) 
+Seat 5: Gboyslim (3326 in chips) 
+Seat 6: Leko59 (531 in chips) 
+Seat 7: vonBaranow (486 in chips) 
+Seat 9: erikwilson23 (1760 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+vonBaranow: posts small blind 60
+erikwilson23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Th]
+mbdrozd: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: raises 351 to 471 and is all-in
+erikwilson23: calls 351
+*** FLOP *** [6d 4s Td]
+*** TURN *** [6d 4s Td] [6h]
+*** RIVER *** [6d 4s Td 6h] [6s]
+*** SHOW DOWN ***
+vonBaranow: shows [Ac Ah] (a full house, Sixes full of Aces)
+erikwilson23: shows [7d As] (three of a kind, Sixes)
+vonBaranow collected 1032 from pot
+*** SUMMARY ***
+Total pot 1032 | Rake 0 
+Board [6d 4s Td 6h 6s]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 (button) folded before Flop (didn't bet)
+Seat 7: vonBaranow (small blind) showed [Ac Ah] and won (1032) with a full house, Sixes full of Aces
+Seat 9: erikwilson23 (big blind) showed [7d As] and lost with three of a kind, Sixes
+
+
+
+PokerStars Hand #232274776512: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:35:18 CET [2021/12/16 17:35:18 ET]
+Table '3321582130 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (4073 in chips) 
+Seat 4: KeinKönich (3296 in chips) 
+Seat 5: Gboyslim (3311 in chips) 
+Seat 6: Leko59 (516 in chips) 
+Seat 7: vonBaranow (1032 in chips) 
+Seat 9: erikwilson23 (1274 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+erikwilson23: posts small blind 60
+mbdrozd: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Ac]
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: raises 381 to 501 and is all-in
+vonBaranow: folds 
+erikwilson23: raises 758 to 1259 and is all-in
+mbdrozd: folds 
+Uncalled bet (758) returned to erikwilson23
+*** FLOP *** [Jh 3s 5s]
+*** TURN *** [Jh 3s 5s] [9h]
+*** RIVER *** [Jh 3s 5s 9h] [Kc]
+*** SHOW DOWN ***
+erikwilson23: shows [7d Ah] (high card Ace)
+Leko59: shows [Kh Jc] (two pair, Kings and Jacks)
+Leko59 collected 1212 from pot
+*** SUMMARY ***
+Total pot 1212 | Rake 0 
+Board [Jh 3s 5s 9h Kc]
+Seat 1: mbdrozd (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 showed [Kh Jc] and won (1212) with two pair, Kings and Jacks
+Seat 7: vonBaranow (button) folded before Flop (didn't bet)
+Seat 9: erikwilson23 (small blind) showed [7d Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #232274794366: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:35:57 CET [2021/12/16 17:35:57 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (3938 in chips) 
+Seat 4: KeinKönich (3281 in chips) 
+Seat 5: Gboyslim (3296 in chips) 
+Seat 6: Leko59 (1212 in chips) 
+Seat 7: vonBaranow (1017 in chips) 
+Seat 9: erikwilson23 (758 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+mbdrozd: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d Th]
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+erikwilson23: folds 
+mbdrozd: calls 60
+KeinKönich: checks 
+*** FLOP *** [4s Qd 5d]
+mbdrozd: checks 
+KeinKönich: checks 
+*** TURN *** [4s Qd 5d] [Td]
+mbdrozd: bets 165
+KeinKönich: calls 165
+*** RIVER *** [4s Qd 5d Td] [6s]
+mbdrozd: bets 264
+KeinKönich: calls 264
+*** SHOW DOWN ***
+mbdrozd: shows [5h 5c] (three of a kind, Fives)
+KeinKönich: mucks hand 
+mbdrozd collected 1188 from pot
+*** SUMMARY ***
+Total pot 1188 | Rake 0 
+Board [4s Qd 5d Td 6s]
+Seat 1: mbdrozd (small blind) showed [5h 5c] and won (1188) with three of a kind, Fives
+Seat 4: KeinKönich (big blind) mucked [4d Th]
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274817122: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:36:46 CET [2021/12/16 17:36:46 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (4562 in chips) 
+Seat 4: KeinKönich (2717 in chips) 
+Seat 5: Gboyslim (3281 in chips) 
+Seat 6: Leko59 (1197 in chips) 
+Seat 7: vonBaranow (1002 in chips) 
+Seat 9: erikwilson23 (743 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+KeinKönich: posts small blind 60
+Gboyslim: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 2s]
+Leko59: folds 
+vonBaranow: folds 
+erikwilson23: raises 608 to 728 and is all-in
+mbdrozd: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Uncalled bet (608) returned to erikwilson23
+erikwilson23 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Gboyslim (big blind) folded before Flop
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 collected (390)
+
+
+
+PokerStars Hand #232274824426: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:37:02 CET [2021/12/16 17:37:02 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (4547 in chips) 
+Seat 4: KeinKönich (2642 in chips) 
+Seat 5: Gboyslim (3146 in chips) 
+Seat 6: Leko59 (1182 in chips) 
+Seat 7: vonBaranow (987 in chips) 
+Seat 9: erikwilson23 (998 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+Gboyslim: posts small blind 60
+Leko59: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 3h]
+vonBaranow: folds 
+erikwilson23: raises 863 to 983 and is all-in
+mbdrozd: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+Uncalled bet (863) returned to erikwilson23
+erikwilson23 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Gboyslim (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 9: erikwilson23 collected (390)
+
+
+
+PokerStars Hand #232274831520: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:37:18 CET [2021/12/16 17:37:18 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (4532 in chips) 
+Seat 4: KeinKönich (2627 in chips) 
+Seat 5: Gboyslim (3071 in chips) 
+Seat 6: Leko59 (1047 in chips) 
+Seat 7: vonBaranow (972 in chips) 
+Seat 9: erikwilson23 (1253 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+Leko59: posts small blind 60
+vonBaranow: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ah]
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: raises 120 to 240
+Gboyslim: folds 
+Leko59: raises 792 to 1032 and is all-in
+vonBaranow: folds 
+KeinKönich: calls 792
+*** FLOP *** [5d Qd 6c]
+*** TURN *** [5d Qd 6c] [Qc]
+*** RIVER *** [5d Qd 6c Qc] [2h]
+*** SHOW DOWN ***
+Leko59: shows [Ac Kh] (a pair of Queens)
+KeinKönich: shows [Jh Ah] (a pair of Queens - lower kicker)
+Leko59 collected 2274 from pot
+*** SUMMARY ***
+Total pot 2274 | Rake 0 
+Board [5d Qd 6c Qc 2h]
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 4: KeinKönich showed [Jh Ah] and lost with a pair of Queens
+Seat 5: Gboyslim (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) showed [Ac Kh] and won (2274) with a pair of Queens
+Seat 7: vonBaranow (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274844060: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:37:45 CET [2021/12/16 17:37:45 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (4517 in chips) 
+Seat 4: KeinKönich (1580 in chips) 
+Seat 5: Gboyslim (3056 in chips) 
+Seat 6: Leko59 (2274 in chips) 
+Seat 7: vonBaranow (837 in chips) 
+Seat 9: erikwilson23 (1238 in chips) 
+mbdrozd: posts the ante 15
+KeinKönich: posts the ante 15
+Gboyslim: posts the ante 15
+Leko59: posts the ante 15
+vonBaranow: posts the ante 15
+erikwilson23: posts the ante 15
+vonBaranow: posts small blind 60
+erikwilson23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 7c]
+mbdrozd: raises 120 to 240
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: folds 
+erikwilson23: calls 120
+*** FLOP *** [6s 2s 3h]
+erikwilson23: checks 
+mbdrozd: checks 
+*** TURN *** [6s 2s 3h] [Ks]
+erikwilson23: checks 
+mbdrozd: checks 
+*** RIVER *** [6s 2s 3h Ks] [7d]
+erikwilson23: bets 208
+mbdrozd: folds 
+Uncalled bet (208) returned to erikwilson23
+erikwilson23 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [6s 2s 3h Ks 7d]
+Seat 1: mbdrozd folded on the River
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 (button) folded before Flop (didn't bet)
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 9: erikwilson23 (big blind) collected (630)
+
+
+
+PokerStars Hand #232274868057: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:38:38 CET [2021/12/16 17:38:38 ET]
+Table '3321582130 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (4262 in chips) 
+Seat 4: KeinKönich (1565 in chips) 
+Seat 5: Gboyslim (3041 in chips) 
+Seat 6: Leko59 (2259 in chips) 
+Seat 7: vonBaranow (762 in chips) 
+Seat 9: erikwilson23 (1613 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+vonBaranow: posts the ante 20
+erikwilson23: posts the ante 20
+erikwilson23: posts small blind 80
+mbdrozd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 7s]
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+vonBaranow: raises 582 to 742 and is all-in
+erikwilson23: raises 851 to 1593 and is all-in
+mbdrozd: folds 
+Uncalled bet (851) returned to erikwilson23
+*** FLOP *** [5c Qd 4s]
+*** TURN *** [5c Qd 4s] [Ad]
+*** RIVER *** [5c Qd 4s Ad] [3c]
+*** SHOW DOWN ***
+erikwilson23: shows [2h 2s] (a straight, Ace to Five)
+vonBaranow: shows [Ac 7d] (a pair of Aces)
+erikwilson23 collected 1764 from pot
+vonBaranow finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 1764 | Rake 0 
+Board [5c Qd 4s Ad 3c]
+Seat 1: mbdrozd (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) showed [Ac 7d] and lost with a pair of Aces
+Seat 9: erikwilson23 (small blind) showed [2h 2s] and won (1764) with a straight, Ace to Five
+
+
+
+PokerStars Hand #232274883420: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:39:11 CET [2021/12/16 17:39:11 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (4082 in chips) 
+Seat 4: KeinKönich (1545 in chips) 
+Seat 5: Gboyslim (3021 in chips) 
+Seat 6: Leko59 (2239 in chips) 
+Seat 9: erikwilson23 (2615 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+mbdrozd: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Qc]
+Gboyslim: folds 
+Leko59: folds 
+erikwilson23: folds 
+mbdrozd: raises 320 to 480
+KeinKönich: raises 1045 to 1525 and is all-in
+mbdrozd: calls 1045
+*** FLOP *** [9s Qd Tc]
+*** TURN *** [9s Qd Tc] [5d]
+*** RIVER *** [9s Qd Tc 5d] [Ts]
+*** SHOW DOWN ***
+mbdrozd: shows [Kd As] (a pair of Tens)
+KeinKönich: shows [Jh Qc] (two pair, Queens and Tens)
+KeinKönich collected 3150 from pot
+*** SUMMARY ***
+Total pot 3150 | Rake 0 
+Board [9s Qd Tc 5d Ts]
+Seat 1: mbdrozd (small blind) showed [Kd As] and lost with a pair of Tens
+Seat 4: KeinKönich (big blind) showed [Jh Qc] and won (3150) with two pair, Queens and Tens
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274893738: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:39:34 CET [2021/12/16 17:39:34 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (2537 in chips) 
+Seat 4: KeinKönich (3150 in chips) 
+Seat 5: Gboyslim (3001 in chips) 
+Seat 6: Leko59 (2219 in chips) 
+Seat 9: erikwilson23 (2595 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+KeinKönich: posts small blind 80
+Gboyslim: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Td]
+Leko59: raises 160 to 320
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Uncalled bet (160) returned to Leko59
+Leko59 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Gboyslim (big blind) folded before Flop
+Seat 6: Leko59 collected (500)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274900762: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:39:50 CET [2021/12/16 17:39:50 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (2517 in chips) 
+Seat 4: KeinKönich (3050 in chips) 
+Seat 5: Gboyslim (2821 in chips) 
+Seat 6: Leko59 (2539 in chips) 
+Seat 9: erikwilson23 (2575 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+Gboyslim: posts small blind 80
+Leko59: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 7c]
+erikwilson23: folds 
+mbdrozd: raises 160 to 320
+KeinKönich: raises 2710 to 3030 and is all-in
+Gboyslim: folds 
+Leko59: folds 
+mbdrozd: folds 
+Uncalled bet (2710) returned to KeinKönich
+KeinKönich collected 980 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Seat 1: mbdrozd folded before Flop
+Seat 4: KeinKönich (button) collected (980)
+Seat 5: Gboyslim (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274909604: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:40:09 CET [2021/12/16 17:40:09 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (2177 in chips) 
+Seat 4: KeinKönich (3690 in chips) 
+Seat 5: Gboyslim (2721 in chips) 
+Seat 6: Leko59 (2359 in chips) 
+Seat 9: erikwilson23 (2555 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+Leko59: posts small blind 80
+erikwilson23: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c 4d]
+mbdrozd: raises 160 to 320
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+erikwilson23: folds 
+Uncalled bet (160) returned to mbdrozd
+mbdrozd collected 500 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: mbdrozd collected (500)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) folded before Flop
+Seat 9: erikwilson23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232274916947: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:40:26 CET [2021/12/16 17:40:26 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (2497 in chips) 
+Seat 4: KeinKönich (3670 in chips) 
+Seat 5: Gboyslim (2701 in chips) 
+Seat 6: Leko59 (2259 in chips) 
+Seat 9: erikwilson23 (2375 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+erikwilson23: posts small blind 80
+mbdrozd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 7d]
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: raises 160 to 320
+erikwilson23: folds 
+mbdrozd: calls 160
+*** FLOP *** [Ts Qs 5h]
+mbdrozd: checks 
+Leko59: bets 480
+mbdrozd: folds 
+Uncalled bet (480) returned to Leko59
+Leko59 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Ts Qs 5h]
+Seat 1: mbdrozd (big blind) folded on the Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 (button) collected (820)
+Seat 9: erikwilson23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274931938: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:40:59 CET [2021/12/16 17:40:59 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (2157 in chips) 
+Seat 4: KeinKönich (3650 in chips) 
+Seat 5: Gboyslim (2681 in chips) 
+Seat 6: Leko59 (2739 in chips) 
+Seat 9: erikwilson23 (2275 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+mbdrozd: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 7d]
+Gboyslim: raises 240 to 400
+Leko59 has timed out
+Leko59: folds 
+Leko59 is sitting out
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: folds 
+Uncalled bet (240) returned to Gboyslim
+Leko59 has returned
+Gboyslim collected 500 from pot
+Gboyslim: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: mbdrozd (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded before Flop
+Seat 5: Gboyslim collected (500)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274942692: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:41:22 CET [2021/12/16 17:41:22 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (2057 in chips) 
+Seat 4: KeinKönich (3470 in chips) 
+Seat 5: Gboyslim (3001 in chips) 
+Seat 6: Leko59 (2719 in chips) 
+Seat 9: erikwilson23 (2255 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+KeinKönich: posts small blind 80
+Gboyslim: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 5h]
+Leko59: folds 
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: raises 160 to 320
+Gboyslim: calls 160
+*** FLOP *** [2h 3s 3h]
+KeinKönich: bets 370
+Gboyslim: folds 
+Uncalled bet (370) returned to KeinKönich
+KeinKönich collected 740 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [2h 3s 3h]
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) collected (740)
+Seat 5: Gboyslim (big blind) folded on the Flop
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274952312: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:41:44 CET [2021/12/16 17:41:44 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (2037 in chips) 
+Seat 4: KeinKönich (3870 in chips) 
+Seat 5: Gboyslim (2661 in chips) 
+Seat 6: Leko59 (2699 in chips) 
+Seat 9: erikwilson23 (2235 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+Gboyslim: posts small blind 80
+Leko59: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 2d]
+erikwilson23: folds 
+mbdrozd: folds 
+KeinKönich: raises 160 to 320
+Gboyslim: folds 
+Leko59: folds 
+Uncalled bet (160) returned to KeinKönich
+KeinKönich collected 500 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) collected (500)
+Seat 5: Gboyslim (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274962749: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:42:07 CET [2021/12/16 17:42:07 ET]
+Table '3321582130 2' 9-max Seat #5 is the button
+Seat 1: mbdrozd (2017 in chips) 
+Seat 4: KeinKönich (4190 in chips) 
+Seat 5: Gboyslim (2561 in chips) 
+Seat 6: Leko59 (2519 in chips) 
+Seat 9: erikwilson23 (2215 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+Leko59: posts small blind 80
+erikwilson23: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 7c]
+mbdrozd: folds 
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+Uncalled bet (80) returned to erikwilson23
+erikwilson23 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: mbdrozd folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) folded before Flop
+Seat 9: erikwilson23 (big blind) collected (260)
+
+
+
+PokerStars Hand #232274966516: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:42:15 CET [2021/12/16 17:42:15 ET]
+Table '3321582130 2' 9-max Seat #6 is the button
+Seat 1: mbdrozd (1997 in chips) 
+Seat 4: KeinKönich (4170 in chips) 
+Seat 5: Gboyslim (2541 in chips) 
+Seat 6: Leko59 (2419 in chips) 
+Seat 9: erikwilson23 (2375 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+erikwilson23: posts small blind 80
+mbdrozd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h Qh]
+KeinKönich: folds 
+Gboyslim: folds 
+Leko59: folds 
+erikwilson23: calls 80
+mbdrozd: checks 
+*** FLOP *** [6c As 8d]
+erikwilson23: bets 160
+mbdrozd: folds 
+Uncalled bet (160) returned to erikwilson23
+erikwilson23 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [6c As 8d]
+Seat 1: mbdrozd (big blind) folded on the Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 (button) folded before Flop (didn't bet)
+Seat 9: erikwilson23 (small blind) collected (420)
+
+
+
+PokerStars Hand #232274976671: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:42:38 CET [2021/12/16 17:42:38 ET]
+Table '3321582130 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (1817 in chips) 
+Seat 4: KeinKönich (4150 in chips) 
+Seat 5: Gboyslim (2521 in chips) 
+Seat 6: Leko59 (2399 in chips) 
+Seat 9: erikwilson23 (2615 in chips) 
+mbdrozd: posts the ante 20
+KeinKönich: posts the ante 20
+Gboyslim: posts the ante 20
+Leko59: posts the ante 20
+erikwilson23: posts the ante 20
+mbdrozd: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Qc]
+Gboyslim: folds 
+Leko59: folds 
+erikwilson23: raises 160 to 320
+mbdrozd: folds 
+KeinKönich: folds 
+Uncalled bet (160) returned to erikwilson23
+erikwilson23 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: mbdrozd (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded before Flop
+Seat 5: Gboyslim folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 9: erikwilson23 (button) collected (500)
+
+
+
+PokerStars Hand #232274987816: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:43:02 CET [2021/12/16 17:43:02 ET]
+Table '3321582130 2' 9-max Seat #1 is the button
+Seat 1: mbdrozd (1717 in chips) 
+Seat 4: KeinKönich (3970 in chips) 
+Seat 5: Gboyslim (2501 in chips) 
+Seat 6: Leko59 (2379 in chips) 
+Seat 9: erikwilson23 (2935 in chips) 
+mbdrozd: posts the ante 25
+KeinKönich: posts the ante 25
+Gboyslim: posts the ante 25
+Leko59: posts the ante 25
+erikwilson23: posts the ante 25
+KeinKönich: posts small blind 100
+Gboyslim: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 9d]
+Leko59: folds 
+erikwilson23: raises 2710 to 2910 and is all-in
+mbdrozd: folds 
+KeinKönich: raises 1035 to 3945 and is all-in
+Gboyslim has timed out while disconnected
+Gboyslim: folds 
+Gboyslim is sitting out
+Uncalled bet (1035) returned to KeinKönich
+*** FLOP *** [8s 2s 4s]
+*** TURN *** [8s 2s 4s] [3d]
+*** RIVER *** [8s 2s 4s 3d] [5s]
+*** SHOW DOWN ***
+KeinKönich: shows [9c 9d] (a pair of Nines)
+erikwilson23: shows [Ac Ts] (a flush, Ten high)
+erikwilson23 collected 6145 from pot
+*** SUMMARY ***
+Total pot 6145 | Rake 0 
+Board [8s 2s 4s 3d 5s]
+Seat 1: mbdrozd (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) showed [9c 9d] and lost with a pair of Nines
+Seat 5: Gboyslim (big blind) folded before Flop
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 9: erikwilson23 showed [Ac Ts] and won (6145) with a flush, Ten high
+
+
+
+PokerStars Hand #232275004837: Tournament #3321582130, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:43:41 CET [2021/12/16 17:43:41 ET]
+Table '3321582130 2' 9-max Seat #4 is the button
+Seat 1: mbdrozd (1692 in chips) 
+Seat 4: KeinKönich (1035 in chips) 
+Seat 5: Gboyslim (2276 in chips) is sitting out
+Seat 6: Leko59 (2354 in chips) 
+Seat 9: erikwilson23 (6145 in chips) 
+mbdrozd: posts the ante 25
+KeinKönich: posts the ante 25
+Gboyslim: posts the ante 25
+Leko59: posts the ante 25
+erikwilson23: posts the ante 25
+Gboyslim: posts small blind 100
+Leko59: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 5d]
+erikwilson23: folds 
+mbdrozd: raises 1467 to 1667 and is all-in
+KeinKönich: calls 1010 and is all-in
+Gboyslim: folds 
+Leko59: folds 
+Uncalled bet (657) returned to mbdrozd
+Gboyslim has returned
+*** FLOP *** [Kc 9h 6s]
+*** TURN *** [Kc 9h 6s] [Kh]
+*** RIVER *** [Kc 9h 6s Kh] [Ts]
+*** SHOW DOWN ***
+mbdrozd: shows [Jc Ac] (a pair of Kings)
+KeinKönich: shows [As 5d] (a pair of Kings - lower kicker)
+mbdrozd collected 2445 from pot
+*** SUMMARY ***
+Total pot 2445 | Rake 0 
+Board [Kc 9h 6s Kh Ts]
+Seat 1: mbdrozd showed [Jc Ac] and won (2445) with a pair of Kings
+Seat 4: KeinKönich (button) showed [As 5d] and lost with a pair of Kings
+Seat 5: Gboyslim (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 9: erikwilson23 folded before Flop (didn't bet)
+
+
+

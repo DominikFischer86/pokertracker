@@ -1,0 +1,1520 @@
+ï»¿PokerStars Hand #232300622142: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:18:06 CET [2021/12/17 17:18:06 ET]
+Table '3322219136 1' 9-max Seat #1 is the button
+Seat 1: leledoni (1500 in chips) 
+Seat 2: yokerone1 (1500 in chips) 
+Seat 3: BOMBER300 (1500 in chips) 
+Seat 4: KeinKönich (1500 in chips) 
+Seat 5: Chicano96 (1500 in chips) 
+Seat 6: IWannaR0ck (1500 in chips) 
+Seat 7: cezahr (1500 in chips) 
+Seat 8: Paliza 8 (1500 in chips) 
+Seat 9: LoopyLouLoop (1500 in chips) 
+leledoni: posts the ante 3
+yokerone1: posts the ante 3
+BOMBER300: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts the ante 3
+IWannaR0ck: posts the ante 3
+cezahr: posts the ante 3
+Paliza 8: posts the ante 3
+LoopyLouLoop: posts the ante 3
+yokerone1: posts small blind 10
+BOMBER300: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 7c]
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: folds 
+cezahr: folds 
+Paliza 8: folds 
+LoopyLouLoop: raises 40 to 60
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+Uncalled bet (40) returned to LoopyLouLoop
+LoopyLouLoop collected 77 from pot
+LoopyLouLoop: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: leledoni (button) folded before Flop (didn't bet)
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: BOMBER300 (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: cezahr folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop collected (77)
+
+
+
+PokerStars Hand #232300641715: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:18:46 CET [2021/12/17 17:18:46 ET]
+Table '3322219136 1' 9-max Seat #2 is the button
+Seat 1: leledoni (1497 in chips) 
+Seat 2: yokerone1 (1487 in chips) 
+Seat 3: BOMBER300 (1477 in chips) 
+Seat 4: KeinKönich (1497 in chips) 
+Seat 5: Chicano96 (1497 in chips) 
+Seat 6: IWannaR0ck (1497 in chips) 
+Seat 7: cezahr (1497 in chips) 
+Seat 8: Paliza 8 (1497 in chips) 
+Seat 9: LoopyLouLoop (1554 in chips) 
+leledoni: posts the ante 3
+yokerone1: posts the ante 3
+BOMBER300: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts the ante 3
+IWannaR0ck: posts the ante 3
+cezahr: posts the ante 3
+Paliza 8: posts the ante 3
+LoopyLouLoop: posts the ante 3
+BOMBER300: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 8d]
+Chicano96: folds 
+IWannaR0ck: folds 
+cezahr: raises 40 to 60
+Paliza 8: folds 
+LoopyLouLoop: calls 60
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: calls 40
+*** FLOP *** [Jc 7c Th]
+KeinKönich: checks 
+cezahr: checks 
+LoopyLouLoop: bets 108
+KeinKönich: calls 108
+cezahr: calls 108
+*** TURN *** [Jc 7c Th] [2c]
+KeinKönich: checks 
+cezahr: checks 
+LoopyLouLoop: bets 270
+KeinKönich: folds 
+cezahr: calls 270
+*** RIVER *** [Jc 7c Th 2c] [9c]
+cezahr: checks 
+LoopyLouLoop: bets 300
+cezahr: raises 756 to 1056 and is all-in
+LoopyLouLoop: calls 756
+*** SHOW DOWN ***
+cezahr: shows [9s Kd] (a pair of Nines)
+LoopyLouLoop: shows [Jd Kc] (a flush, King high)
+LoopyLouLoop collected 3193 from pot
+cezahr finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 3193 | Rake 0 
+Board [Jc 7c Th 2c 9c]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 (button) folded before Flop (didn't bet)
+Seat 3: BOMBER300 (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded on the Turn
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: cezahr showed [9s Kd] and lost with a pair of Nines
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop showed [Jd Kc] and won (3193) with a flush, King high
+
+
+
+PokerStars Hand #232300682153: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:20:09 CET [2021/12/17 17:20:09 ET]
+Table '3322219136 1' 9-max Seat #3 is the button
+Seat 1: leledoni (1494 in chips) 
+Seat 2: yokerone1 (1484 in chips) 
+Seat 3: BOMBER300 (1464 in chips) 
+Seat 4: KeinKönich (1326 in chips) 
+Seat 5: Chicano96 (1494 in chips) 
+Seat 6: IWannaR0ck (1494 in chips) 
+Seat 8: Paliza 8 (1494 in chips) 
+Seat 9: LoopyLouLoop (3250 in chips) 
+leledoni: posts the ante 3
+yokerone1: posts the ante 3
+BOMBER300: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts the ante 3
+IWannaR0ck: posts the ante 3
+Paliza 8: posts the ante 3
+LoopyLouLoop: posts the ante 3
+KeinKönich: posts small blind 10
+Chicano96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 3h]
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: raises 40 to 60
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: folds 
+Chicano96: folds 
+Uncalled bet (40) returned to leledoni
+leledoni collected 74 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: leledoni collected (74)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Chicano96 (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300701599: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:20:49 CET [2021/12/17 17:20:49 ET]
+Table '3322219136 1' 9-max Seat #4 is the button
+Seat 1: leledoni (1545 in chips) 
+Seat 2: yokerone1 (1481 in chips) 
+Seat 3: BOMBER300 (1461 in chips) 
+Seat 4: KeinKönich (1313 in chips) 
+Seat 5: Chicano96 (1471 in chips) 
+Seat 6: IWannaR0ck (1491 in chips) 
+Seat 8: Paliza 8 (1491 in chips) 
+Seat 9: LoopyLouLoop (3247 in chips) 
+leledoni: posts the ante 3
+yokerone1: posts the ante 3
+BOMBER300: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts the ante 3
+IWannaR0ck: posts the ante 3
+Paliza 8: posts the ante 3
+LoopyLouLoop: posts the ante 3
+Chicano96: posts small blind 10
+IWannaR0ck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 5s]
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: raises 40 to 60
+Chicano96: folds 
+IWannaR0ck: folds 
+Uncalled bet (40) returned to KeinKönich
+KeinKönich collected 74 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) collected (74)
+Seat 5: Chicano96 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300714622: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:21:15 CET [2021/12/17 17:21:15 ET]
+Table '3322219136 1' 9-max Seat #5 is the button
+Seat 1: leledoni (1542 in chips) 
+Seat 2: yokerone1 (1478 in chips) 
+Seat 3: BOMBER300 (1458 in chips) 
+Seat 4: KeinKönich (1364 in chips) 
+Seat 5: Chicano96 (1458 in chips) 
+Seat 6: IWannaR0ck (1468 in chips) 
+Seat 8: Paliza 8 (1488 in chips) 
+Seat 9: LoopyLouLoop (3244 in chips) 
+leledoni: posts the ante 3
+yokerone1: posts the ante 3
+BOMBER300: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts the ante 3
+IWannaR0ck: posts the ante 3
+Paliza 8: posts the ante 3
+LoopyLouLoop: posts the ante 3
+IWannaR0ck: posts small blind 10
+Paliza 8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ac]
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: raises 40 to 60
+Chicano96: folds 
+IWannaR0ck: calls 50
+Paliza 8: calls 40
+*** FLOP *** [Ad Qc Qs]
+IWannaR0ck: checks 
+Paliza 8: checks 
+KeinKönich: checks 
+*** TURN *** [Ad Qc Qs] [Qh]
+IWannaR0ck: checks 
+Paliza 8: checks 
+KeinKönich: bets 102
+IWannaR0ck: calls 102
+Paliza 8: calls 102
+*** RIVER *** [Ad Qc Qs Qh] [2h]
+IWannaR0ck: checks 
+Paliza 8: checks 
+KeinKönich: bets 255
+IWannaR0ck: folds 
+Paliza 8: calls 255
+*** SHOW DOWN ***
+KeinKönich: shows [Jh Ac] (a full house, Queens full of Aces)
+Paliza 8: shows [9s As] (a full house, Queens full of Aces)
+Paliza 8 collected 510 from pot
+KeinKönich collected 510 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Ad Qc Qs Qh 2h]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich showed [Jh Ac] and won (510) with a full house, Queens full of Aces
+Seat 5: Chicano96 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded on the River
+Seat 8: Paliza 8 (big blind) showed [9s As] and won (510) with a full house, Queens full of Aces
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300774620: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:23:19 CET [2021/12/17 17:23:19 ET]
+Table '3322219136 1' 9-max Seat #6 is the button
+Seat 1: leledoni (1539 in chips) 
+Seat 2: yokerone1 (1475 in chips) 
+Seat 3: BOMBER300 (1455 in chips) 
+Seat 4: KeinKönich (1454 in chips) 
+Seat 5: Chicano96 (1455 in chips) 
+Seat 6: IWannaR0ck (1303 in chips) 
+Seat 8: Paliza 8 (1578 in chips) 
+Seat 9: LoopyLouLoop (3241 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+Paliza 8: posts small blind 15
+LoopyLouLoop: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 9d]
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: raises 45 to 75
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: calls 45
+*** FLOP *** [8c 7h Kc]
+LoopyLouLoop: checks 
+KeinKönich: bets 99
+LoopyLouLoop: calls 99
+*** TURN *** [8c 7h Kc] [9h]
+LoopyLouLoop: bets 150
+KeinKönich: folds 
+Uncalled bet (150) returned to LoopyLouLoop
+LoopyLouLoop collected 395 from pot
+LoopyLouLoop: doesn't show hand 
+*** SUMMARY ***
+Total pot 395 | Rake 0 
+Board [8c 7h Kc 9h]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich folded on the Turn
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: Paliza 8 (small blind) folded before Flop
+Seat 9: LoopyLouLoop (big blind) collected (395)
+
+
+
+PokerStars Hand #232300802274: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:24:14 CET [2021/12/17 17:24:14 ET]
+Table '3322219136 1' 9-max Seat #8 is the button
+Seat 1: leledoni (1535 in chips) 
+Seat 2: yokerone1 (1471 in chips) 
+Seat 3: BOMBER300 (1451 in chips) 
+Seat 4: KeinKönich (1276 in chips) 
+Seat 5: Chicano96 (1451 in chips) 
+Seat 6: IWannaR0ck (1299 in chips) 
+Seat 8: Paliza 8 (1559 in chips) 
+Seat 9: LoopyLouLoop (3458 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+LoopyLouLoop: posts small blind 15
+leledoni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 3d]
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: raises 30 to 60
+leledoni: folds 
+Uncalled bet (30) returned to LoopyLouLoop
+LoopyLouLoop collected 92 from pot
+LoopyLouLoop: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: leledoni (big blind) folded before Flop
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 (button) folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (small blind) collected (92)
+
+
+
+PokerStars Hand #232300814281: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:24:39 CET [2021/12/17 17:24:39 ET]
+Table '3322219136 1' 9-max Seat #9 is the button
+Seat 1: leledoni (1501 in chips) 
+Seat 2: yokerone1 (1467 in chips) 
+Seat 3: BOMBER300 (1447 in chips) 
+Seat 4: KeinKönich (1272 in chips) 
+Seat 5: Chicano96 (1447 in chips) 
+Seat 6: IWannaR0ck (1295 in chips) 
+Seat 8: Paliza 8 (1555 in chips) 
+Seat 9: LoopyLouLoop (3516 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+leledoni: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [As Jd]
+BOMBER300: calls 30
+KeinKönich: raises 60 to 90
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: calls 60
+*** FLOP *** [6s Jh 6c]
+BOMBER300: checks 
+KeinKönich: bets 129
+BOMBER300: folds 
+Uncalled bet (129) returned to KeinKönich
+KeinKönich collected 257 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [6s Jh 6c]
+Seat 1: leledoni (small blind) folded before Flop
+Seat 2: yokerone1 (big blind) folded before Flop
+Seat 3: BOMBER300 folded on the Flop
+Seat 4: KeinKönich collected (257)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300860340: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:25:58 CET [2021/12/17 17:25:58 ET]
+Table '3322219136 1' 9-max Seat #1 is the button
+Seat 1: leledoni (1482 in chips) 
+Seat 2: yokerone1 (1433 in chips) 
+Seat 3: BOMBER300 (1353 in chips) 
+Seat 4: KeinKönich (1435 in chips) 
+Seat 5: Chicano96 (1443 in chips) 
+Seat 6: IWannaR0ck (1291 in chips) 
+Seat 8: Paliza 8 (1551 in chips) 
+Seat 9: LoopyLouLoop (3512 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+yokerone1: posts small blind 15
+BOMBER300: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 3c]
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: raises 40 to 70
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+Uncalled bet (40) returned to IWannaR0ck
+IWannaR0ck collected 107 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: leledoni (button) folded before Flop (didn't bet)
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: BOMBER300 (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (107)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300878677: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:26:36 CET [2021/12/17 17:26:36 ET]
+Table '3322219136 1' 9-max Seat #2 is the button
+Seat 1: leledoni (1478 in chips) 
+Seat 2: yokerone1 (1414 in chips) 
+Seat 3: BOMBER300 (1319 in chips) 
+Seat 4: KeinKönich (1431 in chips) 
+Seat 5: Chicano96 (1439 in chips) 
+Seat 6: IWannaR0ck (1364 in chips) 
+Seat 8: Paliza 8 (1547 in chips) 
+Seat 9: LoopyLouLoop (3508 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+BOMBER300: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 8d]
+Chicano96: raises 45 to 75
+IWannaR0ck: folds 
+Paliza 8: calls 75
+LoopyLouLoop: calls 75
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: calls 45
+*** FLOP *** [4d Ad 6s]
+KeinKönich: checks 
+Chicano96: bets 116
+Paliza 8: calls 116
+LoopyLouLoop: folds 
+KeinKönich: folds 
+*** TURN *** [4d Ad 6s] [8s]
+Chicano96: bets 290
+Paliza 8: calls 290
+*** RIVER *** [4d Ad 6s 8s] [9d]
+Chicano96: checks 
+Paliza 8: checks 
+*** SHOW DOWN ***
+Chicano96: shows [Qc Ah] (a pair of Aces)
+Paliza 8: shows [Ac Qs] (a pair of Aces)
+Chicano96 collected 580 from pot
+Paliza 8 collected 579 from pot
+*** SUMMARY ***
+Total pot 1159 | Rake 0 
+Board [4d Ad 6s 8s 9d]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 (button) folded before Flop (didn't bet)
+Seat 3: BOMBER300 (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) folded on the Flop
+Seat 5: Chicano96 showed [Qc Ah] and won (580) with a pair of Aces
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 showed [Ac Qs] and won (579) with a pair of Aces
+Seat 9: LoopyLouLoop folded on the Flop
+
+
+
+PokerStars Hand #232300920053: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:27:58 CET [2021/12/17 17:27:58 ET]
+Table '3322219136 1' 9-max Seat #3 is the button
+Seat 1: leledoni (1474 in chips) 
+Seat 2: yokerone1 (1410 in chips) 
+Seat 3: BOMBER300 (1300 in chips) 
+Seat 4: KeinKönich (1352 in chips) 
+Seat 5: Chicano96 (1534 in chips) 
+Seat 6: IWannaR0ck (1360 in chips) 
+Seat 8: Paliza 8 (1641 in chips) 
+Seat 9: LoopyLouLoop (3429 in chips) 
+leledoni: posts the ante 4
+yokerone1: posts the ante 4
+BOMBER300: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts the ante 4
+IWannaR0ck: posts the ante 4
+Paliza 8: posts the ante 4
+LoopyLouLoop: posts the ante 4
+KeinKönich: posts small blind 15
+Chicano96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 6s]
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: folds 
+Uncalled bet (15) returned to Chicano96
+Chicano96 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Chicano96 (big blind) collected (62)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300934577: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:28:29 CET [2021/12/17 17:28:29 ET]
+Table '3322219136 1' 9-max Seat #4 is the button
+Seat 1: leledoni (1470 in chips) 
+Seat 2: yokerone1 (1406 in chips) 
+Seat 3: BOMBER300 (1296 in chips) 
+Seat 4: KeinKönich (1333 in chips) 
+Seat 5: Chicano96 (1577 in chips) 
+Seat 6: IWannaR0ck (1356 in chips) 
+Seat 8: Paliza 8 (1637 in chips) 
+Seat 9: LoopyLouLoop (3425 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+Chicano96: posts small blind 25
+IWannaR0ck: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Qd]
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: raises 50 to 100
+Chicano96: folds 
+IWannaR0ck: raises 1250 to 1350 and is all-in
+KeinKönich: folds 
+Uncalled bet (1250) returned to IWannaR0ck
+IWannaR0ck collected 273 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich (button) folded before Flop
+Seat 5: Chicano96 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) collected (273)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300952722: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:29:07 CET [2021/12/17 17:29:07 ET]
+Table '3322219136 1' 9-max Seat #5 is the button
+Seat 1: leledoni (1464 in chips) 
+Seat 2: yokerone1 (1400 in chips) 
+Seat 3: BOMBER300 (1290 in chips) 
+Seat 4: KeinKönich (1227 in chips) 
+Seat 5: Chicano96 (1546 in chips) 
+Seat 6: IWannaR0ck (1523 in chips) 
+Seat 8: Paliza 8 (1631 in chips) 
+Seat 9: LoopyLouLoop (3419 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+IWannaR0ck: posts small blind 25
+Paliza 8: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Qh]
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: calls 50
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: raises 125 to 175
+Paliza 8: folds 
+BOMBER300: calls 125
+*** FLOP *** [3h 7d 3d]
+IWannaR0ck: bets 125
+BOMBER300: folds 
+Uncalled bet (125) returned to IWannaR0ck
+IWannaR0ck collected 448 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [3h 7d 3d]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded on the Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) collected (448)
+Seat 8: Paliza 8 (big blind) folded before Flop
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300974688: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:29:54 CET [2021/12/17 17:29:54 ET]
+Table '3322219136 1' 9-max Seat #6 is the button
+Seat 1: leledoni (1458 in chips) 
+Seat 2: yokerone1 (1394 in chips) 
+Seat 3: BOMBER300 (1109 in chips) 
+Seat 4: KeinKönich (1221 in chips) 
+Seat 5: Chicano96 (1540 in chips) 
+Seat 6: IWannaR0ck (1790 in chips) 
+Seat 8: Paliza 8 (1575 in chips) 
+Seat 9: LoopyLouLoop (3413 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+Paliza 8: posts small blind 25
+LoopyLouLoop: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s Th]
+leledoni: folds 
+yokerone1: folds 
+BOMBER300 has timed out
+BOMBER300: folds 
+BOMBER300 is sitting out
+KeinKönich: folds 
+BOMBER300 has returned
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+Uncalled bet (25) returned to LoopyLouLoop
+LoopyLouLoop collected 98 from pot
+LoopyLouLoop: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: Paliza 8 (small blind) folded before Flop
+Seat 9: LoopyLouLoop (big blind) collected (98)
+
+
+
+PokerStars Hand #232300988688: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:30:23 CET [2021/12/17 17:30:23 ET]
+Table '3322219136 1' 9-max Seat #8 is the button
+Seat 1: leledoni (1452 in chips) 
+Seat 2: yokerone1 (1388 in chips) 
+Seat 3: BOMBER300 (1103 in chips) 
+Seat 4: KeinKönich (1215 in chips) 
+Seat 5: Chicano96 (1534 in chips) 
+Seat 6: IWannaR0ck (1784 in chips) 
+Seat 8: Paliza 8 (1544 in chips) 
+Seat 9: LoopyLouLoop (3480 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+LoopyLouLoop: posts small blind 25
+leledoni: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 6c]
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: raises 50 to 100
+Paliza 8: folds 
+LoopyLouLoop: calls 75
+leledoni: folds 
+*** FLOP *** [9c 6h Qh]
+LoopyLouLoop: checks 
+IWannaR0ck: bets 98
+LoopyLouLoop: folds 
+Uncalled bet (98) returned to IWannaR0ck
+IWannaR0ck collected 298 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Board [9c 6h Qh]
+Seat 1: leledoni (big blind) folded before Flop
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (298)
+Seat 8: Paliza 8 (button) folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232301011577: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:31:11 CET [2021/12/17 17:31:11 ET]
+Table '3322219136 1' 9-max Seat #9 is the button
+Seat 1: leledoni (1396 in chips) 
+Seat 2: yokerone1 (1382 in chips) 
+Seat 3: BOMBER300 (1097 in chips) 
+Seat 4: KeinKönich (1209 in chips) 
+Seat 5: Chicano96 (1528 in chips) 
+Seat 6: IWannaR0ck (1976 in chips) 
+Seat 8: Paliza 8 (1538 in chips) 
+Seat 9: LoopyLouLoop (3374 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+leledoni: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 3d]
+BOMBER300: folds 
+KeinKönich: raises 50 to 100
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: calls 50
+*** FLOP *** [2d Qh 9d]
+yokerone1: checks 
+KeinKönich: bets 150
+yokerone1: folds 
+Uncalled bet (150) returned to KeinKönich
+KeinKönich collected 273 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [2d Qh 9d]
+Seat 1: leledoni (small blind) folded before Flop
+Seat 2: yokerone1 (big blind) folded on the Flop
+Seat 3: BOMBER300 folded before Flop (didn't bet)
+Seat 4: KeinKönich collected (273)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301030129: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:31:51 CET [2021/12/17 17:31:51 ET]
+Table '3322219136 1' 9-max Seat #1 is the button
+Seat 1: leledoni (1365 in chips) 
+Seat 2: yokerone1 (1276 in chips) 
+Seat 3: BOMBER300 (1091 in chips) 
+Seat 4: KeinKönich (1376 in chips) 
+Seat 5: Chicano96 (1522 in chips) 
+Seat 6: IWannaR0ck (1970 in chips) 
+Seat 8: Paliza 8 (1532 in chips) 
+Seat 9: LoopyLouLoop (3368 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+yokerone1: posts small blind 25
+BOMBER300: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d Ad]
+KeinKönich: raises 50 to 100
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: leledoni (button) folded before Flop (didn't bet)
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: BOMBER300 (big blind) folded before Flop
+Seat 4: KeinKönich collected (173)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301045220: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:32:24 CET [2021/12/17 17:32:24 ET]
+Table '3322219136 1' 9-max Seat #2 is the button
+Seat 1: leledoni (1359 in chips) 
+Seat 2: yokerone1 (1245 in chips) 
+Seat 3: BOMBER300 (1035 in chips) 
+Seat 4: KeinKönich (1493 in chips) 
+Seat 5: Chicano96 (1516 in chips) 
+Seat 6: IWannaR0ck (1964 in chips) 
+Seat 8: Paliza 8 (1526 in chips) 
+Seat 9: LoopyLouLoop (3362 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+BOMBER300: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 4d]
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+Uncalled bet (25) returned to KeinKönich
+KeinKönich collected 98 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 (button) folded before Flop (didn't bet)
+Seat 3: BOMBER300 (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) collected (98)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301060269: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:32:55 CET [2021/12/17 17:32:55 ET]
+Table '3322219136 1' 9-max Seat #3 is the button
+Seat 1: leledoni (1353 in chips) 
+Seat 2: yokerone1 (1239 in chips) 
+Seat 3: BOMBER300 (1004 in chips) 
+Seat 4: KeinKönich (1560 in chips) 
+Seat 5: Chicano96 (1510 in chips) 
+Seat 6: IWannaR0ck (1958 in chips) 
+Seat 8: Paliza 8 (1520 in chips) 
+Seat 9: LoopyLouLoop (3356 in chips) 
+leledoni: posts the ante 6
+yokerone1: posts the ante 6
+BOMBER300: posts the ante 6
+KeinKönich: posts the ante 6
+Chicano96: posts the ante 6
+IWannaR0ck: posts the ante 6
+Paliza 8: posts the ante 6
+LoopyLouLoop: posts the ante 6
+KeinKönich: posts small blind 25
+Chicano96: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 3s]
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: folds 
+KeinKönich: folds 
+Uncalled bet (25) returned to Chicano96
+Chicano96 collected 98 from pot
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 (button) folded before Flop (didn't bet)
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Chicano96 (big blind) collected (98)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301075484: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:33:28 CET [2021/12/17 17:33:28 ET]
+Table '3322219136 1' 9-max Seat #4 is the button
+Seat 1: leledoni (1347 in chips) 
+Seat 2: yokerone1 (1233 in chips) 
+Seat 3: BOMBER300 (998 in chips) 
+Seat 4: KeinKönich (1529 in chips) 
+Seat 5: Chicano96 (1577 in chips) 
+Seat 6: IWannaR0ck (1952 in chips) 
+Seat 8: Paliza 8 (1514 in chips) 
+Seat 9: LoopyLouLoop (3350 in chips) 
+leledoni: posts the ante 10
+yokerone1: posts the ante 10
+BOMBER300: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts the ante 10
+IWannaR0ck: posts the ante 10
+Paliza 8: posts the ante 10
+LoopyLouLoop: posts the ante 10
+Chicano96: posts small blind 40
+IWannaR0ck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 6s]
+Paliza 8: raises 80 to 160
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+BOMBER300: calls 160
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: calls 80
+*** FLOP *** [7h Qs Ah]
+IWannaR0ck: checks 
+Paliza 8: bets 204
+BOMBER300: calls 204
+IWannaR0ck: folds 
+*** TURN *** [7h Qs Ah] [8h]
+Paliza 8: checks 
+BOMBER300: bets 624 and is all-in
+Paliza 8: calls 624
+*** RIVER *** [7h Qs Ah 8h] [Ad]
+*** SHOW DOWN ***
+Paliza 8: shows [Tc As] (three of a kind, Aces)
+BOMBER300: shows [Qh Ks] (two pair, Aces and Queens)
+Paliza 8 collected 2256 from pot
+BOMBER300 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2256 | Rake 0 
+Board [7h Qs Ah 8h Ad]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: BOMBER300 showed [Qh Ks] and lost with two pair, Aces and Queens
+Seat 4: KeinKönich (button) folded before Flop (didn't bet)
+Seat 5: Chicano96 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded on the Flop
+Seat 8: Paliza 8 showed [Tc As] and won (2256) with three of a kind, Aces
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301115414: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:34:32 CET [2021/12/17 17:34:32 ET]
+Table '3322219136 1' 9-max Seat #5 is the button
+Seat 1: leledoni (1337 in chips) 
+Seat 2: yokerone1 (1223 in chips) 
+Seat 4: KeinKönich (1519 in chips) 
+Seat 5: Chicano96 (1527 in chips) 
+Seat 6: IWannaR0ck (1782 in chips) 
+Seat 8: Paliza 8 (2772 in chips) 
+Seat 9: LoopyLouLoop (3340 in chips) 
+leledoni: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts the ante 10
+IWannaR0ck: posts the ante 10
+Paliza 8: posts the ante 10
+LoopyLouLoop: posts the ante 10
+IWannaR0ck: posts small blind 40
+Paliza 8: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 7h]
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+KeinKönich: raises 80 to 160
+Chicano96: folds 
+IWannaR0ck: calls 120
+Paliza 8: folds 
+*** FLOP *** [Tc Th Ah]
+IWannaR0ck: checks 
+KeinKönich: bets 200
+IWannaR0ck: calls 200
+*** TURN *** [Tc Th Ah] [3s]
+IWannaR0ck: checks 
+KeinKönich: checks 
+*** RIVER *** [Tc Th Ah 3s] [8h]
+IWannaR0ck: checks 
+KeinKönich: checks 
+*** SHOW DOWN ***
+IWannaR0ck: shows [Kh Jd] (a pair of Tens)
+KeinKönich: mucks hand 
+IWannaR0ck collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [Tc Th Ah 3s 8h]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 4: KeinKönich mucked [6c 7h]
+Seat 5: Chicano96 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) showed [Kh Jd] and won (870) with a pair of Tens
+Seat 8: Paliza 8 (big blind) folded before Flop
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301156056: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:35:59 CET [2021/12/17 17:35:59 ET]
+Table '3322219136 1' 9-max Seat #6 is the button
+Seat 1: leledoni (1327 in chips) 
+Seat 2: yokerone1 (1213 in chips) 
+Seat 4: KeinKönich (1149 in chips) 
+Seat 5: Chicano96 (1517 in chips) 
+Seat 6: IWannaR0ck (2282 in chips) 
+Seat 8: Paliza 8 (2682 in chips) 
+Seat 9: LoopyLouLoop (3330 in chips) 
+leledoni: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts the ante 10
+IWannaR0ck: posts the ante 10
+Paliza 8: posts the ante 10
+LoopyLouLoop: posts the ante 10
+Paliza 8: posts small blind 40
+LoopyLouLoop: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 5c]
+leledoni: folds 
+yokerone1: folds 
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: raises 80 to 160
+Paliza 8: raises 320 to 480
+LoopyLouLoop: folds 
+IWannaR0ck: calls 320
+*** FLOP *** [Kh 4c 2c]
+Paliza 8: checks 
+IWannaR0ck: checks 
+*** TURN *** [Kh 4c 2c] [8h]
+Paliza 8: bets 377
+IWannaR0ck: calls 377
+*** RIVER *** [Kh 4c 2c 8h] [Jh]
+Paliza 8: checks 
+IWannaR0ck: checks 
+*** SHOW DOWN ***
+Paliza 8: shows [Qc Qd] (a pair of Queens)
+IWannaR0ck: mucks hand 
+Paliza 8 collected 1864 from pot
+*** SUMMARY ***
+Total pot 1864 | Rake 0 
+Board [Kh 4c 2c 8h Jh]
+Seat 1: leledoni folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) mucked [9c Tc]
+Seat 8: Paliza 8 (small blind) showed [Qc Qd] and won (1864) with a pair of Queens
+Seat 9: LoopyLouLoop (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301195220: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:37:24 CET [2021/12/17 17:37:24 ET]
+Table '3322219136 1' 9-max Seat #8 is the button
+Seat 1: leledoni (1317 in chips) 
+Seat 2: yokerone1 (1203 in chips) 
+Seat 4: KeinKönich (1139 in chips) 
+Seat 5: Chicano96 (1507 in chips) 
+Seat 6: IWannaR0ck (1415 in chips) 
+Seat 8: Paliza 8 (3679 in chips) 
+Seat 9: LoopyLouLoop (3240 in chips) 
+leledoni: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts the ante 10
+IWannaR0ck: posts the ante 10
+Paliza 8: posts the ante 10
+LoopyLouLoop: posts the ante 10
+LoopyLouLoop: posts small blind 40
+leledoni: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Jc]
+yokerone1: raises 84 to 164
+KeinKönich: calls 164
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: calls 84
+*** FLOP *** [5h 2d 4h]
+leledoni: checks 
+yokerone1: checks 
+KeinKönich: bets 301
+leledoni: folds 
+yokerone1: folds 
+Uncalled bet (301) returned to KeinKönich
+KeinKönich collected 602 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 602 | Rake 0 
+Board [5h 2d 4h]
+Seat 1: leledoni (big blind) folded on the Flop
+Seat 2: yokerone1 folded on the Flop
+Seat 4: KeinKönich collected (602)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 (button) folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301224838: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:38:27 CET [2021/12/17 17:38:27 ET]
+Table '3322219136 1' 9-max Seat #9 is the button
+Seat 1: leledoni (1143 in chips) 
+Seat 2: yokerone1 (1029 in chips) 
+Seat 4: KeinKönich (1567 in chips) 
+Seat 5: Chicano96 (1497 in chips) 
+Seat 6: IWannaR0ck (1405 in chips) 
+Seat 8: Paliza 8 (3669 in chips) 
+Seat 9: LoopyLouLoop (3190 in chips) 
+leledoni: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+leledoni: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 8h]
+KeinKönich: folds 
+Chicano96: raises 132 to 252
+IWannaR0ck: folds 
+Paliza 8: calls 252
+LoopyLouLoop: folds 
+leledoni: folds 
+yokerone1: folds 
+*** FLOP *** [3d 9s Ad]
+Chicano96: bets 197
+Paliza 8: calls 197
+*** TURN *** [3d 9s Ad] [2s]
+Chicano96: checks 
+Paliza 8: bets 1183
+Chicano96: folds 
+Uncalled bet (1183) returned to Paliza 8
+Paliza 8 collected 1183 from pot
+*** SUMMARY ***
+Total pot 1183 | Rake 0 
+Board [3d 9s Ad 2s]
+Seat 1: leledoni (small blind) folded before Flop
+Seat 2: yokerone1 (big blind) folded before Flop
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded on the Turn
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 collected (1183)
+Seat 9: LoopyLouLoop (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301256092: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:39:35 CET [2021/12/17 17:39:35 ET]
+Table '3322219136 1' 9-max Seat #1 is the button
+Seat 1: leledoni (1068 in chips) 
+Seat 2: yokerone1 (894 in chips) 
+Seat 4: KeinKönich (1552 in chips) 
+Seat 5: Chicano96 (1033 in chips) 
+Seat 6: IWannaR0ck (1390 in chips) 
+Seat 8: Paliza 8 (4388 in chips) 
+Seat 9: LoopyLouLoop (3175 in chips) 
+leledoni: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+yokerone1: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd Jh]
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+leledoni: raises 933 to 1053 and is all-in
+yokerone1: folds 
+KeinKönich: calls 933
+*** FLOP *** [9h 6d 8d]
+*** TURN *** [9h 6d 8d] [Jd]
+*** RIVER *** [9h 6d 8d Jd] [3d]
+*** SHOW DOWN ***
+KeinKönich: shows [Qd Jh] (a flush, Queen high)
+leledoni: shows [Kc Ts] (high card King)
+KeinKönich collected 2271 from pot
+leledoni finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2271 | Rake 0 
+Board [9h 6d 8d Jd 3d]
+Seat 1: leledoni (button) showed [Kc Ts] and lost with high card King
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 4: KeinKönich (big blind) showed [Qd Jh] and won (2271) with a flush, Queen high
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301269256: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:40:03 CET [2021/12/17 17:40:03 ET]
+Table '3322219136 1' 9-max Seat #2 is the button
+Seat 2: yokerone1 (819 in chips) 
+Seat 4: KeinKönich (2755 in chips) 
+Seat 5: Chicano96 (1018 in chips) 
+Seat 6: IWannaR0ck (1375 in chips) 
+Seat 8: Paliza 8 (4373 in chips) 
+Seat 9: LoopyLouLoop (3160 in chips) 
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+KeinKönich: posts small blind 60
+Chicano96: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 4d]
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+yokerone1: raises 684 to 804 and is all-in
+KeinKönich: folds 
+Chicano96: calls 684
+*** FLOP *** [3c Jh 6d]
+*** TURN *** [3c Jh 6d] [6c]
+*** RIVER *** [3c Jh 6d 6c] [Ah]
+*** SHOW DOWN ***
+Chicano96: shows [As 7h] (two pair, Aces and Sixes)
+yokerone1: shows [Kh 8h] (a pair of Sixes)
+Chicano96 collected 1758 from pot
+yokerone1 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 1758 | Rake 0 
+Board [3c Jh 6d 6c Ah]
+Seat 2: yokerone1 (button) showed [Kh 8h] and lost with a pair of Sixes
+Seat 4: KeinKönich (small blind) folded before Flop
+Seat 5: Chicano96 (big blind) showed [As 7h] and won (1758) with two pair, Aces and Sixes
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301282433: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:40:31 CET [2021/12/17 17:40:31 ET]
+Table '3322219136 1' 9-max Seat #4 is the button
+Seat 4: KeinKönich (2680 in chips) 
+Seat 5: Chicano96 (1957 in chips) 
+Seat 6: IWannaR0ck (1360 in chips) 
+Seat 8: Paliza 8 (4358 in chips) 
+Seat 9: LoopyLouLoop (3145 in chips) 
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+Chicano96: posts small blind 60
+IWannaR0ck: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 8d]
+Paliza 8: folds 
+LoopyLouLoop: folds 
+KeinKönich: raises 120 to 240
+Chicano96: folds 
+IWannaR0ck: calls 120
+*** FLOP *** [7s 4s Ts]
+IWannaR0ck: checks 
+KeinKönich: checks 
+*** TURN *** [7s 4s Ts] [8c]
+IWannaR0ck: bets 308
+KeinKönich: calls 308
+*** RIVER *** [7s 4s Ts 8c] [Qd]
+IWannaR0ck: bets 797 and is all-in
+KeinKönich: calls 797
+*** SHOW DOWN ***
+IWannaR0ck: shows [Th Qh] (two pair, Queens and Tens)
+KeinKönich: shows [Kd 8d] (a pair of Eights)
+IWannaR0ck collected 2825 from pot
+*** SUMMARY ***
+Total pot 2825 | Rake 0 
+Board [7s 4s Ts 8c Qd]
+Seat 4: KeinKönich (button) showed [Kd 8d] and lost with a pair of Eights
+Seat 5: Chicano96 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) showed [Th Qh] and won (2825) with two pair, Queens and Tens
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301313526: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:41:39 CET [2021/12/17 17:41:39 ET]
+Table '3322219136 1' 9-max Seat #5 is the button
+Seat 4: KeinKönich (1320 in chips) 
+Seat 5: Chicano96 (1882 in chips) 
+Seat 6: IWannaR0ck (2825 in chips) 
+Seat 8: Paliza 8 (4343 in chips) 
+Seat 9: LoopyLouLoop (3130 in chips) 
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+IWannaR0ck: posts small blind 60
+Paliza 8: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 5h]
+LoopyLouLoop: raises 120 to 240
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: folds 
+Paliza 8: calls 120
+*** FLOP *** [Jd Qd Ad]
+Paliza 8: checks 
+LoopyLouLoop: bets 120
+Paliza 8: calls 120
+*** TURN *** [Jd Qd Ad] [Qs]
+Paliza 8: checks 
+LoopyLouLoop: bets 240
+Paliza 8: calls 240
+*** RIVER *** [Jd Qd Ad Qs] [4d]
+Paliza 8: checks 
+LoopyLouLoop: checks 
+*** SHOW DOWN ***
+Paliza 8: shows [Ah 9s] (two pair, Aces and Queens)
+LoopyLouLoop: shows [Ac 7h] (two pair, Aces and Queens)
+Paliza 8 collected 668 from pot
+LoopyLouLoop collected 667 from pot
+*** SUMMARY ***
+Total pot 1335 | Rake 0 
+Board [Jd Qd Ad Qs 4d]
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 8: Paliza 8 (big blind) showed [Ah 9s] and won (668) with two pair, Aces and Queens
+Seat 9: LoopyLouLoop showed [Ac 7h] and won (667) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #232301333668: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:42:23 CET [2021/12/17 17:42:23 ET]
+Table '3322219136 1' 9-max Seat #6 is the button
+Seat 4: KeinKönich (1305 in chips) 
+Seat 5: Chicano96 (1867 in chips) 
+Seat 6: IWannaR0ck (2750 in chips) 
+Seat 8: Paliza 8 (4396 in chips) 
+Seat 9: LoopyLouLoop (3182 in chips) 
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+Paliza 8: posts small blind 60
+LoopyLouLoop: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 9s]
+KeinKönich: folds 
+Chicano96: folds 
+IWannaR0ck: raises 120 to 240
+Paliza 8: folds 
+LoopyLouLoop: folds 
+Uncalled bet (120) returned to IWannaR0ck
+IWannaR0ck collected 375 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 4: KeinKönich folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) collected (375)
+Seat 8: Paliza 8 (small blind) folded before Flop
+Seat 9: LoopyLouLoop (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301341742: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:42:40 CET [2021/12/17 17:42:40 ET]
+Table '3322219136 1' 9-max Seat #8 is the button
+Seat 4: KeinKönich (1290 in chips) 
+Seat 5: Chicano96 (1852 in chips) 
+Seat 6: IWannaR0ck (2990 in chips) 
+Seat 8: Paliza 8 (4321 in chips) 
+Seat 9: LoopyLouLoop (3047 in chips) 
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+LoopyLouLoop: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s Kd]
+Chicano96: folds 
+IWannaR0ck: raises 120 to 240
+Paliza 8: folds 
+LoopyLouLoop: folds 
+KeinKönich: folds 
+Uncalled bet (120) returned to IWannaR0ck
+IWannaR0ck collected 375 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 4: KeinKönich (big blind) folded before Flop
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (375)
+Seat 8: Paliza 8 (button) folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301352595: Tournament #3322219136, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:43:04 CET [2021/12/17 17:43:04 ET]
+Table '3322219136 1' 9-max Seat #9 is the button
+Seat 4: KeinKönich (1155 in chips) 
+Seat 5: Chicano96 (1837 in chips) 
+Seat 6: IWannaR0ck (3230 in chips) 
+Seat 8: Paliza 8 (4306 in chips) 
+Seat 9: LoopyLouLoop (2972 in chips) 
+KeinKönich: posts the ante 15
+Chicano96: posts the ante 15
+IWannaR0ck: posts the ante 15
+Paliza 8: posts the ante 15
+LoopyLouLoop: posts the ante 15
+KeinKönich: posts small blind 60
+Chicano96: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 7d]
+IWannaR0ck: folds 
+Paliza 8: folds 
+LoopyLouLoop: folds 
+KeinKönich: raises 1020 to 1140 and is all-in
+Chicano96: calls 1020
+*** FLOP *** [8s 3d 3s]
+*** TURN *** [8s 3d 3s] [Tc]
+*** RIVER *** [8s 3d 3s Tc] [8d]
+*** SHOW DOWN ***
+KeinKönich: shows [6h 7d] (two pair, Eights and Threes)
+Chicano96: shows [Ah 9s] (two pair, Eights and Threes - Ace kicker)
+Chicano96 collected 2355 from pot
+*** SUMMARY ***
+Total pot 2355 | Rake 0 
+Board [8s 3d 3s Tc 8d]
+Seat 4: KeinKönich (small blind) showed [6h 7d] and lost with two pair, Eights and Threes
+Seat 5: Chicano96 (big blind) showed [Ah 9s] and won (2355) with two pair, Eights and Threes
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: Paliza 8 folded before Flop (didn't bet)
+Seat 9: LoopyLouLoop (button) folded before Flop (didn't bet)
+
+
+

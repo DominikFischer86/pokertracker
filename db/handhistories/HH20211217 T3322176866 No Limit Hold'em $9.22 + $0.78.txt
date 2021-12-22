@@ -1,0 +1,2027 @@
+ï»¿PokerStars Hand #232298741175: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:16:00 CET [2021/12/17 16:16:00 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (1500 in chips) 
+Seat 2: TinoPacino (1500 in chips) 
+Seat 3: ZW121 (1500 in chips) 
+Seat 4: konjakas (1500 in chips) 
+Seat 5: HollyBolly19 (1500 in chips) 
+Seat 6: ozdoba11 (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: goiano89 (1500 in chips) 
+Seat 9: Dovgan86 (1500 in chips) 
+darkjf: posts the ante 3
+TinoPacino: posts the ante 3
+ZW121: posts the ante 3
+konjakas: posts the ante 3
+HollyBolly19: posts the ante 3
+ozdoba11: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+Dovgan86: posts the ante 3
+TinoPacino: posts small blind 10
+ZW121: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Qd]
+konjakas: folds 
+HollyBolly19: calls 20
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: raises 40 to 60
+darkjf: folds 
+TinoPacino: folds 
+ZW121: calls 40
+HollyBolly19: calls 40
+*** FLOP *** [2c 4s 2d]
+ZW121: checks 
+HollyBolly19: bets 200
+Dovgan86: folds 
+ZW121: folds 
+Uncalled bet (200) returned to HollyBolly19
+HollyBolly19 collected 217 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [2c 4s 2d]
+Seat 1: darkjf (button) folded before Flop (didn't bet)
+Seat 2: TinoPacino (small blind) folded before Flop
+Seat 3: ZW121 (big blind) folded on the Flop
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 collected (217)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded on the Flop
+
+
+
+PokerStars Hand #232298780619: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:17:17 CET [2021/12/17 16:17:17 ET]
+Table '3322176866 1' 9-max Seat #2 is the button
+Seat 1: darkjf (1497 in chips) 
+Seat 2: TinoPacino (1487 in chips) 
+Seat 3: ZW121 (1437 in chips) 
+Seat 4: konjakas (1497 in chips) 
+Seat 5: HollyBolly19 (1654 in chips) 
+Seat 6: ozdoba11 (1497 in chips) 
+Seat 7: KeinKönich (1497 in chips) 
+Seat 8: goiano89 (1497 in chips) 
+Seat 9: Dovgan86 (1437 in chips) 
+darkjf: posts the ante 3
+TinoPacino: posts the ante 3
+ZW121: posts the ante 3
+konjakas: posts the ante 3
+HollyBolly19: posts the ante 3
+ozdoba11: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+Dovgan86: posts the ante 3
+ZW121: posts small blind 10
+konjakas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Ah]
+HollyBolly19: calls 20
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: raises 40 to 60
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: calls 40
+HollyBolly19: calls 40
+*** FLOP *** [8h Ks Qc]
+konjakas: checks 
+HollyBolly19: checks 
+Dovgan86: bets 109
+konjakas: calls 109
+HollyBolly19: calls 109
+*** TURN *** [8h Ks Qc] [3s]
+konjakas: checks 
+HollyBolly19: checks 
+Dovgan86: checks 
+*** RIVER *** [8h Ks Qc 3s] [Td]
+konjakas: checks 
+HollyBolly19: checks 
+Dovgan86: checks 
+*** SHOW DOWN ***
+konjakas: shows [9d 8s] (a pair of Eights)
+HollyBolly19: shows [Tc Js] (a pair of Tens)
+Dovgan86: mucks hand 
+HollyBolly19 collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | Rake 0 
+Board [8h Ks Qc 3s Td]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino (button) folded before Flop (didn't bet)
+Seat 3: ZW121 (small blind) folded before Flop
+Seat 4: konjakas (big blind) showed [9d 8s] and lost with a pair of Eights
+Seat 5: HollyBolly19 showed [Tc Js] and won (544) with a pair of Tens
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 mucked [7c Ac]
+
+
+
+PokerStars Hand #232298821820: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:18:38 CET [2021/12/17 16:18:38 ET]
+Table '3322176866 1' 9-max Seat #3 is the button
+Seat 1: darkjf (1494 in chips) 
+Seat 2: TinoPacino (1484 in chips) 
+Seat 3: ZW121 (1424 in chips) 
+Seat 4: konjakas (1325 in chips) 
+Seat 5: HollyBolly19 (2026 in chips) 
+Seat 6: ozdoba11 (1494 in chips) 
+Seat 7: KeinKönich (1494 in chips) 
+Seat 8: goiano89 (1494 in chips) 
+Seat 9: Dovgan86 (1265 in chips) 
+darkjf: posts the ante 3
+TinoPacino: posts the ante 3
+ZW121: posts the ante 3
+konjakas: posts the ante 3
+HollyBolly19: posts the ante 3
+ozdoba11: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+Dovgan86: posts the ante 3
+konjakas: posts small blind 10
+HollyBolly19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Tc]
+ozdoba11: raises 60 to 80
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: calls 80
+darkjf: folds 
+TinoPacino: calls 80
+ZW121: folds 
+konjakas: raises 1242 to 1322 and is all-in
+HollyBolly19: folds 
+ozdoba11: folds 
+Dovgan86: folds 
+TinoPacino: folds 
+Uncalled bet (1242) returned to konjakas
+konjakas collected 367 from pot
+konjakas: doesn't show hand 
+*** SUMMARY ***
+Total pot 367 | Rake 0 
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop
+Seat 3: ZW121 (button) folded before Flop (didn't bet)
+Seat 4: konjakas (small blind) collected (367)
+Seat 5: HollyBolly19 (big blind) folded before Flop
+Seat 6: ozdoba11 folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop
+
+
+
+PokerStars Hand #232298844143: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:19:22 CET [2021/12/17 16:19:22 ET]
+Table '3322176866 1' 9-max Seat #4 is the button
+Seat 1: darkjf (1491 in chips) 
+Seat 2: TinoPacino (1401 in chips) 
+Seat 3: ZW121 (1421 in chips) 
+Seat 4: konjakas (1609 in chips) 
+Seat 5: HollyBolly19 (2003 in chips) 
+Seat 6: ozdoba11 (1411 in chips) 
+Seat 7: KeinKönich (1491 in chips) 
+Seat 8: goiano89 (1491 in chips) 
+Seat 9: Dovgan86 (1182 in chips) 
+darkjf: posts the ante 3
+TinoPacino: posts the ante 3
+ZW121: posts the ante 3
+konjakas: posts the ante 3
+HollyBolly19: posts the ante 3
+ozdoba11: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+Dovgan86: posts the ante 3
+HollyBolly19: posts small blind 10
+ozdoba11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Ah]
+KeinKönich: raises 40 to 60
+goiano89: folds 
+Dovgan86: calls 60
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: calls 50
+ozdoba11: calls 40
+*** FLOP *** [8s 9s 9h]
+HollyBolly19: checks 
+ozdoba11: checks 
+KeinKönich: checks 
+Dovgan86: checks 
+*** TURN *** [8s 9s 9h] [Qc]
+HollyBolly19: bets 280
+ozdoba11: folds 
+KeinKönich: folds 
+Dovgan86: folds 
+Uncalled bet (280) returned to HollyBolly19
+HollyBolly19 collected 267 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Board [8s 9s 9h Qc]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas (button) folded before Flop (didn't bet)
+Seat 5: HollyBolly19 (small blind) collected (267)
+Seat 6: ozdoba11 (big blind) folded on the Turn
+Seat 7: KeinKönich folded on the Turn
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded on the Turn
+
+
+
+PokerStars Hand #232298872393: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:20:18 CET [2021/12/17 16:20:18 ET]
+Table '3322176866 1' 9-max Seat #5 is the button
+Seat 1: darkjf (1488 in chips) 
+Seat 2: TinoPacino (1398 in chips) 
+Seat 3: ZW121 (1418 in chips) 
+Seat 4: konjakas (1606 in chips) 
+Seat 5: HollyBolly19 (2207 in chips) 
+Seat 6: ozdoba11 (1348 in chips) 
+Seat 7: KeinKönich (1428 in chips) 
+Seat 8: goiano89 (1488 in chips) 
+Seat 9: Dovgan86 (1119 in chips) 
+darkjf: posts the ante 3
+TinoPacino: posts the ante 3
+ZW121: posts the ante 3
+konjakas: posts the ante 3
+HollyBolly19: posts the ante 3
+ozdoba11: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+Dovgan86: posts the ante 3
+ozdoba11: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s Kh]
+goiano89: folds 
+Dovgan86: calls 20
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: calls 20
+ozdoba11: calls 10
+KeinKönich: checks 
+*** FLOP *** [5c 2h Ah]
+ozdoba11: checks 
+KeinKönich: checks 
+Dovgan86: bets 107
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+Uncalled bet (107) returned to Dovgan86
+Dovgan86 collected 107 from pot
+Dovgan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Board [5c 2h Ah]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 (button) folded on the Flop
+Seat 6: ozdoba11 (small blind) folded on the Flop
+Seat 7: KeinKönich (big blind) folded on the Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 collected (107)
+
+
+
+PokerStars Hand #232298902129: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:21:16 CET [2021/12/17 16:21:16 ET]
+Table '3322176866 1' 9-max Seat #6 is the button
+Seat 1: darkjf (1485 in chips) 
+Seat 2: TinoPacino (1395 in chips) 
+Seat 3: ZW121 (1415 in chips) 
+Seat 4: konjakas (1603 in chips) 
+Seat 5: HollyBolly19 (2184 in chips) 
+Seat 6: ozdoba11 (1325 in chips) 
+Seat 7: KeinKönich (1405 in chips) 
+Seat 8: goiano89 (1485 in chips) 
+Seat 9: Dovgan86 (1203 in chips) 
+darkjf: posts the ante 4
+TinoPacino: posts the ante 4
+ZW121: posts the ante 4
+konjakas: posts the ante 4
+HollyBolly19: posts the ante 4
+ozdoba11: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts the ante 4
+Dovgan86: posts the ante 4
+KeinKönich: posts small blind 15
+goiano89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Td]
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: raises 30 to 60
+konjakas: folds 
+HollyBolly19: folds 
+ozdoba11: calls 60
+KeinKönich: folds 
+goiano89: folds 
+*** FLOP *** [9c 9d 5d]
+ZW121: bets 101
+ozdoba11: calls 101
+*** TURN *** [9c 9d 5d] [2c]
+ZW121: bets 202
+ozdoba11: folds 
+Uncalled bet (202) returned to ZW121
+ZW121 collected 403 from pot
+ZW121: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [9c 9d 5d 2c]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 collected (403)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 (button) folded on the Turn
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: goiano89 (big blind) folded before Flop
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298935640: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:22:08 CET [2021/12/17 16:22:08 ET]
+Table '3322176866 1' 9-max Seat #7 is the button
+Seat 1: darkjf (1481 in chips) 
+Seat 2: TinoPacino (1391 in chips) 
+Seat 3: ZW121 (1653 in chips) 
+Seat 4: konjakas (1599 in chips) 
+Seat 5: HollyBolly19 (2180 in chips) 
+Seat 6: ozdoba11 (1160 in chips) 
+Seat 7: KeinKönich (1386 in chips) 
+Seat 8: goiano89 (1451 in chips) 
+Seat 9: Dovgan86 (1199 in chips) 
+darkjf: posts the ante 4
+TinoPacino: posts the ante 4
+ZW121: posts the ante 4
+konjakas: posts the ante 4
+HollyBolly19: posts the ante 4
+ozdoba11: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts the ante 4
+Dovgan86: posts the ante 4
+goiano89: posts small blind 15
+Dovgan86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 8c]
+darkjf: raises 38 to 68
+TinoPacino: folds 
+ZW121: folds 
+konjakas: calls 68
+HollyBolly19: folds 
+ozdoba11: calls 68
+KeinKönich: calls 68
+goiano89: folds 
+Dovgan86: raises 391 to 459
+darkjf: folds 
+konjakas: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+Uncalled bet (391) returned to Dovgan86
+Dovgan86 collected 391 from pot
+Dovgan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 391 | Rake 0 
+Seat 1: darkjf folded before Flop
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop
+Seat 7: KeinKönich (button) folded before Flop
+Seat 8: goiano89 (small blind) folded before Flop
+Seat 9: Dovgan86 (big blind) collected (391)
+
+
+
+PokerStars Hand #232298958028: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:22:52 CET [2021/12/17 16:22:52 ET]
+Table '3322176866 1' 9-max Seat #8 is the button
+Seat 1: darkjf (1409 in chips) 
+Seat 2: TinoPacino (1387 in chips) 
+Seat 3: ZW121 (1649 in chips) 
+Seat 4: konjakas (1527 in chips) 
+Seat 5: HollyBolly19 (2176 in chips) 
+Seat 6: ozdoba11 (1088 in chips) 
+Seat 7: KeinKönich (1314 in chips) 
+Seat 8: goiano89 (1432 in chips) 
+Seat 9: Dovgan86 (1518 in chips) 
+darkjf: posts the ante 4
+TinoPacino: posts the ante 4
+ZW121: posts the ante 4
+konjakas: posts the ante 4
+HollyBolly19: posts the ante 4
+ozdoba11: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts the ante 4
+Dovgan86: posts the ante 4
+Dovgan86: posts small blind 15
+darkjf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 5c]
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: calls 30
+ozdoba11: raises 30 to 60
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: calls 45
+darkjf: calls 30
+HollyBolly19: calls 30
+*** FLOP *** [6s Tc 5s]
+Dovgan86: bets 138
+darkjf: calls 138
+HollyBolly19: folds 
+ozdoba11: raises 138 to 276
+Dovgan86: folds 
+darkjf: calls 138
+*** TURN *** [6s Tc 5s] [Kd]
+darkjf: checks 
+ozdoba11: checks 
+*** RIVER *** [6s Tc 5s Kd] [Ks]
+darkjf: bets 30
+ozdoba11: raises 150 to 180
+darkjf: folds 
+Uncalled bet (150) returned to ozdoba11
+ozdoba11 collected 1026 from pot
+ozdoba11: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [6s Tc 5s Kd Ks]
+Seat 1: darkjf (big blind) folded on the River
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded on the Flop
+Seat 6: ozdoba11 collected (1026)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 (button) folded before Flop (didn't bet)
+Seat 9: Dovgan86 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232299004485: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:24:23 CET [2021/12/17 16:24:23 ET]
+Table '3322176866 1' 9-max Seat #9 is the button
+Seat 1: darkjf (1039 in chips) 
+Seat 2: TinoPacino (1383 in chips) 
+Seat 3: ZW121 (1645 in chips) 
+Seat 4: konjakas (1523 in chips) 
+Seat 5: HollyBolly19 (2112 in chips) 
+Seat 6: ozdoba11 (1744 in chips) 
+Seat 7: KeinKönich (1310 in chips) 
+Seat 8: goiano89 (1428 in chips) 
+Seat 9: Dovgan86 (1316 in chips) 
+darkjf: posts the ante 4
+TinoPacino: posts the ante 4
+ZW121: posts the ante 4
+konjakas: posts the ante 4
+HollyBolly19: posts the ante 4
+ozdoba11: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts the ante 4
+Dovgan86: posts the ante 4
+darkjf: posts small blind 15
+TinoPacino: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 5h]
+ZW121: calls 30
+konjakas: folds 
+HollyBolly19: calls 30
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: raises 60 to 90
+darkjf: folds 
+TinoPacino: folds 
+ZW121: calls 60
+HollyBolly19: calls 60
+*** FLOP *** [3d 6c 8s]
+ZW121: checks 
+HollyBolly19: bets 420
+Dovgan86: folds 
+ZW121: folds 
+Uncalled bet (420) returned to HollyBolly19
+HollyBolly19 collected 351 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 351 | Rake 0 
+Board [3d 6c 8s]
+Seat 1: darkjf (small blind) folded before Flop
+Seat 2: TinoPacino (big blind) folded before Flop
+Seat 3: ZW121 folded on the Flop
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 collected (351)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 (button) folded on the Flop
+
+
+
+PokerStars Hand #232299035293: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:25:23 CET [2021/12/17 16:25:23 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (1020 in chips) 
+Seat 2: TinoPacino (1349 in chips) 
+Seat 3: ZW121 (1551 in chips) 
+Seat 4: konjakas (1519 in chips) 
+Seat 5: HollyBolly19 (2369 in chips) 
+Seat 6: ozdoba11 (1740 in chips) 
+Seat 7: KeinKönich (1306 in chips) 
+Seat 8: goiano89 (1424 in chips) 
+Seat 9: Dovgan86 (1222 in chips) 
+darkjf: posts the ante 4
+TinoPacino: posts the ante 4
+ZW121: posts the ante 4
+konjakas: posts the ante 4
+HollyBolly19: posts the ante 4
+ozdoba11: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts the ante 4
+Dovgan86: posts the ante 4
+TinoPacino: posts small blind 15
+ZW121: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Qc]
+konjakas: folds 
+HollyBolly19: folds 
+ozdoba11: calls 30
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: calls 30
+darkjf: raises 60 to 90
+TinoPacino: folds 
+ZW121: folds 
+ozdoba11: calls 60
+Dovgan86: calls 60
+*** FLOP *** [8h 5s Kd]
+ozdoba11: bets 90
+Dovgan86: folds 
+darkjf: calls 90
+*** TURN *** [8h 5s Kd] [Ac]
+ozdoba11: checks 
+darkjf: bets 836 and is all-in
+ozdoba11: folds 
+Uncalled bet (836) returned to darkjf
+darkjf collected 531 from pot
+darkjf: doesn't show hand 
+*** SUMMARY ***
+Total pot 531 | Rake 0 
+Board [8h 5s Kd Ac]
+Seat 1: darkjf (button) collected (531)
+Seat 2: TinoPacino (small blind) folded before Flop
+Seat 3: ZW121 (big blind) folded before Flop
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded on the Turn
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded on the Flop
+
+
+
+PokerStars Hand #232299065737: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:26:23 CET [2021/12/17 16:26:23 ET]
+Table '3322176866 1' 9-max Seat #2 is the button
+Seat 1: darkjf (1367 in chips) 
+Seat 2: TinoPacino (1330 in chips) 
+Seat 3: ZW121 (1517 in chips) 
+Seat 4: konjakas (1515 in chips) 
+Seat 5: HollyBolly19 (2365 in chips) 
+Seat 6: ozdoba11 (1556 in chips) 
+Seat 7: KeinKönich (1302 in chips) 
+Seat 8: goiano89 (1420 in chips) 
+Seat 9: Dovgan86 (1128 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+ZW121: posts small blind 25
+konjakas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 6s]
+HollyBolly19: calls 50
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: raises 229 to 279
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: folds 
+Uncalled bet (229) returned to Dovgan86
+Dovgan86 collected 229 from pot
+Dovgan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 229 | Rake 0 
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino (button) folded before Flop (didn't bet)
+Seat 3: ZW121 (small blind) folded before Flop
+Seat 4: konjakas (big blind) folded before Flop
+Seat 5: HollyBolly19 folded before Flop
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 collected (229)
+
+
+
+PokerStars Hand #232299089913: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:27:10 CET [2021/12/17 16:27:10 ET]
+Table '3322176866 1' 9-max Seat #3 is the button
+Seat 1: darkjf (1361 in chips) 
+Seat 2: TinoPacino (1324 in chips) 
+Seat 3: ZW121 (1486 in chips) 
+Seat 4: konjakas (1459 in chips) 
+Seat 5: HollyBolly19 (2309 in chips) 
+Seat 6: ozdoba11 (1550 in chips) 
+Seat 7: KeinKönich (1296 in chips) 
+Seat 8: goiano89 (1414 in chips) 
+Seat 9: Dovgan86 (1301 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+konjakas: posts small blind 25
+HollyBolly19: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Ah]
+ozdoba11: folds 
+KeinKönich: raises 75 to 125
+goiano89: folds 
+Dovgan86: raises 379 to 504
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: raises 1799 to 2303 and is all-in
+KeinKönich: folds 
+Dovgan86: calls 791 and is all-in
+Uncalled bet (1008) returned to HollyBolly19
+*** FLOP *** [Jd 4c Jh]
+*** TURN *** [Jd 4c Jh] [Qh]
+*** RIVER *** [Jd 4c Jh Qh] [3s]
+*** SHOW DOWN ***
+HollyBolly19: shows [Ts Tc] (two pair, Jacks and Tens)
+Dovgan86: shows [Qs Qd] (a full house, Queens full of Jacks)
+Dovgan86 collected 2794 from pot
+*** SUMMARY ***
+Total pot 2794 | Rake 0 
+Board [Jd 4c Jh Qh 3s]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 (button) folded before Flop (didn't bet)
+Seat 4: konjakas (small blind) folded before Flop
+Seat 5: HollyBolly19 (big blind) showed [Ts Tc] and lost with two pair, Jacks and Tens
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 showed [Qs Qd] and won (2794) with a full house, Queens full of Jacks
+
+
+
+PokerStars Hand #232299112000: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:27:45 CET [2021/12/17 16:27:45 ET]
+Table '3322176866 1' 9-max Seat #4 is the button
+Seat 1: darkjf (1355 in chips) 
+Seat 2: TinoPacino (1318 in chips) 
+Seat 3: ZW121 (1480 in chips) 
+Seat 4: konjakas (1428 in chips) 
+Seat 5: HollyBolly19 (1008 in chips) 
+Seat 6: ozdoba11 (1544 in chips) 
+Seat 7: KeinKönich (1165 in chips) 
+Seat 8: goiano89 (1408 in chips) 
+Seat 9: Dovgan86 (2794 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+HollyBolly19: posts small blind 25
+ozdoba11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc As]
+KeinKönich: raises 75 to 125
+goiano89: folds 
+Dovgan86: calls 125
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: calls 125
+HollyBolly19: folds 
+ozdoba11: folds 
+*** FLOP *** [2c 7s 8d]
+KeinKönich: checks 
+Dovgan86: checks 
+konjakas: bets 350
+KeinKönich: folds 
+Dovgan86: folds 
+Uncalled bet (350) returned to konjakas
+konjakas collected 504 from pot
+konjakas: doesn't show hand 
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [2c 7s 8d]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas (button) collected (504)
+Seat 5: HollyBolly19 (small blind) folded before Flop
+Seat 6: ozdoba11 (big blind) folded before Flop
+Seat 7: KeinKönich folded on the Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded on the Flop
+
+
+
+PokerStars Hand #232299143170: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:28:46 CET [2021/12/17 16:28:46 ET]
+Table '3322176866 1' 9-max Seat #5 is the button
+Seat 1: darkjf (1349 in chips) 
+Seat 2: TinoPacino (1312 in chips) 
+Seat 3: ZW121 (1474 in chips) 
+Seat 4: konjakas (1801 in chips) 
+Seat 5: HollyBolly19 (977 in chips) 
+Seat 6: ozdoba11 (1488 in chips) 
+Seat 7: KeinKönich (1034 in chips) 
+Seat 8: goiano89 (1402 in chips) 
+Seat 9: Dovgan86 (2663 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+ozdoba11: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 6s]
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: raises 70 to 120
+konjakas: calls 120
+HollyBolly19: raises 851 to 971 and is all-in
+ozdoba11: folds 
+KeinKönich: folds 
+ZW121: raises 497 to 1468 and is all-in
+konjakas: folds 
+Uncalled bet (497) returned to ZW121
+*** FLOP *** [5s 6h 3h]
+*** TURN *** [5s 6h 3h] [9s]
+*** RIVER *** [5s 6h 3h 9s] [Ac]
+*** SHOW DOWN ***
+ZW121: shows [Kh Kc] (a pair of Kings)
+HollyBolly19: shows [Qd Ad] (a pair of Aces)
+HollyBolly19 collected 2191 from pot
+*** SUMMARY ***
+Total pot 2191 | Rake 0 
+Board [5s 6h 3h 9s Ac]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 showed [Kh Kc] and lost with a pair of Kings
+Seat 4: konjakas folded before Flop
+Seat 5: HollyBolly19 (button) showed [Qd Ad] and won (2191) with a pair of Aces
+Seat 6: ozdoba11 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299173045: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:29:45 CET [2021/12/17 16:29:45 ET]
+Table '3322176866 1' 9-max Seat #6 is the button
+Seat 1: darkjf (1343 in chips) 
+Seat 2: TinoPacino (1306 in chips) 
+Seat 3: ZW121 (497 in chips) 
+Seat 4: konjakas (1675 in chips) 
+Seat 5: HollyBolly19 (2191 in chips) 
+Seat 6: ozdoba11 (1457 in chips) 
+Seat 7: KeinKönich (978 in chips) 
+Seat 8: goiano89 (1396 in chips) 
+Seat 9: Dovgan86 (2657 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+KeinKönich: posts small blind 25
+goiano89: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Qc]
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: calls 50
+ozdoba11: calls 50
+KeinKönich: calls 25
+goiano89: checks 
+*** FLOP *** [5d 7h Qs]
+KeinKönich: checks 
+goiano89: checks 
+HollyBolly19: checks 
+ozdoba11: checks 
+*** TURN *** [5d 7h Qs] [Ks]
+KeinKönich: bets 200
+goiano89: folds 
+HollyBolly19: folds 
+ozdoba11: folds 
+Uncalled bet (200) returned to KeinKönich
+KeinKönich collected 254 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 254 | Rake 0 
+Board [5d 7h Qs Ks]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded on the Turn
+Seat 6: ozdoba11 (button) folded on the Turn
+Seat 7: KeinKönich (small blind) collected (254)
+Seat 8: goiano89 (big blind) folded on the Turn
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299204879: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:30:47 CET [2021/12/17 16:30:47 ET]
+Table '3322176866 1' 9-max Seat #7 is the button
+Seat 1: darkjf (1337 in chips) 
+Seat 2: TinoPacino (1300 in chips) 
+Seat 3: ZW121 (491 in chips) 
+Seat 4: konjakas (1669 in chips) 
+Seat 5: HollyBolly19 (2135 in chips) 
+Seat 6: ozdoba11 (1401 in chips) 
+Seat 7: KeinKönich (1176 in chips) 
+Seat 8: goiano89 (1340 in chips) 
+Seat 9: Dovgan86 (2651 in chips) 
+darkjf: posts the ante 6
+TinoPacino: posts the ante 6
+ZW121: posts the ante 6
+konjakas: posts the ante 6
+HollyBolly19: posts the ante 6
+ozdoba11: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts the ante 6
+Dovgan86: posts the ante 6
+goiano89: posts small blind 25
+Dovgan86: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 6c]
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: calls 50
+ozdoba11: calls 50
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: checks 
+*** FLOP *** [Jd 6d 2h]
+Dovgan86: bets 115
+HollyBolly19: raises 115 to 230
+ozdoba11: folds 
+Dovgan86: calls 115
+*** TURN *** [Jd 6d 2h] [Qs]
+Dovgan86: checks 
+HollyBolly19: bets 650
+Dovgan86: folds 
+Uncalled bet (650) returned to HollyBolly19
+HollyBolly19 collected 689 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 689 | Rake 0 
+Board [Jd 6d 2h Qs]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 collected (689)
+Seat 6: ozdoba11 folded on the Flop
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: goiano89 (small blind) folded before Flop
+Seat 9: Dovgan86 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232299243908: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:32:03 CET [2021/12/17 16:32:03 ET]
+Table '3322176866 1' 9-max Seat #8 is the button
+Seat 1: darkjf (1331 in chips) 
+Seat 2: TinoPacino (1294 in chips) 
+Seat 3: ZW121 (485 in chips) 
+Seat 4: konjakas (1663 in chips) 
+Seat 5: HollyBolly19 (2538 in chips) 
+Seat 6: ozdoba11 (1345 in chips) 
+Seat 7: KeinKönich (1170 in chips) 
+Seat 8: goiano89 (1309 in chips) 
+Seat 9: Dovgan86 (2365 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+Dovgan86: posts small blind 40
+darkjf: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 7d]
+TinoPacino: folds 
+ZW121: folds 
+konjakas: raises 160 to 240
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: folds 
+darkjf: calls 160
+*** FLOP *** [5d 6d 6c]
+darkjf: checks 
+konjakas: bets 305
+darkjf: raises 776 to 1081 and is all-in
+konjakas: calls 776
+*** TURN *** [5d 6d 6c] [Ad]
+*** RIVER *** [5d 6d 6c Ad] [7c]
+*** SHOW DOWN ***
+darkjf: shows [Qh As] (two pair, Aces and Sixes)
+konjakas: shows [Qs Ah] (two pair, Aces and Sixes)
+darkjf collected 1386 from pot
+konjakas collected 1386 from pot
+*** SUMMARY ***
+Total pot 2772 | Rake 0 
+Board [5d 6d 6c Ad 7c]
+Seat 1: darkjf (big blind) showed [Qh As] and won (1386) with two pair, Aces and Sixes
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas showed [Qs Ah] and won (1386) with two pair, Aces and Sixes
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 (button) folded before Flop (didn't bet)
+Seat 9: Dovgan86 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299272201: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:32:58 CET [2021/12/17 16:32:58 ET]
+Table '3322176866 1' 9-max Seat #9 is the button
+Seat 1: darkjf (1386 in chips) 
+Seat 2: TinoPacino (1284 in chips) 
+Seat 3: ZW121 (475 in chips) 
+Seat 4: konjakas (1718 in chips) 
+Seat 5: HollyBolly19 (2528 in chips) 
+Seat 6: ozdoba11 (1335 in chips) 
+Seat 7: KeinKönich (1160 in chips) 
+Seat 8: goiano89 (1299 in chips) 
+Seat 9: Dovgan86 (2315 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+darkjf: posts small blind 40
+TinoPacino: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 8c]
+ZW121: folds 
+konjakas: folds 
+HollyBolly19: folds 
+ozdoba11: calls 80
+KeinKönich: raises 1070 to 1150 and is all-in
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ozdoba11: folds 
+Uncalled bet (1070) returned to KeinKönich
+KeinKönich collected 370 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: darkjf (small blind) folded before Flop
+Seat 2: TinoPacino (big blind) folded before Flop
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop
+Seat 7: KeinKönich collected (370)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299295749: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:33:45 CET [2021/12/17 16:33:45 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (1336 in chips) 
+Seat 2: TinoPacino (1194 in chips) 
+Seat 3: ZW121 (465 in chips) 
+Seat 4: konjakas (1708 in chips) 
+Seat 5: HollyBolly19 (2518 in chips) 
+Seat 6: ozdoba11 (1245 in chips) 
+Seat 7: KeinKönich (1440 in chips) 
+Seat 8: goiano89 (1289 in chips) 
+Seat 9: Dovgan86 (2305 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+TinoPacino: posts small blind 40
+ZW121: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Tc]
+konjakas: raises 160 to 240
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: calls 160
+*** FLOP *** [9c 6d Js]
+ZW121: checks 
+konjakas: bets 610
+ZW121: calls 215 and is all-in
+Uncalled bet (395) returned to konjakas
+*** TURN *** [9c 6d Js] [7h]
+*** RIVER *** [9c 6d Js 7h] [6c]
+*** SHOW DOWN ***
+ZW121: shows [Qd Jc] (two pair, Jacks and Sixes)
+konjakas: shows [Ac Kd] (a pair of Sixes)
+ZW121 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [9c 6d Js 7h 6c]
+Seat 1: darkjf (button) folded before Flop (didn't bet)
+Seat 2: TinoPacino (small blind) folded before Flop
+Seat 3: ZW121 (big blind) showed [Qd Jc] and won (1040) with two pair, Jacks and Sixes
+Seat 4: konjakas showed [Ac Kd] and lost with a pair of Sixes
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299322698: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:34:38 CET [2021/12/17 16:34:38 ET]
+Table '3322176866 1' 9-max Seat #2 is the button
+Seat 1: darkjf (1326 in chips) 
+Seat 2: TinoPacino (1144 in chips) 
+Seat 3: ZW121 (1040 in chips) 
+Seat 4: konjakas (1243 in chips) 
+Seat 5: HollyBolly19 (2508 in chips) 
+Seat 6: ozdoba11 (1235 in chips) 
+Seat 7: KeinKönich (1430 in chips) 
+Seat 8: goiano89 (1279 in chips) 
+Seat 9: Dovgan86 (2295 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+ZW121: posts small blind 40
+konjakas: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 8c]
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: raises 80 to 160
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 290 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino (button) folded before Flop (didn't bet)
+Seat 3: ZW121 (small blind) folded before Flop
+Seat 4: konjakas (big blind) folded before Flop
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (290)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299333174: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:34:59 CET [2021/12/17 16:34:59 ET]
+Table '3322176866 1' 9-max Seat #3 is the button
+Seat 1: darkjf (1316 in chips) 
+Seat 2: TinoPacino (1134 in chips) 
+Seat 3: ZW121 (990 in chips) 
+Seat 4: konjakas (1153 in chips) 
+Seat 5: HollyBolly19 (2498 in chips) 
+Seat 6: ozdoba11 (1225 in chips) 
+Seat 7: KeinKönich (1630 in chips) 
+Seat 8: goiano89 (1269 in chips) 
+Seat 9: Dovgan86 (2285 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+konjakas: posts small blind 40
+HollyBolly19: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 8s]
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: calls 80
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: calls 40
+HollyBolly19: raises 480 to 560
+Dovgan86: folds 
+konjakas: folds 
+Uncalled bet (480) returned to HollyBolly19
+HollyBolly19 collected 330 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 (button) folded before Flop (didn't bet)
+Seat 4: konjakas (small blind) folded before Flop
+Seat 5: HollyBolly19 (big blind) collected (330)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop
+
+
+
+PokerStars Hand #232299356567: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:35:45 CET [2021/12/17 16:35:45 ET]
+Table '3322176866 1' 9-max Seat #4 is the button
+Seat 1: darkjf (1306 in chips) 
+Seat 2: TinoPacino (1124 in chips) 
+Seat 3: ZW121 (980 in chips) 
+Seat 4: konjakas (1063 in chips) 
+Seat 5: HollyBolly19 (2738 in chips) 
+Seat 6: ozdoba11 (1215 in chips) 
+Seat 7: KeinKönich (1620 in chips) 
+Seat 8: goiano89 (1259 in chips) 
+Seat 9: Dovgan86 (2195 in chips) 
+darkjf: posts the ante 10
+TinoPacino: posts the ante 10
+ZW121: posts the ante 10
+konjakas: posts the ante 10
+HollyBolly19: posts the ante 10
+ozdoba11: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts the ante 10
+Dovgan86: posts the ante 10
+HollyBolly19: posts small blind 40
+ozdoba11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 8d]
+KeinKönich: folds 
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: folds 
+konjakas: raises 160 to 240
+HollyBolly19: calls 200
+ozdoba11: calls 160
+*** FLOP *** [Ah Tc 7d]
+HollyBolly19: checks 
+ozdoba11: bets 240
+konjakas: folds 
+HollyBolly19: folds 
+Uncalled bet (240) returned to ozdoba11
+ozdoba11 collected 810 from pot
+ozdoba11: doesn't show hand 
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [Ah Tc 7d]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 folded before Flop (didn't bet)
+Seat 4: konjakas (button) folded on the Flop
+Seat 5: HollyBolly19 (small blind) folded on the Flop
+Seat 6: ozdoba11 (big blind) collected (810)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299380795: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:36:34 CET [2021/12/17 16:36:34 ET]
+Table '3322176866 1' 9-max Seat #5 is the button
+Seat 1: darkjf (1296 in chips) 
+Seat 2: TinoPacino (1114 in chips) 
+Seat 3: ZW121 (970 in chips) 
+Seat 4: konjakas (813 in chips) 
+Seat 5: HollyBolly19 (2488 in chips) 
+Seat 6: ozdoba11 (1775 in chips) 
+Seat 7: KeinKönich (1610 in chips) 
+Seat 8: goiano89 (1249 in chips) 
+Seat 9: Dovgan86 (2185 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+ZW121: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+Dovgan86: posts the ante 15
+ozdoba11: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 9h]
+goiano89: folds 
+Dovgan86: folds 
+darkjf: folds 
+TinoPacino: folds 
+ZW121: raises 240 to 360
+konjakas: raises 438 to 798 and is all-in
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+ZW121: calls 438
+*** FLOP *** [Td Qd Jh]
+*** TURN *** [Td Qd Jh] [5d]
+*** RIVER *** [Td Qd Jh 5d] [Qc]
+*** SHOW DOWN ***
+ZW121: shows [Ks Qs] (three of a kind, Queens)
+konjakas: shows [Jd Kd] (a flush, King high)
+konjakas collected 1911 from pot
+*** SUMMARY ***
+Total pot 1911 | Rake 0 
+Board [Td Qd Jh 5d Qc]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 showed [Ks Qs] and lost with three of a kind, Queens
+Seat 4: konjakas showed [Jd Kd] and won (1911) with a flush, King high
+Seat 5: HollyBolly19 (button) folded before Flop (didn't bet)
+Seat 6: ozdoba11 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: Dovgan86 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299407473: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:37:27 CET [2021/12/17 16:37:27 ET]
+Table '3322176866 1' 9-max Seat #6 is the button
+Seat 1: darkjf (1281 in chips) 
+Seat 2: TinoPacino (1099 in chips) 
+Seat 3: ZW121 (157 in chips) 
+Seat 4: konjakas (1911 in chips) 
+Seat 5: HollyBolly19 (2473 in chips) 
+Seat 6: ozdoba11 (1700 in chips) 
+Seat 7: KeinKönich (1475 in chips) 
+Seat 8: goiano89 (1234 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+ZW121: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+KeinKönich: posts small blind 60
+goiano89: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Kd]
+darkjf: folds 
+TinoPacino: folds 
+ZW121: calls 120
+konjakas: calls 120
+HollyBolly19: calls 120
+ozdoba11: calls 120
+KeinKönich: folds 
+goiano89: checks 
+*** FLOP *** [3h 8d Jc]
+goiano89: checks 
+ZW121: checks 
+konjakas: checks 
+HollyBolly19: bets 840
+ozdoba11: folds 
+goiano89: folds 
+ZW121: calls 22 and is all-in
+konjakas: folds [8h]
+Uncalled bet (818) returned to HollyBolly19
+*** TURN *** [3h 8d Jc] [7d]
+*** RIVER *** [3h 8d Jc 7d] [2c]
+*** SHOW DOWN ***
+ZW121: shows [9d 7c] (a pair of Sevens)
+HollyBolly19: shows [Ks 8s] (a pair of Eights)
+HollyBolly19 collected 824 from pot
+ZW121 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 824 | Rake 0 
+Board [3h 8d Jc 7d 2c]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 3: ZW121 showed [9d 7c] and lost with a pair of Sevens
+Seat 4: konjakas folded on the Flop
+Seat 5: HollyBolly19 showed [Ks 8s] and won (824) with a pair of Eights
+Seat 6: ozdoba11 (button) folded on the Flop
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: goiano89 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299449922: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:38:35 CET [2021/12/17 16:38:35 ET]
+Table '3322176866 1' 9-max Seat #7 is the button
+Seat 1: darkjf (1266 in chips) 
+Seat 2: TinoPacino (1084 in chips) 
+Seat 4: konjakas (1776 in chips) 
+Seat 5: HollyBolly19 (3140 in chips) 
+Seat 6: ozdoba11 (1565 in chips) 
+Seat 7: KeinKönich (1400 in chips) 
+Seat 8: goiano89 (1099 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+goiano89: posts small blind 60
+darkjf: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 3d]
+TinoPacino: folds 
+konjakas: folds 
+HollyBolly19: calls 120
+ozdoba11: folds 
+KeinKönich: raises 1265 to 1385 and is all-in
+goiano89: folds 
+darkjf: folds 
+HollyBolly19: folds 
+Uncalled bet (1265) returned to KeinKönich
+KeinKönich collected 525 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: darkjf (big blind) folded before Flop
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) collected (525)
+Seat 8: goiano89 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299465750: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:39:07 CET [2021/12/17 16:39:07 ET]
+Table '3322176866 1' 9-max Seat #8 is the button
+Seat 1: darkjf (1131 in chips) 
+Seat 2: TinoPacino (1069 in chips) 
+Seat 4: konjakas (1761 in chips) 
+Seat 5: HollyBolly19 (3005 in chips) 
+Seat 6: ozdoba11 (1550 in chips) 
+Seat 7: KeinKönich (1790 in chips) 
+Seat 8: goiano89 (1024 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+darkjf: posts small blind 60
+TinoPacino: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Kc]
+konjakas: folds 
+HollyBolly19: folds 
+ozdoba11: raises 120 to 240
+KeinKönich: folds 
+goiano89: raises 769 to 1009 and is all-in
+darkjf: folds 
+TinoPacino: folds 
+ozdoba11: folds 
+Uncalled bet (769) returned to goiano89
+goiano89 collected 765 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 765 | Rake 0 
+Seat 1: darkjf (small blind) folded before Flop
+Seat 2: TinoPacino (big blind) folded before Flop
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 (button) collected (765)
+
+
+
+PokerStars Hand #232299478934: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:39:33 CET [2021/12/17 16:39:33 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (1056 in chips) 
+Seat 2: TinoPacino (934 in chips) 
+Seat 4: konjakas (1746 in chips) 
+Seat 5: HollyBolly19 (2990 in chips) 
+Seat 6: ozdoba11 (1295 in chips) 
+Seat 7: KeinKönich (1775 in chips) 
+Seat 8: goiano89 (1534 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+TinoPacino: posts small blind 60
+konjakas: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Tc]
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+darkjf: folds 
+TinoPacino: raises 799 to 919 and is all-in
+konjakas: calls 799
+*** FLOP *** [3s 2c 5d]
+*** TURN *** [3s 2c 5d] [9s]
+*** RIVER *** [3s 2c 5d 9s] [Kh]
+*** SHOW DOWN ***
+TinoPacino: shows [Td Qs] (high card King)
+konjakas: shows [Th Jh] (high card King - lower kicker)
+TinoPacino collected 1943 from pot
+*** SUMMARY ***
+Total pot 1943 | Rake 0 
+Board [3s 2c 5d 9s Kh]
+Seat 1: darkjf (button) folded before Flop (didn't bet)
+Seat 2: TinoPacino (small blind) showed [Td Qs] and won (1943) with high card King
+Seat 4: konjakas (big blind) showed [Th Jh] and lost with high card King
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299492777: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:40:01 CET [2021/12/17 16:40:01 ET]
+Table '3322176866 1' 9-max Seat #2 is the button
+Seat 1: darkjf (1041 in chips) 
+Seat 2: TinoPacino (1943 in chips) 
+Seat 4: konjakas (812 in chips) 
+Seat 5: HollyBolly19 (2975 in chips) 
+Seat 6: ozdoba11 (1280 in chips) 
+Seat 7: KeinKönich (1760 in chips) 
+Seat 8: goiano89 (1519 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+konjakas: posts small blind 60
+HollyBolly19: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 2c]
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+darkjf: folds 
+TinoPacino: raises 1808 to 1928 and is all-in
+konjakas: calls 737 and is all-in
+HollyBolly19: folds 
+Uncalled bet (1131) returned to TinoPacino
+*** FLOP *** [8d 6h 3d]
+*** TURN *** [8d 6h 3d] [Jh]
+*** RIVER *** [8d 6h 3d Jh] [Kc]
+*** SHOW DOWN ***
+konjakas: shows [Ac Th] (high card Ace)
+TinoPacino: shows [9c Ts] (high card King)
+konjakas collected 1819 from pot
+*** SUMMARY ***
+Total pot 1819 | Rake 0 
+Board [8d 6h 3d Jh Kc]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino (button) showed [9c Ts] and lost with high card King
+Seat 4: konjakas (small blind) showed [Ac Th] and won (1819) with high card Ace
+Seat 5: HollyBolly19 (big blind) folded before Flop
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299512457: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:40:40 CET [2021/12/17 16:40:40 ET]
+Table '3322176866 1' 9-max Seat #4 is the button
+Seat 1: darkjf (1026 in chips) 
+Seat 2: TinoPacino (1131 in chips) 
+Seat 4: konjakas (1819 in chips) 
+Seat 5: HollyBolly19 (2840 in chips) 
+Seat 6: ozdoba11 (1265 in chips) 
+Seat 7: KeinKönich (1745 in chips) 
+Seat 8: goiano89 (1504 in chips) 
+darkjf: posts the ante 15
+TinoPacino: posts the ante 15
+konjakas: posts the ante 15
+HollyBolly19: posts the ante 15
+ozdoba11: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts the ante 15
+HollyBolly19: posts small blind 60
+ozdoba11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Ts]
+KeinKönich: folds 
+goiano89: folds 
+darkjf: folds 
+TinoPacino: folds 
+konjakas: raises 120 to 240
+HollyBolly19: calls 180
+ozdoba11: calls 120
+*** FLOP *** [8h Jd 6d]
+HollyBolly19: bets 480
+ozdoba11: folds 
+konjakas: folds 
+Uncalled bet (480) returned to HollyBolly19
+HollyBolly19 collected 825 from pot
+HollyBolly19: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [8h Jd 6d]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 4: konjakas (button) folded on the Flop
+Seat 5: HollyBolly19 (small blind) collected (825)
+Seat 6: ozdoba11 (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299531807: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:41:19 CET [2021/12/17 16:41:19 ET]
+Table '3322176866 1' 9-max Seat #5 is the button
+Seat 1: darkjf (1011 in chips) 
+Seat 2: TinoPacino (1116 in chips) 
+Seat 4: konjakas (1564 in chips) 
+Seat 5: HollyBolly19 (3410 in chips) 
+Seat 6: ozdoba11 (1010 in chips) 
+Seat 7: KeinKönich (1730 in chips) 
+Seat 8: goiano89 (1489 in chips) 
+darkjf: posts the ante 20
+TinoPacino: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts the ante 20
+ozdoba11: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 8d]
+goiano89: folds 
+darkjf: raises 831 to 991 and is all-in
+TinoPacino: folds 
+konjakas: raises 553 to 1544 and is all-in
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+Uncalled bet (553) returned to konjakas
+*** FLOP *** [3s 6h 2c]
+*** TURN *** [3s 6h 2c] [Qs]
+*** RIVER *** [3s 6h 2c Qs] [7h]
+*** SHOW DOWN ***
+darkjf: shows [Kd Qh] (a pair of Queens)
+konjakas: shows [Qd Ks] (a pair of Queens)
+darkjf collected 1181 from pot
+konjakas collected 1181 from pot
+*** SUMMARY ***
+Total pot 2362 | Rake 0 
+Board [3s 6h 2c Qs 7h]
+Seat 1: darkjf showed [Kd Qh] and won (1181) with a pair of Queens
+Seat 2: TinoPacino folded before Flop (didn't bet)
+Seat 4: konjakas showed [Qd Ks] and won (1181) with a pair of Queens
+Seat 5: HollyBolly19 (button) folded before Flop (didn't bet)
+Seat 6: ozdoba11 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299547099: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:41:50 CET [2021/12/17 16:41:50 ET]
+Table '3322176866 1' 9-max Seat #6 is the button
+Seat 1: darkjf (1181 in chips) 
+Seat 2: TinoPacino (1096 in chips) 
+Seat 4: konjakas (1734 in chips) 
+Seat 5: HollyBolly19 (3390 in chips) 
+Seat 6: ozdoba11 (910 in chips) 
+Seat 7: KeinKönich (1550 in chips) 
+Seat 8: goiano89 (1469 in chips) 
+darkjf: posts the ante 20
+TinoPacino: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts the ante 20
+KeinKönich: posts small blind 80
+goiano89: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 4c]
+darkjf: folds 
+TinoPacino: raises 916 to 1076 and is all-in
+konjakas: folds 
+HollyBolly19: calls 1076
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: folds 
+*** FLOP *** [6d 2c 2h]
+*** TURN *** [6d 2c 2h] [Th]
+*** RIVER *** [6d 2c 2h Th] [7h]
+*** SHOW DOWN ***
+TinoPacino: shows [3c Kh] (a pair of Deuces)
+HollyBolly19: shows [Ac 9s] (a pair of Deuces - Ace kicker)
+HollyBolly19 collected 2532 from pot
+TinoPacino finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2532 | Rake 0 
+Board [6d 2c 2h Th 7h]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 2: TinoPacino showed [3c Kh] and lost with a pair of Deuces
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 showed [Ac 9s] and won (2532) with a pair of Deuces
+Seat 6: ozdoba11 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: goiano89 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299561349: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:42:19 CET [2021/12/17 16:42:19 ET]
+Table '3322176866 1' 9-max Seat #7 is the button
+Seat 1: darkjf (1161 in chips) 
+Seat 4: konjakas (1714 in chips) 
+Seat 5: HollyBolly19 (4826 in chips) 
+Seat 6: ozdoba11 (890 in chips) 
+Seat 7: KeinKönich (1450 in chips) 
+Seat 8: goiano89 (1289 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts the ante 20
+goiano89: posts small blind 80
+darkjf: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 3h]
+konjakas: folds 
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: raises 1109 to 1269 and is all-in
+darkjf: calls 981 and is all-in
+Uncalled bet (128) returned to goiano89
+*** FLOP *** [4s 9h 7d]
+*** TURN *** [4s 9h 7d] [Td]
+*** RIVER *** [4s 9h 7d Td] [7s]
+*** SHOW DOWN ***
+goiano89: shows [3d Kc] (a pair of Sevens)
+darkjf: shows [Kd Ks] (two pair, Kings and Sevens)
+darkjf collected 2402 from pot
+*** SUMMARY ***
+Total pot 2402 | Rake 0 
+Board [4s 9h 7d Td 7s]
+Seat 1: darkjf (big blind) showed [Kd Ks] and won (2402) with two pair, Kings and Sevens
+Seat 4: konjakas folded before Flop (didn't bet)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: goiano89 (small blind) showed [3d Kc] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #232299573997: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:42:44 CET [2021/12/17 16:42:44 ET]
+Table '3322176866 1' 9-max Seat #8 is the button
+Seat 1: darkjf (2402 in chips) 
+Seat 4: konjakas (1694 in chips) 
+Seat 5: HollyBolly19 (4806 in chips) 
+Seat 6: ozdoba11 (870 in chips) 
+Seat 7: KeinKönich (1430 in chips) 
+Seat 8: goiano89 (128 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts the ante 20
+darkjf: posts small blind 80
+konjakas: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Kc]
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: raises 1250 to 1410 and is all-in
+goiano89: calls 108 and is all-in
+darkjf: folds 
+konjakas: folds 
+Uncalled bet (1250) returned to KeinKönich
+*** FLOP *** [Ks Th Jh]
+*** TURN *** [Ks Th Jh] [Ac]
+*** RIVER *** [Ks Th Jh Ac] [5c]
+*** SHOW DOWN ***
+KeinKönich: shows [9c Kc] (a pair of Kings)
+KeinKönich collected 104 from side pot
+goiano89: shows [As 6c] (a pair of Aces)
+goiano89 collected 524 from main pot
+*** SUMMARY ***
+Total pot 628 Main pot 524. Side pot 104. | Rake 0 
+Board [Ks Th Jh Ac 5c]
+Seat 1: darkjf (small blind) folded before Flop
+Seat 4: konjakas (big blind) folded before Flop
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich showed [9c Kc] and won (104) with a pair of Kings
+Seat 8: goiano89 (button) showed [As 6c] and won (524) with a pair of Aces
+
+
+
+PokerStars Hand #232299588509: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:43:13 CET [2021/12/17 16:43:13 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (2302 in chips) 
+Seat 4: konjakas (1514 in chips) 
+Seat 5: HollyBolly19 (4786 in chips) 
+Seat 6: ozdoba11 (850 in chips) 
+Seat 7: KeinKönich (1354 in chips) 
+Seat 8: goiano89 (524 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts the ante 20
+konjakas: posts small blind 80
+HollyBolly19: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h Jh]
+ozdoba11: folds 
+KeinKönich: folds 
+goiano89: raises 344 to 504 and is all-in
+darkjf: folds 
+konjakas: raises 990 to 1494 and is all-in
+HollyBolly19: folds 
+Uncalled bet (990) returned to konjakas
+*** FLOP *** [Qc 6d Qh]
+*** TURN *** [Qc 6d Qh] [Tc]
+*** RIVER *** [Qc 6d Qh Tc] [4d]
+*** SHOW DOWN ***
+konjakas: shows [Ac Js] (a pair of Queens)
+goiano89: shows [Ks 8d] (a pair of Queens - lower kicker)
+konjakas collected 1288 from pot
+goiano89 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 1288 | Rake 0 
+Board [Qc 6d Qh Tc 4d]
+Seat 1: darkjf (button) folded before Flop (didn't bet)
+Seat 4: konjakas (small blind) showed [Ac Js] and won (1288) with a pair of Queens
+Seat 5: HollyBolly19 (big blind) folded before Flop
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 showed [Ks 8d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #232299600496: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:43:37 CET [2021/12/17 16:43:37 ET]
+Table '3322176866 1' 9-max Seat #4 is the button
+Seat 1: darkjf (2282 in chips) 
+Seat 4: konjakas (2278 in chips) 
+Seat 5: HollyBolly19 (4606 in chips) 
+Seat 6: ozdoba11 (830 in chips) 
+Seat 7: KeinKönich (1334 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+HollyBolly19: posts small blind 80
+ozdoba11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Ad]
+KeinKönich: raises 1154 to 1314 and is all-in
+darkjf: folds 
+konjakas: folds 
+HollyBolly19: calls 1234
+ozdoba11: calls 650 and is all-in
+*** FLOP *** [8c 7s Ah]
+*** TURN *** [8c 7s Ah] [Js]
+*** RIVER *** [8c 7s Ah Js] [6h]
+*** SHOW DOWN ***
+HollyBolly19: shows [9c 9s] (a pair of Nines)
+KeinKönich: shows [8d Ad] (two pair, Aces and Eights)
+KeinKönich collected 1008 from side pot
+ozdoba11: shows [Jd Jh] (three of a kind, Jacks)
+ozdoba11 collected 2530 from main pot
+*** SUMMARY ***
+Total pot 3538 Main pot 2530. Side pot 1008. | Rake 0 
+Board [8c 7s Ah Js 6h]
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 4: konjakas (button) folded before Flop (didn't bet)
+Seat 5: HollyBolly19 (small blind) showed [9c 9s] and lost with a pair of Nines
+Seat 6: ozdoba11 (big blind) showed [Jd Jh] and won (2530) with three of a kind, Jacks
+Seat 7: KeinKönich showed [8d Ad] and won (1008) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #232299618020: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:44:12 CET [2021/12/17 16:44:12 ET]
+Table '3322176866 1' 9-max Seat #5 is the button
+Seat 1: darkjf (2262 in chips) 
+Seat 4: konjakas (2258 in chips) 
+Seat 5: HollyBolly19 (3272 in chips) 
+Seat 6: ozdoba11 (2530 in chips) 
+Seat 7: KeinKönich (1008 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+ozdoba11: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 8h]
+darkjf: folds 
+konjakas: raises 320 to 480
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+Uncalled bet (320) returned to konjakas
+konjakas collected 500 from pot
+konjakas: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: darkjf folded before Flop (didn't bet)
+Seat 4: konjakas collected (500)
+Seat 5: HollyBolly19 (button) folded before Flop (didn't bet)
+Seat 6: ozdoba11 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299626590: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:44:29 CET [2021/12/17 16:44:29 ET]
+Table '3322176866 1' 9-max Seat #6 is the button
+Seat 1: darkjf (2242 in chips) 
+Seat 4: konjakas (2578 in chips) 
+Seat 5: HollyBolly19 (3252 in chips) 
+Seat 6: ozdoba11 (2430 in chips) 
+Seat 7: KeinKönich (828 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+KeinKönich: posts small blind 80
+darkjf: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Kh]
+konjakas: raises 160 to 320
+HollyBolly19: folds 
+ozdoba11: folds 
+KeinKönich: folds 
+darkjf: folds 
+Uncalled bet (160) returned to konjakas
+konjakas collected 500 from pot
+konjakas: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: darkjf (big blind) folded before Flop
+Seat 4: konjakas collected (500)
+Seat 5: HollyBolly19 folded before Flop (didn't bet)
+Seat 6: ozdoba11 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299637015: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:44:50 CET [2021/12/17 16:44:50 ET]
+Table '3322176866 1' 9-max Seat #7 is the button
+Seat 1: darkjf (2062 in chips) 
+Seat 4: konjakas (2898 in chips) 
+Seat 5: HollyBolly19 (3232 in chips) 
+Seat 6: ozdoba11 (2410 in chips) 
+Seat 7: KeinKönich (728 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+darkjf: posts small blind 80
+konjakas: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8h]
+HollyBolly19: calls 160
+ozdoba11: folds 
+KeinKönich: folds 
+darkjf: folds 
+konjakas: raises 2718 to 2878 and is all-in
+HollyBolly19: folds 
+Uncalled bet (2718) returned to konjakas
+konjakas collected 500 from pot
+konjakas: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: darkjf (small blind) folded before Flop
+Seat 4: konjakas (big blind) collected (500)
+Seat 5: HollyBolly19 folded before Flop
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299658032: Tournament #3322176866, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:45:17 CET [2021/12/17 16:45:17 ET]
+Table '3322176866 1' 9-max Seat #1 is the button
+Seat 1: darkjf (1962 in chips) 
+Seat 4: konjakas (3218 in chips) 
+Seat 5: HollyBolly19 (3052 in chips) 
+Seat 6: ozdoba11 (2390 in chips) 
+Seat 7: KeinKönich (708 in chips) 
+darkjf: posts the ante 20
+konjakas: posts the ante 20
+HollyBolly19: posts the ante 20
+ozdoba11: posts the ante 20
+KeinKönich: posts the ante 20
+konjakas: posts small blind 80
+HollyBolly19: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 7d]
+ozdoba11: folds 
+KeinKönich: raises 400 to 560
+darkjf: folds 
+konjakas: folds 
+HollyBolly19: raises 400 to 960
+KeinKönich: calls 128 and is all-in
+Uncalled bet (272) returned to HollyBolly19
+*** FLOP *** [Ad Jc 4c]
+*** TURN *** [Ad Jc 4c] [6c]
+*** RIVER *** [Ad Jc 4c 6c] [4h]
+*** SHOW DOWN ***
+HollyBolly19: shows [8h 8s] (two pair, Eights and Fours)
+KeinKönich: shows [9d 7d] (a pair of Fours)
+HollyBolly19 collected 1556 from pot
+*** SUMMARY ***
+Total pot 1556 | Rake 0 
+Board [Ad Jc 4c 6c 4h]
+Seat 1: darkjf (button) folded before Flop (didn't bet)
+Seat 4: konjakas (small blind) folded before Flop
+Seat 5: HollyBolly19 (big blind) showed [8h 8s] and won (1556) with two pair, Eights and Fours
+Seat 6: ozdoba11 folded before Flop (didn't bet)
+Seat 7: KeinKönich showed [9d 7d] and lost with a pair of Fours
+
+
+

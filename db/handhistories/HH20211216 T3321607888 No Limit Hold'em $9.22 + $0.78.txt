@@ -1,0 +1,1584 @@
+ï»¿PokerStars Hand #232275258428: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:52:53 CET [2021/12/16 17:52:53 ET]
+Table '3321607888 2' 9-max Seat #1 is the button
+Seat 1: marcaurel11 (1500 in chips) 
+Seat 2: Mikson92 (1500 in chips) 
+Seat 3: Damogrinder (1500 in chips) 
+Seat 4: doofus66 (1500 in chips) 
+Seat 5: KeinKönich (1500 in chips) 
+Seat 6: accountant1218 (1500 in chips) 
+Seat 7: vonBaranow (1500 in chips) 
+Seat 8: vol.c.man21 (1500 in chips) 
+Seat 9: GLADYUCHA (1500 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+Mikson92: posts small blind 10
+Damogrinder: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Jh]
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Uncalled bet (10) returned to Damogrinder
+Damogrinder collected 47 from pot
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 3: Damogrinder (big blind) collected (47)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275266775: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:53:13 CET [2021/12/16 17:53:13 ET]
+Table '3321607888 2' 9-max Seat #2 is the button
+Seat 1: marcaurel11 (1497 in chips) 
+Seat 2: Mikson92 (1487 in chips) 
+Seat 3: Damogrinder (1534 in chips) 
+Seat 4: doofus66 (1497 in chips) 
+Seat 5: KeinKönich (1497 in chips) 
+Seat 6: accountant1218 (1497 in chips) 
+Seat 7: vonBaranow (1497 in chips) 
+Seat 8: vol.c.man21 (1497 in chips) 
+Seat 9: GLADYUCHA (1497 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+Damogrinder: posts small blind 10
+doofus66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h Kc]
+KeinKönich: folds 
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: raises 30 to 50
+Damogrinder: folds 
+doofus66: raises 137 to 187
+Mikson92: folds 
+Uncalled bet (137) returned to doofus66
+doofus66 collected 137 from pot
+doofus66: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 (button) folded before Flop
+Seat 3: Damogrinder (small blind) folded before Flop
+Seat 4: doofus66 (big blind) collected (137)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275275433: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:53:33 CET [2021/12/16 17:53:33 ET]
+Table '3321607888 2' 9-max Seat #3 is the button
+Seat 1: marcaurel11 (1494 in chips) 
+Seat 2: Mikson92 (1434 in chips) 
+Seat 3: Damogrinder (1521 in chips) 
+Seat 4: doofus66 (1581 in chips) 
+Seat 5: KeinKönich (1494 in chips) 
+Seat 6: accountant1218 (1494 in chips) 
+Seat 7: vonBaranow (1494 in chips) 
+Seat 8: vol.c.man21 (1494 in chips) 
+Seat 9: GLADYUCHA (1494 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+doofus66: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 8s]
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: raises 20 to 40
+GLADYUCHA: raises 20 to 60
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 60
+doofus66: folds 
+KeinKönich: folds 
+vol.c.man21: calls 20
+*** FLOP *** [3c Tc 4s]
+vol.c.man21: checks 
+GLADYUCHA: bets 260
+Damogrinder: folds 
+vol.c.man21: folds 
+Uncalled bet (260) returned to GLADYUCHA
+GLADYUCHA collected 237 from pot
+GLADYUCHA: doesn't show hand 
+*** SUMMARY ***
+Total pot 237 | Rake 0 
+Board [3c Tc 4s]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder (button) folded on the Flop
+Seat 4: doofus66 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded on the Flop
+Seat 9: GLADYUCHA collected (237)
+
+
+
+PokerStars Hand #232275294345: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:54:18 CET [2021/12/16 17:54:18 ET]
+Table '3321607888 2' 9-max Seat #4 is the button
+Seat 1: marcaurel11 (1491 in chips) 
+Seat 2: Mikson92 (1431 in chips) 
+Seat 3: Damogrinder (1458 in chips) 
+Seat 4: doofus66 (1568 in chips) 
+Seat 5: KeinKönich (1471 in chips) 
+Seat 6: accountant1218 (1491 in chips) 
+Seat 7: vonBaranow (1491 in chips) 
+Seat 8: vol.c.man21 (1431 in chips) 
+Seat 9: GLADYUCHA (1668 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+KeinKönich: posts small blind 10
+accountant1218: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Ac]
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: raises 40 to 60
+accountant1218: calls 40
+*** FLOP *** [7h 5d Qh]
+KeinKönich: bets 74
+accountant1218: calls 74
+*** TURN *** [7h 5d Qh] [6h]
+KeinKönich: bets 148
+accountant1218: calls 148
+*** RIVER *** [7h 5d Qh 6h] [8d]
+KeinKönich: checks 
+accountant1218: bets 140
+KeinKönich: folds 
+Uncalled bet (140) returned to accountant1218
+accountant1218 collected 591 from pot
+accountant1218: doesn't show hand 
+*** SUMMARY ***
+Total pot 591 | Rake 0 
+Board [7h 5d Qh 6h 8d]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded on the River
+Seat 6: accountant1218 (big blind) collected (591)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275416738: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:00:08 CET [2021/12/16 18:00:08 ET]
+Table '3321607888 2' 9-max Seat #5 is the button
+Seat 1: marcaurel11 (1488 in chips) 
+Seat 2: Mikson92 (1428 in chips) 
+Seat 3: Damogrinder (1455 in chips) 
+Seat 4: doofus66 (1565 in chips) 
+Seat 5: KeinKönich (1186 in chips) 
+Seat 6: accountant1218 (1797 in chips) 
+Seat 7: vonBaranow (1488 in chips) 
+Seat 8: vol.c.man21 (1428 in chips) 
+Seat 9: GLADYUCHA (1665 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+accountant1218: posts small blind 10
+vonBaranow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s Qs]
+vol.c.man21: calls 20
+GLADYUCHA: calls 20
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 20
+doofus66: folds 
+KeinKönich: calls 20
+accountant1218: folds 
+vonBaranow: checks 
+*** FLOP *** [5h Qc Ts]
+vonBaranow: checks 
+vol.c.man21: checks 
+GLADYUCHA: checks 
+Damogrinder: checks 
+KeinKönich: bets 137
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+Damogrinder: calls 137
+*** TURN *** [5h Qc Ts] [Ac]
+Damogrinder: bets 206
+KeinKönich: calls 206
+*** RIVER *** [5h Qc Ts Ac] [3s]
+Damogrinder: bets 412
+KeinKönich: folds 
+Uncalled bet (412) returned to Damogrinder
+Damogrinder collected 823 from pot
+*** SUMMARY ***
+Total pot 823 | Rake 0 
+Board [5h Qc Ts Ac 3s]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder collected (823)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded on the River
+Seat 6: accountant1218 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded on the Flop
+Seat 8: vol.c.man21 folded on the Flop
+Seat 9: GLADYUCHA folded on the Flop
+
+
+
+PokerStars Hand #232275443184: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:01:18 CET [2021/12/16 18:01:18 ET]
+Table '3321607888 2' 9-max Seat #6 is the button
+Seat 1: marcaurel11 (1485 in chips) 
+Seat 2: Mikson92 (1425 in chips) 
+Seat 3: Damogrinder (1912 in chips) 
+Seat 4: doofus66 (1562 in chips) 
+Seat 5: KeinKönich (820 in chips) 
+Seat 6: accountant1218 (1784 in chips) 
+Seat 7: vonBaranow (1465 in chips) 
+Seat 8: vol.c.man21 (1405 in chips) 
+Seat 9: GLADYUCHA (1642 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+vonBaranow: posts small blind 10
+vol.c.man21: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 8d]
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: raises 40 to 60
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: calls 40
+*** FLOP *** [4s Ad Kc]
+vol.c.man21: checks 
+KeinKönich: bets 70
+vol.c.man21: folds 
+Uncalled bet (70) returned to KeinKönich
+KeinKönich collected 157 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Board [4s Ad Kc]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich collected (157)
+Seat 6: accountant1218 (button) folded before Flop (didn't bet)
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 8: vol.c.man21 (big blind) folded on the Flop
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275459490: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:01:58 CET [2021/12/16 18:01:58 ET]
+Table '3321607888 2' 9-max Seat #7 is the button
+Seat 1: marcaurel11 (1482 in chips) 
+Seat 2: Mikson92 (1422 in chips) 
+Seat 3: Damogrinder (1909 in chips) 
+Seat 4: doofus66 (1559 in chips) 
+Seat 5: KeinKönich (914 in chips) 
+Seat 6: accountant1218 (1781 in chips) 
+Seat 7: vonBaranow (1452 in chips) 
+Seat 8: vol.c.man21 (1342 in chips) 
+Seat 9: GLADYUCHA (1639 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+vol.c.man21: posts small blind 10
+GLADYUCHA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Jd]
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: raises 30 to 50
+KeinKönich: raises 110 to 160
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+doofus66: calls 110
+*** FLOP *** [3s Th Kh]
+doofus66: checks 
+KeinKönich: checks 
+*** TURN *** [3s Th Kh] [Tc]
+doofus66: bets 80
+KeinKönich: calls 80
+*** RIVER *** [3s Th Kh Tc] [5h]
+doofus66: checks 
+KeinKönich: checks 
+*** SHOW DOWN ***
+doofus66: shows [Ah 6c] (a pair of Tens)
+KeinKönich: shows [Jc Jd] (two pair, Jacks and Tens)
+KeinKönich collected 537 from pot
+*** SUMMARY ***
+Total pot 537 | Rake 0 
+Board [3s Th Kh Tc 5h]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 showed [Ah 6c] and lost with a pair of Tens
+Seat 5: KeinKönich showed [Jc Jd] and won (537) with two pair, Jacks and Tens
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) folded before Flop (didn't bet)
+Seat 8: vol.c.man21 (small blind) folded before Flop
+Seat 9: GLADYUCHA (big blind) folded before Flop
+
+
+
+PokerStars Hand #232275483024: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:02:55 CET [2021/12/16 18:02:55 ET]
+Table '3321607888 2' 9-max Seat #8 is the button
+Seat 1: marcaurel11 (1479 in chips) 
+Seat 2: Mikson92 (1419 in chips) 
+Seat 3: Damogrinder (1906 in chips) 
+Seat 4: doofus66 (1316 in chips) 
+Seat 5: KeinKönich (1208 in chips) 
+Seat 6: accountant1218 (1778 in chips) 
+Seat 7: vonBaranow (1449 in chips) 
+Seat 8: vol.c.man21 (1329 in chips) 
+Seat 9: GLADYUCHA (1616 in chips) 
+marcaurel11: posts the ante 3
+Mikson92: posts the ante 3
+Damogrinder: posts the ante 3
+doofus66: posts the ante 3
+KeinKönich: posts the ante 3
+accountant1218: posts the ante 3
+vonBaranow: posts the ante 3
+vol.c.man21: posts the ante 3
+GLADYUCHA: posts the ante 3
+GLADYUCHA: posts small blind 10
+marcaurel11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 3d]
+Mikson92: folds 
+Damogrinder: calls 20
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: raises 40 to 60
+vonBaranow: raises 120 to 180
+vol.c.man21: calls 180
+GLADYUCHA: folds 
+marcaurel11: folds 
+Damogrinder: calls 160
+accountant1218: calls 120
+*** FLOP *** [7h 2h 5d]
+Damogrinder: bets 777
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: folds 
+Uncalled bet (777) returned to Damogrinder
+Damogrinder collected 777 from pot
+*** SUMMARY ***
+Total pot 777 | Rake 0 
+Board [7h 2h 5d]
+Seat 1: marcaurel11 (big blind) folded before Flop
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder collected (777)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded on the Flop
+Seat 7: vonBaranow folded on the Flop
+Seat 8: vol.c.man21 (button) folded on the Flop
+Seat 9: GLADYUCHA (small blind) folded before Flop
+
+
+
+PokerStars Hand #232275502941: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 0:03:43 CET [2021/12/16 18:03:43 ET]
+Table '3321607888 2' 9-max Seat #9 is the button
+Seat 1: marcaurel11 (1456 in chips) 
+Seat 2: Mikson92 (1416 in chips) 
+Seat 3: Damogrinder (2500 in chips) 
+Seat 4: doofus66 (1313 in chips) 
+Seat 5: KeinKönich (1205 in chips) 
+Seat 6: accountant1218 (1595 in chips) 
+Seat 7: vonBaranow (1266 in chips) 
+Seat 8: vol.c.man21 (1146 in chips) 
+Seat 9: GLADYUCHA (1603 in chips) 
+marcaurel11: posts the ante 4
+Mikson92: posts the ante 4
+Damogrinder: posts the ante 4
+doofus66: posts the ante 4
+KeinKönich: posts the ante 4
+accountant1218: posts the ante 4
+vonBaranow: posts the ante 4
+vol.c.man21: posts the ante 4
+GLADYUCHA: posts the ante 4
+marcaurel11: posts small blind 15
+Mikson92: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 5d]
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: calls 30
+marcaurel11: folds 
+Mikson92: checks 
+*** FLOP *** [3h 6c 2h]
+Mikson92: checks 
+GLADYUCHA: checks 
+*** TURN *** [3h 6c 2h] [Tc]
+Mikson92: checks 
+GLADYUCHA: checks 
+*** RIVER *** [3h 6c 2h Tc] [Qc]
+Mikson92: checks 
+GLADYUCHA: bets 150
+Mikson92: folds 
+Uncalled bet (150) returned to GLADYUCHA
+GLADYUCHA collected 111 from pot
+GLADYUCHA: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [3h 6c 2h Tc Qc]
+Seat 1: marcaurel11 (small blind) folded before Flop
+Seat 2: Mikson92 (big blind) folded on the River
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (button) collected (111)
+
+
+
+PokerStars Hand #232275530643: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 0:04:50 CET [2021/12/16 18:04:50 ET]
+Table '3321607888 2' 9-max Seat #1 is the button
+Seat 1: marcaurel11 (1437 in chips) 
+Seat 2: Mikson92 (1382 in chips) 
+Seat 3: Damogrinder (2496 in chips) 
+Seat 4: doofus66 (1309 in chips) 
+Seat 5: KeinKönich (1201 in chips) 
+Seat 6: accountant1218 (1591 in chips) 
+Seat 7: vonBaranow (1262 in chips) 
+Seat 8: vol.c.man21 (1142 in chips) 
+Seat 9: GLADYUCHA (1680 in chips) 
+marcaurel11: posts the ante 4
+Mikson92: posts the ante 4
+Damogrinder: posts the ante 4
+doofus66: posts the ante 4
+KeinKönich: posts the ante 4
+accountant1218: posts the ante 4
+vonBaranow: posts the ante 4
+vol.c.man21: posts the ante 4
+GLADYUCHA: posts the ante 4
+Mikson92: posts small blind 15
+Damogrinder: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 8h]
+doofus66: calls 30
+KeinKönich: folds 
+accountant1218: raises 60 to 90
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: calls 90
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: calls 60
+*** FLOP *** [Qs 7d Ah]
+doofus66: bets 75
+accountant1218: folds 
+marcaurel11: folds 
+Uncalled bet (75) returned to doofus66
+doofus66 collected 351 from pot
+doofus66: doesn't show hand 
+*** SUMMARY ***
+Total pot 351 | Rake 0 
+Board [Qs 7d Ah]
+Seat 1: marcaurel11 (button) folded on the Flop
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 3: Damogrinder (big blind) folded before Flop
+Seat 4: doofus66 collected (351)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded on the Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275563494: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 0:05:49 CET [2021/12/16 18:05:49 ET]
+Table '3321607888 2' 9-max Seat #2 is the button
+Seat 1: marcaurel11 (1343 in chips) 
+Seat 2: Mikson92 (1363 in chips) 
+Seat 3: Damogrinder (2462 in chips) 
+Seat 4: doofus66 (1566 in chips) 
+Seat 5: KeinKönich (1197 in chips) 
+Seat 6: accountant1218 (1497 in chips) 
+Seat 7: vonBaranow (1258 in chips) 
+Seat 8: vol.c.man21 (1138 in chips) 
+Seat 9: GLADYUCHA (1676 in chips) 
+marcaurel11: posts the ante 4
+Mikson92: posts the ante 4
+Damogrinder: posts the ante 4
+doofus66: posts the ante 4
+KeinKönich: posts the ante 4
+accountant1218: posts the ante 4
+vonBaranow: posts the ante 4
+vol.c.man21: posts the ante 4
+GLADYUCHA: posts the ante 4
+Damogrinder: posts small blind 15
+doofus66: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Js]
+KeinKönich: folds 
+accountant1218: raises 111 to 141
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: calls 141
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+*** FLOP *** [5c Qs Th]
+accountant1218: bets 181
+GLADYUCHA: calls 181
+*** TURN *** [5c Qs Th] [3s]
+accountant1218: bets 1171 and is all-in
+GLADYUCHA: folds 
+Uncalled bet (1171) returned to accountant1218
+accountant1218 collected 725 from pot
+accountant1218: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Board [5c Qs Th 3s]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 3: Damogrinder (small blind) folded before Flop
+Seat 4: doofus66 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 collected (725)
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded on the Turn
+
+
+
+PokerStars Hand #232275576490: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 0:06:20 CET [2021/12/16 18:06:20 ET]
+Table '3321607888 2' 9-max Seat #3 is the button
+Seat 1: marcaurel11 (1339 in chips) 
+Seat 2: Mikson92 (1359 in chips) 
+Seat 3: Damogrinder (2443 in chips) 
+Seat 4: doofus66 (1532 in chips) 
+Seat 5: KeinKönich (1193 in chips) 
+Seat 6: accountant1218 (1896 in chips) 
+Seat 7: vonBaranow (1254 in chips) 
+Seat 8: vol.c.man21 (1134 in chips) 
+Seat 9: GLADYUCHA (1350 in chips) 
+marcaurel11: posts the ante 4
+Mikson92: posts the ante 4
+Damogrinder: posts the ante 4
+doofus66: posts the ante 4
+KeinKönich: posts the ante 4
+accountant1218: posts the ante 4
+vonBaranow: posts the ante 4
+vol.c.man21: posts the ante 4
+GLADYUCHA: posts the ante 4
+doofus66: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 5c]
+accountant1218: raises 30 to 60
+vonBaranow: folds 
+vol.c.man21: calls 60
+GLADYUCHA: folds 
+marcaurel11: calls 60
+Mikson92: folds 
+Damogrinder: calls 60
+doofus66: folds 
+KeinKönich: calls 30
+*** FLOP *** [9d 8d Ts]
+KeinKönich: checks 
+accountant1218: bets 60
+vol.c.man21: calls 60
+marcaurel11: raises 150 to 210
+Damogrinder: raises 446 to 656
+KeinKönich: folds 
+accountant1218: folds 
+vol.c.man21: folds 
+marcaurel11: raises 619 to 1275 and is all-in
+Damogrinder: folds 
+Uncalled bet (619) returned to marcaurel11
+marcaurel11 collected 1783 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 1783 | Rake 0 
+Board [9d 8d Ts]
+Seat 1: marcaurel11 collected (1783)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder (button) folded on the Flop
+Seat 4: doofus66 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded on the Flop
+Seat 6: accountant1218 folded on the Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded on the Flop
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275610630: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 0:07:30 CET [2021/12/16 18:07:30 ET]
+Table '3321607888 2' 9-max Seat #4 is the button
+Seat 1: marcaurel11 (2402 in chips) 
+Seat 2: Mikson92 (1355 in chips) 
+Seat 3: Damogrinder (1723 in chips) 
+Seat 4: doofus66 (1513 in chips) 
+Seat 5: KeinKönich (1129 in chips) 
+Seat 6: accountant1218 (1772 in chips) 
+Seat 7: vonBaranow (1250 in chips) 
+Seat 8: vol.c.man21 (1010 in chips) 
+Seat 9: GLADYUCHA (1346 in chips) 
+marcaurel11: posts the ante 4
+Mikson92: posts the ante 4
+Damogrinder: posts the ante 4
+doofus66: posts the ante 4
+KeinKönich: posts the ante 4
+accountant1218: posts the ante 4
+vonBaranow: posts the ante 4
+vol.c.man21: posts the ante 4
+GLADYUCHA: posts the ante 4
+KeinKönich: posts small blind 15
+accountant1218: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td Qs]
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: calls 30
+marcaurel11: raises 75 to 105
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: calls 75
+*** FLOP *** [9s 3c 3h]
+GLADYUCHA: checks 
+marcaurel11: checks 
+*** TURN *** [9s 3c 3h] [2h]
+GLADYUCHA: checks 
+marcaurel11: bets 99
+GLADYUCHA: folds 
+Uncalled bet (99) returned to marcaurel11
+marcaurel11 collected 291 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 291 | Rake 0 
+Board [9s 3c 3h 2h]
+Seat 1: marcaurel11 collected (291)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: accountant1218 (big blind) folded before Flop
+Seat 7: vonBaranow folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded on the Turn
+
+
+
+PokerStars Hand #232275633680: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:08:26 CET [2021/12/16 18:08:26 ET]
+Table '3321607888 2' 9-max Seat #5 is the button
+Seat 1: marcaurel11 (2584 in chips) 
+Seat 2: Mikson92 (1351 in chips) 
+Seat 3: Damogrinder (1719 in chips) 
+Seat 4: doofus66 (1509 in chips) 
+Seat 5: KeinKönich (1110 in chips) 
+Seat 6: accountant1218 (1738 in chips) 
+Seat 7: vonBaranow (1246 in chips) 
+Seat 8: vol.c.man21 (1006 in chips) 
+Seat 9: GLADYUCHA (1237 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vonBaranow: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+accountant1218: posts small blind 25
+vonBaranow: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 3h]
+vol.c.man21: folds 
+GLADYUCHA: calls 50
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 50
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+vonBaranow: raises 200 to 250
+GLADYUCHA: folds 
+Damogrinder: calls 200
+*** FLOP *** [Qh Kd 4h]
+vonBaranow: checks 
+Damogrinder: bets 629
+vonBaranow: folds 
+Uncalled bet (629) returned to Damogrinder
+Damogrinder collected 629 from pot
+Damogrinder: doesn't show hand 
+*** SUMMARY ***
+Total pot 629 | Rake 0 
+Board [Qh Kd 4h]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder collected (629)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: accountant1218 (small blind) folded before Flop
+Seat 7: vonBaranow (big blind) folded on the Flop
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop
+
+
+
+PokerStars Hand #232275656388: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:09:22 CET [2021/12/16 18:09:22 ET]
+Table '3321607888 2' 9-max Seat #6 is the button
+Seat 1: marcaurel11 (2578 in chips) 
+Seat 2: Mikson92 (1345 in chips) 
+Seat 3: Damogrinder (2092 in chips) 
+Seat 4: doofus66 (1503 in chips) 
+Seat 5: KeinKönich (1104 in chips) 
+Seat 6: accountant1218 (1707 in chips) 
+Seat 7: vonBaranow (990 in chips) 
+Seat 8: vol.c.man21 (1000 in chips) 
+Seat 9: GLADYUCHA (1181 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vonBaranow: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+vonBaranow: posts small blind 25
+vol.c.man21: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 9s]
+GLADYUCHA: calls 50
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: raises 75 to 125
+accountant1218: raises 175 to 300
+vonBaranow: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+KeinKönich: folds 
+Uncalled bet (175) returned to accountant1218
+accountant1218 collected 429 from pot
+accountant1218: doesn't show hand 
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop
+Seat 6: accountant1218 (button) collected (429)
+Seat 7: vonBaranow (small blind) folded before Flop
+Seat 8: vol.c.man21 (big blind) folded before Flop
+Seat 9: GLADYUCHA folded before Flop
+
+
+
+PokerStars Hand #232275675544: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:10:09 CET [2021/12/16 18:10:09 ET]
+Table '3321607888 2' 9-max Seat #7 is the button
+Seat 1: marcaurel11 (2572 in chips) 
+Seat 2: Mikson92 (1339 in chips) 
+Seat 3: Damogrinder (2086 in chips) 
+Seat 4: doofus66 (1497 in chips) 
+Seat 5: KeinKönich (973 in chips) 
+Seat 6: accountant1218 (2005 in chips) 
+Seat 7: vonBaranow (959 in chips) 
+Seat 8: vol.c.man21 (944 in chips) 
+Seat 9: GLADYUCHA (1125 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vonBaranow: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+vol.c.man21: posts small blind 25
+GLADYUCHA: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 9h]
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: raises 50 to 100
+accountant1218: folds 
+vonBaranow: raises 853 to 953 and is all-in
+vol.c.man21: folds 
+GLADYUCHA: calls 903
+KeinKönich: folds 
+*** FLOP *** [2h 4h 5c]
+*** TURN *** [2h 4h 5c] [5s]
+*** RIVER *** [2h 4h 5c 5s] [7h]
+*** SHOW DOWN ***
+GLADYUCHA: shows [As Tc] (a pair of Fives)
+vonBaranow: shows [Qh Ks] (a pair of Fives - lower kicker)
+GLADYUCHA collected 2085 from pot
+vonBaranow finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 2085 | Rake 0 
+Board [2h 4h 5c 5s 7h]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 7: vonBaranow (button) showed [Qh Ks] and lost with a pair of Fives
+Seat 8: vol.c.man21 (small blind) folded before Flop
+Seat 9: GLADYUCHA (big blind) showed [As Tc] and won (2085) with a pair of Fives
+
+
+
+PokerStars Hand #232275689558: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:10:44 CET [2021/12/16 18:10:44 ET]
+Table '3321607888 2' 9-max Seat #8 is the button
+Seat 1: marcaurel11 (2566 in chips) 
+Seat 2: Mikson92 (1333 in chips) 
+Seat 3: Damogrinder (2080 in chips) 
+Seat 4: doofus66 (1491 in chips) 
+Seat 5: KeinKönich (867 in chips) 
+Seat 6: accountant1218 (1999 in chips) 
+Seat 8: vol.c.man21 (913 in chips) 
+Seat 9: GLADYUCHA (2251 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+GLADYUCHA: posts small blind 25
+marcaurel11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 8c]
+Mikson92: raises 55 to 105
+Damogrinder: folds 
+doofus66: calls 105
+KeinKönich: folds 
+accountant1218: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+*** FLOP *** [8s Qd 5d]
+Mikson92: bets 220
+doofus66: folds 
+Uncalled bet (220) returned to Mikson92
+Mikson92 collected 333 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 333 | Rake 0 
+Board [8s Qd 5d]
+Seat 1: marcaurel11 (big blind) folded before Flop
+Seat 2: Mikson92 collected (333)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded on the Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 8: vol.c.man21 (button) folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (small blind) folded before Flop
+
+
+
+PokerStars Hand #232275702923: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:11:16 CET [2021/12/16 18:11:16 ET]
+Table '3321607888 2' 9-max Seat #9 is the button
+Seat 1: marcaurel11 (2510 in chips) 
+Seat 2: Mikson92 (1555 in chips) 
+Seat 3: Damogrinder (2074 in chips) 
+Seat 4: doofus66 (1380 in chips) 
+Seat 5: KeinKönich (861 in chips) 
+Seat 6: accountant1218 (1993 in chips) 
+Seat 8: vol.c.man21 (907 in chips) 
+Seat 9: GLADYUCHA (2220 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+marcaurel11: posts small blind 25
+Mikson92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s As]
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: raises 50 to 100
+accountant1218: folds 
+vol.c.man21: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: marcaurel11 (small blind) folded before Flop
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich collected (173)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 8: vol.c.man21 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275710142: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:11:35 CET [2021/12/16 18:11:35 ET]
+Table '3321607888 2' 9-max Seat #1 is the button
+Seat 1: marcaurel11 (2479 in chips) 
+Seat 2: Mikson92 (1499 in chips) 
+Seat 3: Damogrinder (2068 in chips) 
+Seat 4: doofus66 (1374 in chips) 
+Seat 5: KeinKönich (978 in chips) 
+Seat 6: accountant1218 (1987 in chips) 
+Seat 8: vol.c.man21 (901 in chips) 
+Seat 9: GLADYUCHA (2214 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+vol.c.man21: posts the ante 6
+GLADYUCHA: posts the ante 6
+Mikson92: posts small blind 25
+Damogrinder: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d Qs]
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+vol.c.man21: raises 50 to 100
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 50
+*** FLOP *** [5c 7c Jd]
+Damogrinder: checks 
+vol.c.man21: bets 273
+Damogrinder: raises 1689 to 1962 and is all-in
+vol.c.man21: calls 522 and is all-in
+Uncalled bet (1167) returned to Damogrinder
+*** TURN *** [5c 7c Jd] [Qc]
+*** RIVER *** [5c 7c Jd Qc] [As]
+*** SHOW DOWN ***
+Damogrinder: shows [Qd Qh] (three of a kind, Queens)
+vol.c.man21: shows [9s 9h] (a pair of Nines)
+Damogrinder collected 1863 from pot
+vol.c.man21 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1863 | Rake 0 
+Board [5c 7c Jd Qc As]
+Seat 1: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 3: Damogrinder (big blind) showed [Qd Qh] and won (1863) with three of a kind, Queens
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 8: vol.c.man21 showed [9s 9h] and lost with a pair of Nines
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275731430: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:12:27 CET [2021/12/16 18:12:27 ET]
+Table '3321607888 2' 9-max Seat #2 is the button
+Seat 1: marcaurel11 (2473 in chips) 
+Seat 2: Mikson92 (1468 in chips) 
+Seat 3: Damogrinder (3030 in chips) 
+Seat 4: doofus66 (1368 in chips) 
+Seat 5: KeinKönich (972 in chips) 
+Seat 6: accountant1218 (1981 in chips) 
+Seat 9: GLADYUCHA (2208 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+GLADYUCHA: posts the ante 6
+Damogrinder: posts small blind 25
+doofus66: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 6h]
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: calls 50
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: raises 192 to 242
+doofus66: folds 
+GLADYUCHA: calls 192
+*** FLOP *** [6d Tc Jh]
+Damogrinder: bets 576
+GLADYUCHA: folds 
+Uncalled bet (576) returned to Damogrinder
+Damogrinder collected 576 from pot
+Damogrinder: doesn't show hand 
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [6d Tc Jh]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 3: Damogrinder (small blind) collected (576)
+Seat 4: doofus66 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded on the Flop
+
+
+
+PokerStars Hand #232275742872: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 0:12:55 CET [2021/12/16 18:12:55 ET]
+Table '3321607888 2' 9-max Seat #3 is the button
+Seat 1: marcaurel11 (2467 in chips) 
+Seat 2: Mikson92 (1462 in chips) 
+Seat 3: Damogrinder (3358 in chips) 
+Seat 4: doofus66 (1312 in chips) 
+Seat 5: KeinKönich (966 in chips) 
+Seat 6: accountant1218 (1975 in chips) 
+Seat 9: GLADYUCHA (1960 in chips) 
+marcaurel11: posts the ante 6
+Mikson92: posts the ante 6
+Damogrinder: posts the ante 6
+doofus66: posts the ante 6
+KeinKönich: posts the ante 6
+accountant1218: posts the ante 6
+GLADYUCHA: posts the ante 6
+doofus66: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd Ac]
+accountant1218: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+Uncalled bet (25) returned to KeinKönich
+KeinKönich collected 92 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder (button) folded before Flop (didn't bet)
+Seat 4: doofus66 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (92)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275751153: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:13:16 CET [2021/12/16 18:13:16 ET]
+Table '3321607888 2' 9-max Seat #4 is the button
+Seat 1: marcaurel11 (2461 in chips) 
+Seat 2: Mikson92 (1456 in chips) 
+Seat 3: Damogrinder (3352 in chips) 
+Seat 4: doofus66 (1281 in chips) 
+Seat 5: KeinKönich (1027 in chips) 
+Seat 6: accountant1218 (1969 in chips) 
+Seat 9: GLADYUCHA (1954 in chips) 
+marcaurel11: posts the ante 10
+Mikson92: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+KeinKönich: posts small blind 40
+accountant1218: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 3d]
+GLADYUCHA: folds 
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 80
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: raises 270 to 350
+Damogrinder: calls 270
+*** FLOP *** [8h Jh 3h]
+accountant1218: checks 
+Damogrinder: bets 810
+accountant1218: folds 
+Uncalled bet (810) returned to Damogrinder
+Damogrinder collected 810 from pot
+Damogrinder: doesn't show hand 
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [8h Jh 3h]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder collected (810)
+Seat 4: doofus66 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: accountant1218 (big blind) folded on the Flop
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275766094: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:13:53 CET [2021/12/16 18:13:53 ET]
+Table '3321607888 2' 9-max Seat #5 is the button
+Seat 1: marcaurel11 (2451 in chips) 
+Seat 2: Mikson92 (1446 in chips) 
+Seat 3: Damogrinder (3802 in chips) 
+Seat 4: doofus66 (1271 in chips) 
+Seat 5: KeinKönich (977 in chips) 
+Seat 6: accountant1218 (1609 in chips) 
+Seat 9: GLADYUCHA (1944 in chips) 
+marcaurel11: posts the ante 10
+Mikson92: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+accountant1218: posts small blind 40
+GLADYUCHA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 4h]
+marcaurel11: folds 
+Mikson92: folds 
+Damogrinder: calls 80
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: raises 160 to 240
+GLADYUCHA: calls 160
+Damogrinder: calls 160
+*** FLOP *** [4c 8h 5d]
+accountant1218: checks 
+GLADYUCHA: checks 
+Damogrinder: bets 395
+accountant1218: raises 964 to 1359 and is all-in
+GLADYUCHA: folds 
+Damogrinder: folds 
+Uncalled bet (964) returned to accountant1218
+accountant1218 collected 1580 from pot
+accountant1218: doesn't show hand 
+*** SUMMARY ***
+Total pot 1580 | Rake 0 
+Board [4c 8h 5d]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded on the Flop
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: accountant1218 (small blind) collected (1580)
+Seat 9: GLADYUCHA (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232275779280: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:14:26 CET [2021/12/16 18:14:26 ET]
+Table '3321607888 2' 9-max Seat #6 is the button
+Seat 1: marcaurel11 (2441 in chips) 
+Seat 2: Mikson92 (1436 in chips) 
+Seat 3: Damogrinder (3157 in chips) 
+Seat 4: doofus66 (1261 in chips) 
+Seat 5: KeinKönich (967 in chips) 
+Seat 6: accountant1218 (2544 in chips) 
+Seat 9: GLADYUCHA (1694 in chips) 
+marcaurel11: posts the ante 10
+Mikson92: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+GLADYUCHA: posts small blind 40
+marcaurel11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 9h]
+Mikson92: folds 
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: calls 40
+marcaurel11: checks 
+*** FLOP *** [6s 8h Ts]
+GLADYUCHA: bets 1604 and is all-in
+marcaurel11: folds 
+Uncalled bet (1604) returned to GLADYUCHA
+GLADYUCHA collected 230 from pot
+GLADYUCHA: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [6s 8h Ts]
+Seat 1: marcaurel11 (big blind) folded on the Flop
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 (button) folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (small blind) collected (230)
+
+
+
+PokerStars Hand #232275789726: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:14:52 CET [2021/12/16 18:14:52 ET]
+Table '3321607888 2' 9-max Seat #9 is the button
+Seat 1: marcaurel11 (2351 in chips) 
+Seat 2: Mikson92 (1426 in chips) 
+Seat 3: Damogrinder (3147 in chips) 
+Seat 4: doofus66 (1251 in chips) 
+Seat 5: KeinKönich (957 in chips) 
+Seat 6: accountant1218 (2534 in chips) 
+Seat 9: GLADYUCHA (1834 in chips) 
+marcaurel11: posts the ante 10
+Mikson92: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+marcaurel11: posts small blind 40
+Mikson92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Tc]
+Damogrinder: folds 
+doofus66: raises 80 to 160
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: calls 160
+marcaurel11: folds 
+Mikson92: folds 
+*** FLOP *** [Qd 8s Kc]
+doofus66: bets 200
+GLADYUCHA: folds 
+Uncalled bet (200) returned to doofus66
+doofus66 collected 510 from pot
+doofus66: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Qd 8s Kc]
+Seat 1: marcaurel11 (small blind) folded before Flop
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 collected (510)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (button) folded on the Flop
+
+
+
+PokerStars Hand #232275803477: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:15:27 CET [2021/12/16 18:15:27 ET]
+Table '3321607888 2' 9-max Seat #1 is the button
+Seat 1: marcaurel11 (2301 in chips) 
+Seat 2: Mikson92 (1336 in chips) 
+Seat 3: Damogrinder (3137 in chips) 
+Seat 4: doofus66 (1591 in chips) 
+Seat 5: KeinKönich (947 in chips) 
+Seat 6: accountant1218 (2524 in chips) 
+Seat 9: GLADYUCHA (1664 in chips) 
+marcaurel11: posts the ante 10
+Mikson92: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+Mikson92: posts small blind 40
+Damogrinder: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 7s]
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: raises 80 to 160
+marcaurel11: calls 160
+Mikson92: raises 1166 to 1326 and is all-in
+Damogrinder: folds 
+GLADYUCHA: calls 1166
+marcaurel11: folds 
+*** FLOP *** [7h 5s 8d]
+*** TURN *** [7h 5s 8d] [3c]
+*** RIVER *** [7h 5s 8d 3c] [Jh]
+*** SHOW DOWN ***
+Mikson92: shows [6s As] (high card Ace)
+GLADYUCHA: shows [Th Tc] (a pair of Tens)
+GLADYUCHA collected 2962 from pot
+Mikson92 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2962 | Rake 0 
+Board [7h 5s 8d 3c Jh]
+Seat 1: marcaurel11 (button) folded before Flop
+Seat 2: Mikson92 (small blind) showed [6s As] and lost with high card Ace
+Seat 3: Damogrinder (big blind) folded before Flop
+Seat 4: doofus66 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA showed [Th Tc] and won (2962) with a pair of Tens
+
+
+
+PokerStars Hand #232275817502: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:16:02 CET [2021/12/16 18:16:02 ET]
+Table '3321607888 2' 9-max Seat #3 is the button
+Seat 1: marcaurel11 (2131 in chips) 
+Seat 3: Damogrinder (3047 in chips) 
+Seat 4: doofus66 (1581 in chips) 
+Seat 5: KeinKönich (937 in chips) 
+Seat 6: accountant1218 (2514 in chips) 
+Seat 9: GLADYUCHA (3290 in chips) 
+marcaurel11: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+doofus66: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s Td]
+accountant1218: folds 
+GLADYUCHA: folds 
+marcaurel11: raises 80 to 160
+Damogrinder: folds 
+doofus66: folds 
+KeinKönich: folds 
+Uncalled bet (80) returned to marcaurel11
+marcaurel11 collected 260 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: marcaurel11 collected (260)
+Seat 3: Damogrinder (button) folded before Flop (didn't bet)
+Seat 4: doofus66 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 6: accountant1218 folded before Flop (didn't bet)
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275824839: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:16:21 CET [2021/12/16 18:16:21 ET]
+Table '3321607888 2' 9-max Seat #4 is the button
+Seat 1: marcaurel11 (2301 in chips) 
+Seat 2: Chicano96 (2795 in chips) 
+Seat 3: Damogrinder (3037 in chips) 
+Seat 4: doofus66 (1531 in chips) 
+Seat 5: KeinKönich (847 in chips) 
+Seat 6: accountant1218 (2504 in chips) 
+Seat 9: GLADYUCHA (3280 in chips) 
+marcaurel11: posts the ante 10
+Chicano96: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+KeinKönich: posts small blind 40
+accountant1218: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 5s]
+GLADYUCHA: folds 
+marcaurel11: folds 
+Chicano96: raises 88 to 168
+Damogrinder: calls 168
+doofus66: folds 
+KeinKönich: folds 
+accountant1218: calls 88
+*** FLOP *** [Qc 2s Js]
+accountant1218: checks 
+Chicano96: checks 
+Damogrinder: bets 614
+accountant1218: folds 
+Chicano96: folds 
+Uncalled bet (614) returned to Damogrinder
+Damogrinder collected 614 from pot
+*** SUMMARY ***
+Total pot 614 | Rake 0 
+Board [Qc 2s Js]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Chicano96 folded on the Flop
+Seat 3: Damogrinder collected (614)
+Seat 4: doofus66 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: accountant1218 (big blind) folded on the Flop
+Seat 9: GLADYUCHA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275844285: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:17:10 CET [2021/12/16 18:17:10 ET]
+Table '3321607888 2' 9-max Seat #5 is the button
+Seat 1: marcaurel11 (2291 in chips) 
+Seat 2: Chicano96 (2617 in chips) 
+Seat 3: Damogrinder (3473 in chips) 
+Seat 4: doofus66 (1521 in chips) 
+Seat 5: KeinKönich (797 in chips) 
+Seat 6: accountant1218 (2326 in chips) 
+Seat 9: GLADYUCHA (3270 in chips) 
+marcaurel11: posts the ante 10
+Chicano96: posts the ante 10
+Damogrinder: posts the ante 10
+doofus66: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+accountant1218: posts small blind 40
+GLADYUCHA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 2s]
+marcaurel11: folds 
+Chicano96: folds 
+Damogrinder: folds 
+doofus66: raises 80 to 160
+KeinKönich: folds 
+accountant1218: folds 
+GLADYUCHA: raises 80 to 240
+doofus66: calls 80
+*** FLOP *** [5c Kh 5s]
+GLADYUCHA: bets 80
+doofus66: calls 80
+*** TURN *** [5c Kh 5s] [Jh]
+GLADYUCHA: bets 2940 and is all-in
+doofus66: calls 1191 and is all-in
+Uncalled bet (1749) returned to GLADYUCHA
+*** RIVER *** [5c Kh 5s Jh] [8d]
+*** SHOW DOWN ***
+GLADYUCHA: shows [Jd Js] (a full house, Jacks full of Fives)
+doofus66: shows [Qh Ks] (two pair, Kings and Fives)
+GLADYUCHA collected 3132 from pot
+doofus66 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 3132 | Rake 0 
+Board [5c Kh 5s Jh 8d]
+Seat 1: marcaurel11 folded before Flop (didn't bet)
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: Damogrinder folded before Flop (didn't bet)
+Seat 4: doofus66 showed [Qh Ks] and lost with two pair, Kings and Fives
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: accountant1218 (small blind) folded before Flop
+Seat 9: GLADYUCHA (big blind) showed [Jd Js] and won (3132) with a full house, Jacks full of Fives
+
+
+
+PokerStars Hand #232275866506: Tournament #3321607888, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 0:17:57 CET [2021/12/16 18:17:57 ET]
+Table '3321607888 2' 9-max Seat #6 is the button
+Seat 1: marcaurel11 (2281 in chips) 
+Seat 2: Chicano96 (2607 in chips) 
+Seat 3: Damogrinder (3463 in chips) 
+Seat 5: KeinKönich (787 in chips) 
+Seat 6: accountant1218 (2276 in chips) 
+Seat 9: GLADYUCHA (4881 in chips) 
+marcaurel11: posts the ante 10
+Chicano96: posts the ante 10
+Damogrinder: posts the ante 10
+KeinKönich: posts the ante 10
+accountant1218: posts the ante 10
+GLADYUCHA: posts the ante 10
+GLADYUCHA: posts small blind 40
+marcaurel11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h Ad]
+Chicano96: folds 
+Damogrinder: calls 80
+KeinKönich: raises 697 to 777 and is all-in
+accountant1218: folds 
+GLADYUCHA: folds 
+marcaurel11: folds 
+Damogrinder: calls 697
+*** FLOP *** [Qd 4s Kh]
+*** TURN *** [Qd 4s Kh] [9s]
+*** RIVER *** [Qd 4s Kh 9s] [2c]
+*** SHOW DOWN ***
+Damogrinder: shows [6h Ah] (high card Ace)
+KeinKönich: shows [5h Ad] (high card Ace - lower kicker)
+Damogrinder collected 1734 from pot
+*** SUMMARY ***
+Total pot 1734 | Rake 0 
+Board [Qd 4s Kh 9s 2c]
+Seat 1: marcaurel11 (big blind) folded before Flop
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: Damogrinder showed [6h Ah] and won (1734) with high card Ace
+Seat 5: KeinKönich showed [5h Ad] and lost with high card Ace
+Seat 6: accountant1218 (button) folded before Flop (didn't bet)
+Seat 9: GLADYUCHA (small blind) folded before Flop
+
+
+

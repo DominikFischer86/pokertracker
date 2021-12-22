@@ -1,0 +1,1941 @@
+ï»¿PokerStars Hand #232299726808: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:47:29 CET [2021/12/17 16:47:29 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (1500 in chips) 
+Seat 2: Nadezhda1997 (1500 in chips) 
+Seat 3: pleistoros72 (1500 in chips) 
+Seat 4: morsea10 (1500 in chips) 
+Seat 5: Grospelllier (1500 in chips) 
+Seat 6: KeinKönich (1500 in chips) 
+Seat 7: IWannaR0ck (1500 in chips) 
+Seat 8: TheGreatRus (1500 in chips) 
+Seat 9: nowinners92 (1500 in chips) 
+kdkaloge: posts the ante 3
+Nadezhda1997: posts the ante 3
+pleistoros72: posts the ante 3
+morsea10: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+TheGreatRus: posts the ante 3
+nowinners92: posts the ante 3
+Nadezhda1997: posts small blind 10
+pleistoros72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 3h]
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: calls 10
+pleistoros72: raises 67 to 87
+Nadezhda1997: calls 67
+*** FLOP *** [2s 9c 3s]
+Nadezhda1997: checks 
+pleistoros72: bets 201
+Nadezhda1997: calls 201
+*** TURN *** [2s 9c 3s] [5c]
+Nadezhda1997: checks 
+pleistoros72: bets 302
+Nadezhda1997: calls 302
+*** RIVER *** [2s 9c 3s 5c] [Kh]
+Nadezhda1997: checks 
+pleistoros72: checks 
+*** SHOW DOWN ***
+Nadezhda1997: shows [Ad 9h] (a pair of Nines)
+pleistoros72: mucks hand 
+Nadezhda1997 collected 1207 from pot
+*** SUMMARY ***
+Total pot 1207 | Rake 0 
+Board [2s 9c 3s 5c Kh]
+Seat 1: kdkaloge (button) folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 (small blind) showed [Ad 9h] and won (1207) with a pair of Nines
+Seat 3: pleistoros72 (big blind) mucked [Qd 8h]
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299778596: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:49:10 CET [2021/12/17 16:49:10 ET]
+Table '3322198973 2' 9-max Seat #2 is the button
+Seat 1: kdkaloge (1497 in chips) 
+Seat 2: Nadezhda1997 (2114 in chips) 
+Seat 3: pleistoros72 (907 in chips) 
+Seat 4: morsea10 (1497 in chips) 
+Seat 5: Grospelllier (1497 in chips) 
+Seat 6: KeinKönich (1497 in chips) 
+Seat 7: IWannaR0ck (1497 in chips) 
+Seat 8: TheGreatRus (1497 in chips) 
+Seat 9: nowinners92 (1497 in chips) 
+kdkaloge: posts the ante 3
+Nadezhda1997: posts the ante 3
+pleistoros72: posts the ante 3
+morsea10: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+TheGreatRus: posts the ante 3
+nowinners92: posts the ante 3
+pleistoros72: posts small blind 10
+morsea10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Qd]
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: raises 40 to 60
+pleistoros72: folds 
+morsea10: calls 40
+*** FLOP *** [Td 2h Qh]
+morsea10: checks 
+Nadezhda1997: checks 
+*** TURN *** [Td 2h Qh] [3h]
+morsea10: checks 
+Nadezhda1997: bets 200
+morsea10: folds 
+Uncalled bet (200) returned to Nadezhda1997
+Nadezhda1997 collected 157 from pot
+Nadezhda1997: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Board [Td 2h Qh 3h]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 (button) collected (157)
+Seat 3: pleistoros72 (small blind) folded before Flop
+Seat 4: morsea10 (big blind) folded on the Turn
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299811561: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:50:15 CET [2021/12/17 16:50:15 ET]
+Table '3322198973 2' 9-max Seat #3 is the button
+Seat 1: kdkaloge (1494 in chips) 
+Seat 2: Nadezhda1997 (2208 in chips) 
+Seat 3: pleistoros72 (894 in chips) 
+Seat 4: morsea10 (1434 in chips) 
+Seat 5: Grospelllier (1494 in chips) 
+Seat 6: KeinKönich (1494 in chips) 
+Seat 7: IWannaR0ck (1494 in chips) 
+Seat 8: TheGreatRus (1494 in chips) 
+Seat 9: nowinners92 (1494 in chips) 
+kdkaloge: posts the ante 3
+Nadezhda1997: posts the ante 3
+pleistoros72: posts the ante 3
+morsea10: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+TheGreatRus: posts the ante 3
+nowinners92: posts the ante 3
+morsea10: posts small blind 10
+Grospelllier: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 3c]
+KeinKönich: folds 
+IWannaR0ck: raises 30 to 50
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: calls 50
+Nadezhda1997: calls 50
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: calls 30
+*** FLOP *** [8s Qc Kh]
+Grospelllier: checks 
+IWannaR0ck: checks 
+kdkaloge: checks 
+Nadezhda1997: checks 
+*** TURN *** [8s Qc Kh] [9d]
+Grospelllier: checks 
+IWannaR0ck: checks 
+kdkaloge: checks 
+Nadezhda1997: checks 
+*** RIVER *** [8s Qc Kh 9d] [As]
+Grospelllier: checks 
+IWannaR0ck: checks 
+kdkaloge: checks 
+Nadezhda1997: checks 
+*** SHOW DOWN ***
+Grospelllier: shows [Ac Jc] (a pair of Aces)
+IWannaR0ck: mucks hand 
+kdkaloge: mucks hand 
+Nadezhda1997: mucks hand 
+Grospelllier collected 237 from pot
+*** SUMMARY ***
+Total pot 237 | Rake 0 
+Board [8s Qc Kh 9d As]
+Seat 1: kdkaloge mucked [6d 4d]
+Seat 2: Nadezhda1997 mucked [Ah 3h]
+Seat 3: pleistoros72 (button) folded before Flop (didn't bet)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) showed [Ac Jc] and won (237) with a pair of Aces
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck mucked [Qs Js]
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299871794: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:52:15 CET [2021/12/17 16:52:15 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (1441 in chips) 
+Seat 2: Nadezhda1997 (2155 in chips) 
+Seat 3: pleistoros72 (891 in chips) 
+Seat 4: morsea10 (1421 in chips) 
+Seat 5: Grospelllier (1678 in chips) 
+Seat 6: KeinKönich (1491 in chips) 
+Seat 7: IWannaR0ck (1441 in chips) 
+Seat 8: TheGreatRus (1491 in chips) 
+Seat 9: nowinners92 (1491 in chips) 
+kdkaloge: posts the ante 3
+Nadezhda1997: posts the ante 3
+pleistoros72: posts the ante 3
+morsea10: posts the ante 3
+Grospelllier: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+TheGreatRus: posts the ante 3
+nowinners92: posts the ante 3
+Grospelllier: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 3d]
+IWannaR0ck: folds 
+TheGreatRus: raises 30 to 50
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (30) returned to TheGreatRus
+TheGreatRus collected 77 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 (button) folded before Flop (didn't bet)
+Seat 5: Grospelllier (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus collected (77)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299885675: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:52:43 CET [2021/12/17 16:52:43 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 1: kdkaloge (1438 in chips) 
+Seat 2: Nadezhda1997 (2152 in chips) 
+Seat 3: pleistoros72 (888 in chips) 
+Seat 4: morsea10 (1418 in chips) 
+Seat 5: Grospelllier (1665 in chips) 
+Seat 6: KeinKönich (1468 in chips) 
+Seat 7: IWannaR0ck (1438 in chips) 
+Seat 8: TheGreatRus (1545 in chips) 
+Seat 9: nowinners92 (1488 in chips) 
+kdkaloge: posts the ante 4
+Nadezhda1997: posts the ante 4
+pleistoros72: posts the ante 4
+morsea10: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+IWannaR0ck: posts the ante 4
+TheGreatRus: posts the ante 4
+nowinners92: posts the ante 4
+KeinKönich: posts small blind 15
+IWannaR0ck: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Qh]
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: calls 30
+pleistoros72: folds 
+morsea10: raises 141 to 171
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+Nadezhda1997: folds 
+Uncalled bet (141) returned to morsea10
+morsea10 collected 141 from pot
+*** SUMMARY ***
+Total pot 141 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 collected (141)
+Seat 5: Grospelllier (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: IWannaR0ck (big blind) folded before Flop
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299907206: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:53:26 CET [2021/12/17 16:53:26 ET]
+Table '3322198973 2' 9-max Seat #6 is the button
+Seat 1: kdkaloge (1434 in chips) 
+Seat 2: Nadezhda1997 (2118 in chips) 
+Seat 3: pleistoros72 (884 in chips) 
+Seat 4: morsea10 (1525 in chips) 
+Seat 5: Grospelllier (1661 in chips) 
+Seat 6: KeinKönich (1449 in chips) 
+Seat 7: IWannaR0ck (1404 in chips) 
+Seat 8: TheGreatRus (1541 in chips) 
+Seat 9: nowinners92 (1484 in chips) 
+kdkaloge: posts the ante 4
+Nadezhda1997: posts the ante 4
+pleistoros72: posts the ante 4
+morsea10: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+IWannaR0ck: posts the ante 4
+TheGreatRus: posts the ante 4
+nowinners92: posts the ante 4
+IWannaR0ck: posts small blind 15
+TheGreatRus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 3c]
+nowinners92: folds 
+kdkaloge: calls 30
+Nadezhda1997: folds 
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: checks 
+*** FLOP *** [3d 9h Ad]
+TheGreatRus: checks 
+kdkaloge: checks 
+*** TURN *** [3d 9h Ad] [Qd]
+TheGreatRus: checks 
+kdkaloge: bets 30
+TheGreatRus: folds 
+Uncalled bet (30) returned to kdkaloge
+kdkaloge collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [3d 9h Ad Qd]
+Seat 1: kdkaloge collected (111)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (small blind) folded before Flop
+Seat 8: TheGreatRus (big blind) folded on the Turn
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299938681: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:54:28 CET [2021/12/17 16:54:28 ET]
+Table '3322198973 2' 9-max Seat #7 is the button
+Seat 1: kdkaloge (1511 in chips) 
+Seat 2: Nadezhda1997 (2114 in chips) 
+Seat 3: pleistoros72 (880 in chips) 
+Seat 4: morsea10 (1521 in chips) 
+Seat 5: Grospelllier (1657 in chips) 
+Seat 6: KeinKönich (1445 in chips) 
+Seat 7: IWannaR0ck (1385 in chips) 
+Seat 8: TheGreatRus (1507 in chips) 
+Seat 9: nowinners92 (1480 in chips) 
+kdkaloge: posts the ante 4
+Nadezhda1997: posts the ante 4
+pleistoros72: posts the ante 4
+morsea10: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+IWannaR0ck: posts the ante 4
+TheGreatRus: posts the ante 4
+nowinners92: posts the ante 4
+TheGreatRus: posts small blind 15
+nowinners92: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Th]
+kdkaloge: folds 
+Nadezhda1997: folds 
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: raises 45 to 75
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: calls 45
+*** FLOP *** [3s 5d Jh]
+nowinners92: checks 
+KeinKönich: bets 105
+nowinners92: calls 105
+*** TURN *** [3s 5d Jh] [Qs]
+nowinners92: checks 
+KeinKönich: checks 
+*** RIVER *** [3s 5d Jh Qs] [Jd]
+nowinners92: bets 205
+KeinKönich: calls 205
+*** SHOW DOWN ***
+nowinners92: shows [6s 4d] (a pair of Jacks)
+KeinKönich: shows [Ts Th] (two pair, Jacks and Tens)
+KeinKönich collected 821 from pot
+*** SUMMARY ***
+Total pot 821 | Rake 0 
+Board [3s 5d Jh Qs Jd]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich showed [Ts Th] and won (821) with two pair, Jacks and Tens
+Seat 7: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: TheGreatRus (small blind) folded before Flop
+Seat 9: nowinners92 (big blind) showed [6s 4d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #232299966392: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:55:29 CET [2021/12/17 16:55:29 ET]
+Table '3322198973 2' 9-max Seat #8 is the button
+Seat 1: kdkaloge (1507 in chips) 
+Seat 2: Nadezhda1997 (2110 in chips) 
+Seat 3: pleistoros72 (876 in chips) 
+Seat 4: morsea10 (1517 in chips) 
+Seat 5: Grospelllier (1653 in chips) 
+Seat 6: KeinKönich (1877 in chips) 
+Seat 7: IWannaR0ck (1381 in chips) 
+Seat 8: TheGreatRus (1488 in chips) 
+Seat 9: nowinners92 (1091 in chips) 
+kdkaloge: posts the ante 4
+Nadezhda1997: posts the ante 4
+pleistoros72: posts the ante 4
+morsea10: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+IWannaR0ck: posts the ante 4
+TheGreatRus: posts the ante 4
+nowinners92: posts the ante 4
+nowinners92: posts small blind 15
+kdkaloge: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 8h]
+Nadezhda1997: folds 
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: raises 45 to 75
+nowinners92: folds 
+kdkaloge: calls 45
+*** FLOP *** [Tc Qd 5c]
+kdkaloge: checks 
+TheGreatRus: bets 109
+kdkaloge: calls 109
+*** TURN *** [Tc Qd 5c] [Jh]
+kdkaloge: checks 
+TheGreatRus: bets 130
+kdkaloge: raises 679 to 809
+TheGreatRus: folds 
+Uncalled bet (679) returned to kdkaloge
+kdkaloge collected 679 from pot
+*** SUMMARY ***
+Total pot 679 | Rake 0 
+Board [Tc Qd 5c Jh]
+Seat 1: kdkaloge (big blind) collected (679)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus (button) folded on the Turn
+Seat 9: nowinners92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300009324: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:57:24 CET [2021/12/17 16:57:24 ET]
+Table '3322198973 2' 9-max Seat #9 is the button
+Seat 1: kdkaloge (1868 in chips) 
+Seat 2: Nadezhda1997 (2106 in chips) 
+Seat 3: pleistoros72 (872 in chips) 
+Seat 4: morsea10 (1513 in chips) 
+Seat 5: Grospelllier (1649 in chips) 
+Seat 6: KeinKönich (1873 in chips) 
+Seat 7: IWannaR0ck (1377 in chips) 
+Seat 8: TheGreatRus (1170 in chips) 
+Seat 9: nowinners92 (1072 in chips) 
+kdkaloge: posts the ante 4
+Nadezhda1997: posts the ante 4
+pleistoros72: posts the ante 4
+morsea10: posts the ante 4
+Grospelllier: posts the ante 4
+KeinKönich: posts the ante 4
+IWannaR0ck: posts the ante 4
+TheGreatRus: posts the ante 4
+nowinners92: posts the ante 4
+kdkaloge: posts small blind 15
+Nadezhda1997: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Js]
+pleistoros72: folds 
+morsea10: folds 
+Grospelllier: raises 30 to 60
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: calls 45
+Nadezhda1997: folds 
+*** FLOP *** [2c 4h Ah]
+kdkaloge: checks 
+Grospelllier: bets 90
+kdkaloge: folds 
+Uncalled bet (90) returned to Grospelllier
+Grospelllier collected 186 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 186 | Rake 0 
+Board [2c 4h Ah]
+Seat 1: kdkaloge (small blind) folded on the Flop
+Seat 2: Nadezhda1997 (big blind) folded before Flop
+Seat 3: pleistoros72 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier collected (186)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300038788: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:58:29 CET [2021/12/17 16:58:29 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (1804 in chips) 
+Seat 2: Nadezhda1997 (2072 in chips) 
+Seat 3: pleistoros72 (868 in chips) 
+Seat 4: morsea10 (1509 in chips) 
+Seat 5: Grospelllier (1771 in chips) 
+Seat 6: KeinKönich (1869 in chips) 
+Seat 7: IWannaR0ck (1373 in chips) 
+Seat 8: TheGreatRus (1166 in chips) 
+Seat 9: nowinners92 (1068 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+pleistoros72: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+Nadezhda1997: posts small blind 25
+pleistoros72: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 4h]
+morsea10 has timed out
+morsea10: folds 
+morsea10 is sitting out
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+morsea10 has returned
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: raises 50 to 100
+Nadezhda1997: folds 
+pleistoros72: raises 762 to 862 and is all-in
+kdkaloge: calls 762
+*** FLOP *** [2c Ks 5d]
+*** TURN *** [2c Ks 5d] [Kc]
+*** RIVER *** [2c Ks 5d Kc] [9s]
+*** SHOW DOWN ***
+pleistoros72: shows [As 6c] (a pair of Kings)
+kdkaloge: shows [Qh Qs] (two pair, Kings and Queens)
+kdkaloge collected 1803 from pot
+pleistoros72 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 1803 | Rake 0 
+Board [2c Ks 5d Kc 9s]
+Seat 1: kdkaloge (button) showed [Qh Qs] and won (1803) with two pair, Kings and Queens
+Seat 2: Nadezhda1997 (small blind) folded before Flop
+Seat 3: pleistoros72 (big blind) showed [As 6c] and lost with a pair of Kings
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300056131: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:59:15 CET [2021/12/17 16:59:15 ET]
+Table '3322198973 2' 9-max Seat #2 is the button
+Seat 1: kdkaloge (2739 in chips) 
+Seat 2: Nadezhda1997 (2041 in chips) 
+Seat 4: morsea10 (1503 in chips) 
+Seat 5: Grospelllier (1765 in chips) 
+Seat 6: KeinKönich (1863 in chips) 
+Seat 7: IWannaR0ck (1367 in chips) 
+Seat 8: TheGreatRus (1160 in chips) 
+Seat 9: nowinners92 (1062 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+morsea10: posts small blind 25
+Grospelllier: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Qd]
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Uncalled bet (25) returned to Grospelllier
+Grospelllier collected 98 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 (button) folded before Flop (didn't bet)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) collected (98)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300066267: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:59:41 CET [2021/12/17 16:59:41 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (2733 in chips) 
+Seat 2: Nadezhda1997 (2035 in chips) 
+Seat 4: morsea10 (1472 in chips) 
+Seat 5: Grospelllier (1832 in chips) 
+Seat 6: KeinKönich (1857 in chips) 
+Seat 7: IWannaR0ck (1361 in chips) 
+Seat 8: TheGreatRus (1154 in chips) 
+Seat 9: nowinners92 (1056 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+Grospelllier: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 6s]
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: raises 100 to 150
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (100) returned to morsea10
+morsea10 collected 173 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 (button) collected (173)
+Seat 5: Grospelllier (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300077689: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:00:11 CET [2021/12/17 17:00:11 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 1: kdkaloge (2727 in chips) 
+Seat 2: Nadezhda1997 (2029 in chips) 
+Seat 4: morsea10 (1589 in chips) 
+Seat 5: Grospelllier (1801 in chips) 
+Seat 6: KeinKönich (1801 in chips) 
+Seat 7: IWannaR0ck (1355 in chips) 
+Seat 8: TheGreatRus (1148 in chips) 
+Seat 9: nowinners92 (1050 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+KeinKönich: posts small blind 25
+IWannaR0ck: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Qh]
+TheGreatRus: folds 
+nowinners92: raises 100 to 150
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: calls 100
+*** FLOP *** [8c 4h Jd]
+IWannaR0ck: checks 
+nowinners92: bets 150
+IWannaR0ck: folds 
+Uncalled bet (150) returned to nowinners92
+nowinners92 collected 373 from pot
+nowinners92: doesn't show hand 
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [8c 4h Jd]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: IWannaR0ck (big blind) folded on the Flop
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 collected (373)
+
+
+
+PokerStars Hand #232300094386: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:00:52 CET [2021/12/17 17:00:52 ET]
+Table '3322198973 2' 9-max Seat #6 is the button
+Seat 1: kdkaloge (2721 in chips) 
+Seat 2: Nadezhda1997 (2023 in chips) 
+Seat 4: morsea10 (1583 in chips) 
+Seat 5: Grospelllier (1795 in chips) 
+Seat 6: KeinKönich (1770 in chips) 
+Seat 7: IWannaR0ck (1199 in chips) 
+Seat 8: TheGreatRus (1142 in chips) 
+Seat 9: nowinners92 (1267 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+IWannaR0ck: posts small blind 25
+TheGreatRus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 4c]
+nowinners92: folds 
+kdkaloge: raises 50 to 100
+Nadezhda1997: calls 100
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+*** FLOP *** [6h 2d Ah]
+kdkaloge: checks 
+Nadezhda1997: checks 
+*** TURN *** [6h 2d Ah] [Tc]
+kdkaloge: bets 50
+Nadezhda1997: calls 50
+*** RIVER *** [6h 2d Ah Tc] [5d]
+kdkaloge: bets 50
+Nadezhda1997: calls 50
+*** SHOW DOWN ***
+kdkaloge: shows [Td 8d] (a pair of Tens)
+Nadezhda1997: shows [Kc Kd] (a pair of Kings)
+Nadezhda1997 collected 523 from pot
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [6h 2d Ah Tc 5d]
+Seat 1: kdkaloge showed [Td 8d] and lost with a pair of Tens
+Seat 2: Nadezhda1997 showed [Kc Kd] and won (523) with a pair of Kings
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (small blind) folded before Flop
+Seat 8: TheGreatRus (big blind) folded before Flop
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300117664: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:01:43 CET [2021/12/17 17:01:43 ET]
+Table '3322198973 2' 9-max Seat #7 is the button
+Seat 1: kdkaloge (2515 in chips) 
+Seat 2: Nadezhda1997 (2340 in chips) 
+Seat 4: morsea10 (1577 in chips) 
+Seat 5: Grospelllier (1789 in chips) 
+Seat 6: KeinKönich (1764 in chips) 
+Seat 7: IWannaR0ck (1168 in chips) 
+Seat 8: TheGreatRus (1086 in chips) 
+Seat 9: nowinners92 (1261 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+TheGreatRus: posts small blind 25
+nowinners92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Kc]
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: raises 50 to 100
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: calls 50
+*** FLOP *** [Qh 8d Qc]
+nowinners92: checks 
+KeinKönich: bets 137
+nowinners92: folds 
+Uncalled bet (137) returned to KeinKönich
+KeinKönich collected 273 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [Qh 8d Qc]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich collected (273)
+Seat 7: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: TheGreatRus (small blind) folded before Flop
+Seat 9: nowinners92 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300139336: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:02:26 CET [2021/12/17 17:02:26 ET]
+Table '3322198973 2' 9-max Seat #8 is the button
+Seat 1: kdkaloge (2509 in chips) 
+Seat 2: Nadezhda1997 (2334 in chips) 
+Seat 4: morsea10 (1571 in chips) 
+Seat 5: Grospelllier (1783 in chips) 
+Seat 6: KeinKönich (1931 in chips) 
+Seat 7: IWannaR0ck (1162 in chips) 
+Seat 8: TheGreatRus (1055 in chips) 
+Seat 9: nowinners92 (1155 in chips) 
+kdkaloge: posts the ante 6
+Nadezhda1997: posts the ante 6
+morsea10: posts the ante 6
+Grospelllier: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts the ante 6
+TheGreatRus: posts the ante 6
+nowinners92: posts the ante 6
+nowinners92: posts small blind 25
+kdkaloge: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Qs]
+Nadezhda1997: folds 
+morsea10: raises 100 to 150
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Uncalled bet (100) returned to morsea10
+morsea10 collected 173 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kdkaloge (big blind) folded before Flop
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 collected (173)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 9: nowinners92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300162675: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:02:59 CET [2021/12/17 17:02:59 ET]
+Table '3322198973 2' 9-max Seat #9 is the button
+Seat 1: kdkaloge (2453 in chips) 
+Seat 2: Nadezhda1997 (2328 in chips) 
+Seat 4: morsea10 (1688 in chips) 
+Seat 5: Grospelllier (1777 in chips) 
+Seat 6: KeinKönich (1925 in chips) 
+Seat 7: IWannaR0ck (1156 in chips) 
+Seat 8: TheGreatRus (1049 in chips) 
+Seat 9: nowinners92 (1124 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+kdkaloge: posts small blind 40
+Nadezhda1997: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Tc]
+morsea10: raises 80 to 160
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: raises 986 to 1146 and is all-in
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Uncalled bet (986) returned to IWannaR0ck
+IWannaR0ck collected 520 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge (small blind) folded before Flop
+Seat 2: Nadezhda1997 (big blind) folded before Flop
+Seat 4: morsea10 folded before Flop
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck collected (520)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300182355: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:03:38 CET [2021/12/17 17:03:38 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (2403 in chips) 
+Seat 2: Nadezhda1997 (2238 in chips) 
+Seat 4: morsea10 (1518 in chips) 
+Seat 5: Grospelllier (1767 in chips) 
+Seat 6: KeinKönich (1915 in chips) 
+Seat 7: IWannaR0ck (1506 in chips) 
+Seat 8: TheGreatRus (1039 in chips) 
+Seat 9: nowinners92 (1114 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+Nadezhda1997: posts small blind 40
+morsea10: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Kd]
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: raises 80 to 160
+Nadezhda1997: folds 
+morsea10: raises 440 to 600
+kdkaloge: folds 
+Uncalled bet (440) returned to morsea10
+morsea10 collected 440 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: kdkaloge (button) folded before Flop
+Seat 2: Nadezhda1997 (small blind) folded before Flop
+Seat 4: morsea10 (big blind) collected (440)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300200346: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:04:13 CET [2021/12/17 17:04:13 ET]
+Table '3322198973 2' 9-max Seat #2 is the button
+Seat 1: kdkaloge (2233 in chips) 
+Seat 2: Nadezhda1997 (2188 in chips) 
+Seat 4: morsea10 (1788 in chips) 
+Seat 5: Grospelllier (1757 in chips) 
+Seat 6: KeinKönich (1905 in chips) 
+Seat 7: IWannaR0ck (1496 in chips) 
+Seat 8: TheGreatRus (1029 in chips) 
+Seat 9: nowinners92 (1104 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+morsea10: posts small blind 40
+Grospelllier: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 6d]
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: folds 
+nowinners92: raises 160 to 240
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: folds 
+Uncalled bet (160) returned to nowinners92
+nowinners92 collected 280 from pot
+nowinners92: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 (button) folded before Flop (didn't bet)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 collected (280)
+
+
+
+PokerStars Hand #232300215726: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:04:44 CET [2021/12/17 17:04:44 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (2223 in chips) 
+Seat 2: Nadezhda1997 (2178 in chips) 
+Seat 4: morsea10 (1738 in chips) 
+Seat 5: Grospelllier (1667 in chips) 
+Seat 6: KeinKönich (1895 in chips) 
+Seat 7: IWannaR0ck (1486 in chips) 
+Seat 8: TheGreatRus (1019 in chips) 
+Seat 9: nowinners92 (1294 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+Grospelllier: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts As]
+IWannaR0ck: raises 80 to 160
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: calls 160
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: calls 80
+*** FLOP *** [2h 4h Qc]
+KeinKönich: checks 
+IWannaR0ck: bets 200
+Nadezhda1997: calls 200
+KeinKönich: folds 
+*** TURN *** [2h 4h Qc] [Ah]
+IWannaR0ck: bets 360
+Nadezhda1997: calls 360
+*** RIVER *** [2h 4h Qc Ah] [3c]
+IWannaR0ck: bets 756 and is all-in
+Nadezhda1997: folds 
+Uncalled bet (756) returned to IWannaR0ck
+IWannaR0ck collected 1720 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1720 | Rake 0 
+Board [2h 4h Qc Ah 3c]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded on the River
+Seat 4: morsea10 (button) folded before Flop (didn't bet)
+Seat 5: Grospelllier (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded on the Flop
+Seat 7: IWannaR0ck collected (1720)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300273193: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:06:39 CET [2021/12/17 17:06:39 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 1: kdkaloge (2213 in chips) 
+Seat 2: Nadezhda1997 (1448 in chips) 
+Seat 4: morsea10 (1728 in chips) 
+Seat 5: Grospelllier (1617 in chips) 
+Seat 6: KeinKönich (1725 in chips) 
+Seat 7: IWannaR0ck (2476 in chips) 
+Seat 8: TheGreatRus (1009 in chips) 
+Seat 9: nowinners92 (1284 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+KeinKönich: posts small blind 40
+IWannaR0ck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 2h]
+TheGreatRus: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: raises 1527 to 1607 and is all-in
+KeinKönich: folds 
+IWannaR0ck: folds 
+Uncalled bet (1527) returned to Grospelllier
+Grospelllier collected 280 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier (button) collected (280)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: IWannaR0ck (big blind) folded before Flop
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300285651: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:07:04 CET [2021/12/17 17:07:04 ET]
+Table '3322198973 2' 9-max Seat #6 is the button
+Seat 1: kdkaloge (2203 in chips) 
+Seat 2: Nadezhda1997 (1438 in chips) 
+Seat 4: morsea10 (1718 in chips) 
+Seat 5: Grospelllier (1807 in chips) 
+Seat 6: KeinKönich (1675 in chips) 
+Seat 7: IWannaR0ck (2386 in chips) 
+Seat 8: TheGreatRus (999 in chips) 
+Seat 9: nowinners92 (1274 in chips) 
+kdkaloge: posts the ante 10
+Nadezhda1997: posts the ante 10
+morsea10: posts the ante 10
+Grospelllier: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts the ante 10
+TheGreatRus: posts the ante 10
+nowinners92: posts the ante 10
+IWannaR0ck: posts small blind 40
+TheGreatRus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 6c]
+nowinners92: folds 
+kdkaloge: raises 80 to 160
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+TheGreatRus: raises 829 to 989 and is all-in
+kdkaloge: calls 829
+*** FLOP *** [4c 5h 6h]
+*** TURN *** [4c 5h 6h] [3c]
+*** RIVER *** [4c 5h 6h 3c] [Td]
+*** SHOW DOWN ***
+TheGreatRus: shows [9h 9s] (a pair of Nines)
+kdkaloge: shows [2h 2c] (a straight, Deuce to Six)
+kdkaloge collected 2098 from pot
+TheGreatRus finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2098 | Rake 0 
+Board [4c 5h 6h 3c Td]
+Seat 1: kdkaloge showed [2h 2c] and won (2098) with a straight, Deuce to Six
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (small blind) folded before Flop
+Seat 8: TheGreatRus (big blind) showed [9h 9s] and lost with a pair of Nines
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300306322: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:07:45 CET [2021/12/17 17:07:45 ET]
+Table '3322198973 2' 9-max Seat #7 is the button
+Seat 1: kdkaloge (3302 in chips) 
+Seat 2: Nadezhda1997 (1428 in chips) 
+Seat 4: morsea10 (1708 in chips) 
+Seat 5: Grospelllier (1797 in chips) 
+Seat 6: KeinKönich (1665 in chips) 
+Seat 7: IWannaR0ck (2336 in chips) 
+Seat 9: nowinners92 (1264 in chips) 
+kdkaloge: posts the ante 15
+Nadezhda1997: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+nowinners92: posts small blind 60
+kdkaloge: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Ah]
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: raises 1662 to 1782 and is all-in
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: folds 
+nowinners92 is sitting out
+kdkaloge: folds 
+Uncalled bet (1662) returned to Grospelllier
+Grospelllier collected 405 from pot
+Grospelllier: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: kdkaloge (big blind) folded before Flop
+Seat 2: Nadezhda1997 folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier collected (405)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: nowinners92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300323492: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:08:19 CET [2021/12/17 17:08:19 ET]
+Table '3322198973 2' 9-max Seat #9 is the button
+Seat 1: kdkaloge (3167 in chips) 
+Seat 2: Nadezhda1997 (1413 in chips) 
+Seat 4: morsea10 (1693 in chips) 
+Seat 5: Grospelllier (2067 in chips) 
+Seat 6: KeinKönich (1650 in chips) 
+Seat 7: IWannaR0ck (2321 in chips) 
+Seat 9: nowinners92 (1189 in chips) is sitting out
+kdkaloge: posts the ante 15
+Nadezhda1997: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+kdkaloge: posts small blind 60
+Nadezhda1997: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 8h]
+nowinners92 has returned
+morsea10: raises 240 to 360
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: folds 
+Uncalled bet (240) returned to morsea10
+morsea10 collected 405 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: kdkaloge (small blind) folded before Flop
+Seat 2: Nadezhda1997 (big blind) folded before Flop
+Seat 4: morsea10 collected (405)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300333252: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:08:39 CET [2021/12/17 17:08:39 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (3092 in chips) 
+Seat 2: Nadezhda1997 (1278 in chips) 
+Seat 4: morsea10 (1963 in chips) 
+Seat 5: Grospelllier (2052 in chips) 
+Seat 6: KeinKönich (1635 in chips) 
+Seat 7: IWannaR0ck (2306 in chips) 
+Seat 9: nowinners92 (1174 in chips) 
+kdkaloge: posts the ante 15
+Nadezhda1997: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+Nadezhda1997: posts small blind 60
+morsea10: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 6s]
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: raises 120 to 240
+kdkaloge: raises 120 to 360
+Nadezhda1997: folds 
+morsea10: folds 
+nowinners92: calls 120
+*** FLOP *** [Kc 7c 4d]
+nowinners92: checks 
+kdkaloge: checks 
+*** TURN *** [Kc 7c 4d] [Ts]
+nowinners92: checks 
+kdkaloge: bets 120
+nowinners92: calls 120
+*** RIVER *** [Kc 7c 4d Ts] [7h]
+nowinners92: checks 
+kdkaloge: bets 120
+nowinners92: calls 120
+*** SHOW DOWN ***
+kdkaloge: shows [Jd Jc] (two pair, Jacks and Sevens)
+nowinners92: shows [Kd Js] (two pair, Kings and Sevens)
+nowinners92 collected 1485 from pot
+*** SUMMARY ***
+Total pot 1485 | Rake 0 
+Board [Kc 7c 4d Ts 7h]
+Seat 1: kdkaloge (button) showed [Jd Jc] and lost with two pair, Jacks and Sevens
+Seat 2: Nadezhda1997 (small blind) folded before Flop
+Seat 4: morsea10 (big blind) folded before Flop
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 showed [Kd Js] and won (1485) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #232300355065: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:09:23 CET [2021/12/17 17:09:23 ET]
+Table '3322198973 2' 9-max Seat #2 is the button
+Seat 1: kdkaloge (2477 in chips) 
+Seat 2: Nadezhda1997 (1203 in chips) 
+Seat 4: morsea10 (1828 in chips) 
+Seat 5: Grospelllier (2037 in chips) 
+Seat 6: KeinKönich (1620 in chips) 
+Seat 7: IWannaR0ck (2291 in chips) 
+Seat 9: nowinners92 (2044 in chips) 
+kdkaloge: posts the ante 15
+Nadezhda1997: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+morsea10: posts small blind 60
+Grospelllier: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 5s]
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: calls 120
+kdkaloge: raises 2342 to 2462 and is all-in
+Nadezhda1997: folds 
+morsea10: folds 
+Grospelllier: folds 
+nowinners92: folds 
+Uncalled bet (2342) returned to kdkaloge
+kdkaloge collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: kdkaloge collected (525)
+Seat 2: Nadezhda1997 (button) folded before Flop (didn't bet)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop
+
+
+
+PokerStars Hand #232300372135: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:09:57 CET [2021/12/17 17:09:57 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (2867 in chips) 
+Seat 2: Nadezhda1997 (1188 in chips) 
+Seat 4: morsea10 (1753 in chips) 
+Seat 5: Grospelllier (1902 in chips) 
+Seat 6: KeinKönich (1605 in chips) 
+Seat 7: IWannaR0ck (2276 in chips) 
+Seat 9: nowinners92 (1909 in chips) 
+kdkaloge: posts the ante 15
+Nadezhda1997: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+Grospelllier: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 4c]
+IWannaR0ck: folds 
+nowinners92: folds 
+kdkaloge: folds 
+Nadezhda1997: raises 1053 to 1173 and is all-in
+morsea10: folds 
+Grospelllier: calls 1113
+KeinKönich: folds 
+*** FLOP *** [6s 3c Qd]
+*** TURN *** [6s 3c Qd] [Kh]
+*** RIVER *** [6s 3c Qd Kh] [Tc]
+*** SHOW DOWN ***
+Grospelllier: shows [As Qc] (a pair of Queens)
+Nadezhda1997: shows [Ac 9c] (high card Ace)
+Grospelllier collected 2571 from pot
+Nadezhda1997 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2571 | Rake 0 
+Board [6s 3c Qd Kh Tc]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 2: Nadezhda1997 showed [Ac 9c] and lost with high card Ace
+Seat 4: morsea10 (button) folded before Flop (didn't bet)
+Seat 5: Grospelllier (small blind) showed [As Qc] and won (2571) with a pair of Queens
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300386295: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:10:26 CET [2021/12/17 17:10:26 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 1: kdkaloge (2852 in chips) 
+Seat 4: morsea10 (1738 in chips) 
+Seat 5: Grospelllier (3285 in chips) 
+Seat 6: KeinKönich (1470 in chips) 
+Seat 7: IWannaR0ck (2261 in chips) 
+Seat 9: nowinners92 (1894 in chips) 
+kdkaloge: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+KeinKönich: posts small blind 60
+IWannaR0ck: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Jc]
+nowinners92: calls 120
+kdkaloge: folds 
+morsea10: raises 510 to 630
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: folds 
+Uncalled bet (510) returned to morsea10
+morsea10 collected 510 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 4: morsea10 collected (510)
+Seat 5: Grospelllier (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: IWannaR0ck (big blind) folded before Flop
+Seat 9: nowinners92 folded before Flop
+
+
+
+PokerStars Hand #232300395507: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:10:44 CET [2021/12/17 17:10:44 ET]
+Table '3322198973 2' 9-max Seat #6 is the button
+Seat 1: kdkaloge (2837 in chips) 
+Seat 4: morsea10 (2113 in chips) 
+Seat 5: Grospelllier (3270 in chips) 
+Seat 6: KeinKönich (1395 in chips) 
+Seat 7: IWannaR0ck (2126 in chips) 
+Seat 9: nowinners92 (1759 in chips) 
+kdkaloge: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+IWannaR0ck: posts small blind 60
+nowinners92: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 2s]
+kdkaloge: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: calls 60
+nowinners92: checks 
+*** FLOP *** [Kc 8h Kh]
+IWannaR0ck: bets 120
+nowinners92: folds 
+Uncalled bet (120) returned to IWannaR0ck
+IWannaR0ck collected 330 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Kc 8h Kh]
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (small blind) collected (330)
+Seat 9: nowinners92 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300416123: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:11:26 CET [2021/12/17 17:11:26 ET]
+Table '3322198973 2' 9-max Seat #7 is the button
+Seat 1: kdkaloge (2822 in chips) 
+Seat 4: morsea10 (2098 in chips) 
+Seat 5: Grospelllier (3255 in chips) 
+Seat 6: KeinKönich (1380 in chips) 
+Seat 7: IWannaR0ck (2321 in chips) 
+Seat 9: nowinners92 (1624 in chips) 
+kdkaloge: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+nowinners92: posts small blind 60
+kdkaloge: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 9c]
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: calls 60
+kdkaloge: checks 
+*** FLOP *** [7c 6d 6h]
+nowinners92: checks 
+kdkaloge: bets 120
+nowinners92: folds 
+Uncalled bet (120) returned to kdkaloge
+kdkaloge collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [7c 6d 6h]
+Seat 1: kdkaloge (big blind) collected (330)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: nowinners92 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232300428710: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:11:52 CET [2021/12/17 17:11:52 ET]
+Table '3322198973 2' 9-max Seat #9 is the button
+Seat 1: kdkaloge (3017 in chips) 
+Seat 4: morsea10 (2083 in chips) 
+Seat 5: Grospelllier (3240 in chips) 
+Seat 6: KeinKönich (1365 in chips) 
+Seat 7: IWannaR0ck (2306 in chips) 
+Seat 9: nowinners92 (1489 in chips) 
+kdkaloge: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+kdkaloge: posts small blind 60
+morsea10: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 6s]
+Grospelllier: raises 120 to 240
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: calls 240
+kdkaloge: folds 
+morsea10: calls 120
+*** FLOP *** [9h 8c Kh]
+morsea10: checks 
+Grospelllier: checks 
+nowinners92: bets 435
+morsea10: folds 
+Grospelllier: folds 
+Uncalled bet (435) returned to nowinners92
+nowinners92 collected 870 from pot
+nowinners92: doesn't show hand 
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [9h 8c Kh]
+Seat 1: kdkaloge (small blind) folded before Flop
+Seat 4: morsea10 (big blind) folded on the Flop
+Seat 5: Grospelllier folded on the Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 (button) collected (870)
+
+
+
+PokerStars Hand #232300446288: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:12:25 CET [2021/12/17 17:12:25 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (2942 in chips) 
+Seat 4: morsea10 (1828 in chips) 
+Seat 5: Grospelllier (2985 in chips) 
+Seat 6: KeinKönich (1350 in chips) 
+Seat 7: IWannaR0ck (2291 in chips) 
+Seat 9: nowinners92 (2104 in chips) 
+kdkaloge: posts the ante 15
+morsea10: posts the ante 15
+Grospelllier: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts the ante 15
+nowinners92: posts the ante 15
+morsea10: posts small blind 60
+Grospelllier: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Ts]
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: calls 120
+kdkaloge: raises 510 to 630
+morsea10: folds 
+Grospelllier: folds 
+nowinners92: folds 
+Uncalled bet (510) returned to kdkaloge
+kdkaloge collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: kdkaloge (button) collected (510)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop
+
+
+
+PokerStars Hand #232300457610: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:12:47 CET [2021/12/17 17:12:47 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (3317 in chips) 
+Seat 4: morsea10 (1753 in chips) 
+Seat 5: Grospelllier (2850 in chips) 
+Seat 6: KeinKönich (1335 in chips) 
+Seat 7: IWannaR0ck (2276 in chips) 
+Seat 9: nowinners92 (1969 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+Grospelllier: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 5d]
+IWannaR0ck: folds 
+nowinners92: folds 
+kdkaloge: folds 
+morsea10: raises 320 to 480
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (320) returned to morsea10
+morsea10 collected 520 from pot
+morsea10: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 4: morsea10 (button) collected (520)
+Seat 5: Grospelllier (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300466684: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:13:06 CET [2021/12/17 17:13:06 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 1: kdkaloge (3297 in chips) 
+Seat 4: morsea10 (2093 in chips) 
+Seat 5: Grospelllier (2750 in chips) 
+Seat 6: KeinKönich (1155 in chips) 
+Seat 7: IWannaR0ck (2256 in chips) 
+Seat 9: nowinners92 (1949 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+KeinKönich: posts small blind 80
+IWannaR0ck: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 7s]
+nowinners92: folds 
+kdkaloge: raises 160 to 320
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: calls 160
+*** FLOP *** [8c 9h Jh]
+IWannaR0ck: checks 
+kdkaloge: checks 
+*** TURN *** [8c 9h Jh] [Kc]
+IWannaR0ck: checks 
+kdkaloge: checks 
+*** RIVER *** [8c 9h Jh Kc] [Tc]
+IWannaR0ck: checks 
+kdkaloge: bets 420
+IWannaR0ck: folds 
+Uncalled bet (420) returned to kdkaloge
+kdkaloge collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8c 9h Jh Kc Tc]
+Seat 1: kdkaloge collected (840)
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: IWannaR0ck (big blind) folded on the River
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300491782: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:13:57 CET [2021/12/17 17:13:57 ET]
+Table '3322198973 2' 9-max Seat #6 is the button
+Seat 1: kdkaloge (3797 in chips) 
+Seat 4: morsea10 (2073 in chips) 
+Seat 5: Grospelllier (2730 in chips) 
+Seat 6: KeinKönich (1055 in chips) 
+Seat 7: IWannaR0ck (1916 in chips) 
+Seat 9: nowinners92 (1929 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+IWannaR0ck: posts small blind 80
+nowinners92: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 2h]
+kdkaloge: folds 
+morsea10: raises 520 to 680
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: folds 
+Uncalled bet (520) returned to morsea10
+morsea10 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge folded before Flop (didn't bet)
+Seat 4: morsea10 collected (520)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (small blind) folded before Flop
+Seat 9: nowinners92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300501889: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:14:18 CET [2021/12/17 17:14:18 ET]
+Table '3322198973 2' 9-max Seat #7 is the button
+Seat 1: kdkaloge (3777 in chips) 
+Seat 4: morsea10 (2413 in chips) 
+Seat 5: Grospelllier (2710 in chips) 
+Seat 6: KeinKönich (1035 in chips) 
+Seat 7: IWannaR0ck (1816 in chips) 
+Seat 9: nowinners92 (1749 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+nowinners92: posts small blind 80
+kdkaloge: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 7d]
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+nowinners92: calls 80
+kdkaloge: checks 
+*** FLOP *** [Kd 6h As]
+nowinners92: checks 
+kdkaloge: checks 
+*** TURN *** [Kd 6h As] [4c]
+nowinners92: bets 160
+kdkaloge: calls 160
+*** RIVER *** [Kd 6h As 4c] [Qc]
+nowinners92: bets 480
+kdkaloge: calls 480
+*** SHOW DOWN ***
+nowinners92: shows [Tc 2s] (high card Ace)
+kdkaloge: shows [8c Ks] (a pair of Kings)
+kdkaloge collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | Rake 0 
+Board [Kd 6h As 4c Qc]
+Seat 1: kdkaloge (big blind) showed [8c Ks] and won (1720) with a pair of Kings
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: nowinners92 (small blind) showed [Tc 2s] and lost with high card Ace
+
+
+
+PokerStars Hand #232300521719: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:14:58 CET [2021/12/17 17:14:58 ET]
+Table '3322198973 2' 9-max Seat #9 is the button
+Seat 1: kdkaloge (4677 in chips) 
+Seat 4: morsea10 (2393 in chips) 
+Seat 5: Grospelllier (2690 in chips) 
+Seat 6: KeinKönich (1015 in chips) 
+Seat 7: IWannaR0ck (1796 in chips) 
+Seat 9: nowinners92 (929 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+kdkaloge: posts small blind 80
+morsea10: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Qd]
+Grospelllier: folds 
+KeinKönich: raises 800 to 960
+IWannaR0ck: folds 
+nowinners92: folds 
+kdkaloge: folds 
+morsea10: folds 
+Uncalled bet (800) returned to KeinKönich
+KeinKönich collected 520 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge (small blind) folded before Flop
+Seat 4: morsea10 (big blind) folded before Flop
+Seat 5: Grospelllier folded before Flop (didn't bet)
+Seat 6: KeinKönich collected (520)
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300531644: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:15:18 CET [2021/12/17 17:15:18 ET]
+Table '3322198973 2' 9-max Seat #1 is the button
+Seat 1: kdkaloge (4577 in chips) 
+Seat 4: morsea10 (2213 in chips) 
+Seat 5: Grospelllier (2670 in chips) 
+Seat 6: KeinKönich (1355 in chips) 
+Seat 7: IWannaR0ck (1776 in chips) 
+Seat 9: nowinners92 (909 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+morsea10: posts small blind 80
+Grospelllier: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 2s]
+KeinKönich: folds 
+IWannaR0ck: raises 160 to 320
+nowinners92: folds 
+kdkaloge: folds 
+morsea10: folds 
+Grospelllier: folds 
+Uncalled bet (160) returned to IWannaR0ck
+IWannaR0ck collected 520 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge (button) folded before Flop (didn't bet)
+Seat 4: morsea10 (small blind) folded before Flop
+Seat 5: Grospelllier (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: IWannaR0ck collected (520)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300538654: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:15:32 CET [2021/12/17 17:15:32 ET]
+Table '3322198973 2' 9-max Seat #4 is the button
+Seat 1: kdkaloge (4557 in chips) 
+Seat 4: morsea10 (2113 in chips) 
+Seat 5: Grospelllier (2490 in chips) 
+Seat 6: KeinKönich (1335 in chips) 
+Seat 7: IWannaR0ck (2116 in chips) 
+Seat 9: nowinners92 (889 in chips) 
+kdkaloge: posts the ante 20
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+Grospelllier: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h Qs]
+IWannaR0ck: folds 
+nowinners92: folds 
+kdkaloge: raises 160 to 320
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: folds 
+Uncalled bet (160) returned to kdkaloge
+kdkaloge collected 520 from pot
+kdkaloge: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kdkaloge collected (520)
+Seat 4: morsea10 (button) folded before Flop (didn't bet)
+Seat 5: Grospelllier (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300548779: Tournament #3322198973, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:15:53 CET [2021/12/17 17:15:53 ET]
+Table '3322198973 2' 9-max Seat #5 is the button
+Seat 4: morsea10 (2093 in chips) 
+Seat 5: Grospelllier (2390 in chips) 
+Seat 6: KeinKönich (1155 in chips) 
+Seat 7: IWannaR0ck (2096 in chips) 
+Seat 9: nowinners92 (869 in chips) 
+morsea10: posts the ante 20
+Grospelllier: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts the ante 20
+nowinners92: posts the ante 20
+KeinKönich: posts small blind 80
+IWannaR0ck: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Jc]
+nowinners92: folds 
+morsea10: folds 
+Grospelllier: folds 
+KeinKönich: raises 975 to 1135 and is all-in
+IWannaR0ck: calls 975
+*** FLOP *** [As 5c 2c]
+*** TURN *** [As 5c 2c] [7d]
+*** RIVER *** [As 5c 2c 7d] [Js]
+*** SHOW DOWN ***
+KeinKönich: shows [Ks Jc] (a pair of Jacks)
+IWannaR0ck: shows [8d Ac] (a pair of Aces)
+IWannaR0ck collected 2370 from pot
+KeinKönich finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [As 5c 2c 7d Js]
+Seat 4: morsea10 folded before Flop (didn't bet)
+Seat 5: Grospelllier (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) showed [Ks Jc] and lost with a pair of Jacks
+Seat 7: IWannaR0ck (big blind) showed [8d Ac] and won (2370) with a pair of Aces
+Seat 9: nowinners92 folded before Flop (didn't bet)
+
+
+

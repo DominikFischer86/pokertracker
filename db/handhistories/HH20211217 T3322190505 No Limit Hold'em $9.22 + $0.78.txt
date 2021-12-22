@@ -1,0 +1,1886 @@
+ï»¿PokerStars Hand #232299359860: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:35:52 CET [2021/12/17 16:35:52 ET]
+Table '3322190505 1' 9-max Seat #1 is the button
+Seat 1: fyysisin (1500 in chips) 
+Seat 2: neprett44 (1500 in chips) 
+Seat 3: ResTorE88 (1500 in chips) 
+Seat 4: bxl-jb05 (1500 in chips) 
+Seat 5: yokerone1 (1500 in chips) 
+Seat 6: KeinKönich (1500 in chips) 
+Seat 7: huxley687 (1500 in chips) 
+Seat 8: mikediver888 (1500 in chips) 
+Seat 9: Mikson92 (1500 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+neprett44: posts small blind 10
+ResTorE88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 4s]
+bxl-jb05: raises 30 to 50
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+Uncalled bet (30) returned to bxl-jb05
+bxl-jb05 collected 77 from pot
+bxl-jb05: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: fyysisin (button) folded before Flop (didn't bet)
+Seat 2: neprett44 (small blind) folded before Flop
+Seat 3: ResTorE88 (big blind) folded before Flop
+Seat 4: bxl-jb05 collected (77)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299376914: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:36:26 CET [2021/12/17 16:36:26 ET]
+Table '3322190505 1' 9-max Seat #2 is the button
+Seat 1: fyysisin (1497 in chips) 
+Seat 2: neprett44 (1487 in chips) 
+Seat 3: ResTorE88 (1477 in chips) 
+Seat 4: bxl-jb05 (1554 in chips) 
+Seat 5: yokerone1 (1497 in chips) 
+Seat 6: KeinKönich (1497 in chips) 
+Seat 7: huxley687 (1497 in chips) 
+Seat 8: mikediver888 (1497 in chips) 
+Seat 9: Mikson92 (1497 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+ResTorE88: posts small blind 10
+bxl-jb05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 2h]
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: raises 24 to 44
+ResTorE88: folds 
+bxl-jb05: calls 24
+*** FLOP *** [2s 8h Jh]
+bxl-jb05: checks 
+neprett44: bets 41
+bxl-jb05: folds 
+Uncalled bet (41) returned to neprett44
+neprett44 collected 125 from pot
+neprett44: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [2s 8h Jh]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 (button) collected (125)
+Seat 3: ResTorE88 (small blind) folded before Flop
+Seat 4: bxl-jb05 (big blind) folded on the Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299398982: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:37:10 CET [2021/12/17 16:37:10 ET]
+Table '3322190505 1' 9-max Seat #3 is the button
+Seat 1: fyysisin (1494 in chips) 
+Seat 2: neprett44 (1565 in chips) 
+Seat 3: ResTorE88 (1464 in chips) 
+Seat 4: bxl-jb05 (1507 in chips) 
+Seat 5: yokerone1 (1494 in chips) 
+Seat 6: KeinKönich (1494 in chips) 
+Seat 7: huxley687 (1494 in chips) 
+Seat 8: mikediver888 (1494 in chips) 
+Seat 9: Mikson92 (1494 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+bxl-jb05: posts small blind 10
+yokerone1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 6d]
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: calls 20
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: raises 87 to 107
+yokerone1: folds 
+mikediver888: folds 
+Uncalled bet (87) returned to bxl-jb05
+bxl-jb05 collected 87 from pot
+bxl-jb05: doesn't show hand 
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 (button) folded before Flop (didn't bet)
+Seat 4: bxl-jb05 (small blind) collected (87)
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299418506: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:37:49 CET [2021/12/17 16:37:49 ET]
+Table '3322190505 1' 9-max Seat #4 is the button
+Seat 1: fyysisin (1491 in chips) 
+Seat 2: neprett44 (1562 in chips) 
+Seat 3: ResTorE88 (1461 in chips) 
+Seat 4: bxl-jb05 (1571 in chips) 
+Seat 5: yokerone1 (1471 in chips) 
+Seat 6: KeinKönich (1491 in chips) 
+Seat 7: huxley687 (1491 in chips) 
+Seat 8: mikediver888 (1471 in chips) 
+Seat 9: Mikson92 (1491 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 9d]
+huxley687: folds 
+mikediver888: folds 
+Mikson92: raises 30 to 50
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: calls 50
+yokerone1: folds 
+KeinKönich: folds 
+*** FLOP *** [2c 8c 4c]
+Mikson92: bets 104
+bxl-jb05: calls 104
+*** TURN *** [2c 8c 4c] [6c]
+Mikson92: bets 241
+bxl-jb05: calls 241
+*** RIVER *** [2c 8c 4c 6c] [Th]
+Mikson92: bets 490
+bxl-jb05: calls 490
+*** SHOW DOWN ***
+Mikson92: shows [Ac Ah] (a flush, Ace high)
+bxl-jb05: mucks hand 
+Mikson92 collected 1827 from pot
+*** SUMMARY ***
+Total pot 1827 | Rake 0 
+Board [2c 8c 4c 6c Th]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 (button) mucked [Qs Jc]
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 showed [Ac Ah] and won (1827) with a flush, Ace high
+
+
+
+PokerStars Hand #232299465904: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:39:07 CET [2021/12/17 16:39:07 ET]
+Table '3322190505 1' 9-max Seat #5 is the button
+Seat 1: fyysisin (1488 in chips) 
+Seat 2: neprett44 (1559 in chips) 
+Seat 3: ResTorE88 (1458 in chips) 
+Seat 4: bxl-jb05 (683 in chips) 
+Seat 5: yokerone1 (1458 in chips) 
+Seat 6: KeinKönich (1468 in chips) 
+Seat 7: huxley687 (1488 in chips) 
+Seat 8: mikediver888 (1468 in chips) 
+Seat 9: Mikson92 (2430 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+KeinKönich: posts small blind 10
+huxley687: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 7h]
+mikediver888: calls 20
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: checks 
+*** FLOP *** [3d Jd 4c]
+huxley687: checks 
+mikediver888: bets 20
+huxley687: folds 
+Uncalled bet (20) returned to mikediver888
+mikediver888 collected 77 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Board [3d Jd 4c]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: huxley687 (big blind) folded on the Flop
+Seat 8: mikediver888 collected (77)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299485712: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:39:47 CET [2021/12/17 16:39:47 ET]
+Table '3322190505 1' 9-max Seat #6 is the button
+Seat 1: fyysisin (1485 in chips) 
+Seat 2: neprett44 (1556 in chips) 
+Seat 3: ResTorE88 (1455 in chips) 
+Seat 4: bxl-jb05 (680 in chips) 
+Seat 5: yokerone1 (1455 in chips) 
+Seat 6: KeinKönich (1455 in chips) 
+Seat 7: huxley687 (1465 in chips) 
+Seat 8: mikediver888 (1522 in chips) 
+Seat 9: Mikson92 (2427 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+huxley687: posts small blind 10
+mikediver888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 2s]
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 40 to 60
+mikediver888: calls 40
+*** FLOP *** [Ks Ah 9h]
+huxley687: checks 
+mikediver888: bets 140
+huxley687: folds 
+Uncalled bet (140) returned to mikediver888
+mikediver888 collected 147 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [Ks Ah 9h]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: huxley687 (small blind) folded on the Flop
+Seat 8: mikediver888 (big blind) collected (147)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299502503: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:40:20 CET [2021/12/17 16:40:20 ET]
+Table '3322190505 1' 9-max Seat #7 is the button
+Seat 1: fyysisin (1482 in chips) 
+Seat 2: neprett44 (1553 in chips) 
+Seat 3: ResTorE88 (1452 in chips) 
+Seat 4: bxl-jb05 (677 in chips) 
+Seat 5: yokerone1 (1452 in chips) 
+Seat 6: KeinKönich (1452 in chips) 
+Seat 7: huxley687 (1402 in chips) 
+Seat 8: mikediver888 (1606 in chips) 
+Seat 9: Mikson92 (2424 in chips) 
+fyysisin: posts the ante 3
+neprett44: posts the ante 3
+ResTorE88: posts the ante 3
+bxl-jb05: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts the ante 3
+huxley687: posts the ante 3
+mikediver888: posts the ante 3
+Mikson92: posts the ante 3
+mikediver888: posts small blind 10
+Mikson92: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 2s]
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 40 to 60
+mikediver888: raises 1543 to 1603 and is all-in
+Mikson92: folds 
+huxley687: folds 
+Uncalled bet (1543) returned to mikediver888
+mikediver888 collected 167 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 (button) folded before Flop
+Seat 8: mikediver888 (small blind) collected (167)
+Seat 9: Mikson92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299521381: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:40:58 CET [2021/12/17 16:40:58 ET]
+Table '3322190505 1' 9-max Seat #8 is the button
+Seat 1: fyysisin (1479 in chips) 
+Seat 2: neprett44 (1550 in chips) 
+Seat 3: ResTorE88 (1449 in chips) 
+Seat 4: bxl-jb05 (674 in chips) 
+Seat 5: yokerone1 (1449 in chips) 
+Seat 6: KeinKönich (1449 in chips) 
+Seat 7: huxley687 (1339 in chips) 
+Seat 8: mikediver888 (1710 in chips) 
+Seat 9: Mikson92 (2401 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+bxl-jb05: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+Mikson92: posts small blind 15
+fyysisin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 9d]
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: raises 45 to 75
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+Uncalled bet (45) returned to bxl-jb05
+bxl-jb05 collected 111 from pot
+bxl-jb05: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: fyysisin (big blind) folded before Flop
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 collected (111)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 (button) folded before Flop (didn't bet)
+Seat 9: Mikson92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299535610: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:41:27 CET [2021/12/17 16:41:27 ET]
+Table '3322190505 1' 9-max Seat #9 is the button
+Seat 1: fyysisin (1445 in chips) 
+Seat 2: neprett44 (1546 in chips) 
+Seat 3: ResTorE88 (1445 in chips) 
+Seat 4: bxl-jb05 (751 in chips) 
+Seat 5: yokerone1 (1445 in chips) 
+Seat 6: KeinKönich (1445 in chips) 
+Seat 7: huxley687 (1335 in chips) 
+Seat 8: mikediver888 (1706 in chips) 
+Seat 9: Mikson92 (2382 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+bxl-jb05: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+fyysisin: posts small blind 15
+neprett44: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 8h]
+ResTorE88: folds 
+bxl-jb05: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: raises 30 to 60
+Mikson92: folds 
+fyysisin: folds 
+neprett44: raises 174 to 234
+mikediver888: folds 
+Uncalled bet (174) returned to neprett44
+neprett44 collected 171 from pot
+neprett44: doesn't show hand 
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Seat 1: fyysisin (small blind) folded before Flop
+Seat 2: neprett44 (big blind) collected (171)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 4: bxl-jb05 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop
+Seat 9: Mikson92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299548993: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:41:54 CET [2021/12/17 16:41:54 ET]
+Table '3322190505 1' 9-max Seat #1 is the button
+Seat 1: fyysisin (1426 in chips) 
+Seat 2: neprett44 (1653 in chips) 
+Seat 3: ResTorE88 (1441 in chips) 
+Seat 4: bxl-jb05 (747 in chips) 
+Seat 5: yokerone1 (1441 in chips) 
+Seat 6: KeinKönich (1441 in chips) 
+Seat 7: huxley687 (1331 in chips) 
+Seat 8: mikediver888 (1642 in chips) 
+Seat 9: Mikson92 (2378 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+bxl-jb05: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+neprett44: posts small blind 15
+ResTorE88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h Kc]
+bxl-jb05: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 60 to 90
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: calls 75
+ResTorE88: calls 60
+*** FLOP *** [2d 5s Jc]
+neprett44: checks 
+ResTorE88: checks 
+huxley687: bets 153
+neprett44: calls 153
+ResTorE88: raises 214 to 367
+huxley687: folds 
+neprett44: folds 
+Uncalled bet (214) returned to ResTorE88
+ResTorE88 collected 765 from pot
+ResTorE88: doesn't show hand 
+*** SUMMARY ***
+Total pot 765 | Rake 0 
+Board [2d 5s Jc]
+Seat 1: fyysisin (button) folded before Flop (didn't bet)
+Seat 2: neprett44 (small blind) folded on the Flop
+Seat 3: ResTorE88 (big blind) collected (765)
+Seat 4: bxl-jb05 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded on the Flop
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299590599: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:43:17 CET [2021/12/17 16:43:17 ET]
+Table '3322190505 1' 9-max Seat #2 is the button
+Seat 1: fyysisin (1422 in chips) 
+Seat 2: neprett44 (1406 in chips) 
+Seat 3: ResTorE88 (1959 in chips) 
+Seat 4: bxl-jb05 (743 in chips) 
+Seat 5: yokerone1 (1437 in chips) 
+Seat 6: KeinKönich (1437 in chips) 
+Seat 7: huxley687 (1084 in chips) 
+Seat 8: mikediver888 (1638 in chips) 
+Seat 9: Mikson92 (2374 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+bxl-jb05: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+ResTorE88: posts small blind 15
+bxl-jb05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd Th]
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: raises 30 to 60
+Mikson92: calls 60
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: folds 
+*** FLOP *** [4c 4d 6c]
+mikediver888: bets 90
+Mikson92: folds 
+Uncalled bet (90) returned to mikediver888
+mikediver888 collected 201 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [4c 4d 6c]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 (button) folded before Flop (didn't bet)
+Seat 3: ResTorE88 (small blind) folded before Flop
+Seat 4: bxl-jb05 (big blind) folded before Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 collected (201)
+Seat 9: Mikson92 folded on the Flop
+
+
+
+PokerStars Hand #232299606552: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:43:49 CET [2021/12/17 16:43:49 ET]
+Table '3322190505 1' 9-max Seat #3 is the button
+Seat 1: fyysisin (1418 in chips) 
+Seat 2: neprett44 (1402 in chips) 
+Seat 3: ResTorE88 (1940 in chips) 
+Seat 4: bxl-jb05 (709 in chips) 
+Seat 5: yokerone1 (1433 in chips) 
+Seat 6: KeinKönich (1433 in chips) 
+Seat 7: huxley687 (1080 in chips) 
+Seat 8: mikediver888 (1775 in chips) 
+Seat 9: Mikson92 (2310 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+bxl-jb05: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+bxl-jb05: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh Ks]
+KeinKönich: raises 60 to 90
+huxley687: folds 
+mikediver888: calls 90
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+bxl-jb05: raises 615 to 705 and is all-in
+yokerone1: folds 
+KeinKönich: raises 724 to 1429 and is all-in
+mikediver888: folds 
+Uncalled bet (724) returned to KeinKönich
+*** FLOP *** [Kc 3c Kd]
+*** TURN *** [Kc 3c Kd] [Ts]
+*** RIVER *** [Kc 3c Kd Ts] [5c]
+*** SHOW DOWN ***
+bxl-jb05: shows [Jd Ad] (a pair of Kings)
+KeinKönich: shows [Kh Ks] (four of a kind, Kings)
+KeinKönich collected 1566 from pot
+bxl-jb05 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [Kc 3c Kd Ts 5c]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 (button) folded before Flop (didn't bet)
+Seat 4: bxl-jb05 (small blind) showed [Jd Ad] and lost with a pair of Kings
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: KeinKönich showed [Kh Ks] and won (1566) with four of a kind, Kings
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299624978: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:44:26 CET [2021/12/17 16:44:26 ET]
+Table '3322190505 1' 9-max Seat #5 is the button
+Seat 1: fyysisin (1414 in chips) 
+Seat 2: neprett44 (1398 in chips) 
+Seat 3: ResTorE88 (1936 in chips) 
+Seat 5: yokerone1 (1399 in chips) 
+Seat 6: KeinKönich (2290 in chips) 
+Seat 7: huxley687 (1076 in chips) 
+Seat 8: mikediver888 (1681 in chips) 
+Seat 9: Mikson92 (2306 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+KeinKönich: posts small blind 15
+huxley687: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 3h]
+mikediver888: raises 30 to 60
+Mikson92: folds 
+fyysisin: folds 
+neprett44: calls 60
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 227 to 287
+mikediver888: folds 
+neprett44: calls 227
+*** FLOP *** [Ks 9s Jc]
+huxley687: checks 
+neprett44: checks 
+*** TURN *** [Ks 9s Jc] [7c]
+huxley687: bets 340
+neprett44: folds 
+Uncalled bet (340) returned to huxley687
+huxley687 collected 681 from pot
+huxley687: doesn't show hand 
+*** SUMMARY ***
+Total pot 681 | Rake 0 
+Board [Ks 9s Jc 7c]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded on the Turn
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: huxley687 (big blind) collected (681)
+Seat 8: mikediver888 folded before Flop
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299663291: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:45:27 CET [2021/12/17 16:45:27 ET]
+Table '3322190505 1' 9-max Seat #6 is the button
+Seat 1: fyysisin (1410 in chips) 
+Seat 2: neprett44 (1107 in chips) 
+Seat 3: ResTorE88 (1932 in chips) 
+Seat 5: yokerone1 (1395 in chips) 
+Seat 6: KeinKönich (2271 in chips) 
+Seat 7: huxley687 (1466 in chips) 
+Seat 8: mikediver888 (1617 in chips) 
+Seat 9: Mikson92 (2302 in chips) 
+fyysisin: posts the ante 4
+neprett44: posts the ante 4
+ResTorE88: posts the ante 4
+yokerone1: posts the ante 4
+KeinKönich: posts the ante 4
+huxley687: posts the ante 4
+mikediver888: posts the ante 4
+Mikson92: posts the ante 4
+huxley687: posts small blind 15
+mikediver888: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 3h]
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: raises 45 to 75
+yokerone1: folds 
+KeinKönich: calls 75
+huxley687: folds 
+mikediver888: calls 45
+*** FLOP *** [Jh 9s Kd]
+mikediver888: checks 
+ResTorE88: checks 
+KeinKönich: checks 
+*** TURN *** [Jh 9s Kd] [2d]
+mikediver888: checks 
+ResTorE88: bets 120
+KeinKönich: folds 
+mikediver888: calls 120
+*** RIVER *** [Jh 9s Kd 2d] [Jc]
+mikediver888: checks 
+ResTorE88: checks 
+*** SHOW DOWN ***
+mikediver888: shows [Td Ac] (a pair of Jacks)
+ResTorE88: shows [Qd 9d] (two pair, Jacks and Nines)
+ResTorE88 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | Rake 0 
+Board [Jh 9s Kd 2d Jc]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 showed [Qd 9d] and won (512) with two pair, Jacks and Nines
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded on the Turn
+Seat 7: huxley687 (small blind) folded before Flop
+Seat 8: mikediver888 (big blind) showed [Td Ac] and lost with a pair of Jacks
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299701538: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:46:39 CET [2021/12/17 16:46:39 ET]
+Table '3322190505 1' 9-max Seat #7 is the button
+Seat 1: fyysisin (1406 in chips) 
+Seat 2: neprett44 (1103 in chips) 
+Seat 3: ResTorE88 (2245 in chips) 
+Seat 5: yokerone1 (1391 in chips) 
+Seat 6: KeinKönich (2192 in chips) 
+Seat 7: huxley687 (1447 in chips) 
+Seat 8: mikediver888 (1418 in chips) 
+Seat 9: Mikson92 (2298 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+mikediver888: posts small blind 25
+Mikson92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Th]
+fyysisin: folds 
+neprett44: raises 66 to 116
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 355 to 471
+mikediver888: folds 
+Mikson92: folds 
+neprett44: raises 626 to 1097 and is all-in
+huxley687: calls 626
+*** FLOP *** [Js 8c 6h]
+*** TURN *** [Js 8c 6h] [2s]
+*** RIVER *** [Js 8c 6h 2s] [8d]
+*** SHOW DOWN ***
+neprett44: shows [Ts Td] (two pair, Tens and Eights)
+huxley687: shows [Ac Ks] (a pair of Eights)
+neprett44 collected 2317 from pot
+*** SUMMARY ***
+Total pot 2317 | Rake 0 
+Board [Js 8c 6h 2s 8d]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 showed [Ts Td] and won (2317) with two pair, Tens and Eights
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 (button) showed [Ac Ks] and lost with a pair of Eights
+Seat 8: mikediver888 (small blind) folded before Flop
+Seat 9: Mikson92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299719596: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:47:15 CET [2021/12/17 16:47:15 ET]
+Table '3322190505 1' 9-max Seat #8 is the button
+Seat 1: fyysisin (1400 in chips) 
+Seat 2: neprett44 (2317 in chips) 
+Seat 3: ResTorE88 (2239 in chips) 
+Seat 5: yokerone1 (1385 in chips) 
+Seat 6: KeinKönich (2186 in chips) 
+Seat 7: huxley687 (344 in chips) 
+Seat 8: mikediver888 (1387 in chips) 
+Seat 9: Mikson92 (2242 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+Mikson92: posts small blind 25
+fyysisin: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 3h]
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: raises 50 to 100
+huxley687: raises 238 to 338 and is all-in
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+KeinKönich: calls 238
+*** FLOP *** [Jc 8c 4d]
+*** TURN *** [Jc 8c 4d] [Kh]
+*** RIVER *** [Jc 8c 4d Kh] [Kc]
+*** SHOW DOWN ***
+KeinKönich: shows [3s 3h] (two pair, Kings and Threes)
+huxley687: shows [Qh 8s] (two pair, Kings and Eights)
+huxley687 collected 799 from pot
+*** SUMMARY ***
+Total pot 799 | Rake 0 
+Board [Jc 8c 4d Kh Kc]
+Seat 1: fyysisin (big blind) folded before Flop
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich showed [3s 3h] and lost with two pair, Kings and Threes
+Seat 7: huxley687 showed [Qh 8s] and won (799) with two pair, Kings and Eights
+Seat 8: mikediver888 (button) folded before Flop (didn't bet)
+Seat 9: Mikson92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299734536: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:47:44 CET [2021/12/17 16:47:44 ET]
+Table '3322190505 1' 9-max Seat #9 is the button
+Seat 1: fyysisin (1344 in chips) 
+Seat 2: neprett44 (2311 in chips) 
+Seat 3: ResTorE88 (2233 in chips) 
+Seat 5: yokerone1 (1379 in chips) 
+Seat 6: KeinKönich (1842 in chips) 
+Seat 7: huxley687 (799 in chips) 
+Seat 8: mikediver888 (1381 in chips) 
+Seat 9: Mikson92 (2211 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+fyysisin: posts small blind 25
+neprett44: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 8d]
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 100 to 150
+mikediver888: calls 150
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+*** FLOP *** [Ah Jc Td]
+huxley687: checks 
+mikediver888: bets 1225 and is all-in
+huxley687: calls 643 and is all-in
+Uncalled bet (582) returned to mikediver888
+*** TURN *** [Ah Jc Td] [8h]
+*** RIVER *** [Ah Jc Td 8h] [3d]
+*** SHOW DOWN ***
+huxley687: shows [Ts Ac] (two pair, Aces and Tens)
+mikediver888: shows [9d As] (a pair of Aces)
+huxley687 collected 1709 from pot
+*** SUMMARY ***
+Total pot 1709 | Rake 0 
+Board [Ah Jc Td 8h 3d]
+Seat 1: fyysisin (small blind) folded before Flop
+Seat 2: neprett44 (big blind) folded before Flop
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 showed [Ts Ac] and won (1709) with two pair, Aces and Tens
+Seat 8: mikediver888 showed [9d As] and lost with a pair of Aces
+Seat 9: Mikson92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299750335: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:48:15 CET [2021/12/17 16:48:15 ET]
+Table '3322190505 1' 9-max Seat #1 is the button
+Seat 1: fyysisin (1313 in chips) 
+Seat 2: neprett44 (2255 in chips) 
+Seat 3: ResTorE88 (2227 in chips) 
+Seat 5: yokerone1 (1373 in chips) 
+Seat 6: KeinKönich (1836 in chips) 
+Seat 7: huxley687 (1709 in chips) 
+Seat 8: mikediver888 (582 in chips) 
+Seat 9: Mikson92 (2205 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+neprett44: posts small blind 25
+ResTorE88: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 2d]
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: raises 100 to 150
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: calls 100
+*** FLOP *** [6s Js 5h]
+ResTorE88: checks 
+huxley687: bets 186
+ResTorE88: folds 
+Uncalled bet (186) returned to huxley687
+huxley687 collected 373 from pot
+huxley687: doesn't show hand 
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [6s Js 5h]
+Seat 1: fyysisin (button) folded before Flop (didn't bet)
+Seat 2: neprett44 (small blind) folded before Flop
+Seat 3: ResTorE88 (big blind) folded on the Flop
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 collected (373)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299778062: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:49:09 CET [2021/12/17 16:49:09 ET]
+Table '3322190505 1' 9-max Seat #2 is the button
+Seat 1: fyysisin (1307 in chips) 
+Seat 2: neprett44 (2224 in chips) 
+Seat 3: ResTorE88 (2071 in chips) 
+Seat 5: yokerone1 (1367 in chips) 
+Seat 6: KeinKönich (1830 in chips) 
+Seat 7: huxley687 (1926 in chips) 
+Seat 8: mikediver888 (576 in chips) 
+Seat 9: Mikson92 (2199 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+ResTorE88: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 4c]
+KeinKönich: raises 75 to 125
+huxley687: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+Uncalled bet (75) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 (button) folded before Flop (didn't bet)
+Seat 3: ResTorE88 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: KeinKönich collected (173)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299791211: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:49:35 CET [2021/12/17 16:49:35 ET]
+Table '3322190505 1' 9-max Seat #3 is the button
+Seat 1: fyysisin (1301 in chips) 
+Seat 2: neprett44 (2218 in chips) 
+Seat 3: ResTorE88 (2040 in chips) 
+Seat 5: yokerone1 (1311 in chips) 
+Seat 6: KeinKönich (1947 in chips) 
+Seat 7: huxley687 (1920 in chips) 
+Seat 8: mikediver888 (570 in chips) 
+Seat 9: Mikson92 (2193 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s As]
+huxley687: calls 50
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: raises 125 to 175
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: calls 125
+*** FLOP *** [9h 3s 9s]
+huxley687: checks 
+neprett44: bets 156
+huxley687: calls 156
+*** TURN *** [9h 3s 9s] [6c]
+huxley687: checks 
+neprett44: checks 
+*** RIVER *** [9h 3s 9s 6c] [Kd]
+huxley687: bets 392
+neprett44: folds 
+Uncalled bet (392) returned to huxley687
+huxley687 collected 785 from pot
+huxley687: doesn't show hand 
+*** SUMMARY ***
+Total pot 785 | Rake 0 
+Board [9h 3s 9s 6c Kd]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded on the River
+Seat 3: ResTorE88 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: huxley687 collected (785)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299824025: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:50:40 CET [2021/12/17 16:50:40 ET]
+Table '3322190505 1' 9-max Seat #5 is the button
+Seat 1: fyysisin (1295 in chips) 
+Seat 2: neprett44 (1881 in chips) 
+Seat 3: ResTorE88 (2034 in chips) 
+Seat 5: yokerone1 (1280 in chips) 
+Seat 6: KeinKönich (1891 in chips) 
+Seat 7: huxley687 (2368 in chips) 
+Seat 8: mikediver888 (564 in chips) 
+Seat 9: Mikson92 (2187 in chips) 
+fyysisin: posts the ante 6
+neprett44: posts the ante 6
+ResTorE88: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts the ante 6
+huxley687: posts the ante 6
+mikediver888: posts the ante 6
+Mikson92: posts the ante 6
+KeinKönich: posts small blind 25
+huxley687: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 6s]
+mikediver888: raises 508 to 558 and is all-in
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+Uncalled bet (508) returned to mikediver888
+mikediver888 collected 173 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: huxley687 (big blind) folded before Flop
+Seat 8: mikediver888 collected (173)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299844166: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:51:21 CET [2021/12/17 16:51:21 ET]
+Table '3322190505 1' 9-max Seat #6 is the button
+Seat 1: fyysisin (1289 in chips) 
+Seat 2: neprett44 (1875 in chips) 
+Seat 3: ResTorE88 (2028 in chips) 
+Seat 5: yokerone1 (1274 in chips) 
+Seat 6: KeinKönich (1860 in chips) 
+Seat 7: huxley687 (2312 in chips) 
+Seat 8: mikediver888 (681 in chips) 
+Seat 9: Mikson92 (2181 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+huxley687: posts small blind 40
+mikediver888: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 6s]
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: raises 84 to 164
+KeinKönich: folds 
+huxley687: raises 488 to 652
+mikediver888: raises 19 to 671 and is all-in
+yokerone1: folds 
+huxley687: calls 19
+*** FLOP *** [5d 5c 8d]
+*** TURN *** [5d 5c 8d] [Qh]
+*** RIVER *** [5d 5c 8d Qh] [Ad]
+*** SHOW DOWN ***
+huxley687: shows [7h 7s] (two pair, Sevens and Fives)
+mikediver888: shows [9d 9s] (two pair, Nines and Fives)
+mikediver888 collected 1586 from pot
+*** SUMMARY ***
+Total pot 1586 | Rake 0 
+Board [5d 5c 8d Qh Ad]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: huxley687 (small blind) showed [7h 7s] and lost with two pair, Sevens and Fives
+Seat 8: mikediver888 (big blind) showed [9d 9s] and won (1586) with two pair, Nines and Fives
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299867875: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:52:08 CET [2021/12/17 16:52:08 ET]
+Table '3322190505 1' 9-max Seat #7 is the button
+Seat 1: fyysisin (1279 in chips) 
+Seat 2: neprett44 (1865 in chips) 
+Seat 3: ResTorE88 (2018 in chips) 
+Seat 5: yokerone1 (1100 in chips) 
+Seat 6: KeinKönich (1850 in chips) 
+Seat 7: huxley687 (1631 in chips) 
+Seat 8: mikediver888 (1586 in chips) 
+Seat 9: Mikson92 (2171 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+mikediver888: posts small blind 40
+Mikson92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 7d]
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: calls 40
+Mikson92: checks 
+*** FLOP *** [4d 2h 8c]
+mikediver888: checks 
+Mikson92: checks 
+*** TURN *** [4d 2h 8c] [5s]
+mikediver888: bets 160
+Mikson92: folds 
+Uncalled bet (160) returned to mikediver888
+mikediver888 collected 240 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 2h 8c 5s]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 (button) folded before Flop (didn't bet)
+Seat 8: mikediver888 (small blind) collected (240)
+Seat 9: Mikson92 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232299888231: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:52:48 CET [2021/12/17 16:52:48 ET]
+Table '3322190505 1' 9-max Seat #8 is the button
+Seat 1: fyysisin (1269 in chips) 
+Seat 2: neprett44 (1855 in chips) 
+Seat 3: ResTorE88 (2008 in chips) 
+Seat 5: yokerone1 (1090 in chips) 
+Seat 6: KeinKönich (1840 in chips) 
+Seat 7: huxley687 (1621 in chips) 
+Seat 8: mikediver888 (1736 in chips) 
+Seat 9: Mikson92 (2081 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+Mikson92: posts small blind 40
+fyysisin: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 3d]
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: raises 80 to 160
+huxley687: folds 
+mikediver888: folds 
+Mikson92: raises 1911 to 2071 and is all-in
+fyysisin: folds 
+KeinKönich: folds 
+Uncalled bet (1911) returned to Mikson92
+Mikson92 collected 480 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: fyysisin (big blind) folded before Flop
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 (button) folded before Flop (didn't bet)
+Seat 9: Mikson92 (small blind) collected (480)
+
+
+
+PokerStars Hand #232299908809: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:53:29 CET [2021/12/17 16:53:29 ET]
+Table '3322190505 1' 9-max Seat #9 is the button
+Seat 1: fyysisin (1179 in chips) 
+Seat 2: neprett44 (1845 in chips) 
+Seat 3: ResTorE88 (1998 in chips) 
+Seat 5: yokerone1 (1080 in chips) 
+Seat 6: KeinKönich (1670 in chips) 
+Seat 7: huxley687 (1611 in chips) 
+Seat 8: mikediver888 (1726 in chips) 
+Seat 9: Mikson92 (2391 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+fyysisin: posts small blind 40
+neprett44: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Kh]
+ResTorE88: folds 
+yokerone1: raises 990 to 1070 and is all-in
+KeinKönich: folds 
+huxley687: raises 531 to 1601 and is all-in
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+Uncalled bet (531) returned to huxley687
+*** FLOP *** [8c 2c Jh]
+*** TURN *** [8c 2c Jh] [Td]
+*** RIVER *** [8c 2c Jh Td] [3s]
+*** SHOW DOWN ***
+yokerone1: shows [5s 5h] (a pair of Fives)
+huxley687: shows [Qd Ah] (high card Ace)
+yokerone1 collected 2340 from pot
+*** SUMMARY ***
+Total pot 2340 | Rake 0 
+Board [8c 2c Jh Td 3s]
+Seat 1: fyysisin (small blind) folded before Flop
+Seat 2: neprett44 (big blind) folded before Flop
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 showed [5s 5h] and won (2340) with a pair of Fives
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 showed [Qd Ah] and lost with high card Ace
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299922178: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:53:55 CET [2021/12/17 16:53:55 ET]
+Table '3322190505 1' 9-max Seat #1 is the button
+Seat 1: fyysisin (1129 in chips) 
+Seat 2: neprett44 (1755 in chips) 
+Seat 3: ResTorE88 (1988 in chips) 
+Seat 5: yokerone1 (2340 in chips) 
+Seat 6: KeinKönich (1660 in chips) 
+Seat 7: huxley687 (531 in chips) 
+Seat 8: mikediver888 (1716 in chips) 
+Seat 9: Mikson92 (2381 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+neprett44: posts small blind 40
+ResTorE88: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 5h]
+yokerone1: raises 84 to 164
+KeinKönich: folds 
+huxley687: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+Uncalled bet (84) returned to yokerone1
+yokerone1 collected 280 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: fyysisin (button) folded before Flop (didn't bet)
+Seat 2: neprett44 (small blind) folded before Flop
+Seat 3: ResTorE88 (big blind) folded before Flop
+Seat 5: yokerone1 collected (280)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299932076: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:54:15 CET [2021/12/17 16:54:15 ET]
+Table '3322190505 1' 9-max Seat #2 is the button
+Seat 1: fyysisin (1119 in chips) 
+Seat 2: neprett44 (1705 in chips) 
+Seat 3: ResTorE88 (1898 in chips) 
+Seat 5: yokerone1 (2530 in chips) 
+Seat 6: KeinKönich (1650 in chips) 
+Seat 7: huxley687 (521 in chips) 
+Seat 8: mikediver888 (1706 in chips) 
+Seat 9: Mikson92 (2371 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+ResTorE88: posts small blind 40
+yokerone1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 8d]
+KeinKönich: folds 
+huxley687: raises 160 to 240
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+Uncalled bet (160) returned to huxley687
+huxley687 collected 280 from pot
+huxley687: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 (button) folded before Flop (didn't bet)
+Seat 3: ResTorE88 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: huxley687 collected (280)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299941554: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:54:33 CET [2021/12/17 16:54:33 ET]
+Table '3322190505 1' 9-max Seat #3 is the button
+Seat 1: fyysisin (1109 in chips) 
+Seat 2: neprett44 (1695 in chips) 
+Seat 3: ResTorE88 (1848 in chips) 
+Seat 5: yokerone1 (2440 in chips) 
+Seat 6: KeinKönich (1640 in chips) 
+Seat 7: huxley687 (711 in chips) 
+Seat 8: mikediver888 (1696 in chips) 
+Seat 9: Mikson92 (2361 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+yokerone1: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Qs]
+huxley687: folds 
+mikediver888: raises 80 to 160
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+Uncalled bet (80) returned to mikediver888
+mikediver888 collected 280 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: huxley687 folded before Flop (didn't bet)
+Seat 8: mikediver888 collected (280)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299951907: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:54:54 CET [2021/12/17 16:54:54 ET]
+Table '3322190505 1' 9-max Seat #5 is the button
+Seat 1: fyysisin (1099 in chips) 
+Seat 2: neprett44 (1685 in chips) 
+Seat 3: ResTorE88 (1838 in chips) 
+Seat 5: yokerone1 (2390 in chips) 
+Seat 6: KeinKönich (1550 in chips) 
+Seat 7: huxley687 (701 in chips) 
+Seat 8: mikediver888 (1886 in chips) 
+Seat 9: Mikson92 (2351 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+huxley687: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+KeinKönich: posts small blind 40
+huxley687: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 3s]
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: raises 1460 to 1540 and is all-in
+huxley687: calls 611 and is all-in
+Uncalled bet (849) returned to KeinKönich
+*** FLOP *** [2d 7s Tc]
+*** TURN *** [2d 7s Tc] [Kh]
+*** RIVER *** [2d 7s Tc Kh] [3h]
+*** SHOW DOWN ***
+KeinKönich: shows [Ac 3s] (a pair of Threes)
+huxley687: shows [4d 5s] (high card King)
+KeinKönich collected 1462 from pot
+huxley687 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 1462 | Rake 0 
+Board [2d 7s Tc Kh 3h]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) showed [Ac 3s] and won (1462) with a pair of Threes
+Seat 7: huxley687 (big blind) showed [4d 5s] and lost with high card King
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299964138: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:55:23 CET [2021/12/17 16:55:23 ET]
+Table '3322190505 1' 9-max Seat #6 is the button
+Seat 1: fyysisin (1089 in chips) 
+Seat 2: neprett44 (1675 in chips) 
+Seat 3: ResTorE88 (1828 in chips) 
+Seat 5: yokerone1 (2380 in chips) 
+Seat 6: KeinKönich (2311 in chips) 
+Seat 8: mikediver888 (1876 in chips) 
+Seat 9: Mikson92 (2341 in chips) 
+fyysisin: posts the ante 10
+neprett44: posts the ante 10
+ResTorE88: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts the ante 10
+mikediver888: posts the ante 10
+Mikson92: posts the ante 10
+mikediver888: posts small blind 40
+Mikson92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 9d]
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: raises 80 to 160
+mikediver888: folds 
+Mikson92: calls 80
+*** FLOP *** [Ks Js Td]
+Mikson92: checks 
+KeinKönich: checks 
+*** TURN *** [Ks Js Td] [7s]
+Mikson92: checks 
+KeinKönich: bets 215
+Mikson92: folds 
+Uncalled bet (215) returned to KeinKönich
+KeinKönich collected 430 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Ks Js Td 7s]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) collected (430)
+Seat 8: mikediver888 (small blind) folded before Flop
+Seat 9: Mikson92 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232299980147: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:56:06 CET [2021/12/17 16:56:06 ET]
+Table '3322190505 1' 9-max Seat #8 is the button
+Seat 1: fyysisin (1079 in chips) 
+Seat 2: neprett44 (1665 in chips) 
+Seat 3: ResTorE88 (1818 in chips) 
+Seat 5: yokerone1 (2370 in chips) 
+Seat 6: KeinKönich (2571 in chips) 
+Seat 8: mikediver888 (1826 in chips) 
+Seat 9: Mikson92 (2171 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+Mikson92: posts small blind 60
+fyysisin: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 2s]
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+mikediver888: raises 1691 to 1811 and is all-in
+Mikson92: folds 
+fyysisin: folds 
+Uncalled bet (1691) returned to mikediver888
+mikediver888 collected 405 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: fyysisin (big blind) folded before Flop
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 8: mikediver888 (button) collected (405)
+Seat 9: Mikson92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299990577: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:56:35 CET [2021/12/17 16:56:35 ET]
+Table '3322190505 1' 9-max Seat #9 is the button
+Seat 1: fyysisin (944 in chips) 
+Seat 2: neprett44 (1650 in chips) 
+Seat 3: ResTorE88 (1803 in chips) 
+Seat 5: yokerone1 (2355 in chips) 
+Seat 6: KeinKönich (2556 in chips) 
+Seat 8: mikediver888 (2096 in chips) 
+Seat 9: Mikson92 (2096 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+fyysisin: posts small blind 60
+neprett44: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 8d]
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+mikediver888: raises 120 to 240
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+Uncalled bet (120) returned to mikediver888
+mikediver888 collected 405 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: fyysisin (small blind) folded before Flop
+Seat 2: neprett44 (big blind) folded before Flop
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 8: mikediver888 collected (405)
+Seat 9: Mikson92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299996564: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:56:50 CET [2021/12/17 16:56:50 ET]
+Table '3322190505 1' 9-max Seat #1 is the button
+Seat 1: fyysisin (869 in chips) 
+Seat 2: neprett44 (1515 in chips) 
+Seat 3: ResTorE88 (1788 in chips) 
+Seat 5: yokerone1 (2340 in chips) 
+Seat 6: KeinKönich (2541 in chips) 
+Seat 8: mikediver888 (2366 in chips) 
+Seat 9: Mikson92 (2081 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+neprett44: posts small blind 60
+ResTorE88: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 9h]
+yokerone1: raises 126 to 246
+KeinKönich: folds 
+mikediver888: folds 
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+Uncalled bet (126) returned to yokerone1
+yokerone1 collected 405 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: fyysisin (button) folded before Flop (didn't bet)
+Seat 2: neprett44 (small blind) folded before Flop
+Seat 3: ResTorE88 (big blind) folded before Flop
+Seat 5: yokerone1 collected (405)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300008145: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:57:21 CET [2021/12/17 16:57:21 ET]
+Table '3322190505 1' 9-max Seat #2 is the button
+Seat 1: fyysisin (854 in chips) 
+Seat 2: neprett44 (1440 in chips) 
+Seat 3: ResTorE88 (1653 in chips) 
+Seat 5: yokerone1 (2610 in chips) 
+Seat 6: KeinKönich (2526 in chips) 
+Seat 8: mikediver888 (2351 in chips) 
+Seat 9: Mikson92 (2066 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+ResTorE88: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td Jc]
+KeinKönich: folds 
+mikediver888: raises 120 to 240
+Mikson92: folds 
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+Uncalled bet (120) returned to mikediver888
+mikediver888 collected 405 from pot
+mikediver888: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 (button) folded before Flop (didn't bet)
+Seat 3: ResTorE88 (small blind) folded before Flop
+Seat 5: yokerone1 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 8: mikediver888 collected (405)
+Seat 9: Mikson92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300014662: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:57:38 CET [2021/12/17 16:57:38 ET]
+Table '3322190505 1' 9-max Seat #3 is the button
+Seat 1: fyysisin (839 in chips) 
+Seat 2: neprett44 (1425 in chips) 
+Seat 3: ResTorE88 (1578 in chips) 
+Seat 5: yokerone1 (2475 in chips) 
+Seat 6: KeinKönich (2511 in chips) 
+Seat 8: mikediver888 (2621 in chips) 
+Seat 9: Mikson92 (2051 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+yokerone1: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad Kd]
+mikediver888: folds 
+Mikson92: raises 1916 to 2036 and is all-in
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: calls 1916
+*** FLOP *** [4c 3c 6c]
+*** TURN *** [4c 3c 6c] [Jc]
+*** RIVER *** [4c 3c 6c Jc] [8s]
+*** SHOW DOWN ***
+KeinKönich: shows [Ad Kd] (high card Ace)
+Mikson92: shows [Kc Ah] (a flush, King high)
+Mikson92 collected 4237 from pot
+*** SUMMARY ***
+Total pot 4237 | Rake 0 
+Board [4c 3c 6c Jc 8s]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 (button) folded before Flop (didn't bet)
+Seat 5: yokerone1 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) showed [Ad Kd] and lost with high card Ace
+Seat 8: mikediver888 folded before Flop (didn't bet)
+Seat 9: Mikson92 showed [Kc Ah] and won (4237) with a flush, King high
+
+
+
+PokerStars Hand #232300023536: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:58:02 CET [2021/12/17 16:58:02 ET]
+Table '3322190505 1' 9-max Seat #5 is the button
+Seat 1: fyysisin (824 in chips) 
+Seat 2: neprett44 (1410 in chips) 
+Seat 3: ResTorE88 (1563 in chips) 
+Seat 5: yokerone1 (2400 in chips) 
+Seat 6: KeinKönich (460 in chips) 
+Seat 8: mikediver888 (2606 in chips) 
+Seat 9: Mikson92 (4237 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+KeinKönich: posts small blind 60
+mikediver888: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 5s]
+Mikson92: raises 120 to 240
+fyysisin: folds 
+neprett44: folds 
+ResTorE88: folds 
+yokerone1: folds 
+KeinKönich: folds 
+mikediver888: calls 120
+*** FLOP *** [3s 3d Qd]
+mikediver888: checks 
+Mikson92: bets 240
+mikediver888: folds 
+Uncalled bet (240) returned to Mikson92
+Mikson92 collected 645 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [3s 3d Qd]
+Seat 1: fyysisin folded before Flop (didn't bet)
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 folded before Flop (didn't bet)
+Seat 5: yokerone1 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 8: mikediver888 (big blind) folded on the Flop
+Seat 9: Mikson92 collected (645)
+
+
+
+PokerStars Hand #232300037062: Tournament #3322190505, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:58:24 CET [2021/12/17 16:58:24 ET]
+Table '3322190505 1' 9-max Seat #6 is the button
+Seat 1: fyysisin (809 in chips) 
+Seat 2: neprett44 (1395 in chips) 
+Seat 3: ResTorE88 (1548 in chips) 
+Seat 5: yokerone1 (2385 in chips) 
+Seat 6: KeinKönich (385 in chips) 
+Seat 8: mikediver888 (2351 in chips) 
+Seat 9: Mikson92 (4627 in chips) 
+fyysisin: posts the ante 15
+neprett44: posts the ante 15
+ResTorE88: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts the ante 15
+mikediver888: posts the ante 15
+Mikson92: posts the ante 15
+mikediver888: posts small blind 60
+Mikson92: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Jh]
+fyysisin: raises 674 to 794 and is all-in
+neprett44: folds 
+ResTorE88: raises 739 to 1533 and is all-in
+yokerone1: folds 
+KeinKönich: calls 370 and is all-in
+mikediver888: folds 
+Mikson92: folds 
+Uncalled bet (739) returned to ResTorE88
+*** FLOP *** [6s Qs 3c]
+*** TURN *** [6s Qs 3c] [Ah]
+*** RIVER *** [6s Qs 3c Ah] [Qc]
+*** SHOW DOWN ***
+fyysisin: shows [Ts As] (two pair, Aces and Queens)
+ResTorE88: shows [8d 8s] (two pair, Queens and Eights)
+fyysisin collected 848 from side pot
+KeinKönich: shows [6c Jh] (two pair, Queens and Sixes)
+fyysisin collected 1395 from main pot
+KeinKönich finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2243 Main pot 1395. Side pot 848. | Rake 0 
+Board [6s Qs 3c Ah Qc]
+Seat 1: fyysisin showed [Ts As] and won (2243) with two pair, Aces and Queens
+Seat 2: neprett44 folded before Flop (didn't bet)
+Seat 3: ResTorE88 showed [8d 8s] and lost with two pair, Queens and Eights
+Seat 5: yokerone1 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) showed [6c Jh] and lost with two pair, Queens and Sixes
+Seat 8: mikediver888 (small blind) folded before Flop
+Seat 9: Mikson92 (big blind) folded before Flop
+
+
+

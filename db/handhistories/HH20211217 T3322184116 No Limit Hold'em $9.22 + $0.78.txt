@@ -1,0 +1,2086 @@
+ï»¿PokerStars Hand #232299035638: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:25:23 CET [2021/12/17 16:25:23 ET]
+Table '3322184116 2' 9-max Seat #1 is the button
+Seat 1: 2lakes (1500 in chips) 
+Seat 2: Chicano96 (1500 in chips) 
+Seat 3: pokerher1986 (1500 in chips) 
+Seat 4: kaDimitris (1500 in chips) 
+Seat 5: KeinKönich (1500 in chips) 
+Seat 6: IWannaR0ck (1500 in chips) 
+Seat 7: nararocha (1500 in chips) is sitting out
+Seat 8: leledoni (1500 in chips) 
+Seat 9: gillou27 (1500 in chips) 
+2lakes: posts the ante 3
+Chicano96: posts the ante 3
+pokerher1986: posts the ante 3
+kaDimitris: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+nararocha: posts the ante 3
+leledoni: posts the ante 3
+gillou27: posts the ante 3
+Chicano96: posts small blind 10
+pokerher1986: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 6s]
+kaDimitris: folds 
+KeinKönich: folds 
+IWannaR0ck: raises 30 to 50
+nararocha: folds 
+leledoni: folds 
+gillou27: folds 
+2lakes: folds 
+Chicano96: calls 40
+pokerher1986: calls 30
+*** FLOP *** [3h 5c Ks]
+Chicano96: checks 
+pokerher1986: checks 
+IWannaR0ck: bets 89
+Chicano96: folds 
+pokerher1986: calls 89
+*** TURN *** [3h 5c Ks] [Ac]
+pokerher1986: checks 
+IWannaR0ck: bets 237
+pokerher1986: calls 237
+*** RIVER *** [3h 5c Ks Ac] [Kc]
+pokerher1986: checks 
+IWannaR0ck: checks 
+*** SHOW DOWN ***
+pokerher1986: shows [Kh Jd] (three of a kind, Kings)
+IWannaR0ck: mucks hand 
+pokerher1986 collected 829 from pot
+*** SUMMARY ***
+Total pot 829 | Rake 0 
+Board [3h 5c Ks Ac Kc]
+Seat 1: 2lakes (button) folded before Flop (didn't bet)
+Seat 2: Chicano96 (small blind) folded on the Flop
+Seat 3: pokerher1986 (big blind) showed [Kh Jd] and won (829) with three of a kind, Kings
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: IWannaR0ck mucked [Ah 7h]
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299081402: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:26:53 CET [2021/12/17 16:26:53 ET]
+Table '3322184116 2' 9-max Seat #2 is the button
+Seat 1: 2lakes (1497 in chips) 
+Seat 2: Chicano96 (1447 in chips) 
+Seat 3: pokerher1986 (1950 in chips) 
+Seat 4: kaDimitris (1497 in chips) 
+Seat 5: KeinKönich (1497 in chips) 
+Seat 6: IWannaR0ck (1121 in chips) 
+Seat 7: nararocha (1497 in chips) is sitting out
+Seat 8: leledoni (1497 in chips) 
+Seat 9: gillou27 (1497 in chips) 
+2lakes: posts the ante 3
+Chicano96: posts the ante 3
+pokerher1986: posts the ante 3
+kaDimitris: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+nararocha: posts the ante 3
+leledoni: posts the ante 3
+gillou27: posts the ante 3
+pokerher1986: posts small blind 10
+kaDimitris: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Qs]
+KeinKönich: folds 
+IWannaR0ck: folds 
+nararocha: folds 
+leledoni: folds 
+gillou27: raises 20 to 40
+2lakes: folds 
+Chicano96: folds 
+pokerher1986: calls 30
+kaDimitris: folds 
+*** FLOP *** [7h Ac 2h]
+pokerher1986: checks 
+gillou27: bets 20
+pokerher1986: raises 84 to 104
+gillou27: folds 
+Uncalled bet (84) returned to pokerher1986
+pokerher1986 collected 167 from pot
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [7h Ac 2h]
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 (button) folded before Flop (didn't bet)
+Seat 3: pokerher1986 (small blind) collected (167)
+Seat 4: kaDimitris (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded on the Flop
+
+
+
+PokerStars Hand #232299107598: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:27:37 CET [2021/12/17 16:27:37 ET]
+Table '3322184116 2' 9-max Seat #3 is the button
+Seat 1: 2lakes (1494 in chips) 
+Seat 2: Chicano96 (1444 in chips) 
+Seat 3: pokerher1986 (2054 in chips) 
+Seat 4: kaDimitris (1474 in chips) 
+Seat 5: KeinKönich (1494 in chips) 
+Seat 6: IWannaR0ck (1118 in chips) 
+Seat 7: nararocha (1494 in chips) is sitting out
+Seat 8: leledoni (1494 in chips) 
+Seat 9: gillou27 (1434 in chips) 
+2lakes: posts the ante 3
+Chicano96: posts the ante 3
+pokerher1986: posts the ante 3
+kaDimitris: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+nararocha: posts the ante 3
+leledoni: posts the ante 3
+gillou27: posts the ante 3
+kaDimitris: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Qs]
+IWannaR0ck: folds 
+nararocha: folds 
+leledoni: raises 30 to 50
+gillou27: folds 
+2lakes: folds 
+Chicano96: folds 
+pokerher1986: calls 50
+kaDimitris: folds 
+KeinKönich: calls 30
+*** FLOP *** [Js 7d 6h]
+KeinKönich: checks 
+leledoni: checks 
+pokerher1986: checks 
+*** TURN *** [Js 7d 6h] [Kc]
+KeinKönich: checks 
+leledoni: checks 
+nararocha has returned
+pokerher1986: checks 
+*** RIVER *** [Js 7d 6h Kc] [4s]
+KeinKönich: checks 
+leledoni: checks 
+pokerher1986: checks 
+*** SHOW DOWN ***
+KeinKönich: shows [Ts Qs] (high card King)
+leledoni: shows [Ah Qd] (high card Ace)
+pokerher1986: shows [As 6c] (a pair of Sixes)
+pokerher1986 collected 187 from pot
+*** SUMMARY ***
+Total pot 187 | Rake 0 
+Board [Js 7d 6h Kc 4s]
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 (button) showed [As 6c] and won (187) with a pair of Sixes
+Seat 4: kaDimitris (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) showed [Ts Qs] and lost with high card King
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni showed [Ah Qd] and lost with high card Ace
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299137704: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:28:36 CET [2021/12/17 16:28:36 ET]
+Table '3322184116 2' 9-max Seat #4 is the button
+Seat 1: 2lakes (1491 in chips) 
+Seat 2: Chicano96 (1441 in chips) 
+Seat 3: pokerher1986 (2188 in chips) 
+Seat 4: kaDimitris (1461 in chips) 
+Seat 5: KeinKönich (1441 in chips) 
+Seat 6: IWannaR0ck (1115 in chips) 
+Seat 7: nararocha (1491 in chips) 
+Seat 8: leledoni (1441 in chips) 
+Seat 9: gillou27 (1431 in chips) 
+2lakes: posts the ante 3
+Chicano96: posts the ante 3
+pokerher1986: posts the ante 3
+kaDimitris: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+nararocha: posts the ante 3
+leledoni: posts the ante 3
+gillou27: posts the ante 3
+KeinKönich: posts small blind 10
+IWannaR0ck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 7d]
+nararocha: folds 
+leledoni: folds 
+gillou27: folds 
+2lakes: calls 20
+Chicano96: raises 60 to 80
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+IWannaR0ck: folds 
+2lakes: calls 60
+*** FLOP *** [4s 8s 9s]
+2lakes: checks 
+Chicano96: checks 
+*** TURN *** [4s 8s 9s] [Jh]
+2lakes: checks 
+Chicano96: checks 
+*** RIVER *** [4s 8s 9s Jh] [Ad]
+2lakes: checks 
+Chicano96: bets 87
+2lakes: folds [6c 6s]
+Uncalled bet (87) returned to Chicano96
+Chicano96 collected 217 from pot
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [4s 8s 9s Jh Ad]
+Seat 1: 2lakes folded on the River
+Seat 2: Chicano96 collected (217)
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299167082: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:29:34 CET [2021/12/17 16:29:34 ET]
+Table '3322184116 2' 9-max Seat #5 is the button
+Seat 1: 2lakes (1408 in chips) 
+Seat 2: Chicano96 (1575 in chips) 
+Seat 3: pokerher1986 (2185 in chips) 
+Seat 4: kaDimitris (1458 in chips) 
+Seat 5: KeinKönich (1428 in chips) 
+Seat 6: IWannaR0ck (1092 in chips) 
+Seat 7: nararocha (1488 in chips) 
+Seat 8: leledoni (1438 in chips) 
+Seat 9: gillou27 (1428 in chips) 
+2lakes: posts the ante 3
+Chicano96: posts the ante 3
+pokerher1986: posts the ante 3
+kaDimitris: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts the ante 3
+nararocha: posts the ante 3
+leledoni: posts the ante 3
+gillou27: posts the ante 3
+IWannaR0ck: posts small blind 10
+nararocha: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Tc]
+leledoni: folds 
+gillou27: folds 
+2lakes: folds 
+Chicano96: raises 40 to 60
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+IWannaR0ck: raises 120 to 180
+nararocha: calls 160
+Chicano96: folds 
+*** FLOP *** [Qc 7d Kc]
+IWannaR0ck: bets 147
+nararocha: calls 147
+*** TURN *** [Qc 7d Kc] [9d]
+IWannaR0ck: bets 296
+nararocha: calls 296
+*** RIVER *** [Qc 7d Kc 9d] [8c]
+IWannaR0ck: bets 466 and is all-in
+nararocha: calls 466
+*** SHOW DOWN ***
+IWannaR0ck: shows [Ad Ah] (a pair of Aces)
+nararocha: shows [7c 8s] (two pair, Eights and Sevens)
+nararocha collected 2265 from pot
+IWannaR0ck finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 2265 | Rake 0 
+Board [Qc 7d Kc 9d 8c]
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 folded before Flop
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) showed [Ad Ah] and lost with a pair of Aces
+Seat 7: nararocha (big blind) showed [7c 8s] and won (2265) with two pair, Eights and Sevens
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299213333: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:31:03 CET [2021/12/17 16:31:03 ET]
+Table '3322184116 2' 9-max Seat #7 is the button
+Seat 1: 2lakes (1405 in chips) 
+Seat 2: Chicano96 (1512 in chips) 
+Seat 3: pokerher1986 (2182 in chips) 
+Seat 4: kaDimitris (1455 in chips) 
+Seat 5: KeinKönich (1425 in chips) 
+Seat 7: nararocha (2661 in chips) 
+Seat 8: leledoni (1435 in chips) 
+Seat 9: gillou27 (1425 in chips) 
+2lakes: posts the ante 4
+Chicano96: posts the ante 4
+pokerher1986: posts the ante 4
+kaDimitris: posts the ante 4
+KeinKönich: posts the ante 4
+nararocha: posts the ante 4
+leledoni: posts the ante 4
+gillou27: posts the ante 4
+leledoni: posts small blind 15
+gillou27: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Kh]
+2lakes: folds 
+Chicano96: folds 
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: folds 
+leledoni: raises 90 to 120
+gillou27: folds 
+Uncalled bet (90) returned to leledoni
+leledoni collected 92 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) collected (92)
+Seat 9: gillou27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299230873: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:31:37 CET [2021/12/17 16:31:37 ET]
+Table '3322184116 2' 9-max Seat #8 is the button
+Seat 1: 2lakes (1401 in chips) 
+Seat 2: Chicano96 (1508 in chips) 
+Seat 3: pokerher1986 (2178 in chips) 
+Seat 4: kaDimitris (1451 in chips) 
+Seat 5: KeinKönich (1421 in chips) 
+Seat 7: nararocha (2657 in chips) 
+Seat 8: leledoni (1493 in chips) 
+Seat 9: gillou27 (1391 in chips) 
+2lakes: posts the ante 4
+Chicano96: posts the ante 4
+pokerher1986: posts the ante 4
+kaDimitris: posts the ante 4
+KeinKönich: posts the ante 4
+nararocha: posts the ante 4
+leledoni: posts the ante 4
+gillou27: posts the ante 4
+gillou27: posts small blind 15
+2lakes: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 6c]
+Chicano96: folds 
+pokerher1986: calls 30
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 30
+leledoni: folds 
+gillou27: folds 
+2lakes: checks 
+*** FLOP *** [Jd Qc 9s]
+2lakes: checks 
+pokerher1986: checks 
+nararocha: bets 180
+2lakes: folds 
+pokerher1986: folds 
+Uncalled bet (180) returned to nararocha
+nararocha collected 137 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Jd Qc 9s]
+Seat 1: 2lakes (big blind) folded on the Flop
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 folded on the Flop
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha collected (137)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: gillou27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299256369: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:32:27 CET [2021/12/17 16:32:27 ET]
+Table '3322184116 2' 9-max Seat #9 is the button
+Seat 1: 2lakes (1367 in chips) 
+Seat 2: Chicano96 (1504 in chips) 
+Seat 3: pokerher1986 (2144 in chips) 
+Seat 4: kaDimitris (1447 in chips) 
+Seat 5: KeinKönich (1417 in chips) 
+Seat 7: nararocha (2760 in chips) 
+Seat 8: leledoni (1489 in chips) 
+Seat 9: gillou27 (1372 in chips) 
+2lakes: posts the ante 4
+Chicano96: posts the ante 4
+pokerher1986: posts the ante 4
+kaDimitris: posts the ante 4
+KeinKönich: posts the ante 4
+nararocha: posts the ante 4
+leledoni: posts the ante 4
+gillou27: posts the ante 4
+2lakes: posts small blind 15
+Chicano96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d Kh]
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 30
+leledoni: calls 30
+gillou27: folds 
+2lakes: folds 
+Chicano96: checks 
+*** FLOP *** [Qd 7h Ac]
+Chicano96: checks 
+nararocha: checks 
+leledoni: checks 
+*** TURN *** [Qd 7h Ac] [Ah]
+Chicano96: checks 
+nararocha: checks 
+leledoni: checks 
+*** RIVER *** [Qd 7h Ac Ah] [7d]
+Chicano96: checks 
+nararocha: checks 
+leledoni: checks 
+*** SHOW DOWN ***
+Chicano96: shows [8h Ts] (two pair, Aces and Sevens)
+nararocha: shows [Qs 9h] (two pair, Aces and Queens)
+leledoni: mucks hand 
+nararocha collected 137 from pot
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Qd 7h Ac Ah 7d]
+Seat 1: 2lakes (small blind) folded before Flop
+Seat 2: Chicano96 (big blind) showed [8h Ts] and lost with two pair, Aces and Sevens
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha showed [Qs 9h] and won (137) with two pair, Aces and Queens
+Seat 8: leledoni mucked [6s 6d]
+Seat 9: gillou27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299300684: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:33:54 CET [2021/12/17 16:33:54 ET]
+Table '3322184116 2' 9-max Seat #1 is the button
+Seat 1: 2lakes (1348 in chips) 
+Seat 2: Chicano96 (1470 in chips) 
+Seat 3: pokerher1986 (2140 in chips) 
+Seat 4: kaDimitris (1443 in chips) 
+Seat 5: KeinKönich (1413 in chips) 
+Seat 7: nararocha (2863 in chips) 
+Seat 8: leledoni (1455 in chips) 
+Seat 9: gillou27 (1368 in chips) 
+2lakes: posts the ante 4
+Chicano96: posts the ante 4
+pokerher1986: posts the ante 4
+kaDimitris: posts the ante 4
+KeinKönich: posts the ante 4
+nararocha: posts the ante 4
+leledoni: posts the ante 4
+gillou27: posts the ante 4
+Chicano96: posts small blind 15
+pokerher1986: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Td]
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 30
+leledoni: folds 
+gillou27: folds 
+2lakes: folds 
+Chicano96: calls 15
+pokerher1986: checks 
+*** FLOP *** [7c 9c 3c]
+Chicano96: checks 
+pokerher1986: checks 
+nararocha: checks 
+*** TURN *** [7c 9c 3c] [Jc]
+Chicano96: checks 
+pokerher1986: bets 122
+nararocha: folds 
+Chicano96: folds 
+Uncalled bet (122) returned to pokerher1986
+pokerher1986 collected 122 from pot
+pokerher1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [7c 9c 3c Jc]
+Seat 1: 2lakes (button) folded before Flop (didn't bet)
+Seat 2: Chicano96 (small blind) folded on the Turn
+Seat 3: pokerher1986 (big blind) collected (122)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha folded on the Turn
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299335217: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:35:03 CET [2021/12/17 16:35:03 ET]
+Table '3322184116 2' 9-max Seat #2 is the button
+Seat 1: 2lakes (1344 in chips) 
+Seat 2: Chicano96 (1436 in chips) 
+Seat 3: pokerher1986 (2228 in chips) 
+Seat 4: kaDimitris (1439 in chips) 
+Seat 5: KeinKönich (1409 in chips) 
+Seat 7: nararocha (2829 in chips) 
+Seat 8: leledoni (1451 in chips) 
+Seat 9: gillou27 (1364 in chips) 
+2lakes: posts the ante 4
+Chicano96: posts the ante 4
+pokerher1986: posts the ante 4
+kaDimitris: posts the ante 4
+KeinKönich: posts the ante 4
+nararocha: posts the ante 4
+leledoni: posts the ante 4
+gillou27: posts the ante 4
+pokerher1986: posts small blind 15
+kaDimitris: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 2s]
+KeinKönich: folds 
+nararocha: calls 30
+leledoni: folds 
+gillou27: folds 
+2lakes: folds 
+Chicano96: raises 90 to 120
+pokerher1986: folds 
+kaDimitris: folds 
+nararocha: calls 90
+*** FLOP *** [4s 5s 4d]
+nararocha: checks 
+Chicano96: bets 106
+nararocha: calls 106
+*** TURN *** [4s 5s 4d] [5c]
+nararocha: checks 
+Chicano96: checks 
+*** RIVER *** [4s 5s 4d 5c] [2c]
+nararocha: bets 1020
+Chicano96: folds 
+Uncalled bet (1020) returned to nararocha
+nararocha collected 529 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 529 | Rake 0 
+Board [4s 5s 4d 5c 2c]
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 (button) folded on the River
+Seat 3: pokerher1986 (small blind) folded before Flop
+Seat 4: kaDimitris (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha collected (529)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299378450: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:36:29 CET [2021/12/17 16:36:29 ET]
+Table '3322184116 2' 9-max Seat #3 is the button
+Seat 1: 2lakes (1340 in chips) 
+Seat 2: Chicano96 (1206 in chips) 
+Seat 3: pokerher1986 (2209 in chips) 
+Seat 4: kaDimitris (1405 in chips) 
+Seat 5: KeinKönich (1405 in chips) 
+Seat 7: nararocha (3128 in chips) 
+Seat 8: leledoni (1447 in chips) 
+Seat 9: gillou27 (1360 in chips) 
+2lakes: posts the ante 6
+Chicano96: posts the ante 6
+pokerher1986: posts the ante 6
+kaDimitris: posts the ante 6
+KeinKönich: posts the ante 6
+nararocha: posts the ante 6
+leledoni: posts the ante 6
+gillou27: posts the ante 6
+kaDimitris: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 6d]
+nararocha: folds 
+leledoni: folds 
+gillou27: folds 
+2lakes: folds 
+Chicano96: raises 55 to 105
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: calls 55
+*** FLOP *** [Qc 3c 4d]
+KeinKönich: checks 
+Chicano96: bets 94
+KeinKönich: raises 94 to 188
+Chicano96: calls 94
+*** TURN *** [Qc 3c 4d] [9c]
+KeinKönich: bets 275
+Chicano96: folds 
+Uncalled bet (275) returned to KeinKönich
+KeinKönich collected 659 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 659 | Rake 0 
+Board [Qc 3c 4d 9c]
+Seat 1: 2lakes folded before Flop (didn't bet)
+Seat 2: Chicano96 folded on the Turn
+Seat 3: pokerher1986 (button) folded before Flop (didn't bet)
+Seat 4: kaDimitris (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (659)
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299415998: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:37:44 CET [2021/12/17 16:37:44 ET]
+Table '3322184116 2' 9-max Seat #4 is the button
+Seat 1: 2lakes (1334 in chips) 
+Seat 2: Chicano96 (907 in chips) 
+Seat 3: pokerher1986 (2203 in chips) 
+Seat 4: kaDimitris (1374 in chips) 
+Seat 5: KeinKönich (1765 in chips) 
+Seat 7: nararocha (3122 in chips) 
+Seat 8: leledoni (1441 in chips) 
+Seat 9: gillou27 (1354 in chips) 
+2lakes: posts the ante 6
+Chicano96: posts the ante 6
+pokerher1986: posts the ante 6
+kaDimitris: posts the ante 6
+KeinKönich: posts the ante 6
+nararocha: posts the ante 6
+leledoni: posts the ante 6
+gillou27: posts the ante 6
+KeinKönich: posts small blind 25
+nararocha: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td Ac]
+leledoni: folds 
+gillou27: folds 
+2lakes: calls 50
+Chicano96: folds 
+pokerher1986: calls 50
+kaDimitris: folds 
+KeinKönich: calls 25
+nararocha: checks 
+*** FLOP *** [7h Th Kd]
+KeinKönich: checks 
+nararocha: bets 200
+2lakes: calls 200
+pokerher1986: calls 200
+KeinKönich: folds 
+*** TURN *** [7h Th Kd] [6c]
+nararocha: checks 
+2lakes: bets 1078 and is all-in
+pokerher1986: raises 869 to 1947 and is all-in
+nararocha: folds 
+Uncalled bet (869) returned to pokerher1986
+*** RIVER *** [7h Th Kd 6c] [3c]
+*** SHOW DOWN ***
+2lakes: shows [5h Ah] (high card Ace)
+pokerher1986: shows [8d 9s] (a straight, Six to Ten)
+pokerher1986 collected 3004 from pot
+2lakes finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 3004 | Rake 0 
+Board [7h Th Kd 6c 3c]
+Seat 1: 2lakes showed [5h Ah] and lost with high card Ace
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 showed [8d 9s] and won (3004) with a straight, Six to Ten
+Seat 4: kaDimitris (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded on the Flop
+Seat 7: nararocha (big blind) folded on the Turn
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299465078: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:39:05 CET [2021/12/17 16:39:05 ET]
+Table '3322184116 2' 9-max Seat #5 is the button
+Seat 2: Chicano96 (901 in chips) 
+Seat 3: pokerher1986 (3873 in chips) 
+Seat 4: kaDimitris (1368 in chips) 
+Seat 5: KeinKönich (1709 in chips) 
+Seat 7: nararocha (2866 in chips) 
+Seat 8: leledoni (1435 in chips) 
+Seat 9: gillou27 (1348 in chips) 
+Chicano96: posts the ante 6
+pokerher1986: posts the ante 6
+kaDimitris: posts the ante 6
+KeinKönich: posts the ante 6
+nararocha: posts the ante 6
+leledoni: posts the ante 6
+gillou27: posts the ante 6
+nararocha: posts small blind 25
+leledoni: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh Tc]
+gillou27: folds 
+Chicano96: folds 
+pokerher1986: folds 
+kaDimitris: raises 50 to 100
+KeinKönich: raises 175 to 275
+nararocha: folds 
+leledoni: folds 
+kaDimitris: folds 
+Uncalled bet (175) returned to KeinKönich
+KeinKönich collected 317 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop
+Seat 5: KeinKönich (button) collected (317)
+Seat 7: nararocha (small blind) folded before Flop
+Seat 8: leledoni (big blind) folded before Flop
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299480663: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:39:37 CET [2021/12/17 16:39:37 ET]
+Table '3322184116 2' 9-max Seat #7 is the button
+Seat 2: Chicano96 (895 in chips) 
+Seat 3: pokerher1986 (3867 in chips) 
+Seat 4: kaDimitris (1262 in chips) 
+Seat 5: KeinKönich (1920 in chips) 
+Seat 7: nararocha (2835 in chips) 
+Seat 8: leledoni (1379 in chips) 
+Seat 9: gillou27 (1342 in chips) 
+Chicano96: posts the ante 6
+pokerher1986: posts the ante 6
+kaDimitris: posts the ante 6
+KeinKönich: posts the ante 6
+nararocha: posts the ante 6
+leledoni: posts the ante 6
+gillou27: posts the ante 6
+leledoni: posts small blind 25
+gillou27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 6h]
+Chicano96: folds 
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 50
+leledoni: folds 
+gillou27: checks 
+*** FLOP *** [5s Qd Js]
+gillou27: checks 
+nararocha: bets 100
+gillou27: folds 
+Uncalled bet (100) returned to nararocha
+nararocha collected 167 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [5s Qd Js]
+Seat 2: Chicano96 folded before Flop (didn't bet)
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha (button) collected (167)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: gillou27 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299511684: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:40:39 CET [2021/12/17 16:40:39 ET]
+Table '3322184116 2' 9-max Seat #8 is the button
+Seat 3: pokerher1986 (3861 in chips) 
+Seat 4: kaDimitris (1256 in chips) 
+Seat 5: KeinKönich (1914 in chips) 
+Seat 7: nararocha (2946 in chips) 
+Seat 8: leledoni (1348 in chips) 
+Seat 9: gillou27 (1286 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+gillou27: posts small blind 40
+pokerher1986: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd Tc]
+kaDimitris: folds 
+KeinKönich: raises 80 to 160
+nararocha: folds 
+leledoni: folds 
+gillou27: folds 
+pokerher1986: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 260 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 3: pokerher1986 (big blind) folded before Flop
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich collected (260)
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: gillou27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299523670: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:41:03 CET [2021/12/17 16:41:03 ET]
+Table '3322184116 2' 9-max Seat #9 is the button
+Seat 3: pokerher1986 (3771 in chips) 
+Seat 4: kaDimitris (1246 in chips) 
+Seat 5: KeinKönich (2084 in chips) 
+Seat 7: nararocha (2936 in chips) 
+Seat 8: leledoni (1338 in chips) 
+Seat 9: gillou27 (1236 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+pokerher1986: posts small blind 40
+kaDimitris: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Kh]
+KeinKönich: folds 
+nararocha: calls 80
+leledoni: folds 
+gillou27: folds 
+pokerher1986: calls 40
+kaDimitris: checks 
+*** FLOP *** [Ac Qs Kc]
+pokerher1986: checks 
+kaDimitris: checks 
+nararocha: bets 240
+pokerher1986: folds 
+kaDimitris: folds 
+Uncalled bet (240) returned to nararocha
+nararocha collected 300 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ac Qs Kc]
+Seat 3: pokerher1986 (small blind) folded on the Flop
+Seat 4: kaDimitris (big blind) folded on the Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha collected (300)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299544756: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:41:45 CET [2021/12/17 16:41:45 ET]
+Table '3322184116 2' 9-max Seat #3 is the button
+Seat 3: pokerher1986 (3681 in chips) 
+Seat 4: kaDimitris (1156 in chips) 
+Seat 5: KeinKönich (2074 in chips) 
+Seat 7: nararocha (3146 in chips) 
+Seat 8: leledoni (1328 in chips) 
+Seat 9: gillou27 (1226 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+kaDimitris: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Ad]
+nararocha: raises 320 to 400
+leledoni: folds 
+gillou27: folds 
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+Uncalled bet (320) returned to nararocha
+nararocha collected 260 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 3: pokerher1986 (button) folded before Flop (didn't bet)
+Seat 4: kaDimitris (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 7: nararocha collected (260)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299563879: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:42:24 CET [2021/12/17 16:42:24 ET]
+Table '3322184116 2' 9-max Seat #4 is the button
+Seat 3: pokerher1986 (3671 in chips) 
+Seat 4: kaDimitris (1106 in chips) 
+Seat 5: KeinKönich (1984 in chips) 
+Seat 7: nararocha (3316 in chips) 
+Seat 8: leledoni (1318 in chips) 
+Seat 9: gillou27 (1216 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+KeinKönich: posts small blind 40
+nararocha: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 9s]
+leledoni: folds 
+gillou27: folds 
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: raises 80 to 160
+nararocha: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 220 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) collected (220)
+Seat 7: nararocha (big blind) folded before Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299575717: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:42:47 CET [2021/12/17 16:42:47 ET]
+Table '3322184116 2' 9-max Seat #5 is the button
+Seat 3: pokerher1986 (3661 in chips) 
+Seat 4: kaDimitris (1096 in chips) 
+Seat 5: KeinKönich (2114 in chips) 
+Seat 7: nararocha (3226 in chips) 
+Seat 8: leledoni (1308 in chips) 
+Seat 9: gillou27 (1206 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+nararocha: posts small blind 40
+leledoni: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 5d]
+gillou27: folds 
+pokerher1986: raises 160 to 240
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: folds 
+leledoni: folds 
+Uncalled bet (160) returned to pokerher1986
+pokerher1986 collected 260 from pot
+pokerher1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 3: pokerher1986 collected (260)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: nararocha (small blind) folded before Flop
+Seat 8: leledoni (big blind) folded before Flop
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299594130: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:43:24 CET [2021/12/17 16:43:24 ET]
+Table '3322184116 2' 9-max Seat #7 is the button
+Seat 3: pokerher1986 (3831 in chips) 
+Seat 4: kaDimitris (1086 in chips) 
+Seat 5: KeinKönich (2104 in chips) 
+Seat 7: nararocha (3176 in chips) 
+Seat 8: leledoni (1218 in chips) 
+Seat 9: gillou27 (1196 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+leledoni: posts small blind 40
+gillou27: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8d]
+pokerher1986: folds 
+kaDimitris: raises 80 to 160
+KeinKönich: folds 
+nararocha: folds 
+leledoni: folds 
+gillou27: calls 80
+*** FLOP *** [Qh 4c Kd]
+gillou27: checks 
+kaDimitris: bets 210
+gillou27: folds 
+Uncalled bet (210) returned to kaDimitris
+kaDimitris collected 420 from pot
+kaDimitris: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Qh 4c Kd]
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris collected (420)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: gillou27 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299610704: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:43:57 CET [2021/12/17 16:43:57 ET]
+Table '3322184116 2' 9-max Seat #8 is the button
+Seat 3: pokerher1986 (3821 in chips) 
+Seat 4: kaDimitris (1336 in chips) 
+Seat 5: KeinKönich (2094 in chips) 
+Seat 7: nararocha (3166 in chips) 
+Seat 8: leledoni (1168 in chips) 
+Seat 9: gillou27 (1026 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+gillou27: posts small blind 40
+pokerher1986: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc 3c]
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 80
+leledoni: folds 
+gillou27: folds 
+pokerher1986: checks 
+*** FLOP *** [Kc 5h 4c]
+pokerher1986: checks 
+nararocha: bets 400
+pokerher1986: folds 
+Uncalled bet (400) returned to nararocha
+nararocha collected 260 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Kc 5h 4c]
+Seat 3: pokerher1986 (big blind) folded on the Flop
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha collected (260)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: gillou27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299625804: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:44:28 CET [2021/12/17 16:44:28 ET]
+Table '3322184116 2' 9-max Seat #9 is the button
+Seat 3: pokerher1986 (3731 in chips) 
+Seat 4: kaDimitris (1326 in chips) 
+Seat 5: KeinKönich (2084 in chips) 
+Seat 7: nararocha (3336 in chips) 
+Seat 8: leledoni (1158 in chips) 
+Seat 9: gillou27 (976 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+pokerher1986: posts small blind 40
+kaDimitris: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h As]
+KeinKönich: folds 
+nararocha: folds 
+leledoni: folds 
+gillou27: folds 
+pokerher1986: folds 
+Uncalled bet (40) returned to kaDimitris
+kaDimitris collected 140 from pot
+kaDimitris: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 3: pokerher1986 (small blind) folded before Flop
+Seat 4: kaDimitris (big blind) collected (140)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299634966: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:44:46 CET [2021/12/17 16:44:46 ET]
+Table '3322184116 2' 9-max Seat #3 is the button
+Seat 3: pokerher1986 (3681 in chips) 
+Seat 4: kaDimitris (1416 in chips) 
+Seat 5: KeinKönich (2074 in chips) 
+Seat 7: nararocha (3326 in chips) 
+Seat 8: leledoni (1148 in chips) 
+Seat 9: gillou27 (966 in chips) 
+pokerher1986: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+nararocha: posts the ante 10
+leledoni: posts the ante 10
+gillou27: posts the ante 10
+kaDimitris: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ks]
+nararocha: calls 80
+leledoni: folds 
+gillou27: folds 
+pokerher1986: raises 160 to 240
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 160
+*** FLOP *** [6h 3s Jd]
+nararocha: checks 
+pokerher1986: bets 660
+nararocha: folds 
+Uncalled bet (660) returned to pokerher1986
+pokerher1986 collected 660 from pot
+pokerher1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [6h 3s Jd]
+Seat 3: pokerher1986 (button) collected (660)
+Seat 4: kaDimitris (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 7: nararocha folded on the Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299677085: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:45:55 CET [2021/12/17 16:45:55 ET]
+Table '3322184116 2' 9-max Seat #4 is the button
+Seat 3: pokerher1986 (4091 in chips) 
+Seat 4: kaDimitris (1366 in chips) 
+Seat 5: KeinKönich (1984 in chips) 
+Seat 7: nararocha (3076 in chips) 
+Seat 8: leledoni (1138 in chips) 
+Seat 9: gillou27 (956 in chips) 
+pokerher1986: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+leledoni: posts the ante 15
+gillou27: posts the ante 15
+KeinKönich: posts small blind 60
+nararocha: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [As Qd]
+leledoni: raises 1003 to 1123 and is all-in
+gillou27: folds 
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: raises 846 to 1969 and is all-in
+nararocha: folds 
+Uncalled bet (846) returned to KeinKönich
+*** FLOP *** [6s Jc 5d]
+*** TURN *** [6s Jc 5d] [3c]
+*** RIVER *** [6s Jc 5d 3c] [Kh]
+*** SHOW DOWN ***
+KeinKönich: shows [As Qd] (high card Ace)
+leledoni: shows [8h Ad] (high card Ace - lower kicker)
+KeinKönich collected 2456 from pot
+leledoni finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 2456 | Rake 0 
+Board [6s Jc 5d 3c Kh]
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) showed [As Qd] and won (2456) with high card Ace
+Seat 7: nararocha (big blind) folded before Flop
+Seat 8: leledoni showed [8h Ad] and lost with high card Ace
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299692458: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:46:21 CET [2021/12/17 16:46:21 ET]
+Table '3322184116 2' 9-max Seat #5 is the button
+Seat 3: pokerher1986 (4076 in chips) 
+Seat 4: kaDimitris (1351 in chips) 
+Seat 5: KeinKönich (3302 in chips) 
+Seat 7: nararocha (2941 in chips) 
+Seat 9: gillou27 (941 in chips) 
+pokerher1986: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+nararocha: posts small blind 60
+gillou27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 5s]
+pokerher1986: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: calls 60
+gillou27: raises 806 to 926 and is all-in
+nararocha: folds 
+Uncalled bet (806) returned to gillou27
+gillou27 collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: nararocha (small blind) folded before Flop
+Seat 9: gillou27 (big blind) collected (315)
+
+
+
+PokerStars Hand #232299702011: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:46:40 CET [2021/12/17 16:46:40 ET]
+Table '3322184116 2' 9-max Seat #7 is the button
+Seat 3: pokerher1986 (4061 in chips) 
+Seat 4: kaDimitris (1336 in chips) 
+Seat 5: KeinKönich (3287 in chips) 
+Seat 7: nararocha (2806 in chips) 
+Seat 9: gillou27 (1121 in chips) 
+pokerher1986: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+gillou27: posts small blind 60
+pokerher1986: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 8c]
+kaDimitris: folds 
+KeinKönich: folds 
+nararocha: raises 480 to 600
+gillou27: raises 506 to 1106 and is all-in
+pokerher1986: folds 
+nararocha: folds 
+Uncalled bet (506) returned to gillou27
+gillou27 collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | Rake 0 
+Seat 3: pokerher1986 (big blind) folded before Flop
+Seat 4: kaDimitris folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha (button) folded before Flop
+Seat 9: gillou27 (small blind) collected (1395)
+
+
+
+PokerStars Hand #232299715336: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:47:06 CET [2021/12/17 16:47:06 ET]
+Table '3322184116 2' 9-max Seat #9 is the button
+Seat 3: pokerher1986 (3926 in chips) 
+Seat 4: kaDimitris (1321 in chips) 
+Seat 5: KeinKönich (3272 in chips) 
+Seat 7: nararocha (2191 in chips) 
+Seat 9: gillou27 (1901 in chips) 
+pokerher1986: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+pokerher1986: posts small blind 60
+kaDimitris: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Tc]
+KeinKönich: folds 
+nararocha: calls 120
+gillou27: folds 
+pokerher1986: folds 
+kaDimitris: checks 
+*** FLOP *** [4d Th 5h]
+kaDimitris: checks 
+nararocha: bets 2056 and is all-in
+kaDimitris: folds 
+Uncalled bet (2056) returned to nararocha
+nararocha collected 375 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [4d Th 5h]
+Seat 3: pokerher1986 (small blind) folded before Flop
+Seat 4: kaDimitris (big blind) folded on the Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha collected (375)
+Seat 9: gillou27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299729856: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:47:35 CET [2021/12/17 16:47:35 ET]
+Table '3322184116 2' 9-max Seat #3 is the button
+Seat 3: pokerher1986 (3851 in chips) 
+Seat 4: kaDimitris (1186 in chips) 
+Seat 5: KeinKönich (3257 in chips) 
+Seat 7: nararocha (2431 in chips) 
+Seat 9: gillou27 (1886 in chips) 
+pokerher1986: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+kaDimitris: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 6c]
+nararocha: calls 120
+gillou27: folds 
+pokerher1986: folds 
+kaDimitris: calls 60
+KeinKönich: checks 
+*** FLOP *** [9h 3s Qs]
+kaDimitris: checks 
+KeinKönich: checks 
+nararocha: bets 2296 and is all-in
+kaDimitris: calls 1051 and is all-in
+KeinKönich: folds 
+Uncalled bet (1245) returned to nararocha
+*** TURN *** [9h 3s Qs] [9s]
+*** RIVER *** [9h 3s Qs 9s] [3c]
+*** SHOW DOWN ***
+kaDimitris: shows [Td Qc] (two pair, Queens and Nines)
+nararocha: shows [3d Ad] (a full house, Threes full of Nines)
+nararocha collected 2537 from pot
+kaDimitris finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 2537 | Rake 0 
+Board [9h 3s Qs 9s 3c]
+Seat 3: pokerher1986 (button) folded before Flop (didn't bet)
+Seat 4: kaDimitris (small blind) showed [Td Qc] and lost with two pair, Queens and Nines
+Seat 5: KeinKönich (big blind) folded on the Flop
+Seat 7: nararocha showed [3d Ad] and won (2537) with a full house, Threes full of Nines
+Seat 9: gillou27 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299749595: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:48:13 CET [2021/12/17 16:48:13 ET]
+Table '3322184116 2' 9-max Seat #5 is the button
+Seat 3: pokerher1986 (3836 in chips) 
+Seat 5: KeinKönich (3122 in chips) 
+Seat 7: nararocha (3782 in chips) 
+Seat 9: gillou27 (1871 in chips) 
+pokerher1986: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+nararocha: posts small blind 60
+gillou27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td Ks]
+pokerher1986: folds 
+KeinKönich: raises 120 to 240
+nararocha: folds 
+gillou27: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 360 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) collected (360)
+Seat 7: nararocha (small blind) folded before Flop
+Seat 9: gillou27 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299755528: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:48:25 CET [2021/12/17 16:48:25 ET]
+Table '3322184116 2' 9-max Seat #7 is the button
+Seat 1: mbdrozd (7250 in chips) 
+Seat 3: pokerher1986 (3821 in chips) 
+Seat 5: KeinKönich (3347 in chips) 
+Seat 7: nararocha (3707 in chips) 
+Seat 9: gillou27 (1736 in chips) 
+mbdrozd: posts the ante 15
+pokerher1986: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+gillou27: posts small blind 60
+mbdrozd: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 3s]
+pokerher1986: folds 
+KeinKönich: folds 
+nararocha: raises 480 to 600
+gillou27: folds 
+mbdrozd: folds 
+Uncalled bet (480) returned to nararocha
+nararocha collected 375 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: mbdrozd (big blind) folded before Flop
+Seat 3: pokerher1986 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha (button) collected (375)
+Seat 9: gillou27 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299761911: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:48:37 CET [2021/12/17 16:48:37 ET]
+Table '3322184116 2' 9-max Seat #9 is the button
+Seat 1: mbdrozd (7115 in chips) 
+Seat 3: pokerher1986 (3806 in chips) 
+Seat 5: KeinKönich (3332 in chips) 
+Seat 7: nararocha (3947 in chips) 
+Seat 9: gillou27 (1661 in chips) 
+mbdrozd: posts the ante 15
+pokerher1986: posts the ante 15
+KeinKönich: posts the ante 15
+nararocha: posts the ante 15
+gillou27: posts the ante 15
+mbdrozd: posts small blind 60
+pokerher1986: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 2c]
+KeinKönich: folds 
+nararocha: calls 120
+gillou27: folds 
+mbdrozd: calls 60
+pokerher1986: raises 435 to 555
+nararocha: raises 435 to 990
+mbdrozd: folds 
+pokerher1986: raises 2801 to 3791 and is all-in
+nararocha: calls 2801
+*** FLOP *** [4c 3s Qc]
+*** TURN *** [4c 3s Qc] [2s]
+*** RIVER *** [4c 3s Qc 2s] [Jc]
+*** SHOW DOWN ***
+pokerher1986: shows [Kc Ks] (a pair of Kings)
+nararocha: shows [Ad Ah] (a pair of Aces)
+nararocha collected 7777 from pot
+pokerher1986 finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 7777 | Rake 0 
+Board [4c 3s Qc 2s Jc]
+Seat 1: mbdrozd (small blind) folded before Flop
+Seat 3: pokerher1986 (big blind) showed [Kc Ks] and lost with a pair of Kings
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 7: nararocha showed [Ad Ah] and won (7777) with a pair of Aces
+Seat 9: gillou27 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299802604: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:49:57 CET [2021/12/17 16:49:57 ET]
+Table '3322184116 1' 9-max Seat #1 is the button
+Seat 1: Chicano96 (953 in chips) 
+Seat 3: yokerone1 (1829 in chips) 
+Seat 4: mbdrozd (6965 in chips) 
+Seat 5: gillou27 (1631 in chips) 
+Seat 6: nararocha (8188 in chips) 
+Seat 7: wwwsergey (2236 in chips) 
+Seat 8: panosgar86 (1881 in chips) 
+Seat 9: KeinKönich (3317 in chips) 
+Chicano96: posts the ante 15
+yokerone1: posts the ante 15
+mbdrozd: posts the ante 15
+gillou27: posts the ante 15
+nararocha: posts the ante 15
+wwwsergey: posts the ante 15
+panosgar86: posts the ante 15
+KeinKönich: posts the ante 15
+yokerone1: posts small blind 60
+mbdrozd: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c As]
+gillou27: folds 
+nararocha: raises 240 to 360
+wwwsergey: raises 1861 to 2221 and is all-in
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+nararocha: folds 
+Uncalled bet (1861) returned to wwwsergey
+wwwsergey collected 1020 from pot
+wwwsergey: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Seat 1: Chicano96 (button) folded before Flop (didn't bet)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: mbdrozd (big blind) folded before Flop
+Seat 5: gillou27 folded before Flop (didn't bet)
+Seat 6: nararocha folded before Flop
+Seat 7: wwwsergey collected (1020)
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299815519: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:50:23 CET [2021/12/17 16:50:23 ET]
+Table '3322184116 1' 9-max Seat #3 is the button
+Seat 1: Chicano96 (938 in chips) 
+Seat 3: yokerone1 (1754 in chips) 
+Seat 4: mbdrozd (6830 in chips) 
+Seat 5: gillou27 (1616 in chips) 
+Seat 6: nararocha (7813 in chips) 
+Seat 7: wwwsergey (2881 in chips) 
+Seat 8: panosgar86 (1866 in chips) 
+Seat 9: KeinKönich (3302 in chips) 
+Chicano96: posts the ante 15
+yokerone1: posts the ante 15
+mbdrozd: posts the ante 15
+gillou27: posts the ante 15
+nararocha: posts the ante 15
+wwwsergey: posts the ante 15
+panosgar86: posts the ante 15
+KeinKönich: posts the ante 15
+mbdrozd: posts small blind 60
+gillou27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s Ts]
+nararocha: folds 
+wwwsergey: folds 
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: calls 60
+gillou27: checks 
+*** FLOP *** [Ah Ks 7c]
+mbdrozd: checks 
+gillou27: checks 
+*** TURN *** [Ah Ks 7c] [5c]
+mbdrozd: bets 180
+gillou27: calls 180
+*** RIVER *** [Ah Ks 7c 5c] [5s]
+mbdrozd: bets 360
+gillou27: folds 
+Uncalled bet (360) returned to mbdrozd
+mbdrozd collected 720 from pot
+mbdrozd: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ah Ks 7c 5c 5s]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 (button) folded before Flop (didn't bet)
+Seat 4: mbdrozd (small blind) collected (720)
+Seat 5: gillou27 (big blind) folded on the River
+Seat 6: nararocha folded before Flop (didn't bet)
+Seat 7: wwwsergey folded before Flop (didn't bet)
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299832343: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:50:57 CET [2021/12/17 16:50:57 ET]
+Table '3322184116 1' 9-max Seat #4 is the button
+Seat 1: Chicano96 (923 in chips) 
+Seat 3: yokerone1 (1739 in chips) 
+Seat 4: mbdrozd (7235 in chips) 
+Seat 5: gillou27 (1301 in chips) 
+Seat 6: nararocha (7798 in chips) 
+Seat 7: wwwsergey (2866 in chips) 
+Seat 8: panosgar86 (1851 in chips) 
+Seat 9: KeinKönich (3287 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+gillou27: posts small blind 80
+nararocha: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc 8c]
+wwwsergey: raises 160 to 320
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: folds 
+nararocha: calls 160
+*** FLOP *** [4d Td Kh]
+nararocha: bets 960
+wwwsergey: folds 
+Uncalled bet (960) returned to nararocha
+nararocha collected 880 from pot
+nararocha: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4d Td Kh]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd (button) folded before Flop (didn't bet)
+Seat 5: gillou27 (small blind) folded before Flop
+Seat 6: nararocha (big blind) collected (880)
+Seat 7: wwwsergey folded on the Flop
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299846438: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:51:25 CET [2021/12/17 16:51:25 ET]
+Table '3322184116 1' 9-max Seat #5 is the button
+Seat 1: Chicano96 (903 in chips) 
+Seat 3: yokerone1 (1719 in chips) 
+Seat 4: mbdrozd (7215 in chips) 
+Seat 5: gillou27 (1201 in chips) 
+Seat 6: nararocha (8338 in chips) 
+Seat 7: wwwsergey (2526 in chips) 
+Seat 8: panosgar86 (1831 in chips) 
+Seat 9: KeinKönich (3267 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+nararocha: posts small blind 80
+wwwsergey: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Js]
+panosgar86: folds 
+KeinKönich: raises 160 to 320
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: folds 
+nararocha: folds 
+wwwsergey: calls 160
+*** FLOP *** [Qc 4h 5h]
+wwwsergey: checks 
+KeinKönich: bets 440
+wwwsergey: calls 440
+*** TURN *** [Qc 4h 5h] [Qd]
+wwwsergey: checks 
+KeinKönich: checks 
+*** RIVER *** [Qc 4h 5h Qd] [4c]
+wwwsergey: checks 
+KeinKönich: bets 720
+wwwsergey: folds 
+Uncalled bet (720) returned to KeinKönich
+KeinKönich collected 1760 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1760 | Rake 0 
+Board [Qc 4h 5h Qd 4c]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 (button) folded before Flop (didn't bet)
+Seat 6: nararocha (small blind) folded before Flop
+Seat 7: wwwsergey (big blind) folded on the River
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (1760)
+
+
+
+PokerStars Hand #232299881260: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:52:34 CET [2021/12/17 16:52:34 ET]
+Table '3322184116 1' 9-max Seat #6 is the button
+Seat 1: Chicano96 (883 in chips) 
+Seat 3: yokerone1 (1699 in chips) 
+Seat 4: mbdrozd (7195 in chips) 
+Seat 5: gillou27 (1181 in chips) 
+Seat 6: nararocha (8238 in chips) 
+Seat 7: wwwsergey (1746 in chips) 
+Seat 8: panosgar86 (1811 in chips) 
+Seat 9: KeinKönich (4247 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+wwwsergey: posts small blind 80
+panosgar86: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 9s]
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: raises 1001 to 1161 and is all-in
+nararocha: folds 
+wwwsergey: folds 
+panosgar86: folds 
+Uncalled bet (1001) returned to gillou27
+gillou27 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 collected (560)
+Seat 6: nararocha (button) folded before Flop (didn't bet)
+Seat 7: wwwsergey (small blind) folded before Flop
+Seat 8: panosgar86 (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299892412: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:52:56 CET [2021/12/17 16:52:56 ET]
+Table '3322184116 1' 9-max Seat #7 is the button
+Seat 1: Chicano96 (863 in chips) 
+Seat 3: yokerone1 (1679 in chips) 
+Seat 4: mbdrozd (7175 in chips) 
+Seat 5: gillou27 (1561 in chips) 
+Seat 6: nararocha (8218 in chips) 
+Seat 7: wwwsergey (1646 in chips) 
+Seat 8: panosgar86 (1631 in chips) 
+Seat 9: KeinKönich (4227 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+panosgar86: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 3c]
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: folds 
+nararocha: calls 160
+wwwsergey: folds 
+panosgar86: calls 80
+KeinKönich: checks 
+*** FLOP *** [7s Jc 2h]
+panosgar86: checks 
+KeinKönich: checks 
+nararocha: bets 640
+panosgar86: calls 640
+KeinKönich: folds 
+*** TURN *** [7s Jc 2h] [Kh]
+panosgar86: checks 
+nararocha: bets 7398 and is all-in
+panosgar86: calls 811 and is all-in
+Uncalled bet (6587) returned to nararocha
+*** RIVER *** [7s Jc 2h Kh] [4s]
+*** SHOW DOWN ***
+panosgar86: shows [Jd Jh] (three of a kind, Jacks)
+nararocha: shows [9s Ah] (high card Ace)
+panosgar86 collected 3542 from pot
+*** SUMMARY ***
+Total pot 3542 | Rake 0 
+Board [7s Jc 2h Kh 4s]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 folded before Flop (didn't bet)
+Seat 6: nararocha showed [9s Ah] and lost with high card Ace
+Seat 7: wwwsergey (button) folded before Flop (didn't bet)
+Seat 8: panosgar86 (small blind) showed [Jd Jh] and won (3542) with three of a kind, Jacks
+Seat 9: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299919408: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:53:50 CET [2021/12/17 16:53:50 ET]
+Table '3322184116 1' 9-max Seat #8 is the button
+Seat 1: Chicano96 (843 in chips) 
+Seat 3: yokerone1 (1659 in chips) 
+Seat 4: mbdrozd (7155 in chips) 
+Seat 5: gillou27 (1541 in chips) 
+Seat 6: nararocha (6587 in chips) 
+Seat 7: wwwsergey (1626 in chips) 
+Seat 8: panosgar86 (3542 in chips) 
+Seat 9: KeinKönich (4047 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+KeinKönich: posts small blind 80
+Chicano96: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc Ks]
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: folds 
+nararocha: folds 
+wwwsergey: folds 
+panosgar86: folds 
+KeinKönich: raises 3867 to 4027 and is all-in
+Chicano96: calls 663 and is all-in
+Uncalled bet (3204) returned to KeinKönich
+*** FLOP *** [3d 6h 8h]
+*** TURN *** [3d 6h 8h] [Qs]
+*** RIVER *** [3d 6h 8h Qs] [3h]
+*** SHOW DOWN ***
+KeinKönich: shows [Tc Ks] (a pair of Threes)
+Chicano96: shows [Js 8c] (two pair, Eights and Threes)
+Chicano96 collected 1806 from pot
+*** SUMMARY ***
+Total pot 1806 | Rake 0 
+Board [3d 6h 8h Qs 3h]
+Seat 1: Chicano96 (big blind) showed [Js 8c] and won (1806) with two pair, Eights and Threes
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 folded before Flop (didn't bet)
+Seat 6: nararocha folded before Flop (didn't bet)
+Seat 7: wwwsergey folded before Flop (didn't bet)
+Seat 8: panosgar86 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) showed [Tc Ks] and lost with a pair of Threes
+
+
+
+PokerStars Hand #232299937802: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:54:26 CET [2021/12/17 16:54:26 ET]
+Table '3322184116 1' 9-max Seat #9 is the button
+Seat 1: Chicano96 (1806 in chips) 
+Seat 3: yokerone1 (1639 in chips) 
+Seat 4: mbdrozd (7135 in chips) 
+Seat 5: gillou27 (1521 in chips) 
+Seat 6: nararocha (6567 in chips) 
+Seat 7: wwwsergey (1606 in chips) 
+Seat 8: panosgar86 (3522 in chips) 
+Seat 9: KeinKönich (3204 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+Chicano96: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Ts]
+mbdrozd: folds 
+gillou27: folds 
+nararocha: folds 
+wwwsergey: raises 1426 to 1586 and is all-in
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+Uncalled bet (1426) returned to wwwsergey
+wwwsergey collected 560 from pot
+wwwsergey: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Chicano96 (small blind) folded before Flop
+Seat 3: yokerone1 (big blind) folded before Flop
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 folded before Flop (didn't bet)
+Seat 6: nararocha folded before Flop (didn't bet)
+Seat 7: wwwsergey collected (560)
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299952488: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:54:55 CET [2021/12/17 16:54:55 ET]
+Table '3322184116 1' 9-max Seat #1 is the button
+Seat 1: Chicano96 (1706 in chips) 
+Seat 3: yokerone1 (1459 in chips) 
+Seat 4: mbdrozd (7115 in chips) 
+Seat 5: gillou27 (1501 in chips) 
+Seat 6: nararocha (6547 in chips) 
+Seat 7: wwwsergey (1986 in chips) 
+Seat 8: panosgar86 (3502 in chips) 
+Seat 9: KeinKönich (3184 in chips) 
+Chicano96: posts the ante 20
+yokerone1: posts the ante 20
+mbdrozd: posts the ante 20
+gillou27: posts the ante 20
+nararocha: posts the ante 20
+wwwsergey: posts the ante 20
+panosgar86: posts the ante 20
+KeinKönich: posts the ante 20
+yokerone1: posts small blind 80
+mbdrozd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 4d]
+gillou27: raises 1321 to 1481 and is all-in
+nararocha: folds 
+wwwsergey: raises 485 to 1966 and is all-in
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+Uncalled bet (485) returned to wwwsergey
+*** FLOP *** [7h 8h 4c]
+*** TURN *** [7h 8h 4c] [5s]
+*** RIVER *** [7h 8h 4c 5s] [9s]
+*** SHOW DOWN ***
+gillou27: shows [3d 3h] (a pair of Threes)
+wwwsergey: shows [Jh As] (high card Ace)
+gillou27 collected 3362 from pot
+*** SUMMARY ***
+Total pot 3362 | Rake 0 
+Board [7h 8h 4c 5s 9s]
+Seat 1: Chicano96 (button) folded before Flop (didn't bet)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: mbdrozd (big blind) folded before Flop
+Seat 5: gillou27 showed [3d 3h] and won (3362) with a pair of Threes
+Seat 6: nararocha folded before Flop (didn't bet)
+Seat 7: wwwsergey showed [Jh As] and lost with high card Ace
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299967513: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:55:32 CET [2021/12/17 16:55:32 ET]
+Table '3322184116 1' 9-max Seat #3 is the button
+Seat 1: Chicano96 (1686 in chips) 
+Seat 3: yokerone1 (1359 in chips) 
+Seat 4: mbdrozd (6935 in chips) 
+Seat 5: gillou27 (3362 in chips) 
+Seat 6: nararocha (6527 in chips) 
+Seat 7: wwwsergey (485 in chips) 
+Seat 8: panosgar86 (3482 in chips) 
+Seat 9: KeinKönich (3164 in chips) 
+Chicano96: posts the ante 25
+yokerone1: posts the ante 25
+mbdrozd: posts the ante 25
+gillou27: posts the ante 25
+nararocha: posts the ante 25
+wwwsergey: posts the ante 25
+panosgar86: posts the ante 25
+KeinKönich: posts the ante 25
+mbdrozd: posts small blind 100
+gillou27: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Kc]
+nararocha: folds 
+wwwsergey: folds 
+panosgar86: folds 
+KeinKönich: folds 
+Chicano96: folds 
+yokerone1: raises 1134 to 1334 and is all-in
+mbdrozd has timed out
+mbdrozd: folds 
+mbdrozd is sitting out
+gillou27: folds 
+Uncalled bet (1134) returned to yokerone1
+yokerone1 collected 700 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 (button) collected (700)
+Seat 4: mbdrozd (small blind) folded before Flop
+Seat 5: gillou27 (big blind) folded before Flop
+Seat 6: nararocha folded before Flop (didn't bet)
+Seat 7: wwwsergey folded before Flop (didn't bet)
+Seat 8: panosgar86 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299990171: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:56:34 CET [2021/12/17 16:56:34 ET]
+Table '3322184116 1' 9-max Seat #4 is the button
+Seat 1: Chicano96 (1661 in chips) 
+Seat 3: yokerone1 (1834 in chips) 
+Seat 4: mbdrozd (6810 in chips) is sitting out
+Seat 5: gillou27 (3137 in chips) 
+Seat 6: nararocha (6502 in chips) 
+Seat 7: wwwsergey (460 in chips) 
+Seat 8: panosgar86 (3457 in chips) 
+Seat 9: KeinKönich (3139 in chips) 
+Chicano96: posts the ante 25
+yokerone1: posts the ante 25
+mbdrozd: posts the ante 25
+gillou27: posts the ante 25
+nararocha: posts the ante 25
+wwwsergey: posts the ante 25
+panosgar86: posts the ante 25
+KeinKönich: posts the ante 25
+gillou27: posts small blind 100
+nararocha: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs Qh]
+wwwsergey: folds 
+mbdrozd has returned
+panosgar86: calls 200
+KeinKönich: raises 400 to 600
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: raises 2512 to 3112 and is all-in
+nararocha: folds 
+panosgar86: folds 
+KeinKönich: calls 2512
+*** FLOP *** [4d 5s 2d]
+*** TURN *** [4d 5s 2d] [Ad]
+*** RIVER *** [4d 5s 2d Ad] [4h]
+*** SHOW DOWN ***
+gillou27: shows [Kh Kc] (two pair, Kings and Fours)
+KeinKönich: shows [Qs Qh] (two pair, Queens and Fours)
+gillou27 collected 6824 from pot
+*** SUMMARY ***
+Total pot 6824 | Rake 0 
+Board [4d 5s 2d Ad 4h]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd (button) folded before Flop (didn't bet)
+Seat 5: gillou27 (small blind) showed [Kh Kc] and won (6824) with two pair, Kings and Fours
+Seat 6: nararocha (big blind) folded before Flop
+Seat 7: wwwsergey folded before Flop (didn't bet)
+Seat 8: panosgar86 folded before Flop
+Seat 9: KeinKönich showed [Qs Qh] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #232300003387: Tournament #3322184116, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:57:08 CET [2021/12/17 16:57:08 ET]
+Table '3322184116 1' 9-max Seat #5 is the button
+Seat 1: Chicano96 (1636 in chips) 
+Seat 3: yokerone1 (1809 in chips) 
+Seat 4: mbdrozd (6785 in chips) 
+Seat 5: gillou27 (6824 in chips) 
+Seat 6: nararocha (6277 in chips) 
+Seat 7: wwwsergey (435 in chips) 
+Seat 8: panosgar86 (3232 in chips) 
+Seat 9: KeinKönich (2 in chips) 
+Chicano96: posts the ante 25
+yokerone1: posts the ante 25
+mbdrozd: posts the ante 25
+gillou27: posts the ante 25
+nararocha: posts the ante 25
+wwwsergey: posts the ante 25
+panosgar86: posts the ante 25
+KeinKönich: posts the ante 2 and is all-in
+nararocha: posts small blind 100
+wwwsergey: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 6d]
+panosgar86: calls 200
+Chicano96: folds 
+yokerone1: folds 
+mbdrozd: folds 
+gillou27: calls 200
+nararocha: folds 
+wwwsergey: checks 
+*** FLOP *** [9h 4c Qc]
+wwwsergey: checks 
+panosgar86: bets 200
+gillou27: folds 
+wwwsergey: folds 
+Uncalled bet (200) returned to panosgar86
+*** TURN *** [9h 4c Qc] [8c]
+*** RIVER *** [9h 4c Qc 8c] [9c]
+*** SHOW DOWN ***
+panosgar86: shows [Ac Ad] (a flush, Ace high)
+panosgar86 collected 861 from side pot
+KeinKönich: shows [2s 6d] (a pair of Nines)
+panosgar86 collected 16 from main pot
+KeinKönich finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 877 Main pot 16. Side pot 861. | Rake 0 
+Board [9h 4c Qc 8c 9c]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: mbdrozd folded before Flop (didn't bet)
+Seat 5: gillou27 (button) folded on the Flop
+Seat 6: nararocha (small blind) folded before Flop
+Seat 7: wwwsergey (big blind) folded on the Flop
+Seat 8: panosgar86 showed [Ac Ad] and won (877) with a flush, Ace high
+Seat 9: KeinKönich showed [2s 6d] and lost with a pair of Nines
+
+
+

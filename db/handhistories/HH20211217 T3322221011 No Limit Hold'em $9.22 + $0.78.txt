@@ -1,0 +1,643 @@
+ï»¿PokerStars Hand #232300726604: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:21:40 CET [2021/12/17 17:21:40 ET]
+Table '3322221011 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1500 in chips) 
+Seat 2: miaetraphael (1500 in chips) 
+Seat 3: yokerone1 (1500 in chips) 
+Seat 4: MWF1884 (1500 in chips) 
+Seat 5: bogess (1500 in chips) 
+Seat 6: TheGreatRus (1500 in chips) 
+Seat 7: goiano89 (1500 in chips) 
+Seat 8: dapitanboy (1500 in chips) 
+Seat 9: pokergiant420 (1500 in chips) 
+KeinKönich: posts the ante 3
+miaetraphael: posts the ante 3
+yokerone1: posts the ante 3
+MWF1884: posts the ante 3
+bogess: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+dapitanboy: posts the ante 3
+pokergiant420: posts the ante 3
+miaetraphael: posts small blind 10
+yokerone1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 3s]
+MWF1884: calls 20
+bogess: folds 
+TheGreatRus: folds 
+goiano89: folds 
+dapitanboy: folds 
+pokergiant420: folds 
+KeinKönich: folds 
+miaetraphael: calls 10
+yokerone1: checks 
+*** FLOP *** [2c 3d 4h]
+miaetraphael: checks 
+yokerone1: checks 
+MWF1884: checks 
+*** TURN *** [2c 3d 4h] [Ah]
+miaetraphael: checks 
+yokerone1: checks 
+MWF1884: checks 
+*** RIVER *** [2c 3d 4h Ah] [5c]
+miaetraphael: checks 
+yokerone1: checks 
+MWF1884: checks 
+*** SHOW DOWN ***
+miaetraphael: shows [8c Kc] (a straight, Ace to Five)
+yokerone1: shows [Jh 7c] (a straight, Ace to Five)
+MWF1884: shows [7s Ks] (a straight, Ace to Five)
+miaetraphael collected 29 from pot
+yokerone1 collected 29 from pot
+MWF1884 collected 29 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Board [2c 3d 4h Ah 5c]
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 2: miaetraphael (small blind) showed [8c Kc] and won (29) with a straight, Ace to Five
+Seat 3: yokerone1 (big blind) showed [Jh 7c] and won (29) with a straight, Ace to Five
+Seat 4: MWF1884 showed [7s Ks] and won (29) with a straight, Ace to Five
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300766075: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:23:02 CET [2021/12/17 17:23:02 ET]
+Table '3322221011 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (1497 in chips) 
+Seat 2: miaetraphael (1506 in chips) 
+Seat 3: yokerone1 (1506 in chips) 
+Seat 4: MWF1884 (1506 in chips) 
+Seat 5: bogess (1497 in chips) 
+Seat 6: TheGreatRus (1497 in chips) 
+Seat 7: goiano89 (1497 in chips) 
+Seat 8: dapitanboy (1497 in chips) 
+Seat 9: pokergiant420 (1497 in chips) 
+KeinKönich: posts the ante 3
+miaetraphael: posts the ante 3
+yokerone1: posts the ante 3
+MWF1884: posts the ante 3
+bogess: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+dapitanboy: posts the ante 3
+pokergiant420: posts the ante 3
+yokerone1: posts small blind 10
+MWF1884: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Ks]
+bogess: folds 
+TheGreatRus: folds 
+goiano89: folds 
+dapitanboy: folds 
+pokergiant420: calls 20
+KeinKönich: folds 
+miaetraphael: raises 97 to 117
+yokerone1: folds 
+MWF1884: folds 
+pokergiant420: calls 97
+*** FLOP *** [Kh 3s 7s]
+pokergiant420: checks 
+miaetraphael: bets 160
+pokergiant420: folds 
+Uncalled bet (160) returned to miaetraphael
+miaetraphael collected 291 from pot
+miaetraphael: doesn't show hand 
+*** SUMMARY ***
+Total pot 291 | Rake 0 
+Board [Kh 3s 7s]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: miaetraphael (button) collected (291)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: MWF1884 (big blind) folded before Flop
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 folded on the Flop
+
+
+
+PokerStars Hand #232300796936: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:24:05 CET [2021/12/17 17:24:05 ET]
+Table '3322221011 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (1494 in chips) 
+Seat 2: miaetraphael (1677 in chips) 
+Seat 3: yokerone1 (1493 in chips) 
+Seat 4: MWF1884 (1483 in chips) 
+Seat 5: bogess (1494 in chips) 
+Seat 6: TheGreatRus (1494 in chips) 
+Seat 7: goiano89 (1494 in chips) 
+Seat 8: dapitanboy (1494 in chips) 
+Seat 9: pokergiant420 (1377 in chips) 
+KeinKönich: posts the ante 3
+miaetraphael: posts the ante 3
+yokerone1: posts the ante 3
+MWF1884: posts the ante 3
+bogess: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+dapitanboy: posts the ante 3
+pokergiant420: posts the ante 3
+MWF1884: posts small blind 10
+bogess: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 9h]
+TheGreatRus: folds 
+goiano89: folds 
+dapitanboy: folds 
+pokergiant420: calls 20
+KeinKönich: folds 
+miaetraphael: calls 20
+yokerone1: folds 
+MWF1884: folds 
+bogess: checks 
+*** FLOP *** [2d 7s 3d]
+bogess: bets 80
+pokergiant420: calls 80
+miaetraphael: folds 
+*** TURN *** [2d 7s 3d] [4c]
+bogess: bets 160
+pokergiant420: calls 160
+*** RIVER *** [2d 7s 3d 4c] [3s]
+bogess: bets 160
+pokergiant420: raises 160 to 320
+bogess: calls 160
+*** SHOW DOWN ***
+pokergiant420: shows [3h As] (three of a kind, Threes)
+bogess: mucks hand 
+pokergiant420 collected 1217 from pot
+*** SUMMARY ***
+Total pot 1217 | Rake 0 
+Board [2d 7s 3d 4c 3s]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: miaetraphael folded on the Flop
+Seat 3: yokerone1 (button) folded before Flop (didn't bet)
+Seat 4: MWF1884 (small blind) folded before Flop
+Seat 5: bogess (big blind) mucked [Ah 7h]
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 showed [3h As] and won (1217) with three of a kind, Threes
+
+
+
+PokerStars Hand #232300833059: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:25:18 CET [2021/12/17 17:25:18 ET]
+Table '3322221011 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (1491 in chips) 
+Seat 2: miaetraphael (1654 in chips) 
+Seat 3: yokerone1 (1490 in chips) 
+Seat 4: MWF1884 (1470 in chips) 
+Seat 5: bogess (911 in chips) 
+Seat 6: TheGreatRus (1491 in chips) 
+Seat 7: goiano89 (1491 in chips) 
+Seat 8: dapitanboy (1491 in chips) 
+Seat 9: pokergiant420 (2011 in chips) 
+KeinKönich: posts the ante 3
+miaetraphael: posts the ante 3
+yokerone1: posts the ante 3
+MWF1884: posts the ante 3
+bogess: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+dapitanboy: posts the ante 3
+pokergiant420: posts the ante 3
+bogess: posts small blind 10
+TheGreatRus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 3h]
+goiano89: folds 
+dapitanboy: folds 
+pokergiant420: raises 80 to 100
+KeinKönich: folds 
+miaetraphael: folds 
+yokerone1: folds 
+MWF1884: folds 
+bogess: calls 90
+TheGreatRus: folds 
+*** FLOP *** [Tc Ah Th]
+bogess: checks 
+pokergiant420: bets 247
+bogess: folds 
+Uncalled bet (247) returned to pokergiant420
+pokergiant420 collected 247 from pot
+pokergiant420: doesn't show hand 
+*** SUMMARY ***
+Total pot 247 | Rake 0 
+Board [Tc Ah Th]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: miaetraphael folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: MWF1884 (button) folded before Flop (didn't bet)
+Seat 5: bogess (small blind) folded on the Flop
+Seat 6: TheGreatRus (big blind) folded before Flop
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 collected (247)
+
+
+
+PokerStars Hand #232300869394: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:26:17 CET [2021/12/17 17:26:17 ET]
+Table '3322221011 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (1488 in chips) 
+Seat 2: miaetraphael (1651 in chips) 
+Seat 3: yokerone1 (1487 in chips) 
+Seat 4: MWF1884 (1467 in chips) 
+Seat 5: bogess (808 in chips) 
+Seat 6: TheGreatRus (1468 in chips) 
+Seat 7: goiano89 (1488 in chips) 
+Seat 8: dapitanboy (1488 in chips) 
+Seat 9: pokergiant420 (2155 in chips) 
+KeinKönich: posts the ante 3
+miaetraphael: posts the ante 3
+yokerone1: posts the ante 3
+MWF1884: posts the ante 3
+bogess: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+dapitanboy: posts the ante 3
+pokergiant420: posts the ante 3
+TheGreatRus: posts small blind 10
+goiano89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 8s]
+dapitanboy: folds 
+pokergiant420: folds 
+KeinKönich: folds 
+miaetraphael: folds 
+yokerone1: folds 
+MWF1884: calls 20
+bogess: raises 47 to 67
+TheGreatRus: folds 
+goiano89: folds 
+MWF1884: folds 
+Uncalled bet (47) returned to bogess
+bogess collected 97 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 97 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: miaetraphael folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: MWF1884 folded before Flop
+Seat 5: bogess (button) collected (97)
+Seat 6: TheGreatRus (small blind) folded before Flop
+Seat 7: goiano89 (big blind) folded before Flop
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300882492: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:26:45 CET [2021/12/17 17:26:45 ET]
+Table '3322221011 2' 9-max Seat #6 is the button
+Seat 1: KeinKönich (1485 in chips) 
+Seat 2: miaetraphael (1648 in chips) 
+Seat 3: yokerone1 (1484 in chips) 
+Seat 4: MWF1884 (1444 in chips) 
+Seat 5: bogess (882 in chips) 
+Seat 6: TheGreatRus (1455 in chips) 
+Seat 7: goiano89 (1465 in chips) 
+Seat 8: dapitanboy (1485 in chips) 
+Seat 9: pokergiant420 (2152 in chips) 
+KeinKönich: posts the ante 4
+miaetraphael: posts the ante 4
+yokerone1: posts the ante 4
+MWF1884: posts the ante 4
+bogess: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+dapitanboy: posts the ante 4
+pokergiant420: posts the ante 4
+goiano89: posts small blind 15
+dapitanboy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 7d]
+pokergiant420: folds 
+KeinKönich: raises 45 to 75
+miaetraphael: folds 
+yokerone1: folds 
+MWF1884: folds 
+bogess: folds 
+TheGreatRus: calls 75
+goiano89: folds 
+dapitanboy: folds 
+*** FLOP *** [2d Ts 8s]
+KeinKönich: bets 120
+TheGreatRus: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 231 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Board [2d Ts 8s]
+Seat 1: KeinKönich collected (231)
+Seat 2: miaetraphael folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: MWF1884 folded before Flop (didn't bet)
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus (button) folded on the Flop
+Seat 7: goiano89 (small blind) folded before Flop
+Seat 8: dapitanboy (big blind) folded before Flop
+Seat 9: pokergiant420 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300901156: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:27:18 CET [2021/12/17 17:27:18 ET]
+Table '3322221011 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (1637 in chips) 
+Seat 2: miaetraphael (1644 in chips) 
+Seat 3: yokerone1 (1480 in chips) 
+Seat 4: MWF1884 (1440 in chips) 
+Seat 5: bogess (878 in chips) 
+Seat 6: TheGreatRus (1376 in chips) 
+Seat 7: goiano89 (1446 in chips) 
+Seat 8: dapitanboy (1451 in chips) 
+Seat 9: pokergiant420 (2148 in chips) 
+KeinKönich: posts the ante 4
+miaetraphael: posts the ante 4
+yokerone1: posts the ante 4
+MWF1884: posts the ante 4
+bogess: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+dapitanboy: posts the ante 4
+pokergiant420: posts the ante 4
+dapitanboy: posts small blind 15
+pokergiant420: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 8d]
+KeinKönich: folds 
+miaetraphael: calls 30
+yokerone1: folds 
+MWF1884: calls 30
+bogess: folds 
+TheGreatRus: folds 
+goiano89: folds 
+dapitanboy: raises 159 to 189
+pokergiant420: folds 
+miaetraphael: calls 159
+MWF1884: calls 159
+*** FLOP *** [5h 2d 5d]
+dapitanboy: bets 348
+miaetraphael: calls 348
+MWF1884: calls 348
+*** TURN *** [5h 2d 5d] [Ac]
+dapitanboy: checks 
+miaetraphael: checks 
+MWF1884: bets 899 and is all-in
+dapitanboy: folds 
+miaetraphael: folds 
+Uncalled bet (899) returned to MWF1884
+MWF1884 collected 1677 from pot
+MWF1884: doesn't show hand 
+*** SUMMARY ***
+Total pot 1677 | Rake 0 
+Board [5h 2d 5d Ac]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: miaetraphael folded on the Turn
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: MWF1884 collected (1677)
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 (button) folded before Flop (didn't bet)
+Seat 8: dapitanboy (small blind) folded on the Turn
+Seat 9: pokergiant420 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300936766: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:28:33 CET [2021/12/17 17:28:33 ET]
+Table '3322221011 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (1633 in chips) 
+Seat 2: miaetraphael (1103 in chips) 
+Seat 3: yokerone1 (1476 in chips) 
+Seat 4: MWF1884 (2576 in chips) 
+Seat 5: bogess (874 in chips) 
+Seat 6: TheGreatRus (1372 in chips) 
+Seat 7: goiano89 (1442 in chips) 
+Seat 8: dapitanboy (910 in chips) 
+Seat 9: pokergiant420 (2114 in chips) 
+KeinKönich: posts the ante 4
+miaetraphael: posts the ante 4
+yokerone1: posts the ante 4
+MWF1884: posts the ante 4
+bogess: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+dapitanboy: posts the ante 4
+pokergiant420: posts the ante 4
+pokergiant420: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s Jc]
+miaetraphael: folds 
+yokerone1: folds 
+MWF1884: folds 
+bogess: folds 
+TheGreatRus: raises 45 to 75
+goiano89: folds 
+dapitanboy: calls 75
+pokergiant420: folds 
+KeinKönich: folds 
+*** FLOP *** [6h 6c 4s]
+TheGreatRus: bets 72
+dapitanboy: calls 72
+*** TURN *** [6h 6c 4s] [2h]
+TheGreatRus: checks 
+dapitanboy: bets 206
+TheGreatRus: folds 
+Uncalled bet (206) returned to dapitanboy
+dapitanboy collected 375 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [6h 6c 4s 2h]
+Seat 1: KeinKönich (big blind) folded before Flop
+Seat 2: miaetraphael folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: MWF1884 folded before Flop (didn't bet)
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded on the Turn
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy (button) collected (375)
+Seat 9: pokergiant420 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300971279: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:29:46 CET [2021/12/17 17:29:46 ET]
+Table '3322221011 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (1599 in chips) 
+Seat 2: miaetraphael (1099 in chips) 
+Seat 3: yokerone1 (1472 in chips) 
+Seat 4: MWF1884 (2572 in chips) 
+Seat 5: bogess (870 in chips) 
+Seat 6: TheGreatRus (1221 in chips) 
+Seat 7: goiano89 (1438 in chips) 
+Seat 8: dapitanboy (1134 in chips) 
+Seat 9: pokergiant420 (2095 in chips) 
+KeinKönich: posts the ante 4
+miaetraphael: posts the ante 4
+yokerone1: posts the ante 4
+MWF1884: posts the ante 4
+bogess: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+dapitanboy: posts the ante 4
+pokergiant420: posts the ante 4
+KeinKönich: posts small blind 15
+miaetraphael: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 5d]
+yokerone1: raises 31 to 61
+MWF1884: folds 
+bogess: folds 
+TheGreatRus: folds 
+goiano89: folds 
+dapitanboy: folds 
+pokergiant420: folds 
+KeinKönich: calls 46
+miaetraphael: calls 31
+*** FLOP *** [Td Th 9d]
+KeinKönich: checks 
+miaetraphael: checks 
+yokerone1: checks 
+*** TURN *** [Td Th 9d] [Jc]
+KeinKönich: checks 
+miaetraphael: checks 
+yokerone1: bets 135
+KeinKönich: folds 
+miaetraphael: folds 
+Uncalled bet (135) returned to yokerone1
+yokerone1 collected 219 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 219 | Rake 0 
+Board [Td Th 9d Jc]
+Seat 1: KeinKönich (small blind) folded on the Turn
+Seat 2: miaetraphael (big blind) folded on the Turn
+Seat 3: yokerone1 collected (219)
+Seat 4: MWF1884 folded before Flop (didn't bet)
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300994363: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:30:35 CET [2021/12/17 17:30:35 ET]
+Table '3322221011 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1534 in chips) 
+Seat 2: miaetraphael (1034 in chips) 
+Seat 3: yokerone1 (1626 in chips) 
+Seat 4: MWF1884 (2568 in chips) 
+Seat 5: bogess (866 in chips) 
+Seat 6: TheGreatRus (1217 in chips) 
+Seat 7: goiano89 (1434 in chips) 
+Seat 8: dapitanboy (1130 in chips) 
+Seat 9: pokergiant420 (2091 in chips) 
+KeinKönich: posts the ante 4
+miaetraphael: posts the ante 4
+yokerone1: posts the ante 4
+MWF1884: posts the ante 4
+bogess: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+dapitanboy: posts the ante 4
+pokergiant420: posts the ante 4
+miaetraphael: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c Qc]
+MWF1884: folds 
+bogess: folds 
+TheGreatRus: folds 
+goiano89: raises 60 to 90
+dapitanboy: folds 
+pokergiant420: calls 90
+KeinKönich: raises 230 to 320
+miaetraphael: folds 
+yokerone1: folds 
+goiano89: calls 230
+pokergiant420: folds 
+*** FLOP *** [Qh Tc Qs]
+goiano89: checks 
+KeinKönich: bets 225
+goiano89: calls 225
+*** TURN *** [Qh Tc Qs] [9d]
+goiano89: bets 885 and is all-in
+KeinKönich: calls 885
+*** RIVER *** [Qh Tc Qs 9d] [3c]
+*** SHOW DOWN ***
+goiano89: shows [Qd Kd] (three of a kind, Queens)
+KeinKönich: shows [7c Qc] (three of a kind, Queens - lower kicker)
+goiano89 collected 3031 from pot
+*** SUMMARY ***
+Total pot 3031 | Rake 0 
+Board [Qh Tc Qs 9d 3c]
+Seat 1: KeinKönich (button) showed [7c Qc] and lost with three of a kind, Queens
+Seat 2: miaetraphael (small blind) folded before Flop
+Seat 3: yokerone1 (big blind) folded before Flop
+Seat 4: MWF1884 folded before Flop (didn't bet)
+Seat 5: bogess folded before Flop (didn't bet)
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 showed [Qd Kd] and won (3031) with three of a kind, Queens
+Seat 8: dapitanboy folded before Flop (didn't bet)
+Seat 9: pokergiant420 folded before Flop
+
+
+
+PokerStars Hand #232301028994: Tournament #3322221011, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:31:48 CET [2021/12/17 17:31:48 ET]
+Table '3322221011 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (100 in chips) 
+Seat 2: miaetraphael (1015 in chips) 
+Seat 3: yokerone1 (1592 in chips) 
+Seat 4: MWF1884 (2564 in chips) 
+Seat 5: bogess (862 in chips) 
+Seat 6: TheGreatRus (1213 in chips) 
+Seat 7: goiano89 (3031 in chips) 
+Seat 9: pokergiant420 (1997 in chips) 
+KeinKönich: posts the ante 6
+miaetraphael: posts the ante 6
+yokerone1: posts the ante 6
+MWF1884: posts the ante 6
+bogess: posts the ante 6
+TheGreatRus: posts the ante 6
+goiano89: posts the ante 6
+pokergiant420: posts the ante 6
+yokerone1: posts small blind 25
+MWF1884: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 8c]
+bogess: raises 806 to 856 and is all-in
+TheGreatRus: folds 
+goiano89: folds 
+pokergiant420: folds 
+KeinKönich: calls 94 and is all-in
+miaetraphael: folds 
+yokerone1: folds 
+MWF1884: folds 
+Uncalled bet (762) returned to bogess
+*** FLOP *** [9c Kh Ts]
+*** TURN *** [9c Kh Ts] [3c]
+*** RIVER *** [9c Kh Ts 3c] [4s]
+*** SHOW DOWN ***
+bogess: shows [6s 6d] (a pair of Sixes)
+KeinKönich: shows [5c 8c] (high card King)
+bogess collected 311 from pot
+KeinKönich finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 311 | Rake 0 
+Board [9c Kh Ts 3c 4s]
+Seat 1: KeinKönich showed [5c 8c] and lost with high card King
+Seat 2: miaetraphael (button) folded before Flop (didn't bet)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: MWF1884 (big blind) folded before Flop
+Seat 5: bogess showed [6s 6d] and won (311) with a pair of Sixes
+Seat 6: TheGreatRus folded before Flop (didn't bet)
+Seat 7: goiano89 folded before Flop (didn't bet)
+Seat 9: pokergiant420 folded before Flop (didn't bet)
+
+
+

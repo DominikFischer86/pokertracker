@@ -1,0 +1,4268 @@
+ï»¿PokerStars Hand #232298992765: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:24:00 CET [2021/12/17 16:24:00 ET]
+Table '3322180942 1' 9-max Seat #1 is the button
+Seat 1: GiloM28 (1500 in chips) 
+Seat 2: darren1598 (1500 in chips) 
+Seat 3: IWannaR0ck (1500 in chips) 
+Seat 4: masonwolves1 (1500 in chips) 
+Seat 5: Mikson92 (1500 in chips) 
+Seat 6: NKL95 (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: goiano89 (1500 in chips) 
+Seat 9: dudmilk (1500 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+masonwolves1: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+darren1598: posts small blind 10
+IWannaR0ck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 8d]
+masonwolves1: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+goiano89: raises 40 to 60
+dudmilk: folds 
+GiloM28: calls 60
+darren1598: folds 
+IWannaR0ck: raises 200 to 260
+goiano89: folds 
+GiloM28: calls 200
+*** FLOP *** [4s Tc 7c]
+IWannaR0ck: bets 309
+GiloM28: folds 
+Uncalled bet (309) returned to IWannaR0ck
+IWannaR0ck collected 617 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 617 | Rake 0 
+Board [4s Tc 7c]
+Seat 1: GiloM28 (button) folded on the Flop
+Seat 2: darren1598 (small blind) folded before Flop
+Seat 3: IWannaR0ck (big blind) collected (617)
+Seat 4: masonwolves1 folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299023039: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:24:59 CET [2021/12/17 16:24:59 ET]
+Table '3322180942 1' 9-max Seat #2 is the button
+Seat 1: GiloM28 (1237 in chips) 
+Seat 2: darren1598 (1487 in chips) 
+Seat 3: IWannaR0ck (1854 in chips) 
+Seat 4: masonwolves1 (1497 in chips) 
+Seat 5: Mikson92 (1497 in chips) 
+Seat 6: NKL95 (1497 in chips) 
+Seat 7: KeinKönich (1497 in chips) 
+Seat 8: goiano89 (1437 in chips) 
+Seat 9: dudmilk (1497 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+masonwolves1: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+IWannaR0ck: posts small blind 10
+masonwolves1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 6d]
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+goiano89: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: calls 20
+IWannaR0ck: calls 10
+masonwolves1: raises 87 to 107
+darren1598: calls 87
+IWannaR0ck: folds 
+*** FLOP *** [8c As Qs]
+masonwolves1: bets 261
+darren1598: calls 261
+*** TURN *** [8c As Qs] [Qh]
+masonwolves1: bets 1126 and is all-in
+darren1598: calls 1116 and is all-in
+Uncalled bet (10) returned to masonwolves1
+*** RIVER *** [8c As Qs Qh] [8s]
+*** SHOW DOWN ***
+masonwolves1: shows [Jd Ah] (two pair, Aces and Queens)
+darren1598: shows [5s Ks] (a flush, Ace high)
+darren1598 collected 3015 from pot
+*** SUMMARY ***
+Total pot 3015 | Rake 0 
+Board [8c As Qs Qh 8s]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 (button) showed [5s Ks] and won (3015) with a flush, Ace high
+Seat 3: IWannaR0ck (small blind) folded before Flop
+Seat 4: masonwolves1 (big blind) showed [Jd Ah] and lost with two pair, Aces and Queens
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299050937: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:25:54 CET [2021/12/17 16:25:54 ET]
+Table '3322180942 1' 9-max Seat #3 is the button
+Seat 1: GiloM28 (1234 in chips) 
+Seat 2: darren1598 (3015 in chips) 
+Seat 3: IWannaR0ck (1831 in chips) 
+Seat 4: masonwolves1 (10 in chips) 
+Seat 5: Mikson92 (1494 in chips) 
+Seat 6: NKL95 (1494 in chips) 
+Seat 7: KeinKönich (1494 in chips) 
+Seat 8: goiano89 (1434 in chips) 
+Seat 9: dudmilk (1494 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+masonwolves1: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+masonwolves1: posts small blind 7 and is all-in
+Mikson92: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 5s]
+NKL95: calls 20
+KeinKönich: folds 
+goiano89: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: calls 20
+IWannaR0ck: folds 
+Mikson92: checks 
+*** FLOP *** [6c 2h 7d]
+Mikson92: checks 
+NKL95: checks 
+darren1598: checks 
+*** TURN *** [6c 2h 7d] [Td]
+Mikson92: checks 
+NKL95: checks 
+darren1598: checks 
+*** RIVER *** [6c 2h 7d Td] [Kd]
+Mikson92: checks 
+NKL95: bets 80
+darren1598: folds 
+Mikson92: folds 
+Uncalled bet (80) returned to NKL95
+*** SHOW DOWN ***
+NKL95: shows [Th Kc] (two pair, Kings and Tens)
+NKL95 collected 39 from side pot
+masonwolves1: shows [4h 7c] (a pair of Sevens)
+NKL95 collected 55 from main pot
+masonwolves1 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 94 Main pot 55. Side pot 39. | Rake 0 
+Board [6c 2h 7d Td Kd]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded on the River
+Seat 3: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 4: masonwolves1 (small blind) showed [4h 7c] and lost with a pair of Sevens
+Seat 5: Mikson92 (big blind) folded on the River
+Seat 6: NKL95 showed [Th Kc] and won (94) with two pair, Kings and Tens
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299074889: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:26:40 CET [2021/12/17 16:26:40 ET]
+Table '3322180942 1' 9-max Seat #5 is the button
+Seat 1: GiloM28 (1231 in chips) 
+Seat 2: darren1598 (2992 in chips) 
+Seat 3: IWannaR0ck (1828 in chips) 
+Seat 5: Mikson92 (1471 in chips) 
+Seat 6: NKL95 (1565 in chips) 
+Seat 7: KeinKönich (1491 in chips) 
+Seat 8: goiano89 (1431 in chips) 
+Seat 9: dudmilk (1491 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+NKL95: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [As Th]
+goiano89: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: calls 20
+IWannaR0ck: raises 50 to 70
+Mikson92: folds 
+NKL95: raises 70 to 140
+KeinKönich: folds 
+darren1598: folds 
+IWannaR0ck: calls 70
+*** FLOP *** [3d 3c Ad]
+NKL95: checks 
+IWannaR0ck: checks 
+*** TURN *** [3d 3c Ad] [Kh]
+NKL95: bets 100
+IWannaR0ck: calls 100
+*** RIVER *** [3d 3c Ad Kh] [2s]
+NKL95: checks 
+IWannaR0ck: checks 
+*** SHOW DOWN ***
+NKL95: shows [Qc 7c] (a pair of Threes)
+IWannaR0ck: shows [5h 5c] (two pair, Fives and Threes)
+IWannaR0ck collected 544 from pot
+*** SUMMARY ***
+Total pot 544 | Rake 0 
+Board [3d 3c Ad Kh 2s]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded before Flop
+Seat 3: IWannaR0ck showed [5h 5c] and won (544) with two pair, Fives and Threes
+Seat 5: Mikson92 (button) folded before Flop (didn't bet)
+Seat 6: NKL95 (small blind) showed [Qc 7c] and lost with a pair of Threes
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: goiano89 folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299108060: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:27:38 CET [2021/12/17 16:27:38 ET]
+Table '3322180942 1' 9-max Seat #6 is the button
+Seat 1: GiloM28 (1228 in chips) 
+Seat 2: darren1598 (2969 in chips) 
+Seat 3: IWannaR0ck (2129 in chips) 
+Seat 5: Mikson92 (1468 in chips) 
+Seat 6: NKL95 (1322 in chips) 
+Seat 7: KeinKönich (1468 in chips) 
+Seat 8: goiano89 (1428 in chips) 
+Seat 9: dudmilk (1488 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+KeinKönich: posts small blind 10
+goiano89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 8s]
+dudmilk: folds 
+GiloM28: calls 20
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: raises 40 to 60
+NKL95: folds 
+KeinKönich: folds 
+goiano89: folds 
+GiloM28: calls 40
+*** FLOP *** [5d 7h Jh]
+GiloM28: checks 
+Mikson92: checks 
+*** TURN *** [5d 7h Jh] [9d]
+GiloM28: bets 340
+Mikson92: folds 
+Uncalled bet (340) returned to GiloM28
+GiloM28 collected 174 from pot
+GiloM28: doesn't show hand 
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Board [5d 7h Jh 9d]
+Seat 1: GiloM28 collected (174)
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded on the Turn
+Seat 6: NKL95 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: goiano89 (big blind) folded before Flop
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299138576: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:28:37 CET [2021/12/17 16:28:37 ET]
+Table '3322180942 1' 9-max Seat #7 is the button
+Seat 1: GiloM28 (1339 in chips) 
+Seat 2: darren1598 (2966 in chips) 
+Seat 3: IWannaR0ck (2126 in chips) 
+Seat 5: Mikson92 (1405 in chips) 
+Seat 6: NKL95 (1319 in chips) 
+Seat 7: KeinKönich (1455 in chips) 
+Seat 8: goiano89 (1405 in chips) 
+Seat 9: dudmilk (1485 in chips) 
+GiloM28: posts the ante 3
+darren1598: posts the ante 3
+IWannaR0ck: posts the ante 3
+Mikson92: posts the ante 3
+NKL95: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts the ante 3
+dudmilk: posts the ante 3
+goiano89: posts small blind 10
+dudmilk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 8c]
+GiloM28: folds 
+darren1598: folds 
+IWannaR0ck: raises 30 to 50
+Mikson92: raises 110 to 160
+NKL95: calls 160
+KeinKönich: folds 
+goiano89: raises 1242 to 1402 and is all-in
+dudmilk: folds 
+IWannaR0ck: folds 
+Mikson92: calls 1242 and is all-in
+NKL95: calls 1156 and is all-in
+*** FLOP *** [8d 2c Qh]
+*** TURN *** [8d 2c Qh] [Ts]
+*** RIVER *** [8d 2c Qh Ts] [6h]
+*** SHOW DOWN ***
+goiano89: shows [Kd Kh] (a pair of Kings)
+Mikson92: shows [Ac Ah] (a pair of Aces)
+Mikson92 collected 172 from side pot
+NKL95: shows [8h 8s] (three of a kind, Eights)
+NKL95 collected 4042 from main pot
+goiano89 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 4214 Main pot 4042. Side pot 172. | Rake 0 
+Board [8d 2c Qh Ts 6h]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop
+Seat 5: Mikson92 showed [Ac Ah] and won (172) with a pair of Aces
+Seat 6: NKL95 showed [8h 8s] and won (4042) with three of a kind, Eights
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: goiano89 (small blind) showed [Kd Kh] and lost with a pair of Kings
+Seat 9: dudmilk (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299170348: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:29:40 CET [2021/12/17 16:29:40 ET]
+Table '3322180942 1' 9-max Seat #9 is the button
+Seat 1: GiloM28 (1336 in chips) 
+Seat 2: darren1598 (2963 in chips) 
+Seat 3: IWannaR0ck (2073 in chips) 
+Seat 5: Mikson92 (172 in chips) 
+Seat 6: NKL95 (4042 in chips) 
+Seat 7: KeinKönich (1452 in chips) 
+Seat 9: dudmilk (1462 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+dudmilk: posts the ante 4
+GiloM28: posts small blind 15
+darren1598: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 3d]
+IWannaR0ck: folds 
+Mikson92: raises 138 to 168 and is all-in
+NKL95: folds 
+KeinKönich: folds 
+dudmilk: folds 
+GiloM28: raises 138 to 306
+darren1598: folds 
+Uncalled bet (138) returned to GiloM28
+*** FLOP *** [Ts Ac 3c]
+*** TURN *** [Ts Ac 3c] [8d]
+*** RIVER *** [Ts Ac 3c 8d] [Qs]
+*** SHOW DOWN ***
+GiloM28: shows [5h 4s] (high card Ace)
+Mikson92: shows [Jd Td] (a pair of Tens)
+Mikson92 collected 394 from pot
+*** SUMMARY ***
+Total pot 394 | Rake 0 
+Board [Ts Ac 3c 8d Qs]
+Seat 1: GiloM28 (small blind) showed [5h 4s] and lost with high card Ace
+Seat 2: darren1598 (big blind) folded before Flop
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 showed [Jd Td] and won (394) with a pair of Tens
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 9: dudmilk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299182495: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:30:04 CET [2021/12/17 16:30:04 ET]
+Table '3322180942 1' 9-max Seat #1 is the button
+Seat 1: GiloM28 (1164 in chips) 
+Seat 2: darren1598 (2929 in chips) 
+Seat 3: IWannaR0ck (2069 in chips) 
+Seat 5: Mikson92 (394 in chips) 
+Seat 6: NKL95 (4038 in chips) 
+Seat 7: KeinKönich (1448 in chips) 
+Seat 8: Fosforus (1478 in chips) 
+Seat 9: dudmilk (1458 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+Fosforus: posts the ante 4
+dudmilk: posts the ante 4
+darren1598: posts small blind 15
+IWannaR0ck: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 6h]
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: folds 
+GiloM28: calls 30
+darren1598: folds 
+IWannaR0ck: raises 75 to 105
+GiloM28: calls 75
+*** FLOP *** [Qs 4s 3c]
+IWannaR0ck: bets 84
+GiloM28: folds 
+Uncalled bet (84) returned to IWannaR0ck
+IWannaR0ck collected 257 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [Qs 4s 3c]
+Seat 1: GiloM28 (button) folded on the Flop
+Seat 2: darren1598 (small blind) folded before Flop
+Seat 3: IWannaR0ck (big blind) collected (257)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299203668: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:30:44 CET [2021/12/17 16:30:44 ET]
+Table '3322180942 1' 9-max Seat #2 is the button
+Seat 1: GiloM28 (1055 in chips) 
+Seat 2: darren1598 (2910 in chips) 
+Seat 3: IWannaR0ck (2217 in chips) 
+Seat 5: Mikson92 (390 in chips) 
+Seat 6: NKL95 (4034 in chips) 
+Seat 7: KeinKönich (1444 in chips) 
+Seat 8: Fosforus (1474 in chips) 
+Seat 9: dudmilk (1454 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+Fosforus: posts the ante 4
+dudmilk: posts the ante 4
+IWannaR0ck: posts small blind 15
+Mikson92: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Qd]
+NKL95: calls 30
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: folds 
+IWannaR0ck: calls 15
+Mikson92: checks 
+*** FLOP *** [3h 7d Tc]
+IWannaR0ck: checks 
+Mikson92: checks 
+NKL95: bets 90
+IWannaR0ck: folds 
+Mikson92: folds 
+Uncalled bet (90) returned to NKL95
+NKL95 collected 122 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [3h 7d Tc]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 (button) folded before Flop (didn't bet)
+Seat 3: IWannaR0ck (small blind) folded on the Flop
+Seat 5: Mikson92 (big blind) folded on the Flop
+Seat 6: NKL95 collected (122)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299229050: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:31:34 CET [2021/12/17 16:31:34 ET]
+Table '3322180942 1' 9-max Seat #3 is the button
+Seat 1: GiloM28 (1051 in chips) 
+Seat 2: darren1598 (2906 in chips) 
+Seat 3: IWannaR0ck (2183 in chips) 
+Seat 5: Mikson92 (356 in chips) 
+Seat 6: NKL95 (4122 in chips) 
+Seat 7: KeinKönich (1440 in chips) 
+Seat 8: Fosforus (1470 in chips) 
+Seat 9: dudmilk (1450 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+Fosforus: posts the ante 4
+dudmilk: posts the ante 4
+Mikson92: posts small blind 15
+NKL95: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s Qh]
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: calls 30
+IWannaR0ck: raises 60 to 90
+Mikson92: folds 
+NKL95: raises 90 to 180
+darren1598: folds 
+IWannaR0ck: calls 90
+*** FLOP *** [2s Th Ad]
+NKL95: bets 240
+IWannaR0ck: calls 240
+*** TURN *** [2s Th Ad] [3c]
+NKL95: bets 240
+IWannaR0ck: calls 240
+*** RIVER *** [2s Th Ad 3c] [Jd]
+NKL95: bets 1397
+IWannaR0ck: folds 
+Uncalled bet (1397) returned to NKL95
+NKL95 collected 1397 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 1397 | Rake 0 
+Board [2s Th Ad 3c Jd]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded before Flop
+Seat 3: IWannaR0ck (button) folded on the River
+Seat 5: Mikson92 (small blind) folded before Flop
+Seat 6: NKL95 (big blind) collected (1397)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299269807: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:32:54 CET [2021/12/17 16:32:54 ET]
+Table '3322180942 1' 9-max Seat #5 is the button
+Seat 1: GiloM28 (1047 in chips) 
+Seat 2: darren1598 (2872 in chips) 
+Seat 3: IWannaR0ck (1519 in chips) 
+Seat 5: Mikson92 (337 in chips) 
+Seat 6: NKL95 (4855 in chips) 
+Seat 7: KeinKönich (1436 in chips) 
+Seat 8: Fosforus (1466 in chips) 
+Seat 9: dudmilk (1446 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+Fosforus: posts the ante 4
+dudmilk: posts the ante 4
+NKL95: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 6s]
+Fosforus: folds 
+dudmilk: folds 
+GiloM28: folds 
+darren1598: calls 30
+IWannaR0ck: raises 60 to 90
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: calls 60
+darren1598: calls 60
+*** FLOP *** [6c 3s 3c]
+KeinKönich: checks 
+darren1598: checks 
+IWannaR0ck: checks 
+*** TURN *** [6c 3s 3c] [3d]
+KeinKönich: bets 159
+darren1598: calls 159
+IWannaR0ck: folds 
+*** RIVER *** [6c 3s 3c 3d] [7d]
+KeinKönich: bets 318
+darren1598: folds 
+Uncalled bet (318) returned to KeinKönich
+KeinKönich collected 635 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 635 | Rake 0 
+Board [6c 3s 3c 3d 7d]
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded on the River
+Seat 3: IWannaR0ck folded on the Turn
+Seat 5: Mikson92 (button) folded before Flop (didn't bet)
+Seat 6: NKL95 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) collected (635)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299303132: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:33:59 CET [2021/12/17 16:33:59 ET]
+Table '3322180942 1' 9-max Seat #6 is the button
+Seat 1: GiloM28 (1043 in chips) 
+Seat 2: darren1598 (2619 in chips) 
+Seat 3: IWannaR0ck (1425 in chips) 
+Seat 5: Mikson92 (333 in chips) 
+Seat 6: NKL95 (4836 in chips) 
+Seat 7: KeinKönich (1818 in chips) 
+Seat 8: Fosforus (1462 in chips) 
+Seat 9: dudmilk (1442 in chips) 
+GiloM28: posts the ante 4
+darren1598: posts the ante 4
+IWannaR0ck: posts the ante 4
+Mikson92: posts the ante 4
+NKL95: posts the ante 4
+KeinKönich: posts the ante 4
+Fosforus: posts the ante 4
+dudmilk: posts the ante 4
+KeinKönich: posts small blind 15
+Fosforus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 4d]
+dudmilk: folds 
+GiloM28: folds 
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: raises 90 to 120
+KeinKönich: folds 
+Fosforus: folds 
+Uncalled bet (90) returned to NKL95
+NKL95 collected 107 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: GiloM28 folded before Flop (didn't bet)
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 (button) collected (107)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299320132: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:34:33 CET [2021/12/17 16:34:33 ET]
+Table '3322180942 1' 9-max Seat #7 is the button
+Seat 1: GiloM28 (1039 in chips) 
+Seat 2: darren1598 (2615 in chips) 
+Seat 3: IWannaR0ck (1421 in chips) 
+Seat 5: Mikson92 (329 in chips) 
+Seat 6: NKL95 (4909 in chips) 
+Seat 7: KeinKönich (1799 in chips) 
+Seat 8: Fosforus (1428 in chips) 
+Seat 9: dudmilk (1438 in chips) 
+GiloM28: posts the ante 6
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+Fosforus: posts small blind 25
+dudmilk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Jh]
+GiloM28: calls 50
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: checks 
+*** FLOP *** [Ac 7d Js]
+dudmilk: checks 
+GiloM28: bets 50
+dudmilk: folds 
+Uncalled bet (50) returned to GiloM28
+GiloM28 collected 173 from pot
+GiloM28: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Board [Ac 7d Js]
+Seat 1: GiloM28 collected (173)
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded before Flop
+Seat 9: dudmilk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299339143: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:35:11 CET [2021/12/17 16:35:11 ET]
+Table '3322180942 1' 9-max Seat #8 is the button
+Seat 1: GiloM28 (1156 in chips) 
+Seat 2: darren1598 (2609 in chips) 
+Seat 3: IWannaR0ck (1415 in chips) 
+Seat 5: Mikson92 (323 in chips) 
+Seat 6: NKL95 (4903 in chips) 
+Seat 7: KeinKönich (1793 in chips) 
+Seat 8: Fosforus (1397 in chips) 
+Seat 9: dudmilk (1382 in chips) 
+GiloM28: posts the ante 6
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+dudmilk: posts small blind 25
+GiloM28: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 3h]
+darren1598: raises 100 to 150
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: folds 
+GiloM28: raises 1000 to 1150 and is all-in
+darren1598: calls 1000
+*** FLOP *** [7s 7h Ad]
+*** TURN *** [7s 7h Ad] [2d]
+*** RIVER *** [7s 7h Ad 2d] [4c]
+*** SHOW DOWN ***
+GiloM28: shows [4s As] (two pair, Aces and Sevens)
+darren1598: shows [Ac 9h] (two pair, Aces and Sevens - Nine kicker)
+darren1598 collected 2373 from pot
+GiloM28 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 2373 | Rake 0 
+Board [7s 7h Ad 2d 4c]
+Seat 1: GiloM28 (big blind) showed [4s As] and lost with two pair, Aces and Sevens
+Seat 2: darren1598 showed [Ac 9h] and won (2373) with two pair, Aces and Sevens
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+Seat 9: dudmilk (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299356360: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:35:45 CET [2021/12/17 16:35:45 ET]
+Table '3322180942 1' 9-max Seat #9 is the button
+Seat 2: darren1598 (3826 in chips) 
+Seat 3: IWannaR0ck (1409 in chips) 
+Seat 5: Mikson92 (317 in chips) 
+Seat 6: NKL95 (4897 in chips) 
+Seat 7: KeinKönich (1787 in chips) 
+Seat 8: Fosforus (1391 in chips) 
+Seat 9: dudmilk (1351 in chips) 
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+darren1598: posts small blind 25
+IWannaR0ck: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Tc]
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: raises 50 to 100
+Fosforus: folds 
+dudmilk: calls 100
+darren1598: folds 
+IWannaR0ck: folds 
+*** FLOP *** [Td 4c 7h]
+KeinKönich: bets 159
+dudmilk: folds 
+Uncalled bet (159) returned to KeinKönich
+KeinKönich collected 317 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Board [Td 4c 7h]
+Seat 2: darren1598 (small blind) folded before Flop
+Seat 3: IWannaR0ck (big blind) folded before Flop
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (317)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk (button) folded on the Flop
+
+
+
+PokerStars Hand #232299371848: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:36:16 CET [2021/12/17 16:36:16 ET]
+Table '3322180942 1' 9-max Seat #2 is the button
+Seat 2: darren1598 (3795 in chips) 
+Seat 3: IWannaR0ck (1353 in chips) 
+Seat 5: Mikson92 (311 in chips) 
+Seat 6: NKL95 (4891 in chips) 
+Seat 7: KeinKönich (1998 in chips) 
+Seat 8: Fosforus (1385 in chips) 
+Seat 9: dudmilk (1245 in chips) 
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+IWannaR0ck: posts small blind 25
+Mikson92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 3d]
+NKL95: folds 
+KeinKönich: folds 
+Fosforus: raises 50 to 100
+dudmilk: folds 
+darren1598: calls 100
+IWannaR0ck: calls 75
+Mikson92: folds 
+*** FLOP *** [4c As Kh]
+IWannaR0ck: checks 
+Fosforus: bets 300
+darren1598: calls 300
+IWannaR0ck: folds 
+*** TURN *** [4c As Kh] [6s]
+Fosforus: bets 979 and is all-in
+darren1598: folds 
+Uncalled bet (979) returned to Fosforus
+Fosforus collected 992 from pot
+Fosforus: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [4c As Kh 6s]
+Seat 2: darren1598 (button) folded on the Turn
+Seat 3: IWannaR0ck (small blind) folded on the Flop
+Seat 5: Mikson92 (big blind) folded before Flop
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus collected (992)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299408148: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:37:29 CET [2021/12/17 16:37:29 ET]
+Table '3322180942 1' 9-max Seat #3 is the button
+Seat 2: darren1598 (3389 in chips) 
+Seat 3: IWannaR0ck (1247 in chips) 
+Seat 5: Mikson92 (255 in chips) 
+Seat 6: NKL95 (4885 in chips) 
+Seat 7: KeinKönich (1992 in chips) 
+Seat 8: Fosforus (1971 in chips) 
+Seat 9: dudmilk (1239 in chips) 
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+Mikson92: posts small blind 25
+NKL95: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 8s]
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: folds 
+darren1598: raises 100 to 150
+IWannaR0ck: calls 150
+Mikson92: folds 
+NKL95: calls 100
+*** FLOP *** [5c 3d Js]
+NKL95: checks 
+darren1598: checks 
+IWannaR0ck: bets 170
+NKL95: folds 
+darren1598: calls 170
+*** TURN *** [5c 3d Js] [6d]
+darren1598: checks 
+IWannaR0ck: bets 294
+darren1598: folds 
+Uncalled bet (294) returned to IWannaR0ck
+IWannaR0ck collected 857 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 857 | Rake 0 
+Board [5c 3d Js 6d]
+Seat 2: darren1598 folded on the Turn
+Seat 3: IWannaR0ck (button) collected (857)
+Seat 5: Mikson92 (small blind) folded before Flop
+Seat 6: NKL95 (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299449661: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:38:35 CET [2021/12/17 16:38:35 ET]
+Table '3322180942 1' 9-max Seat #5 is the button
+Seat 2: darren1598 (3063 in chips) 
+Seat 3: IWannaR0ck (1778 in chips) 
+Seat 5: Mikson92 (224 in chips) 
+Seat 6: NKL95 (4729 in chips) 
+Seat 7: KeinKönich (1986 in chips) 
+Seat 8: Fosforus (1965 in chips) 
+Seat 9: dudmilk (1233 in chips) 
+darren1598: posts the ante 6
+IWannaR0ck: posts the ante 6
+Mikson92: posts the ante 6
+NKL95: posts the ante 6
+KeinKönich: posts the ante 6
+Fosforus: posts the ante 6
+dudmilk: posts the ante 6
+NKL95: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 9h]
+Fosforus: raises 50 to 100
+dudmilk: folds 
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+Uncalled bet (50) returned to Fosforus
+Fosforus collected 167 from pot
+Fosforus: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 (button) folded before Flop (didn't bet)
+Seat 6: NKL95 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: Fosforus collected (167)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299466090: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:39:07 CET [2021/12/17 16:39:07 ET]
+Table '3322180942 1' 9-max Seat #6 is the button
+Seat 2: darren1598 (3057 in chips) 
+Seat 3: IWannaR0ck (1772 in chips) 
+Seat 5: Mikson92 (218 in chips) 
+Seat 6: NKL95 (4698 in chips) 
+Seat 7: KeinKönich (1930 in chips) 
+Seat 8: Fosforus (2076 in chips) 
+Seat 9: dudmilk (1227 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+KeinKönich: posts small blind 40
+Fosforus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d 8d]
+dudmilk: folds 
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: raises 80 to 160
+Fosforus: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 230 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) collected (230)
+Seat 8: Fosforus (big blind) folded before Flop
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299479472: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:39:34 CET [2021/12/17 16:39:34 ET]
+Table '3322180942 1' 9-max Seat #7 is the button
+Seat 2: darren1598 (3047 in chips) 
+Seat 3: IWannaR0ck (1762 in chips) 
+Seat 5: Mikson92 (208 in chips) 
+Seat 6: NKL95 (4688 in chips) 
+Seat 7: KeinKönich (2070 in chips) 
+Seat 8: Fosforus (1986 in chips) 
+Seat 9: dudmilk (1217 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+Fosforus: posts small blind 40
+dudmilk: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 3d]
+darren1598: folds 
+IWannaR0ck: raises 80 to 160
+Mikson92: folds 
+NKL95: calls 160
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: calls 80
+*** FLOP *** [Qs Tc 5c]
+dudmilk: checks 
+IWannaR0ck: bets 194
+NKL95: folds 
+dudmilk: raises 853 to 1047 and is all-in
+IWannaR0ck: calls 853
+*** TURN *** [Qs Tc 5c] [4c]
+*** RIVER *** [Qs Tc 5c 4c] [7h]
+*** SHOW DOWN ***
+dudmilk: shows [Ac 2c] (a flush, Ace high)
+IWannaR0ck: shows [Qd Qh] (three of a kind, Queens)
+dudmilk collected 2684 from pot
+*** SUMMARY ***
+Total pot 2684 | Rake 0 
+Board [Qs Tc 5c 4c 7h]
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck showed [Qd Qh] and lost with three of a kind, Queens
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded on the Flop
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded before Flop
+Seat 9: dudmilk (big blind) showed [Ac 2c] and won (2684) with a flush, Ace high
+
+
+
+PokerStars Hand #232299519020: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:40:53 CET [2021/12/17 16:40:53 ET]
+Table '3322180942 1' 9-max Seat #8 is the button
+Seat 2: darren1598 (3037 in chips) 
+Seat 3: IWannaR0ck (545 in chips) 
+Seat 5: Mikson92 (198 in chips) 
+Seat 6: NKL95 (4518 in chips) 
+Seat 7: KeinKönich (2060 in chips) 
+Seat 8: Fosforus (1936 in chips) 
+Seat 9: dudmilk (2684 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+dudmilk: posts small blind 40
+darren1598: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 4s]
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: raises 80 to 160
+Fosforus: calls 160
+dudmilk: folds 
+darren1598: calls 80
+*** FLOP *** [4h Qh 5h]
+darren1598: checks 
+KeinKönich: checks 
+Fosforus: checks 
+*** TURN *** [4h Qh 5h] [Kh]
+darren1598: checks 
+KeinKönich: checks 
+Fosforus: bets 320
+darren1598: calls 320
+KeinKönich: folds 
+*** RIVER *** [4h Qh 5h Kh] [4c]
+darren1598: checks 
+Fosforus: bets 615
+darren1598: calls 615
+*** SHOW DOWN ***
+Fosforus: shows [Jd Ah] (a flush, Ace high)
+darren1598: mucks hand 
+Fosforus collected 2460 from pot
+*** SUMMARY ***
+Total pot 2460 | Rake 0 
+Board [4h Qh 5h Kh 4c]
+Seat 2: darren1598 (big blind) mucked [7h Ac]
+Seat 3: IWannaR0ck folded before Flop (didn't bet)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded on the Turn
+Seat 8: Fosforus (button) showed [Jd Ah] and won (2460) with a flush, Ace high
+Seat 9: dudmilk (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299551610: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:41:59 CET [2021/12/17 16:41:59 ET]
+Table '3322180942 1' 9-max Seat #9 is the button
+Seat 2: darren1598 (1932 in chips) 
+Seat 3: IWannaR0ck (535 in chips) 
+Seat 5: Mikson92 (188 in chips) 
+Seat 6: NKL95 (4508 in chips) 
+Seat 7: KeinKönich (1890 in chips) 
+Seat 8: Fosforus (3291 in chips) 
+Seat 9: dudmilk (2634 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+darren1598: posts small blind 40
+IWannaR0ck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Tc]
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: raises 80 to 160
+Fosforus: folds 
+dudmilk: folds 
+darren1598: folds 
+NKL95 is disconnected 
+IWannaR0ck: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 270 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: darren1598 (small blind) folded before Flop
+Seat 3: IWannaR0ck (big blind) folded before Flop
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (270)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299565104: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:42:26 CET [2021/12/17 16:42:26 ET]
+Table '3322180942 1' 9-max Seat #2 is the button
+Seat 2: darren1598 (1882 in chips) 
+Seat 3: IWannaR0ck (445 in chips) 
+Seat 5: Mikson92 (178 in chips) 
+Seat 6: NKL95 (4498 in chips) 
+Seat 7: KeinKönich (2070 in chips) 
+Seat 8: Fosforus (3281 in chips) 
+Seat 9: dudmilk (2624 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+IWannaR0ck: posts small blind 40
+Mikson92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 8s]
+NKL95 is connected 
+NKL95 is disconnected 
+NKL95 is connected 
+NKL95: calls 80
+KeinKönich: folds 
+Fosforus: folds 
+dudmilk: raises 92 to 172
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: calls 88 and is all-in
+NKL95: calls 92
+*** FLOP *** [Th 3s 9d]
+NKL95: bets 311
+dudmilk: folds 
+Uncalled bet (311) returned to NKL95
+*** TURN *** [Th 3s 9d] [5s]
+*** RIVER *** [Th 3s 9d 5s] [Td]
+*** SHOW DOWN ***
+NKL95: shows [Jc Qd] (a pair of Tens)
+NKL95 collected 8 from side pot
+Mikson92: shows [Qs Tc] (three of a kind, Tens)
+Mikson92 collected 614 from main pot
+*** SUMMARY ***
+Total pot 622 Main pot 614. Side pot 8. | Rake 0 
+Board [Th 3s 9d 5s Td]
+Seat 2: darren1598 (button) folded before Flop (didn't bet)
+Seat 3: IWannaR0ck (small blind) folded before Flop
+Seat 5: Mikson92 (big blind) showed [Qs Tc] and won (614) with three of a kind, Tens
+Seat 6: NKL95 showed [Jc Qd] and won (8) with a pair of Tens
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded on the Flop
+
+
+
+PokerStars Hand #232299586459: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:43:09 CET [2021/12/17 16:43:09 ET]
+Table '3322180942 1' 9-max Seat #3 is the button
+Seat 2: darren1598 (1872 in chips) 
+Seat 3: IWannaR0ck (395 in chips) 
+Seat 5: Mikson92 (614 in chips) 
+Seat 6: NKL95 (4324 in chips) 
+Seat 7: KeinKönich (2060 in chips) 
+Seat 8: Fosforus (3271 in chips) 
+Seat 9: dudmilk (2442 in chips) 
+darren1598: posts the ante 10
+IWannaR0ck: posts the ante 10
+Mikson92: posts the ante 10
+NKL95: posts the ante 10
+KeinKönich: posts the ante 10
+Fosforus: posts the ante 10
+dudmilk: posts the ante 10
+Mikson92: posts small blind 40
+NKL95: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 8c]
+KeinKönich: raises 80 to 160
+Fosforus: folds 
+dudmilk: calls 160
+darren1598: folds 
+IWannaR0ck: folds 
+Mikson92: folds 
+NKL95: calls 80
+*** FLOP *** [7s 9s 6c]
+NKL95: checks 
+KeinKönich: bets 360
+dudmilk: folds 
+NKL95: calls 360
+*** TURN *** [7s 9s 6c] [Tc]
+NKL95: checks 
+KeinKönich: bets 1530 and is all-in
+NKL95: calls 1530
+*** RIVER *** [7s 9s 6c Tc] [4c]
+*** SHOW DOWN ***
+NKL95: shows [Td As] (a pair of Tens)
+KeinKönich: shows [8d 8c] (a straight, Six to Ten)
+KeinKönich collected 4370 from pot
+*** SUMMARY ***
+Total pot 4370 | Rake 0 
+Board [7s 9s 6c Tc 4c]
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 5: Mikson92 (small blind) folded before Flop
+Seat 6: NKL95 (big blind) showed [Td As] and lost with a pair of Tens
+Seat 7: KeinKönich showed [8d 8c] and won (4370) with a straight, Six to Ten
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded on the Flop
+
+
+
+PokerStars Hand #232299614317: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:44:05 CET [2021/12/17 16:44:05 ET]
+Table '3322180942 1' 9-max Seat #5 is the button
+Seat 2: darren1598 (1862 in chips) 
+Seat 3: IWannaR0ck (385 in chips) 
+Seat 5: Mikson92 (564 in chips) 
+Seat 6: NKL95 (2264 in chips) 
+Seat 7: KeinKönich (4370 in chips) 
+Seat 8: Fosforus (3261 in chips) 
+Seat 9: dudmilk (2272 in chips) 
+darren1598: posts the ante 15
+IWannaR0ck: posts the ante 15
+Mikson92: posts the ante 15
+NKL95: posts the ante 15
+KeinKönich: posts the ante 15
+Fosforus: posts the ante 15
+dudmilk: posts the ante 15
+NKL95: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 5h]
+Fosforus: folds 
+dudmilk: folds 
+darren1598: folds 
+IWannaR0ck: raises 240 to 360
+Mikson92: raises 189 to 549 and is all-in
+NKL95: folds 
+KeinKönich: folds 
+IWannaR0ck: calls 10 and is all-in
+Uncalled bet (179) returned to Mikson92
+*** FLOP *** [2d 2s 9d]
+*** TURN *** [2d 2s 9d] [3h]
+*** RIVER *** [2d 2s 9d 3h] [7h]
+*** SHOW DOWN ***
+IWannaR0ck: shows [Qh 8c] (a pair of Deuces)
+Mikson92: shows [9h 9s] (a full house, Nines full of Deuces)
+Mikson92 collected 1025 from pot
+IWannaR0ck finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [2d 2s 9d 3h 7h]
+Seat 2: darren1598 folded before Flop (didn't bet)
+Seat 3: IWannaR0ck showed [Qh 8c] and lost with a pair of Deuces
+Seat 5: Mikson92 (button) showed [9h 9s] and won (1025) with a full house, Nines full of Deuces
+Seat 6: NKL95 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299633807: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:44:44 CET [2021/12/17 16:44:44 ET]
+Table '3322180942 1' 9-max Seat #6 is the button
+Seat 2: darren1598 (1847 in chips) 
+Seat 5: Mikson92 (1204 in chips) 
+Seat 6: NKL95 (2189 in chips) 
+Seat 7: KeinKönich (4235 in chips) 
+Seat 8: Fosforus (3246 in chips) 
+Seat 9: dudmilk (2257 in chips) 
+darren1598: posts the ante 15
+Mikson92: posts the ante 15
+NKL95: posts the ante 15
+KeinKönich: posts the ante 15
+Fosforus: posts the ante 15
+dudmilk: posts the ante 15
+KeinKönich: posts small blind 60
+Fosforus: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 3c]
+dudmilk: folds 
+darren1598: raises 240 to 360
+Mikson92: folds 
+NKL95: folds 
+KeinKönich: folds 
+Fosforus: folds 
+Uncalled bet (240) returned to darren1598
+darren1598 collected 390 from pot
+darren1598: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 2: darren1598 collected (390)
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+Seat 9: dudmilk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299650258: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:45:02 CET [2021/12/17 16:45:02 ET]
+Table '3322180942 1' 9-max Seat #7 is the button
+Seat 2: darren1598 (2102 in chips) 
+Seat 5: Mikson92 (1189 in chips) 
+Seat 6: NKL95 (2174 in chips) 
+Seat 7: KeinKönich (4160 in chips) 
+Seat 8: Fosforus (3111 in chips) 
+Seat 9: dudmilk (2242 in chips) 
+darren1598: posts the ante 15
+Mikson92: posts the ante 15
+NKL95: posts the ante 15
+KeinKönich: posts the ante 15
+Fosforus: posts the ante 15
+dudmilk: posts the ante 15
+Fosforus: posts small blind 60
+dudmilk: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs Ts]
+darren1598: calls 120
+Mikson92: folds 
+NKL95: calls 120
+KeinKönich: calls 120
+Fosforus: folds 
+dudmilk has timed out
+dudmilk: checks 
+*** FLOP *** [8s 9h Js]
+dudmilk: checks 
+darren1598: bets 1967 and is all-in
+NKL95: raises 72 to 2039 and is all-in
+KeinKönich: calls 2039
+dudmilk: folds 
+*** TURN *** [8s 9h Js] [7s]
+*** RIVER *** [8s 9h Js 7s] [4d]
+*** SHOW DOWN ***
+NKL95: shows [5s 4s] (a flush, Jack high)
+KeinKönich: shows [Qs Ts] (a flush, Queen high)
+KeinKönich collected 144 from side pot
+darren1598: shows [Qh Jd] (a pair of Jacks)
+KeinKönich collected 6531 from main pot
+NKL95 finished the tournament in 10th place
+darren1598 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 6675 Main pot 6531. Side pot 144. | Rake 0 
+Board [8s 9h Js 7s 4d]
+Seat 2: darren1598 showed [Qh Jd] and lost with a pair of Jacks
+Seat 5: Mikson92 folded before Flop (didn't bet)
+Seat 6: NKL95 showed [5s 4s] and lost with a flush, Jack high
+Seat 7: KeinKönich (button) showed [Qs Ts] and won (6675) with a flush, Queen high
+Seat 8: Fosforus (small blind) folded before Flop
+Seat 9: dudmilk (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232299700216: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:46:36 CET [2021/12/17 16:46:36 ET]
+Table '3322180942 2' 9-max Seat #9 is the button
+Seat 1: kaDimitris (2117 in chips) 
+Seat 2: Mikson92 (1174 in chips) 
+Seat 3: yokerone1 (1921 in chips) 
+Seat 4: dacey31 (1892 in chips) 
+Seat 5: KeinKönich (8661 in chips) 
+Seat 6: liege1971 (4353 in chips) 
+Seat 7: dudmilk (2107 in chips) 
+Seat 8: Fosforus (3036 in chips) 
+Seat 9: SpOs Im GoOd (1739 in chips) 
+kaDimitris: posts the ante 15
+Mikson92: posts the ante 15
+yokerone1: posts the ante 15
+dacey31: posts the ante 15
+KeinKönich: posts the ante 15
+liege1971: posts the ante 15
+dudmilk: posts the ante 15
+Fosforus: posts the ante 15
+SpOs Im GoOd: posts the ante 15
+kaDimitris: posts small blind 60
+Mikson92: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js Td]
+yokerone1: folds 
+dacey31: raises 240 to 360
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+Uncalled bet (240) returned to dacey31
+dacey31 collected 435 from pot
+dacey31: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: kaDimitris (small blind) folded before Flop
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 collected (435)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299714625: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:47:05 CET [2021/12/17 16:47:05 ET]
+Table '3322180942 2' 9-max Seat #1 is the button
+Seat 1: kaDimitris (2042 in chips) 
+Seat 2: Mikson92 (1039 in chips) 
+Seat 3: yokerone1 (1906 in chips) 
+Seat 4: dacey31 (2192 in chips) 
+Seat 5: KeinKönich (8646 in chips) 
+Seat 6: liege1971 (4338 in chips) 
+Seat 7: dudmilk (2092 in chips) 
+Seat 8: Fosforus (3021 in chips) 
+Seat 9: SpOs Im GoOd (1724 in chips) 
+kaDimitris: posts the ante 15
+Mikson92: posts the ante 15
+yokerone1: posts the ante 15
+dacey31: posts the ante 15
+KeinKönich: posts the ante 15
+liege1971: posts the ante 15
+dudmilk: posts the ante 15
+Fosforus: posts the ante 15
+SpOs Im GoOd: posts the ante 15
+Mikson92: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Th]
+dacey31: calls 120
+KeinKönich: folds 
+liege1971: calls 120
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: checks 
+*** FLOP *** [5c 4h Td]
+yokerone1: checks 
+dacey31: checks 
+liege1971 has timed out
+liege1971: checks 
+*** TURN *** [5c 4h Td] [6d]
+yokerone1: checks 
+dacey31: checks 
+liege1971: checks 
+*** RIVER *** [5c 4h Td 6d] [6h]
+yokerone1: checks 
+dacey31: bets 397
+liege1971: folds 
+yokerone1: folds 
+Uncalled bet (397) returned to dacey31
+dacey31 collected 555 from pot
+dacey31: doesn't show hand 
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [5c 4h Td 6d 6h]
+Seat 1: kaDimitris (button) folded before Flop (didn't bet)
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 3: yokerone1 (big blind) folded on the River
+Seat 4: dacey31 collected (555)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded on the River
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299771934: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:48:57 CET [2021/12/17 16:48:57 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 1: kaDimitris (2027 in chips) 
+Seat 2: Mikson92 (964 in chips) 
+Seat 3: yokerone1 (1771 in chips) 
+Seat 4: dacey31 (2612 in chips) 
+Seat 5: KeinKönich (8631 in chips) 
+Seat 6: liege1971 (4203 in chips) 
+Seat 7: dudmilk (2077 in chips) 
+Seat 8: Fosforus (3006 in chips) 
+Seat 9: SpOs Im GoOd (1709 in chips) 
+kaDimitris: posts the ante 15
+Mikson92: posts the ante 15
+yokerone1: posts the ante 15
+dacey31: posts the ante 15
+KeinKönich: posts the ante 15
+liege1971: posts the ante 15
+dudmilk: posts the ante 15
+Fosforus: posts the ante 15
+SpOs Im GoOd: posts the ante 15
+yokerone1: posts small blind 60
+dacey31: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Kh]
+KeinKönich: folds 
+liege1971: raises 120 to 240
+dudmilk: folds 
+Fosforus: calls 240
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: folds 
+dacey31: folds 
+*** FLOP *** [7s 5h As]
+liege1971: bets 398
+Fosforus: calls 398
+*** TURN *** [7s 5h As] [Kd]
+liege1971: checks 
+Fosforus: bets 796
+liege1971: calls 796
+*** RIVER *** [7s 5h As Kd] [4c]
+liege1971: checks 
+Fosforus: checks 
+*** SHOW DOWN ***
+liege1971: shows [Ks Jd] (a pair of Kings)
+Fosforus: shows [Qh Ad] (a pair of Aces)
+Fosforus collected 3183 from pot
+*** SUMMARY ***
+Total pot 3183 | Rake 0 
+Board [7s 5h As Kd 4c]
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: dacey31 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 showed [Ks Jd] and lost with a pair of Kings
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus showed [Qh Ad] and won (3183) with a pair of Aces
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299805504: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:50:03 CET [2021/12/17 16:50:03 ET]
+Table '3322180942 2' 9-max Seat #3 is the button
+Seat 1: kaDimitris (2012 in chips) 
+Seat 2: Mikson92 (949 in chips) 
+Seat 3: yokerone1 (1696 in chips) 
+Seat 4: dacey31 (2477 in chips) 
+Seat 5: KeinKönich (8616 in chips) 
+Seat 6: liege1971 (2754 in chips) 
+Seat 7: dudmilk (2062 in chips) 
+Seat 8: Fosforus (4740 in chips) 
+Seat 9: SpOs Im GoOd (1694 in chips) 
+kaDimitris: posts the ante 20
+Mikson92: posts the ante 20
+yokerone1: posts the ante 20
+dacey31: posts the ante 20
+KeinKönich: posts the ante 20
+liege1971: posts the ante 20
+dudmilk: posts the ante 20
+Fosforus: posts the ante 20
+SpOs Im GoOd: posts the ante 20
+dacey31: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Tc]
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: folds 
+dacey31: raises 160 to 320
+KeinKönich: calls 160
+*** FLOP *** [Qs Th 9h]
+dacey31: checks 
+KeinKönich: bets 410
+dacey31: calls 410
+*** TURN *** [Qs Th 9h] [4c]
+dacey31: checks 
+KeinKönich: checks 
+*** RIVER *** [Qs Th 9h 4c] [Kd]
+dacey31: checks 
+KeinKönich: checks 
+*** SHOW DOWN ***
+dacey31: shows [Qd As] (a pair of Queens)
+KeinKönich: mucks hand 
+dacey31 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | Rake 0 
+Board [Qs Th 9h 4c Kd]
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 (button) folded before Flop (didn't bet)
+Seat 4: dacey31 (small blind) showed [Qd As] and won (1640) with a pair of Queens
+Seat 5: KeinKönich (big blind) mucked [5c Tc]
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299839615: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:51:12 CET [2021/12/17 16:51:12 ET]
+Table '3322180942 2' 9-max Seat #4 is the button
+Seat 1: kaDimitris (1992 in chips) 
+Seat 2: Mikson92 (929 in chips) 
+Seat 3: yokerone1 (1676 in chips) 
+Seat 4: dacey31 (3367 in chips) 
+Seat 5: KeinKönich (7866 in chips) 
+Seat 6: liege1971 (2734 in chips) 
+Seat 7: dudmilk (2042 in chips) 
+Seat 8: Fosforus (4720 in chips) 
+Seat 9: SpOs Im GoOd (1674 in chips) 
+kaDimitris: posts the ante 20
+Mikson92: posts the ante 20
+yokerone1: posts the ante 20
+dacey31: posts the ante 20
+KeinKönich: posts the ante 20
+liege1971: posts the ante 20
+dudmilk: posts the ante 20
+Fosforus: posts the ante 20
+SpOs Im GoOd: posts the ante 20
+KeinKönich: posts small blind 80
+liege1971: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 8c]
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: folds 
+dacey31: folds 
+KeinKönich: raises 160 to 320
+liege1971: calls 160
+*** FLOP *** [8h Jc 3d]
+KeinKönich: bets 410
+liege1971: calls 410
+*** TURN *** [8h Jc 3d] [9c]
+KeinKönich: bets 1984
+liege1971: calls 1984 and is all-in
+*** RIVER *** [8h Jc 3d 9c] [Qs]
+*** SHOW DOWN ***
+KeinKönich: shows [9s 8c] (two pair, Nines and Eights)
+liege1971: shows [Th Ac] (a straight, Eight to Queen)
+liege1971 collected 5608 from pot
+*** SUMMARY ***
+Total pot 5608 | Rake 0 
+Board [8h Jc 3d 9c Qs]
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) showed [9s 8c] and lost with two pair, Nines and Eights
+Seat 6: liege1971 (big blind) showed [Th Ac] and won (5608) with a straight, Eight to Queen
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299866360: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:52:05 CET [2021/12/17 16:52:05 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 1: kaDimitris (1972 in chips) 
+Seat 2: Mikson92 (909 in chips) 
+Seat 3: yokerone1 (1656 in chips) 
+Seat 4: dacey31 (3347 in chips) 
+Seat 5: KeinKönich (5132 in chips) 
+Seat 6: liege1971 (5608 in chips) 
+Seat 7: dudmilk (2022 in chips) 
+Seat 8: Fosforus (4700 in chips) 
+Seat 9: SpOs Im GoOd (1654 in chips) 
+kaDimitris: posts the ante 20
+Mikson92: posts the ante 20
+yokerone1: posts the ante 20
+dacey31: posts the ante 20
+KeinKönich: posts the ante 20
+liege1971: posts the ante 20
+dudmilk: posts the ante 20
+Fosforus: posts the ante 20
+SpOs Im GoOd: posts the ante 20
+liege1971: posts small blind 80
+dudmilk: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 8d]
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: raises 1476 to 1636 and is all-in
+dacey31: folds 
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Uncalled bet (1476) returned to yokerone1
+yokerone1 collected 580 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 collected (580)
+Seat 4: dacey31 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) folded before Flop
+Seat 7: dudmilk (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299894211: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:53:00 CET [2021/12/17 16:53:00 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 1: kaDimitris (1952 in chips) 
+Seat 2: Mikson92 (889 in chips) 
+Seat 3: yokerone1 (2056 in chips) 
+Seat 4: dacey31 (3327 in chips) 
+Seat 5: KeinKönich (5112 in chips) 
+Seat 6: liege1971 (5508 in chips) 
+Seat 7: dudmilk (1842 in chips) 
+Seat 8: Fosforus (4680 in chips) 
+Seat 9: SpOs Im GoOd (1634 in chips) 
+kaDimitris: posts the ante 20
+Mikson92: posts the ante 20
+yokerone1: posts the ante 20
+dacey31: posts the ante 20
+KeinKönich: posts the ante 20
+liege1971: posts the ante 20
+dudmilk: posts the ante 20
+Fosforus: posts the ante 20
+SpOs Im GoOd: posts the ante 20
+dudmilk: posts small blind 80
+Fosforus: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 5h]
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: folds 
+dacey31: raises 160 to 320
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus has timed out
+Fosforus: folds 
+Fosforus is sitting out
+Uncalled bet (160) returned to dacey31
+dacey31 collected 580 from pot
+dacey31: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 collected (580)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299915948: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 22:53:43 CET [2021/12/17 16:53:43 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 1: kaDimitris (1932 in chips) 
+Seat 2: Mikson92 (869 in chips) 
+Seat 3: yokerone1 (2036 in chips) 
+Seat 4: dacey31 (3727 in chips) 
+Seat 5: KeinKönich (5092 in chips) 
+Seat 6: liege1971 (5488 in chips) 
+Seat 7: dudmilk (1742 in chips) 
+Seat 8: Fosforus (4500 in chips) is sitting out
+Seat 9: SpOs Im GoOd (1614 in chips) 
+kaDimitris: posts the ante 20
+Mikson92: posts the ante 20
+yokerone1: posts the ante 20
+dacey31: posts the ante 20
+KeinKönich: posts the ante 20
+liege1971: posts the ante 20
+dudmilk: posts the ante 20
+Fosforus: posts the ante 20
+SpOs Im GoOd: posts the ante 20
+Fosforus: posts small blind 80
+SpOs Im GoOd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 8d]
+kaDimitris: folds 
+Fosforus has returned
+Mikson92: folds 
+yokerone1: folds 
+dacey31: raises 160 to 320
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: calls 240
+SpOs Im GoOd: folds 
+*** FLOP *** [4c 3h Ad]
+Fosforus: checks 
+dacey31: checks 
+*** TURN *** [4c 3h Ad] [5h]
+Fosforus: bets 320
+dacey31: calls 320
+*** RIVER *** [4c 3h Ad 5h] [Th]
+Fosforus: checks 
+dacey31: bets 810
+Fosforus: calls 810
+*** SHOW DOWN ***
+dacey31: shows [3s As] (two pair, Aces and Threes)
+Fosforus: shows [Td Ah] (two pair, Aces and Tens)
+Fosforus collected 3240 from pot
+*** SUMMARY ***
+Total pot 3240 | Rake 0 
+Board [4c 3h Ad 5h Th]
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 showed [3s As] and lost with two pair, Aces and Threes
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) showed [Td Ah] and won (3240) with two pair, Aces and Tens
+Seat 9: SpOs Im GoOd (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299947634: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:54:45 CET [2021/12/17 16:54:45 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 1: kaDimitris (1912 in chips) 
+Seat 2: Mikson92 (849 in chips) 
+Seat 3: yokerone1 (2016 in chips) 
+Seat 4: dacey31 (2257 in chips) 
+Seat 5: KeinKönich (5072 in chips) 
+Seat 6: liege1971 (5468 in chips) 
+Seat 7: dudmilk (1722 in chips) 
+Seat 8: Fosforus (6270 in chips) 
+Seat 9: SpOs Im GoOd (1434 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+SpOs Im GoOd: posts small blind 100
+kaDimitris: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 7c]
+Mikson92: folds 
+yokerone1: folds 
+dacey31: folds 
+KeinKönich: folds 
+liege1971: raises 200 to 400
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Uncalled bet (200) returned to liege1971
+liege1971 collected 725 from pot
+liege1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: kaDimitris (big blind) folded before Flop
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 collected (725)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299963202: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:55:21 CET [2021/12/17 16:55:21 ET]
+Table '3322180942 2' 9-max Seat #9 is the button
+Seat 1: kaDimitris (1687 in chips) 
+Seat 2: Mikson92 (824 in chips) 
+Seat 3: yokerone1 (1991 in chips) 
+Seat 4: dacey31 (2232 in chips) 
+Seat 5: KeinKönich (5047 in chips) 
+Seat 6: liege1971 (5968 in chips) 
+Seat 7: dudmilk (1697 in chips) 
+Seat 8: Fosforus (6245 in chips) 
+Seat 9: SpOs Im GoOd (1309 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+kaDimitris: posts small blind 100
+Mikson92: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 7d]
+yokerone1: folds 
+dacey31: raises 200 to 400
+KeinKönich: folds 
+liege1971: calls 400
+dudmilk: raises 1272 to 1672 and is all-in
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+dacey31: folds 
+liege1971: folds 
+Uncalled bet (1272) returned to dudmilk
+dudmilk collected 1725 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Seat 1: kaDimitris (small blind) folded before Flop
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop
+Seat 7: dudmilk collected (1725)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299974326: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:55:51 CET [2021/12/17 16:55:51 ET]
+Table '3322180942 2' 9-max Seat #1 is the button
+Seat 1: kaDimitris (1562 in chips) 
+Seat 2: Mikson92 (599 in chips) 
+Seat 3: yokerone1 (1966 in chips) 
+Seat 4: dacey31 (1807 in chips) 
+Seat 5: KeinKönich (5022 in chips) 
+Seat 6: liege1971 (5543 in chips) 
+Seat 7: dudmilk (2997 in chips) 
+Seat 8: Fosforus (6220 in chips) 
+Seat 9: SpOs Im GoOd (1284 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+Mikson92: posts small blind 100
+yokerone1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Tc]
+dacey31: raises 200 to 400
+KeinKönich: folds 
+liege1971: calls 400
+dudmilk: folds 
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: raises 174 to 574 and is all-in
+yokerone1: folds 
+dacey31: calls 174
+liege1971: calls 174
+*** FLOP *** [Jh 9d 9c]
+dacey31: bets 1208 and is all-in
+liege1971: folds 
+Uncalled bet (1208) returned to dacey31
+*** TURN *** [Jh 9d 9c] [Qd]
+*** RIVER *** [Jh 9d 9c Qd] [4s]
+*** SHOW DOWN ***
+Mikson92: shows [Ad Kc] (a pair of Nines)
+dacey31: shows [Td Ac] (a pair of Nines - lower kicker)
+Mikson92 collected 2147 from pot
+*** SUMMARY ***
+Total pot 2147 | Rake 0 
+Board [Jh 9d 9c Qd 4s]
+Seat 1: kaDimitris (button) folded before Flop (didn't bet)
+Seat 2: Mikson92 (small blind) showed [Ad Kc] and won (2147) with a pair of Nines
+Seat 3: yokerone1 (big blind) folded before Flop
+Seat 4: dacey31 showed [Td Ac] and lost with a pair of Nines
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded on the Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299997951: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:56:54 CET [2021/12/17 16:56:54 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 1: kaDimitris (1537 in chips) 
+Seat 2: Mikson92 (2147 in chips) 
+Seat 3: yokerone1 (1741 in chips) 
+Seat 4: dacey31 (1208 in chips) 
+Seat 5: KeinKönich (4997 in chips) 
+Seat 6: liege1971 (4944 in chips) 
+Seat 7: dudmilk (2972 in chips) 
+Seat 8: Fosforus (6195 in chips) 
+Seat 9: SpOs Im GoOd (1259 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+yokerone1: posts small blind 100
+dacey31: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc Jd]
+KeinKönich: folds 
+liege1971: folds 
+dudmilk has timed out
+dudmilk: folds 
+dudmilk is sitting out
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: raises 200 to 400
+Mikson92: folds 
+yokerone1: folds 
+dacey31: raises 783 to 1183 and is all-in
+kaDimitris: calls 783
+*** FLOP *** [5d 5s 2s]
+*** TURN *** [5d 5s 2s] [Qd]
+*** RIVER *** [5d 5s 2s Qd] [8h]
+*** SHOW DOWN ***
+dacey31: shows [Qs Ac] (two pair, Queens and Fives)
+kaDimitris: shows [Jc Ks] (a pair of Fives)
+dacey31 collected 2691 from pot
+*** SUMMARY ***
+Total pot 2691 | Rake 0 
+Board [5d 5s 2s Qd 8h]
+Seat 1: kaDimitris showed [Jc Ks] and lost with a pair of Fives
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 3: yokerone1 (small blind) folded before Flop
+Seat 4: dacey31 (big blind) showed [Qs Ac] and won (2691) with two pair, Queens and Fives
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300015152: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:57:39 CET [2021/12/17 16:57:39 ET]
+Table '3322180942 2' 9-max Seat #3 is the button
+Seat 1: kaDimitris (329 in chips) 
+Seat 2: Mikson92 (2122 in chips) 
+Seat 3: yokerone1 (1616 in chips) 
+Seat 4: dacey31 (2691 in chips) 
+Seat 5: KeinKönich (4972 in chips) 
+Seat 6: liege1971 (4919 in chips) 
+Seat 7: dudmilk (2947 in chips) is sitting out
+Seat 8: Fosforus (6170 in chips) 
+Seat 9: SpOs Im GoOd (1234 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+dacey31: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 4h]
+liege1971: calls 200
+dudmilk: folds 
+dudmilk has returned
+Fosforus: folds 
+SpOs Im GoOd: folds 
+kaDimitris: folds 
+Mikson92: folds 
+yokerone1: folds 
+dacey31: folds 
+KeinKönich: checks 
+*** FLOP *** [Qs 5c 4s]
+KeinKönich: checks 
+liege1971: checks 
+*** TURN *** [Qs 5c 4s] [9h]
+KeinKönich: checks 
+liege1971: bets 363
+KeinKönich: folds 
+Uncalled bet (363) returned to liege1971
+liege1971 collected 725 from pot
+liege1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Board [Qs 5c 4s 9h]
+Seat 1: kaDimitris folded before Flop (didn't bet)
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 (button) folded before Flop (didn't bet)
+Seat 4: dacey31 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded on the Turn
+Seat 6: liege1971 collected (725)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300036080: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 22:58:22 CET [2021/12/17 16:58:22 ET]
+Table '3322180942 2' 9-max Seat #4 is the button
+Seat 1: kaDimitris (304 in chips) 
+Seat 2: Mikson92 (2097 in chips) 
+Seat 3: yokerone1 (1591 in chips) 
+Seat 4: dacey31 (2566 in chips) 
+Seat 5: KeinKönich (4747 in chips) 
+Seat 6: liege1971 (5419 in chips) 
+Seat 7: dudmilk (2922 in chips) 
+Seat 8: Fosforus (6145 in chips) 
+Seat 9: SpOs Im GoOd (1209 in chips) 
+kaDimitris: posts the ante 25
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+SpOs Im GoOd: posts the ante 25
+KeinKönich: posts small blind 100
+liege1971: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8s]
+dudmilk has timed out
+dudmilk: folds 
+dudmilk is sitting out
+Fosforus: folds 
+SpOs Im GoOd: raises 984 to 1184 and is all-in
+kaDimitris: calls 279 and is all-in
+dudmilk has returned
+Mikson92: raises 888 to 2072 and is all-in
+yokerone1: folds 
+dacey31: folds 
+KeinKönich: folds 
+liege1971: folds 
+Uncalled bet (888) returned to Mikson92
+*** FLOP *** [2s 7h Td]
+*** TURN *** [2s 7h Td] [8c]
+*** RIVER *** [2s 7h Td 8c] [8d]
+*** SHOW DOWN ***
+SpOs Im GoOd: shows [6h Ac] (a pair of Eights)
+Mikson92: shows [Qd As] (a pair of Eights - Ace+Queen kicker)
+Mikson92 collected 1810 from side pot
+kaDimitris: shows [Ad Jh] (a pair of Eights - lower kicker)
+Mikson92 collected 1362 from main pot
+SpOs Im GoOd finished the tournament in 8th place
+kaDimitris finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3172 Main pot 1362. Side pot 1810. | Rake 0 
+Board [2s 7h Td 8c 8d]
+Seat 1: kaDimitris showed [Ad Jh] and lost with a pair of Eights
+Seat 2: Mikson92 showed [Qd As] and won (3172) with a pair of Eights
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: liege1971 (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+Seat 9: SpOs Im GoOd showed [6h Ac] and lost with a pair of Eights
+
+
+
+PokerStars Hand #232300052991: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 22:59:06 CET [2021/12/17 16:59:06 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (4060 in chips) 
+Seat 3: yokerone1 (1566 in chips) 
+Seat 4: dacey31 (2541 in chips) 
+Seat 5: KeinKönich (4622 in chips) 
+Seat 6: liege1971 (5194 in chips) 
+Seat 7: dudmilk (2897 in chips) 
+Seat 8: Fosforus (6120 in chips) 
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 150
+dudmilk: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 4s]
+Fosforus has timed out
+Fosforus: folds 
+Fosforus is sitting out
+Mikson92: folds 
+yokerone1: folds 
+dacey31: folds 
+dacey31 is sitting out
+dacey31 has returned
+KeinKönich: folds 
+liege1971: raises 300 to 600
+dudmilk: calls 300
+*** FLOP *** [6s 5c 7c]
+Fosforus has returned
+liege1971: bets 1375
+dudmilk: raises 897 to 2272 and is all-in
+liege1971: calls 897
+*** TURN *** [6s 5c 7c] [3s]
+*** RIVER *** [6s 5c 7c 3s] [4h]
+*** SHOW DOWN ***
+liege1971: shows [As 7s] (a straight, Three to Seven)
+dudmilk: shows [Qc 6h] (a straight, Three to Seven)
+liege1971 collected 2960 from pot
+dudmilk collected 2959 from pot
+*** SUMMARY ***
+Total pot 5919 | Rake 0 
+Board [6s 5c 7c 3s 4h]
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 folded before Flop (didn't bet)
+Seat 4: dacey31 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) showed [As 7s] and won (2960) with a straight, Three to Seven
+Seat 7: dudmilk (big blind) showed [Qc 6h] and won (2959) with a straight, Three to Seven
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300067644: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 22:59:45 CET [2021/12/17 16:59:45 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (4035 in chips) 
+Seat 3: yokerone1 (1541 in chips) 
+Seat 4: dacey31 (2516 in chips) 
+Seat 5: KeinKönich (4597 in chips) 
+Seat 6: liege1971 (5257 in chips) 
+Seat 7: dudmilk (2959 in chips) 
+Seat 8: Fosforus (6095 in chips) 
+Mikson92: posts the ante 25
+yokerone1: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 150
+Fosforus: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ah]
+Mikson92: folds 
+yokerone1: raises 1216 to 1516 and is all-in
+dacey31: folds 
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: calls 1216
+*** FLOP *** [Ad 2s Th]
+*** TURN *** [Ad 2s Th] [Js]
+*** RIVER *** [Ad 2s Th Js] [Qh]
+*** SHOW DOWN ***
+Fosforus: shows [Kh As] (a straight, Ten to Ace)
+yokerone1: shows [Tc Ac] (two pair, Aces and Tens)
+Fosforus collected 3357 from pot
+yokerone1 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 3357 | Rake 0 
+Board [Ad 2s Th Js Qh]
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 3: yokerone1 showed [Tc Ac] and lost with two pair, Aces and Tens
+Seat 4: dacey31 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) showed [Kh As] and won (3357) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #232300085920: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:00:32 CET [2021/12/17 17:00:32 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (4010 in chips) 
+Seat 4: dacey31 (2491 in chips) 
+Seat 5: KeinKönich (4572 in chips) 
+Seat 6: liege1971 (5232 in chips) 
+Seat 7: dudmilk (2784 in chips) 
+Seat 8: Fosforus (7911 in chips) 
+Mikson92: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 150
+Mikson92: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 4s]
+dacey31: folds 
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: calls 150
+Mikson92: checks 
+*** FLOP *** [7c 2s Qc]
+Fosforus: bets 300
+Mikson92: raises 3385 to 3685 and is all-in
+Fosforus: folds 
+Uncalled bet (3385) returned to Mikson92
+Mikson92 collected 1350 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [7c 2s Qc]
+Seat 2: Mikson92 (big blind) collected (1350)
+Seat 4: dacey31 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232300099119: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:01:03 CET [2021/12/17 17:01:03 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (4735 in chips) 
+Seat 4: dacey31 (2466 in chips) 
+Seat 5: KeinKönich (4547 in chips) 
+Seat 6: liege1971 (5207 in chips) 
+Seat 7: dudmilk (2759 in chips) 
+Seat 8: Fosforus (7286 in chips) 
+Mikson92: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Mikson92: posts small blind 150
+dacey31: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 6h]
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: raises 2434 to 2734 and is all-in
+Fosforus: folds 
+Mikson92: folds 
+dacey31: folds 
+Uncalled bet (2434) returned to dudmilk
+dudmilk collected 900 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 4: dacey31 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk collected (900)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300109578: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:01:25 CET [2021/12/17 17:01:25 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (4560 in chips) 
+Seat 4: dacey31 (2141 in chips) 
+Seat 5: KeinKönich (4522 in chips) 
+Seat 6: liege1971 (5182 in chips) 
+Seat 7: dudmilk (3334 in chips) 
+Seat 8: Fosforus (7261 in chips) 
+Mikson92: posts the ante 25
+dacey31: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dacey31: posts small blind 150
+KeinKönich: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd Qs]
+liege1971 has timed out
+liege1971: folds 
+liege1971 is sitting out
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+liege1971 has returned
+dacey31: calls 150
+KeinKönich: checks 
+*** FLOP *** [2c 3s Qh]
+dacey31: bets 600
+KeinKönich: raises 1950 to 2550
+dacey31: calls 1216 and is all-in
+Uncalled bet (734) returned to KeinKönich
+*** TURN *** [2c 3s Qh] [6d]
+*** RIVER *** [2c 3s Qh 6d] [Kh]
+*** SHOW DOWN ***
+dacey31: shows [Js 4c] (high card King)
+KeinKönich: shows [Jd Qs] (a pair of Queens)
+KeinKönich collected 4382 from pot
+dacey31 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 4382 | Rake 0 
+Board [2c 3s Qh 6d Kh]
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 4: dacey31 (small blind) showed [Js 4c] and lost with high card King
+Seat 5: KeinKönich (big blind) showed [Jd Qs] and won (4382) with a pair of Queens
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300139918: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:02:27 CET [2021/12/17 17:02:27 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (4535 in chips) 
+Seat 5: KeinKönich (6763 in chips) 
+Seat 6: liege1971 (5157 in chips) 
+Seat 7: dudmilk (3309 in chips) 
+Seat 8: Fosforus (7236 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 150
+dudmilk: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 3h]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: folds 
+Uncalled bet (150) returned to dudmilk
+dudmilk collected 425 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) folded before Flop
+Seat 7: dudmilk (big blind) collected (425)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300153851: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:02:41 CET [2021/12/17 17:02:41 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (4510 in chips) 
+Seat 5: KeinKönich (6738 in chips) 
+Seat 6: liege1971 (4982 in chips) 
+Seat 7: dudmilk (3559 in chips) 
+Seat 8: Fosforus (7211 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 150
+Fosforus: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 9d]
+Mikson92: raises 4185 to 4485 and is all-in
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+Uncalled bet (4185) returned to Mikson92
+Mikson92 collected 875 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 2: Mikson92 collected (875)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300162635: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:02:58 CET [2021/12/17 17:02:58 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (5060 in chips) 
+Seat 5: KeinKönich (6713 in chips) 
+Seat 6: liege1971 (4957 in chips) 
+Seat 7: dudmilk (3384 in chips) 
+Seat 8: Fosforus (6886 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 150
+Mikson92: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 8s]
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: raises 3059 to 3359 and is all-in
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (3059) returned to dudmilk
+dudmilk collected 875 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk (button) collected (875)
+Seat 8: Fosforus (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300171235: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:03:16 CET [2021/12/17 17:03:16 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (4735 in chips) 
+Seat 5: KeinKönich (6688 in chips) 
+Seat 6: liege1971 (4932 in chips) 
+Seat 7: dudmilk (3934 in chips) 
+Seat 8: Fosforus (6711 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Mikson92: posts small blind 150
+KeinKönich: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 3h]
+liege1971: folds 
+dudmilk: folds 
+Fosforus: raises 600 to 900
+Mikson92: folds 
+KeinKönich: folds 
+Uncalled bet (600) returned to Fosforus
+Fosforus collected 875 from pot
+Fosforus: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus (button) collected (875)
+
+
+
+PokerStars Hand #232300178419: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:03:30 CET [2021/12/17 17:03:30 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (4560 in chips) 
+Seat 5: KeinKönich (6363 in chips) 
+Seat 6: liege1971 (4907 in chips) 
+Seat 7: dudmilk (3909 in chips) 
+Seat 8: Fosforus (7261 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+KeinKönich: posts small blind 150
+liege1971: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 9s]
+dudmilk: folds 
+Fosforus: raises 600 to 900
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: folds 
+Uncalled bet (600) returned to Fosforus
+Fosforus collected 875 from pot
+Fosforus: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: liege1971 (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus collected (875)
+
+
+
+PokerStars Hand #232300188612: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:03:50 CET [2021/12/17 17:03:50 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (4535 in chips) 
+Seat 5: KeinKönich (6188 in chips) 
+Seat 6: liege1971 (4582 in chips) 
+Seat 7: dudmilk (3884 in chips) 
+Seat 8: Fosforus (7811 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 150
+dudmilk: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 3c]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: raises 600 to 900
+dudmilk: folds 
+Uncalled bet (600) returned to liege1971
+liege1971 collected 725 from pot
+liege1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) collected (725)
+Seat 7: dudmilk (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300199857: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:04:12 CET [2021/12/17 17:04:12 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (4510 in chips) 
+Seat 5: KeinKönich (6163 in chips) 
+Seat 6: liege1971 (4982 in chips) 
+Seat 7: dudmilk (3559 in chips) 
+Seat 8: Fosforus (7786 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 200
+Fosforus: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 7c]
+Mikson92: folds 
+KeinKönich: raises 400 to 800
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+Uncalled bet (400) returned to KeinKönich
+KeinKönich collected 1125 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich collected (1125)
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300212386: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:04:37 CET [2021/12/17 17:04:37 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (4485 in chips) 
+Seat 5: KeinKönich (6863 in chips) 
+Seat 6: liege1971 (4957 in chips) 
+Seat 7: dudmilk (3334 in chips) 
+Seat 8: Fosforus (7361 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 200
+Mikson92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Ah]
+KeinKönich: raises 400 to 800
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (400) returned to KeinKönich
+KeinKönich collected 1125 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich collected (1125)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300217661: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:04:48 CET [2021/12/17 17:04:48 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (4060 in chips) 
+Seat 5: KeinKönich (7563 in chips) 
+Seat 6: liege1971 (4932 in chips) 
+Seat 7: dudmilk (3309 in chips) 
+Seat 8: Fosforus (7136 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Mikson92: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Td]
+liege1971: folds 
+dudmilk: raises 2884 to 3284 and is all-in
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+Uncalled bet (2884) returned to dudmilk
+dudmilk collected 1125 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk collected (1125)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300227745: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:05:08 CET [2021/12/17 17:05:08 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (3835 in chips) 
+Seat 5: KeinKönich (7138 in chips) 
+Seat 6: liege1971 (4907 in chips) 
+Seat 7: dudmilk (4009 in chips) 
+Seat 8: Fosforus (7111 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+KeinKönich: posts small blind 200
+liege1971: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 9c]
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: raises 6713 to 7113 and is all-in
+liege1971: folds 
+Uncalled bet (6713) returned to KeinKönich
+KeinKönich collected 925 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) collected (925)
+Seat 6: liege1971 (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300236989: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:05:26 CET [2021/12/17 17:05:26 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (3810 in chips) 
+Seat 5: KeinKönich (7638 in chips) 
+Seat 6: liege1971 (4482 in chips) 
+Seat 7: dudmilk (3984 in chips) 
+Seat 8: Fosforus (7086 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 200
+dudmilk: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8s]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: calls 200
+dudmilk: raises 3559 to 3959 and is all-in
+liege1971: folds 
+Uncalled bet (3559) returned to dudmilk
+dudmilk collected 925 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) folded before Flop
+Seat 7: dudmilk (big blind) collected (925)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300245956: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:05:44 CET [2021/12/17 17:05:44 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (3785 in chips) 
+Seat 5: KeinKönich (7613 in chips) 
+Seat 6: liege1971 (4057 in chips) 
+Seat 7: dudmilk (4484 in chips) 
+Seat 8: Fosforus (7061 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 200
+Fosforus: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 5c]
+Mikson92: raises 3360 to 3760 and is all-in
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+Uncalled bet (3360) returned to Mikson92
+Mikson92 collected 1125 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 collected (1125)
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300254630: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:06:02 CET [2021/12/17 17:06:02 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (4485 in chips) 
+Seat 5: KeinKönich (7588 in chips) 
+Seat 6: liege1971 (4032 in chips) 
+Seat 7: dudmilk (4259 in chips) 
+Seat 8: Fosforus (6636 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 200
+Mikson92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Js]
+KeinKönich: folds 
+liege1971: folds 
+dudmilk: raises 3834 to 4234 and is all-in
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (3834) returned to dudmilk
+dudmilk collected 1125 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk (button) collected (1125)
+Seat 8: Fosforus (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300260796: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:06:14 CET [2021/12/17 17:06:14 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (4060 in chips) 
+Seat 5: KeinKönich (7563 in chips) 
+Seat 6: liege1971 (4007 in chips) 
+Seat 7: dudmilk (4959 in chips) 
+Seat 8: Fosforus (6411 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Mikson92: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 7h]
+liege1971: folds 
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (200) returned to KeinKönich
+KeinKönich collected 525 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (525)
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300270751: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:06:34 CET [2021/12/17 17:06:34 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (3835 in chips) 
+Seat 5: KeinKönich (7863 in chips) 
+Seat 6: liege1971 (3982 in chips) 
+Seat 7: dudmilk (4934 in chips) 
+Seat 8: Fosforus (6386 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+KeinKönich: posts small blind 200
+liege1971: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 8h]
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: raises 7438 to 7838 and is all-in
+liege1971: folds 
+Uncalled bet (7438) returned to KeinKönich
+KeinKönich collected 925 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) collected (925)
+Seat 6: liege1971 (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300279466: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:06:51 CET [2021/12/17 17:06:51 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (3810 in chips) 
+Seat 5: KeinKönich (8363 in chips) 
+Seat 6: liege1971 (3557 in chips) 
+Seat 7: dudmilk (4909 in chips) 
+Seat 8: Fosforus (6361 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 200
+dudmilk: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 7h]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: raises 7938 to 8338 and is all-in
+liege1971: folds 
+dudmilk: folds 
+Uncalled bet (7938) returned to KeinKönich
+KeinKönich collected 1125 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) collected (1125)
+Seat 6: liege1971 (small blind) folded before Flop
+Seat 7: dudmilk (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300291340: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:07:15 CET [2021/12/17 17:07:15 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (3785 in chips) 
+Seat 5: KeinKönich (9063 in chips) 
+Seat 6: liege1971 (3332 in chips) 
+Seat 7: dudmilk (4484 in chips) 
+Seat 8: Fosforus (6336 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 200
+Fosforus: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js Kc]
+Mikson92: folds 
+KeinKönich: raises 400 to 800
+liege1971: folds 
+dudmilk: raises 3659 to 4459 and is all-in
+Fosforus: folds 
+KeinKönich: folds 
+Uncalled bet (3659) returned to dudmilk
+dudmilk collected 2125 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 2125 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich folded before Flop
+Seat 6: liege1971 (button) folded before Flop (didn't bet)
+Seat 7: dudmilk (small blind) collected (2125)
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300302536: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:07:37 CET [2021/12/17 17:07:37 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (3760 in chips) 
+Seat 5: KeinKönich (8238 in chips) 
+Seat 6: liege1971 (3307 in chips) 
+Seat 7: dudmilk (5784 in chips) 
+Seat 8: Fosforus (5911 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 200
+Mikson92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s Ks]
+KeinKönich: folds 
+liege1971: raises 2882 to 3282 and is all-in
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (2882) returned to liege1971
+liege1971 collected 1125 from pot
+liege1971: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 collected (1125)
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300308052: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:07:48 CET [2021/12/17 17:07:48 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (3335 in chips) 
+Seat 5: KeinKönich (8213 in chips) 
+Seat 6: liege1971 (4007 in chips) 
+Seat 7: dudmilk (5759 in chips) 
+Seat 8: Fosforus (5686 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Mikson92: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 3s]
+liege1971: folds 
+dudmilk: raises 460 to 860
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+Uncalled bet (460) returned to dudmilk
+dudmilk collected 1125 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 6: liege1971 folded before Flop (didn't bet)
+Seat 7: dudmilk collected (1125)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300316045: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:08:04 CET [2021/12/17 17:08:04 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (3110 in chips) 
+Seat 5: KeinKönich (7788 in chips) 
+Seat 6: liege1971 (3982 in chips) 
+Seat 7: dudmilk (6459 in chips) 
+Seat 8: Fosforus (5661 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+KeinKönich: posts small blind 200
+liege1971: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 6h]
+dudmilk: folds 
+Fosforus: raises 800 to 1200
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: folds 
+Uncalled bet (800) returned to Fosforus
+Fosforus collected 1125 from pot
+Fosforus: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 6: liege1971 (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus collected (1125)
+
+
+
+PokerStars Hand #232300324592: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:08:22 CET [2021/12/17 17:08:22 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (3085 in chips) 
+Seat 5: KeinKönich (7563 in chips) 
+Seat 6: liege1971 (3557 in chips) 
+Seat 7: dudmilk (6434 in chips) 
+Seat 8: Fosforus (6361 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+liege1971: posts small blind 200
+dudmilk: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Tc]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: folds 
+liege1971: folds 
+Uncalled bet (200) returned to dudmilk
+dudmilk collected 525 from pot
+dudmilk: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) folded before Flop (didn't bet)
+Seat 6: liege1971 (small blind) folded before Flop
+Seat 7: dudmilk (big blind) collected (525)
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300329598: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:08:32 CET [2021/12/17 17:08:32 ET]
+Table '3322180942 2' 9-max Seat #6 is the button
+Seat 2: Mikson92 (3060 in chips) 
+Seat 5: KeinKönich (7538 in chips) 
+Seat 6: liege1971 (3332 in chips) 
+Seat 7: dudmilk (6734 in chips) 
+Seat 8: Fosforus (6336 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+dudmilk: posts small blind 200
+Fosforus: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 6s]
+Mikson92: raises 2635 to 3035 and is all-in
+KeinKönich: folds 
+liege1971: calls 3035
+dudmilk: folds 
+Fosforus: folds 
+*** FLOP *** [9h 2c 3c]
+*** TURN *** [9h 2c 3c] [2s]
+*** RIVER *** [9h 2c 3c 2s] [9d]
+*** SHOW DOWN ***
+Mikson92: shows [8c Ah] (two pair, Nines and Deuces)
+liege1971: shows [Qs Jc] (two pair, Nines and Deuces - lower kicker)
+Mikson92 collected 6795 from pot
+*** SUMMARY ***
+Total pot 6795 | Rake 0 
+Board [9h 2c 3c 2s 9d]
+Seat 2: Mikson92 showed [8c Ah] and won (6795) with two pair, Nines and Deuces
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 (button) showed [Qs Jc] and lost with two pair, Nines and Deuces
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300339305: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:08:51 CET [2021/12/17 17:08:51 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (6795 in chips) 
+Seat 5: KeinKönich (7513 in chips) 
+Seat 6: liege1971 (272 in chips) 
+Seat 7: dudmilk (6509 in chips) 
+Seat 8: Fosforus (5911 in chips) 
+Mikson92: posts the ante 25
+KeinKönich: posts the ante 25
+liege1971: posts the ante 25
+dudmilk: posts the ante 25
+Fosforus: posts the ante 25
+Fosforus: posts small blind 200
+Mikson92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 3s]
+KeinKönich: folds 
+liege1971: calls 247 and is all-in
+dudmilk: folds 
+Fosforus: calls 200
+Mikson92: checks 
+*** FLOP *** [Qc Qh 4d]
+Fosforus: checks 
+Mikson92: checks 
+*** TURN *** [Qc Qh 4d] [7h]
+Fosforus: checks 
+Mikson92: checks 
+*** RIVER *** [Qc Qh 4d 7h] [6c]
+Fosforus: checks 
+Mikson92: checks 
+*** SHOW DOWN ***
+Fosforus: shows [Jh Kc] (a pair of Queens)
+Mikson92: shows [4c 3d] (two pair, Queens and Fours)
+Mikson92 collected 306 from side pot
+liege1971: mucks hand 
+Mikson92 collected 866 from main pot
+liege1971 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1172 Main pot 866. Side pot 306. | Rake 0 
+Board [Qc Qh 4d 7h 6c]
+Seat 2: Mikson92 (big blind) showed [4c 3d] and won (1172) with two pair, Queens and Fours
+Seat 5: KeinKönich folded before Flop (didn't bet)
+Seat 6: liege1971 mucked [2c Ad]
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) showed [Jh Kc] and lost with a pair of Queens
+
+
+
+PokerStars Hand #232300354051: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:09:21 CET [2021/12/17 17:09:21 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (7542 in chips) 
+Seat 5: KeinKönich (7488 in chips) 
+Seat 7: dudmilk (6484 in chips) 
+Seat 8: Fosforus (5486 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d Td]
+dudmilk has timed out
+dudmilk: folds 
+dudmilk is sitting out
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (300) returned to KeinKönich
+dudmilk has returned
+KeinKönich collected 800 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (800)
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300362862: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:09:39 CET [2021/12/17 17:09:39 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (7192 in chips) 
+Seat 5: KeinKönich (7938 in chips) 
+Seat 7: dudmilk (6434 in chips) 
+Seat 8: Fosforus (5436 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+KeinKönich: posts small blind 300
+dudmilk: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Jh]
+Fosforus: folds 
+Mikson92: folds 
+KeinKönich: raises 7288 to 7888 and is all-in
+dudmilk: folds 
+Uncalled bet (7288) returned to KeinKönich
+KeinKönich collected 1400 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 2: Mikson92 (button) folded before Flop (didn't bet)
+Seat 5: KeinKönich (small blind) collected (1400)
+Seat 7: dudmilk (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300368179: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:09:49 CET [2021/12/17 17:09:49 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (7142 in chips) 
+Seat 5: KeinKönich (8688 in chips) 
+Seat 7: dudmilk (5784 in chips) 
+Seat 8: Fosforus (5386 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+dudmilk: posts small blind 300
+Fosforus: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Ah]
+Mikson92: folds 
+KeinKönich: raises 8038 to 8638 and is all-in
+dudmilk: folds 
+Fosforus: folds 
+Uncalled bet (8038) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) collected (1700)
+Seat 7: dudmilk (small blind) folded before Flop
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300374058: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:10:01 CET [2021/12/17 17:10:01 ET]
+Table '3322180942 2' 9-max Seat #7 is the button
+Seat 2: Mikson92 (7092 in chips) 
+Seat 5: KeinKönich (9738 in chips) 
+Seat 7: dudmilk (5434 in chips) 
+Seat 8: Fosforus (4736 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+Fosforus: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 3h]
+KeinKönich: raises 9088 to 9688 and is all-in
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: folds 
+Uncalled bet (9088) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich collected (1700)
+Seat 7: dudmilk (button) folded before Flop (didn't bet)
+Seat 8: Fosforus (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300380494: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:10:14 CET [2021/12/17 17:10:14 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (6442 in chips) 
+Seat 5: KeinKönich (10788 in chips) 
+Seat 7: dudmilk (5384 in chips) 
+Seat 8: Fosforus (4386 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Jd]
+dudmilk: folds 
+Fosforus: folds 
+Mikson92: raises 5792 to 6392 and is all-in
+KeinKönich: folds 
+Uncalled bet (5792) returned to Mikson92
+Mikson92 collected 1400 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 2: Mikson92 (small blind) collected (1400)
+Seat 5: KeinKönich (big blind) folded before Flop
+Seat 7: dudmilk folded before Flop (didn't bet)
+Seat 8: Fosforus (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300385012: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:10:23 CET [2021/12/17 17:10:23 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (7192 in chips) 
+Seat 5: KeinKönich (10138 in chips) 
+Seat 7: dudmilk (5334 in chips) 
+Seat 8: Fosforus (4336 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+KeinKönich: posts small blind 300
+dudmilk: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s Th]
+Fosforus: folds 
+Mikson92: raises 6542 to 7142 and is all-in
+KeinKönich: folds 
+dudmilk: folds 
+Uncalled bet (6542) returned to Mikson92
+Mikson92 collected 1700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (button) collected (1700)
+Seat 5: KeinKönich (small blind) folded before Flop
+Seat 7: dudmilk (big blind) folded before Flop
+Seat 8: Fosforus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300390787: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:10:35 CET [2021/12/17 17:10:35 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (8242 in chips) 
+Seat 5: KeinKönich (9788 in chips) 
+Seat 7: dudmilk (4684 in chips) 
+Seat 8: Fosforus (4286 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+dudmilk: posts the ante 50
+Fosforus: posts the ante 50
+dudmilk: posts small blind 300
+Fosforus: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 5d]
+Mikson92: folds 
+KeinKönich: raises 9138 to 9738 and is all-in
+dudmilk: calls 4334 and is all-in
+Fosforus: folds 
+Uncalled bet (5104) returned to KeinKönich
+*** FLOP *** [Jh 9h Qc]
+*** TURN *** [Jh 9h Qc] [4d]
+*** RIVER *** [Jh 9h Qc 4d] [9d]
+*** SHOW DOWN ***
+dudmilk: shows [Ac Tc] (a pair of Nines)
+KeinKönich: shows [5h 5d] (two pair, Nines and Fives)
+KeinKönich collected 10068 from pot
+dudmilk finished the tournament in 4th place and received $16.59.
+*** SUMMARY ***
+Total pot 10068 | Rake 0 
+Board [Jh 9h Qc 4d 9d]
+Seat 2: Mikson92 folded before Flop (didn't bet)
+Seat 5: KeinKönich (button) showed [5h 5d] and won (10068) with two pair, Nines and Fives
+Seat 7: dudmilk (small blind) showed [Ac Tc] and lost with a pair of Nines
+Seat 8: Fosforus (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300400129: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:10:54 CET [2021/12/17 17:10:54 ET]
+Table '3322180942 2' 9-max Seat #8 is the button
+Seat 2: Mikson92 (8192 in chips) 
+Seat 5: KeinKönich (15172 in chips) 
+Seat 8: Fosforus (3636 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Fosforus: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Ac]
+Fosforus: raises 2986 to 3586 and is all-in
+Mikson92: folds 
+KeinKönich: calls 2986
+*** FLOP *** [3s 5h 8d]
+*** TURN *** [3s 5h 8d] [4c]
+*** RIVER *** [3s 5h 8d 4c] [4d]
+*** SHOW DOWN ***
+KeinKönich: shows [9h Ac] (a pair of Fours)
+Fosforus: shows [6h Kh] (a pair of Fours - lower kicker)
+KeinKönich collected 7622 from pot
+Fosforus finished the tournament in 3rd place and received $33.19.
+*** SUMMARY ***
+Total pot 7622 | Rake 0 
+Board [3s 5h 8d 4c 4d]
+Seat 2: Mikson92 (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) showed [9h Ac] and won (7622) with a pair of Fours
+Seat 8: Fosforus (button) showed [6h Kh] and lost with a pair of Fours
+
+
+
+PokerStars Hand #232300411097: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:11:16 CET [2021/12/17 17:11:16 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (7842 in chips) 
+Seat 5: KeinKönich (19158 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 3h]
+KeinKönich: raises 600 to 1200
+Mikson92: folds 
+Uncalled bet (600) returned to KeinKönich
+KeinKönich collected 1300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1300)
+
+
+
+PokerStars Hand #232300413692: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:11:21 CET [2021/12/17 17:11:21 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (7192 in chips) 
+Seat 5: KeinKönich (19808 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 2c]
+Mikson92: calls 300
+KeinKönich: checks 
+*** FLOP *** [Td 7h Jd]
+KeinKönich: checks 
+Mikson92: bets 600
+KeinKönich: calls 600
+*** TURN *** [Td 7h Jd] [Jh]
+KeinKönich: checks 
+Mikson92: checks 
+*** RIVER *** [Td 7h Jd Jh] [7s]
+KeinKönich: bets 900
+Mikson92: folds 
+Uncalled bet (900) returned to KeinKönich
+KeinKönich collected 2500 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [Td 7h Jd Jh 7s]
+Seat 2: Mikson92 (button) (small blind) folded on the River
+Seat 5: KeinKönich (big blind) collected (2500)
+
+
+
+PokerStars Hand #232300426852: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:11:48 CET [2021/12/17 17:11:48 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (5942 in chips) 
+Seat 5: KeinKönich (21058 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 2c]
+KeinKönich: folds 
+Uncalled bet (300) returned to Mikson92
+Mikson92 collected 700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (700)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300429235: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:11:53 CET [2021/12/17 17:11:53 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (6292 in chips) 
+Seat 5: KeinKönich (20708 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 2h]
+Mikson92: calls 300
+KeinKönich: checks 
+*** FLOP *** [3d 7s 9d]
+KeinKönich: checks 
+Mikson92: bets 600
+KeinKönich: folds 
+Uncalled bet (600) returned to Mikson92
+Mikson92 collected 1300 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [3d 7s 9d]
+Seat 2: Mikson92 (button) (small blind) collected (1300)
+Seat 5: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300441990: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:16 CET [2021/12/17 17:12:16 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (6942 in chips) 
+Seat 5: KeinKönich (20058 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Tc]
+KeinKönich: raises 19408 to 20008 and is all-in
+Mikson92: folds 
+Uncalled bet (19408) returned to KeinKönich
+KeinKönich collected 1300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1300)
+
+
+
+PokerStars Hand #232300446635: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:25 CET [2021/12/17 17:12:25 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (6292 in chips) 
+Seat 5: KeinKönich (20708 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Ad]
+Mikson92: calls 300
+KeinKönich: raises 20058 to 20658 and is all-in
+Mikson92: folds 
+Uncalled bet (20058) returned to KeinKönich
+KeinKönich collected 1300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (1300)
+
+
+
+PokerStars Hand #232300454093: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:40 CET [2021/12/17 17:12:40 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (5642 in chips) 
+Seat 5: KeinKönich (21358 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 6h]
+KeinKönich: raises 20708 to 21308 and is all-in
+Mikson92: folds 
+Uncalled bet (20708) returned to KeinKönich
+KeinKönich collected 1300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1300)
+
+
+
+PokerStars Hand #232300458072: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:48 CET [2021/12/17 17:12:48 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (4992 in chips) 
+Seat 5: KeinKönich (22008 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Kh]
+Mikson92: folds 
+Uncalled bet (300) returned to KeinKönich
+KeinKönich collected 700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (700)
+
+
+
+PokerStars Hand #232300459428: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:51 CET [2021/12/17 17:12:51 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (4642 in chips) 
+Seat 5: KeinKönich (22358 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Kh]
+KeinKönich: raises 21708 to 22308 and is all-in
+Mikson92: folds 
+Uncalled bet (21708) returned to KeinKönich
+KeinKönich collected 1300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1300)
+
+
+
+PokerStars Hand #232300463276: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:12:59 CET [2021/12/17 17:12:59 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (3992 in chips) 
+Seat 5: KeinKönich (23008 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d Jc]
+Mikson92: raises 3342 to 3942 and is all-in
+KeinKönich: folds 
+Uncalled bet (3342) returned to Mikson92
+Mikson92 collected 1300 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) collected (1300)
+Seat 5: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300465350: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:13:03 CET [2021/12/17 17:13:03 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (4642 in chips) 
+Seat 5: KeinKönich (22358 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Tc]
+KeinKönich: folds 
+Uncalled bet (300) returned to Mikson92
+Mikson92 collected 700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (700)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300467160: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:13:07 CET [2021/12/17 17:13:07 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (4992 in chips) 
+Seat 5: KeinKönich (22008 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 2h]
+Mikson92: calls 300
+KeinKönich: checks 
+*** FLOP *** [Ad 4c Kh]
+KeinKönich: checks 
+Mikson92: bets 600
+KeinKönich: folds 
+Uncalled bet (600) returned to Mikson92
+Mikson92 collected 1300 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Ad 4c Kh]
+Seat 2: Mikson92 (button) (small blind) collected (1300)
+Seat 5: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300479386: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:13:32 CET [2021/12/17 17:13:32 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (5642 in chips) 
+Seat 5: KeinKönich (21358 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 5c]
+KeinKönich: folds 
+Uncalled bet (300) returned to Mikson92
+Mikson92 collected 700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (700)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300482102: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:13:37 CET [2021/12/17 17:13:37 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (5992 in chips) 
+Seat 5: KeinKönich (21008 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 9s]
+Mikson92: raises 5342 to 5942 and is all-in
+KeinKönich: folds 
+Uncalled bet (5342) returned to Mikson92
+Mikson92 collected 1300 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) collected (1300)
+Seat 5: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300486299: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:13:46 CET [2021/12/17 17:13:46 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (6642 in chips) 
+Seat 5: KeinKönich (20358 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 300
+Mikson92: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Kd]
+KeinKönich: raises 19708 to 20308 and is all-in
+Mikson92: calls 5992 and is all-in
+Uncalled bet (13716) returned to KeinKönich
+*** FLOP *** [3c Qc 7s]
+*** TURN *** [3c Qc 7s] [Kh]
+*** RIVER *** [3c Qc 7s Kh] [As]
+*** SHOW DOWN ***
+Mikson92: shows [Qs Qh] (three of a kind, Queens)
+KeinKönich: shows [6d Kd] (a pair of Kings)
+Mikson92 collected 13284 from pot
+*** SUMMARY ***
+Total pot 13284 | Rake 0 
+Board [3c Qc 7s Kh As]
+Seat 2: Mikson92 (big blind) showed [Qs Qh] and won (13284) with three of a kind, Queens
+Seat 5: KeinKönich (button) (small blind) showed [6d Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #232300496652: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:14:07 CET [2021/12/17 17:14:07 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (13284 in chips) 
+Seat 5: KeinKönich (13716 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 2c]
+Mikson92: calls 400
+KeinKönich: checks 
+*** FLOP *** [6c 4h Qh]
+KeinKönich: checks 
+Mikson92: checks 
+*** TURN *** [6c 4h Qh] [7s]
+KeinKönich: checks 
+Mikson92: checks 
+*** RIVER *** [6c 4h Qh 7s] [2h]
+KeinKönich: checks 
+Mikson92: checks 
+*** SHOW DOWN ***
+KeinKönich: shows [5h 2c] (a pair of Deuces)
+Mikson92: mucks hand 
+KeinKönich collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [6c 4h Qh 7s 2h]
+Seat 2: Mikson92 (button) (small blind) mucked [Td 3d]
+Seat 5: KeinKönich (big blind) showed [5h 2c] and won (1700) with a pair of Deuces
+
+
+
+PokerStars Hand #232300508774: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:14:32 CET [2021/12/17 17:14:32 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (12434 in chips) 
+Seat 5: KeinKönich (14566 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 8h]
+KeinKönich: raises 800 to 1600
+Mikson92: raises 10784 to 12384 and is all-in
+KeinKönich: folds 
+Uncalled bet (10784) returned to Mikson92
+Mikson92 collected 3300 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (3300)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300512358: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:14:39 CET [2021/12/17 17:14:39 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (14084 in chips) 
+Seat 5: KeinKönich (12916 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 5c]
+Mikson92: calls 400
+KeinKönich: checks 
+*** FLOP *** [4c As 7d]
+KeinKönich: checks 
+Mikson92: bets 800
+KeinKönich: folds 
+Uncalled bet (800) returned to Mikson92
+Mikson92 collected 1700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [4c As 7d]
+Seat 2: Mikson92 (button) (small blind) collected (1700)
+Seat 5: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300521361: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:14:57 CET [2021/12/17 17:14:57 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (14934 in chips) 
+Seat 5: KeinKönich (12066 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Kc]
+KeinKönich: raises 800 to 1600
+Mikson92: folds 
+Uncalled bet (800) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #232300524358: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:15:03 CET [2021/12/17 17:15:03 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (14084 in chips) 
+Seat 5: KeinKönich (12916 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Kc]
+Mikson92: calls 400
+KeinKönich: checks 
+*** FLOP *** [Qh 9c As]
+KeinKönich: checks 
+Mikson92: bets 800
+KeinKönich: calls 800
+*** TURN *** [Qh 9c As] [Qd]
+KeinKönich: checks 
+Mikson92: bets 1200
+KeinKönich: calls 1200
+*** RIVER *** [Qh 9c As Qd] [2c]
+KeinKönich: checks 
+Mikson92: checks 
+*** SHOW DOWN ***
+KeinKönich: shows [9h Kc] (two pair, Queens and Nines)
+Mikson92: shows [Kh 9s] (two pair, Queens and Nines)
+KeinKönich collected 2850 from pot
+Mikson92 collected 2850 from pot
+*** SUMMARY ***
+Total pot 5700 | Rake 0 
+Board [Qh 9c As Qd 2c]
+Seat 2: Mikson92 (button) (small blind) showed [Kh 9s] and won (2850) with two pair, Queens and Nines
+Seat 5: KeinKönich (big blind) showed [9h Kc] and won (2850) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #232300538840: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:15:33 CET [2021/12/17 17:15:33 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (14084 in chips) 
+Seat 5: KeinKönich (12916 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Kc]
+KeinKönich: raises 800 to 1600
+Mikson92: calls 800
+*** FLOP *** [2c 3d 3c]
+Mikson92: checks 
+KeinKönich: bets 1650
+Mikson92: folds 
+Uncalled bet (1650) returned to KeinKönich
+KeinKönich collected 3300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [2c 3d 3c]
+Seat 2: Mikson92 (big blind) folded on the Flop
+Seat 5: KeinKönich (button) (small blind) collected (3300)
+
+
+
+PokerStars Hand #232300543655: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:15:43 CET [2021/12/17 17:15:43 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (12434 in chips) 
+Seat 5: KeinKönich (14566 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh Ah]
+Mikson92: calls 400
+KeinKönich: raises 13716 to 14516 and is all-in
+Mikson92: folds 
+Uncalled bet (13716) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (1700)
+
+
+
+PokerStars Hand #232300547881: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:15:52 CET [2021/12/17 17:15:52 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (11584 in chips) 
+Seat 5: KeinKönich (15416 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 5c]
+KeinKönich: calls 400
+Mikson92: raises 10734 to 11534 and is all-in
+KeinKönich: folds 
+Uncalled bet (10734) returned to Mikson92
+Mikson92 collected 1700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (1700)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300551822: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:16:00 CET [2021/12/17 17:16:00 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (12434 in chips) 
+Seat 5: KeinKönich (14566 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 9s]
+Mikson92: raises 800 to 1600
+KeinKönich: folds 
+Uncalled bet (800) returned to Mikson92
+Mikson92 collected 1700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) collected (1700)
+Seat 5: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300555606: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:16:07 CET [2021/12/17 17:16:07 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (13284 in chips) 
+Seat 5: KeinKönich (13716 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 8c]
+KeinKönich: folds 
+Uncalled bet (400) returned to Mikson92
+Mikson92 collected 900 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 2: Mikson92 (big blind) collected (900)
+Seat 5: KeinKönich (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300557320: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:16:11 CET [2021/12/17 17:16:11 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (13734 in chips) 
+Seat 5: KeinKönich (13266 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 8s]
+Mikson92: calls 400
+KeinKönich: checks 
+*** FLOP *** [8h Qd Ks]
+KeinKönich: checks 
+Mikson92: bets 800
+KeinKönich: raises 1600 to 2400
+Mikson92: folds 
+Uncalled bet (1600) returned to KeinKönich
+KeinKönich collected 3300 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [8h Qd Ks]
+Seat 2: Mikson92 (button) (small blind) folded on the Flop
+Seat 5: KeinKönich (big blind) collected (3300)
+
+
+
+PokerStars Hand #232300566018: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:16:29 CET [2021/12/17 17:16:29 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (12084 in chips) 
+Seat 5: KeinKönich (14916 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 8h]
+KeinKönich: raises 800 to 1600
+Mikson92: calls 800
+*** FLOP *** [2d 5h 8c]
+Mikson92: checks 
+KeinKönich: bets 1650
+Mikson92: calls 1650
+*** TURN *** [2d 5h 8c] [7h]
+Mikson92: checks 
+KeinKönich: bets 3300
+Mikson92: folds 
+Uncalled bet (3300) returned to KeinKönich
+KeinKönich collected 6600 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [2d 5h 8c 7h]
+Seat 2: Mikson92 (big blind) folded on the Turn
+Seat 5: KeinKönich (button) (small blind) collected (6600)
+
+
+
+PokerStars Hand #232300577764: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:16:53 CET [2021/12/17 17:16:53 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (8784 in chips) 
+Seat 5: KeinKönich (18216 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 6h]
+Mikson92: raises 7934 to 8734 and is all-in
+KeinKönich: folds 
+Uncalled bet (7934) returned to Mikson92
+Mikson92 collected 1700 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) collected (1700)
+Seat 5: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300592816: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:17:06 CET [2021/12/17 17:17:06 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (9634 in chips) 
+Seat 5: KeinKönich (17366 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [As Jh]
+KeinKönich: raises 16516 to 17316 and is all-in
+Mikson92: folds 
+Uncalled bet (16516) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (big blind) folded before Flop
+Seat 5: KeinKönich (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #232300595900: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:17:13 CET [2021/12/17 17:17:13 ET]
+Table '3322180942 2' 9-max Seat #2 is the button
+Seat 2: Mikson92 (8784 in chips) 
+Seat 5: KeinKönich (18216 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+Mikson92: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad Qs]
+Mikson92: calls 400
+KeinKönich: raises 17366 to 18166 and is all-in
+Mikson92: folds 
+Uncalled bet (17366) returned to KeinKönich
+KeinKönich collected 1700 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 2: Mikson92 (button) (small blind) folded before Flop
+Seat 5: KeinKönich (big blind) collected (1700)
+
+
+
+PokerStars Hand #232300600313: Tournament #3322180942, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/17 23:17:22 CET [2021/12/17 17:17:22 ET]
+Table '3322180942 2' 9-max Seat #5 is the button
+Seat 2: Mikson92 (7934 in chips) 
+Seat 5: KeinKönich (19066 in chips) 
+Mikson92: posts the ante 50
+KeinKönich: posts the ante 50
+KeinKönich: posts small blind 400
+Mikson92: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Ad]
+KeinKönich: raises 18216 to 19016 and is all-in
+Mikson92: calls 7084 and is all-in
+Uncalled bet (11132) returned to KeinKönich
+*** FLOP *** [3h Jh Ac]
+*** TURN *** [3h Jh Ac] [Qh]
+*** RIVER *** [3h Jh Ac Qh] [8d]
+*** SHOW DOWN ***
+Mikson92: shows [2h 2d] (a pair of Deuces)
+KeinKönich: shows [2c Ad] (a pair of Aces)
+KeinKönich collected 15868 from pot
+*** SUMMARY ***
+Total pot 15868 | Rake 0 
+Board [3h Jh Ac Qh 8d]
+Seat 2: Mikson92 (big blind) showed [2h 2d] and lost with a pair of Deuces
+Seat 5: KeinKönich (button) (small blind) showed [2c Ad] and won (15868) with a pair of Aces
+
+
+

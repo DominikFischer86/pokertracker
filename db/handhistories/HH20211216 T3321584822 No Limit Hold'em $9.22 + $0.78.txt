@@ -1,0 +1,2576 @@
+ï»¿PokerStars Hand #232274246434: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:17:16 CET [2021/12/16 17:17:16 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1500 in chips) 
+Seat 2: seregu (1500 in chips) 
+Seat 3: moosgrün (1500 in chips) 
+Seat 4: filiperonan (1500 in chips) 
+Seat 5: Nanimex (1500 in chips) 
+Seat 6: Mikson92 (1500 in chips) 
+Seat 7: yokerone1 (1500 in chips) 
+Seat 8: leledoni (1500 in chips) 
+Seat 9: bogess (1500 in chips) 
+KeinKönich: posts the ante 3
+seregu: posts the ante 3
+moosgrün: posts the ante 3
+filiperonan: posts the ante 3
+Nanimex: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts the ante 3
+leledoni: posts the ante 3
+bogess: posts the ante 3
+seregu: posts small blind 10
+moosgrün: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 6h]
+filiperonan: folds 
+Nanimex has timed out
+Nanimex: folds 
+Nanimex is sitting out
+Mikson92: folds 
+yokerone1: folds 
+Nanimex has returned
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 40 to 60
+seregu: folds 
+moosgrün: calls 40
+*** FLOP *** [9h 6s Qc]
+moosgrün: checks 
+KeinKönich: bets 80
+moosgrün: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 157 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Board [9h 6s Qc]
+Seat 1: KeinKönich (button) collected (157)
+Seat 2: seregu (small blind) folded before Flop
+Seat 3: moosgrün (big blind) folded on the Flop
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274273296: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:18:12 CET [2021/12/16 17:18:12 ET]
+Table '3321584822 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (1594 in chips) 
+Seat 2: seregu (1487 in chips) 
+Seat 3: moosgrün (1437 in chips) 
+Seat 4: filiperonan (1497 in chips) 
+Seat 5: Nanimex (1497 in chips) 
+Seat 6: Mikson92 (1497 in chips) 
+Seat 7: yokerone1 (1497 in chips) 
+Seat 8: leledoni (1497 in chips) 
+Seat 9: bogess (1497 in chips) 
+KeinKönich: posts the ante 3
+seregu: posts the ante 3
+moosgrün: posts the ante 3
+filiperonan: posts the ante 3
+Nanimex: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts the ante 3
+leledoni: posts the ante 3
+bogess: posts the ante 3
+moosgrün: posts small blind 10
+filiperonan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h Ks]
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 36 to 56
+KeinKönich: folds 
+seregu: calls 56
+moosgrün: calls 46
+filiperonan: calls 36
+*** FLOP *** [8c 6c Ts]
+moosgrün: checks 
+filiperonan: checks 
+bogess: bets 120
+seregu: calls 120
+moosgrün: raises 500 to 620
+filiperonan: folds 
+bogess: folds 
+seregu: raises 808 to 1428 and is all-in
+moosgrün: calls 758 and is all-in
+Uncalled bet (50) returned to seregu
+*** TURN *** [8c 6c Ts] [Qd]
+*** RIVER *** [8c 6c Ts Qd] [5c]
+*** SHOW DOWN ***
+moosgrün: shows [Kc Jc] (a flush, King high)
+seregu: shows [Td Qs] (two pair, Queens and Tens)
+moosgrün collected 3127 from pot
+*** SUMMARY ***
+Total pot 3127 | Rake 0 
+Board [8c 6c Ts Qd 5c]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu (button) showed [Td Qs] and lost with two pair, Queens and Tens
+Seat 3: moosgrün (small blind) showed [Kc Jc] and won (3127) with a flush, King high
+Seat 4: filiperonan (big blind) folded on the Flop
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded on the Flop
+
+
+
+PokerStars Hand #232274331379: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:20:06 CET [2021/12/16 17:20:06 ET]
+Table '3321584822 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (1591 in chips) 
+Seat 2: seregu (50 in chips) 
+Seat 3: moosgrün (3127 in chips) 
+Seat 4: filiperonan (1438 in chips) 
+Seat 5: Nanimex (1494 in chips) 
+Seat 6: Mikson92 (1494 in chips) 
+Seat 7: yokerone1 (1494 in chips) 
+Seat 8: leledoni (1494 in chips) 
+Seat 9: bogess (1318 in chips) 
+KeinKönich: posts the ante 3
+seregu: posts the ante 3
+moosgrün: posts the ante 3
+filiperonan: posts the ante 3
+Nanimex: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts the ante 3
+leledoni: posts the ante 3
+bogess: posts the ante 3
+filiperonan: posts small blind 10
+Nanimex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 7c]
+Mikson92: folds 
+yokerone1: folds 
+bogess said, "nh"
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+seregu: raises 27 to 47 and is all-in
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Uncalled bet (27) returned to seregu
+seregu collected 77 from pot
+seregu: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu collected (77)
+Seat 3: moosgrün (button) folded before Flop (didn't bet)
+Seat 4: filiperonan (small blind) folded before Flop
+Seat 5: Nanimex (big blind) folded before Flop
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274356649: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:20:58 CET [2021/12/16 17:20:58 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (1588 in chips) 
+Seat 2: seregu (104 in chips) 
+Seat 3: moosgrün (3124 in chips) 
+Seat 4: filiperonan (1425 in chips) 
+Seat 5: Nanimex (1471 in chips) 
+Seat 6: Mikson92 (1491 in chips) 
+Seat 7: yokerone1 (1491 in chips) 
+Seat 8: leledoni (1491 in chips) 
+Seat 9: bogess (1315 in chips) 
+KeinKönich: posts the ante 3
+seregu: posts the ante 3
+moosgrün: posts the ante 3
+filiperonan: posts the ante 3
+Nanimex: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts the ante 3
+leledoni: posts the ante 3
+bogess: posts the ante 3
+Nanimex: posts small blind 10
+Mikson92: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 9d]
+yokerone1: folds 
+leledoni: raises 30 to 50
+bogess: folds 
+KeinKönich: folds 
+seregu: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: calls 30
+*** FLOP *** [9h Ac 5c]
+Mikson92: checks 
+leledoni: bets 69
+Mikson92: raises 161 to 230
+leledoni: folds 
+Uncalled bet (161) returned to Mikson92
+Mikson92 collected 275 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [9h Ac 5c]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan (button) folded before Flop (didn't bet)
+Seat 5: Nanimex (small blind) folded before Flop
+Seat 6: Mikson92 (big blind) collected (275)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded on the Flop
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274381979: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/16 23:21:51 CET [2021/12/16 17:21:51 ET]
+Table '3321584822 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (1585 in chips) 
+Seat 2: seregu (101 in chips) 
+Seat 3: moosgrün (3121 in chips) 
+Seat 4: filiperonan (1422 in chips) 
+Seat 5: Nanimex (1458 in chips) 
+Seat 6: Mikson92 (1644 in chips) 
+Seat 7: yokerone1 (1488 in chips) 
+Seat 8: leledoni (1369 in chips) 
+Seat 9: bogess (1312 in chips) 
+KeinKönich: posts the ante 3
+seregu: posts the ante 3
+moosgrün: posts the ante 3
+filiperonan: posts the ante 3
+Nanimex: posts the ante 3
+Mikson92: posts the ante 3
+yokerone1: posts the ante 3
+leledoni: posts the ante 3
+bogess: posts the ante 3
+Mikson92: posts small blind 10
+yokerone1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 5s]
+leledoni has timed out
+leledoni: folds 
+leledoni is sitting out
+bogess: folds 
+KeinKönich: folds 
+seregu: folds 
+moosgrün: folds 
+leledoni has returned
+filiperonan: raises 20 to 40
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+Uncalled bet (20) returned to filiperonan
+filiperonan collected 77 from pot
+filiperonan: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan collected (77)
+Seat 5: Nanimex (button) folded before Flop (didn't bet)
+Seat 6: Mikson92 (small blind) folded before Flop
+Seat 7: yokerone1 (big blind) folded before Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274398556: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:22:26 CET [2021/12/16 17:22:26 ET]
+Table '3321584822 2' 9-max Seat #6 is the button
+Seat 1: KeinKönich (1582 in chips) 
+Seat 2: seregu (98 in chips) 
+Seat 3: moosgrün (3118 in chips) 
+Seat 4: filiperonan (1476 in chips) 
+Seat 5: Nanimex (1455 in chips) 
+Seat 6: Mikson92 (1631 in chips) 
+Seat 7: yokerone1 (1465 in chips) 
+Seat 8: leledoni (1366 in chips) 
+Seat 9: bogess (1309 in chips) 
+KeinKönich: posts the ante 4
+seregu: posts the ante 4
+moosgrün: posts the ante 4
+filiperonan: posts the ante 4
+Nanimex: posts the ante 4
+Mikson92: posts the ante 4
+yokerone1: posts the ante 4
+leledoni: posts the ante 4
+bogess: posts the ante 4
+yokerone1: posts small blind 15
+leledoni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Kd]
+bogess: folds 
+KeinKönich: folds 
+seregu: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: calls 15
+leledoni: checks 
+*** FLOP *** [4h Ks As]
+yokerone1: checks 
+leledoni: checks 
+*** TURN *** [4h Ks As] [8d]
+yokerone1: checks 
+leledoni: checks 
+*** RIVER *** [4h Ks As 8d] [4s]
+yokerone1: bets 90
+leledoni: folds 
+Uncalled bet (90) returned to yokerone1
+yokerone1 collected 96 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Board [4h Ks As 8d 4s]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 (button) folded before Flop (didn't bet)
+Seat 7: yokerone1 (small blind) collected (96)
+Seat 8: leledoni (big blind) folded on the River
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274440032: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:23:54 CET [2021/12/16 17:23:54 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (1578 in chips) 
+Seat 2: seregu (94 in chips) 
+Seat 3: moosgrün (3114 in chips) 
+Seat 4: filiperonan (1472 in chips) 
+Seat 5: Nanimex (1451 in chips) 
+Seat 6: Mikson92 (1627 in chips) 
+Seat 7: yokerone1 (1527 in chips) 
+Seat 8: leledoni (1332 in chips) 
+Seat 9: bogess (1305 in chips) 
+KeinKönich: posts the ante 4
+seregu: posts the ante 4
+moosgrün: posts the ante 4
+filiperonan: posts the ante 4
+Nanimex: posts the ante 4
+Mikson92: posts the ante 4
+yokerone1: posts the ante 4
+leledoni: posts the ante 4
+bogess: posts the ante 4
+leledoni: posts small blind 15
+bogess: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 2d]
+KeinKönich: folds 
+seregu: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: raises 45 to 75
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: calls 45
+*** FLOP *** [Th 6c Qd]
+bogess: checks 
+Nanimex: bets 66
+bogess: folds 
+Uncalled bet (66) returned to Nanimex
+Nanimex collected 201 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [Th 6c Qd]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: seregu folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex collected (201)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232274463613: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:24:43 CET [2021/12/16 17:24:43 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (1574 in chips) 
+Seat 2: seregu (90 in chips) 
+Seat 3: moosgrün (3110 in chips) 
+Seat 4: filiperonan (1468 in chips) 
+Seat 5: Nanimex (1573 in chips) 
+Seat 6: Mikson92 (1623 in chips) 
+Seat 7: yokerone1 (1523 in chips) 
+Seat 8: leledoni (1313 in chips) 
+Seat 9: bogess (1226 in chips) 
+KeinKönich: posts the ante 4
+seregu: posts the ante 4
+moosgrün: posts the ante 4
+filiperonan: posts the ante 4
+Nanimex: posts the ante 4
+Mikson92: posts the ante 4
+yokerone1: posts the ante 4
+leledoni: posts the ante 4
+bogess: posts the ante 4
+bogess: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d Th]
+seregu: folds 
+moosgrün: folds 
+filiperonan: raises 30 to 60
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: calls 45
+KeinKönich: folds 
+*** FLOP *** [2h 7d Kd]
+bogess: bets 60
+filiperonan: folds 
+Uncalled bet (60) returned to bogess
+bogess collected 186 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 186 | Rake 0 
+Board [2h 7d Kd]
+Seat 1: KeinKönich (big blind) folded before Flop
+Seat 2: seregu folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded on the Flop
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: bogess (small blind) collected (186)
+
+
+
+PokerStars Hand #232274490896: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:25:36 CET [2021/12/16 17:25:36 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (1540 in chips) 
+Seat 2: seregu (86 in chips) 
+Seat 3: moosgrün (3106 in chips) 
+Seat 4: filiperonan (1404 in chips) 
+Seat 5: Nanimex (1569 in chips) 
+Seat 6: Mikson92 (1619 in chips) 
+Seat 7: yokerone1 (1519 in chips) 
+Seat 8: leledoni (1309 in chips) 
+Seat 9: bogess (1348 in chips) 
+KeinKönich: posts the ante 4
+seregu: posts the ante 4
+moosgrün: posts the ante 4
+filiperonan: posts the ante 4
+Nanimex: posts the ante 4
+Mikson92: posts the ante 4
+yokerone1: posts the ante 4
+leledoni: posts the ante 4
+bogess: posts the ante 4
+KeinKönich: posts small blind 15
+seregu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 4h]
+moosgrün: raises 45 to 75
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: calls 75
+KeinKönich: calls 60
+seregu: folds 
+*** FLOP *** [6d Tc 5h]
+KeinKönich: checks 
+moosgrün: checks 
+bogess: bets 150
+KeinKönich: calls 150
+moosgrün: folds 
+*** TURN *** [6d Tc 5h] [4d]
+KeinKönich: checks 
+bogess: checks 
+*** RIVER *** [6d Tc 5h 4d] [As]
+KeinKönich: checks 
+bogess: bets 300
+KeinKönich: folds 
+Uncalled bet (300) returned to bogess
+bogess collected 591 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 591 | Rake 0 
+Board [6d Tc 5h 4d As]
+Seat 1: KeinKönich (small blind) folded on the River
+Seat 2: seregu (big blind) folded before Flop
+Seat 3: moosgrün folded on the Flop
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess (button) collected (591)
+
+
+
+PokerStars Hand #232274530533: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/16 23:27:00 CET [2021/12/16 17:27:00 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1311 in chips) 
+Seat 2: seregu (52 in chips) 
+Seat 3: moosgrün (3027 in chips) 
+Seat 4: filiperonan (1400 in chips) 
+Seat 5: Nanimex (1565 in chips) 
+Seat 6: Mikson92 (1615 in chips) 
+Seat 7: yokerone1 (1515 in chips) 
+Seat 8: leledoni (1305 in chips) 
+Seat 9: bogess (1710 in chips) 
+KeinKönich: posts the ante 4
+seregu: posts the ante 4
+moosgrün: posts the ante 4
+filiperonan: posts the ante 4
+Nanimex: posts the ante 4
+Mikson92: posts the ante 4
+yokerone1: posts the ante 4
+leledoni: posts the ante 4
+bogess: posts the ante 4
+seregu: posts small blind 15
+moosgrün: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 4s]
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+seregu: raises 18 to 48 and is all-in
+moosgrün: calls 18
+*** FLOP *** [Th 4c Ah]
+*** TURN *** [Th 4c Ah] [Ts]
+*** RIVER *** [Th 4c Ah Ts] [4h]
+*** SHOW DOWN ***
+seregu: shows [6c 9d] (two pair, Tens and Fours)
+moosgrün: shows [8s 8h] (two pair, Tens and Eights)
+moosgrün collected 132 from pot
+seregu finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [Th 4c Ah Ts 4h]
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 2: seregu (small blind) showed [6c 9d] and lost with two pair, Tens and Fours
+Seat 3: moosgrün (big blind) showed [8s 8h] and won (132) with two pair, Tens and Eights
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274549191: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:27:39 CET [2021/12/16 17:27:39 ET]
+Table '3321584822 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (1307 in chips) 
+Seat 3: moosgrün (3107 in chips) 
+Seat 4: filiperonan (1396 in chips) 
+Seat 5: Nanimex (1561 in chips) 
+Seat 6: Mikson92 (1611 in chips) 
+Seat 7: yokerone1 (1511 in chips) 
+Seat 8: leledoni (1301 in chips) 
+Seat 9: bogess (1706 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+filiperonan: posts small blind 25
+Nanimex: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Ac]
+Mikson92: raises 60 to 110
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Uncalled bet (60) returned to Mikson92
+Mikson92 collected 173 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 3: moosgrün (button) folded before Flop (didn't bet)
+Seat 4: filiperonan (small blind) folded before Flop
+Seat 5: Nanimex (big blind) folded before Flop
+Seat 6: Mikson92 collected (173)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274562733: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:28:08 CET [2021/12/16 17:28:08 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (1301 in chips) 
+Seat 3: moosgrün (3101 in chips) 
+Seat 4: filiperonan (1365 in chips) 
+Seat 5: Nanimex (1505 in chips) 
+Seat 6: Mikson92 (1728 in chips) 
+Seat 7: yokerone1 (1505 in chips) 
+Seat 8: leledoni (1295 in chips) 
+Seat 9: bogess (1700 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+Nanimex: posts small blind 25
+Mikson92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs Qh]
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 50 to 100
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: KeinKönich collected (173)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan (button) folded before Flop (didn't bet)
+Seat 5: Nanimex (small blind) folded before Flop
+Seat 6: Mikson92 (big blind) folded before Flop
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274581744: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:28:49 CET [2021/12/16 17:28:49 ET]
+Table '3321584822 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (1418 in chips) 
+Seat 3: moosgrün (3095 in chips) 
+Seat 4: filiperonan (1359 in chips) 
+Seat 5: Nanimex (1474 in chips) 
+Seat 6: Mikson92 (1672 in chips) 
+Seat 7: yokerone1 (1499 in chips) 
+Seat 8: leledoni (1289 in chips) 
+Seat 9: bogess (1694 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+Mikson92: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Td]
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: raises 75 to 125
+Mikson92: folds 
+yokerone1: folds 
+Uncalled bet (75) returned to Nanimex
+Nanimex collected 173 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex (button) collected (173)
+Seat 6: Mikson92 (small blind) folded before Flop
+Seat 7: yokerone1 (big blind) folded before Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274603907: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:29:36 CET [2021/12/16 17:29:36 ET]
+Table '3321584822 2' 9-max Seat #6 is the button
+Seat 1: KeinKönich (1412 in chips) 
+Seat 3: moosgrün (3089 in chips) 
+Seat 4: filiperonan (1353 in chips) 
+Seat 5: Nanimex (1591 in chips) 
+Seat 6: Mikson92 (1641 in chips) 
+Seat 7: yokerone1 (1443 in chips) 
+Seat 8: leledoni (1283 in chips) 
+Seat 9: bogess (1688 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+yokerone1: posts small blind 25
+leledoni: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 5c]
+bogess: folds 
+KeinKönich: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: raises 75 to 125
+Mikson92: raises 225 to 350
+yokerone1: folds 
+leledoni: folds 
+Nanimex: folds 
+Uncalled bet (225) returned to Mikson92
+Mikson92 collected 373 from pot
+Mikson92: doesn't show hand 
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop
+Seat 6: Mikson92 (button) collected (373)
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) folded before Flop
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274630109: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:30:21 CET [2021/12/16 17:30:21 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (1406 in chips) 
+Seat 3: moosgrün (3083 in chips) 
+Seat 4: filiperonan (1347 in chips) 
+Seat 5: Nanimex (1460 in chips) 
+Seat 6: Mikson92 (1883 in chips) 
+Seat 7: yokerone1 (1412 in chips) 
+Seat 8: leledoni (1227 in chips) 
+Seat 9: bogess (1682 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+leledoni: posts small blind 25
+bogess: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Kh]
+KeinKönich: folds 
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+Uncalled bet (25) returned to bogess
+bogess collected 98 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) collected (98)
+
+
+
+PokerStars Hand #232274641361: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:30:46 CET [2021/12/16 17:30:46 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (1400 in chips) 
+Seat 3: moosgrün (3077 in chips) 
+Seat 4: filiperonan (1341 in chips) 
+Seat 5: Nanimex (1454 in chips) 
+Seat 6: Mikson92 (1877 in chips) 
+Seat 7: yokerone1 (1406 in chips) 
+Seat 8: leledoni (1196 in chips) 
+Seat 9: bogess (1749 in chips) 
+KeinKönich: posts the ante 6
+moosgrün: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+bogess: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [As Jc]
+moosgrün: folds 
+filiperonan: folds 
+Nanimex: raises 75 to 125
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: calls 100
+KeinKönich: raises 1269 to 1394 and is all-in
+Nanimex: folds 
+bogess: folds 
+Uncalled bet (1269) returned to KeinKönich
+KeinKönich collected 423 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 423 | Rake 0 
+Seat 1: KeinKönich (big blind) collected (423)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: bogess (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274666241: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:31:40 CET [2021/12/16 17:31:40 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (1692 in chips) 
+Seat 4: filiperonan (1335 in chips) 
+Seat 5: Nanimex (1323 in chips) 
+Seat 6: Mikson92 (1871 in chips) 
+Seat 7: yokerone1 (1400 in chips) 
+Seat 8: leledoni (1190 in chips) 
+Seat 9: bogess (1618 in chips) 
+KeinKönich: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+KeinKönich: posts small blind 25
+filiperonan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s 9c]
+Nanimex: raises 75 to 125
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+filiperonan: folds 
+Uncalled bet (75) returned to Nanimex
+Nanimex collected 167 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: KeinKönich (small blind) folded before Flop
+Seat 4: filiperonan (big blind) folded before Flop
+Seat 5: Nanimex collected (167)
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274678216: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/16 23:32:06 CET [2021/12/16 17:32:06 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1661 in chips) 
+Seat 4: filiperonan (1279 in chips) 
+Seat 5: Nanimex (1434 in chips) 
+Seat 6: Mikson92 (1865 in chips) 
+Seat 7: yokerone1 (1394 in chips) 
+Seat 8: leledoni (1184 in chips) 
+Seat 9: bogess (1612 in chips) 
+KeinKönich: posts the ante 6
+filiperonan: posts the ante 6
+Nanimex: posts the ante 6
+Mikson92: posts the ante 6
+yokerone1: posts the ante 6
+leledoni: posts the ante 6
+bogess: posts the ante 6
+filiperonan: posts small blind 25
+Nanimex: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 4d]
+Mikson92: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 50 to 100
+filiperonan: folds 
+Nanimex: calls 50
+*** FLOP *** [Ts As Jh]
+Nanimex: checks 
+KeinKönich: checks 
+*** TURN *** [Ts As Jh] [8h]
+Nanimex: checks 
+KeinKönich: bets 150
+Nanimex: calls 150
+*** RIVER *** [Ts As Jh 8h] [Kd]
+Nanimex: checks 
+KeinKönich: bets 350
+Nanimex has timed out
+Nanimex: folds 
+Nanimex is sitting out
+Uncalled bet (350) returned to KeinKönich
+KeinKönich collected 567 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 567 | Rake 0 
+Board [Ts As Jh 8h Kd]
+Seat 1: KeinKönich (button) collected (567)
+Seat 4: filiperonan (small blind) folded before Flop
+Seat 5: Nanimex (big blind) folded on the River
+Seat 6: Mikson92 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274730207: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:33:37 CET [2021/12/16 17:33:37 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (1972 in chips) 
+Seat 4: filiperonan (1248 in chips) 
+Seat 5: Nanimex (1178 in chips) 
+Seat 6: Mikson92 (1859 in chips) 
+Seat 7: yokerone1 (1388 in chips) 
+Seat 8: leledoni (1178 in chips) 
+Seat 9: bogess (1606 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+Mikson92: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+Nanimex: posts small blind 40
+Mikson92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 9h]
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 80 to 160
+filiperonan: folds 
+Nanimex: folds 
+Mikson92: calls 80
+*** FLOP *** [6d 8s 7s]
+Mikson92: checks 
+KeinKönich: bets 215
+Mikson92: raises 1474 to 1689 and is all-in
+KeinKönich: calls 1474
+*** TURN *** [6d 8s 7s] [Kc]
+*** RIVER *** [6d 8s 7s Kc] [4c]
+*** SHOW DOWN ***
+Mikson92: shows [6s As] (a pair of Sixes)
+KeinKönich: shows [9s 9h] (a pair of Nines)
+KeinKönich collected 3808 from pot
+Mikson92 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3808 | Rake 0 
+Board [6d 8s 7s Kc 4c]
+Seat 1: KeinKönich showed [9s 9h] and won (3808) with a pair of Nines
+Seat 4: filiperonan (button) folded before Flop (didn't bet)
+Seat 5: Nanimex (small blind) folded before Flop
+Seat 6: Mikson92 (big blind) showed [6s As] and lost with a pair of Sixes
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274752708: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:34:26 CET [2021/12/16 17:34:26 ET]
+Table '3321584822 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (3921 in chips) 
+Seat 4: filiperonan (1238 in chips) 
+Seat 5: Nanimex (1128 in chips) 
+Seat 7: yokerone1 (1378 in chips) 
+Seat 8: leledoni (1168 in chips) 
+Seat 9: bogess (1596 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+yokerone1: posts small blind 40
+leledoni: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 6c]
+bogess: folds 
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+Uncalled bet (40) returned to leledoni
+leledoni collected 140 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex (button) folded before Flop (didn't bet)
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) collected (140)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274762883: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:34:48 CET [2021/12/16 17:34:48 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (3911 in chips) 
+Seat 4: filiperonan (1228 in chips) 
+Seat 5: Nanimex (1118 in chips) 
+Seat 7: yokerone1 (1328 in chips) 
+Seat 8: leledoni (1258 in chips) 
+Seat 9: bogess (1586 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+leledoni: posts small blind 40
+bogess: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h Js]
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: raises 1028 to 1108 and is all-in
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+Uncalled bet (1028) returned to Nanimex
+Nanimex collected 260 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex collected (260)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) folded before Flop
+
+
+
+PokerStars Hand #232274775331: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:35:15 CET [2021/12/16 17:35:15 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (3901 in chips) 
+Seat 4: filiperonan (1218 in chips) 
+Seat 5: Nanimex (1288 in chips) 
+Seat 7: yokerone1 (1318 in chips) 
+Seat 8: leledoni (1208 in chips) 
+Seat 9: bogess (1496 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+bogess: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 9s]
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+Uncalled bet (40) returned to KeinKönich
+KeinKönich collected 140 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: KeinKönich (big blind) collected (140)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: bogess (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274788943: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:35:45 CET [2021/12/16 17:35:45 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (3991 in chips) 
+Seat 4: filiperonan (1208 in chips) 
+Seat 5: Nanimex (1278 in chips) 
+Seat 7: yokerone1 (1308 in chips) 
+Seat 8: leledoni (1198 in chips) 
+Seat 9: bogess (1446 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+KeinKönich: posts small blind 40
+filiperonan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Ac]
+Nanimex: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 80 to 160
+filiperonan: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 220 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 1: KeinKönich (small blind) collected (220)
+Seat 4: filiperonan (big blind) folded before Flop
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274797930: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:36:05 CET [2021/12/16 17:36:05 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (4121 in chips) 
+Seat 4: filiperonan (1118 in chips) 
+Seat 5: Nanimex (1268 in chips) 
+Seat 7: yokerone1 (1298 in chips) 
+Seat 8: leledoni (1188 in chips) 
+Seat 9: bogess (1436 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+filiperonan: posts small blind 40
+Nanimex: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 9h]
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 97 to 177
+KeinKönich: folds 
+filiperonan: raises 931 to 1108 and is all-in
+Nanimex: folds 
+bogess: folds 
+Uncalled bet (931) returned to filiperonan
+filiperonan collected 494 from pot
+filiperonan: doesn't show hand 
+*** SUMMARY ***
+Total pot 494 | Rake 0 
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 4: filiperonan (small blind) collected (494)
+Seat 5: Nanimex (big blind) folded before Flop
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop
+
+
+
+PokerStars Hand #232274810268: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:36:31 CET [2021/12/16 17:36:31 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (4111 in chips) 
+Seat 4: filiperonan (1425 in chips) 
+Seat 5: Nanimex (1178 in chips) 
+Seat 7: yokerone1 (1288 in chips) 
+Seat 8: leledoni (1178 in chips) 
+Seat 9: bogess (1249 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+Nanimex: posts small blind 40
+yokerone1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 9d]
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 80 to 160
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: raises 1118 to 1278 and is all-in
+KeinKönich: folds 
+Uncalled bet (1118) returned to yokerone1
+yokerone1 collected 420 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: KeinKönich folded before Flop
+Seat 4: filiperonan (button) folded before Flop (didn't bet)
+Seat 5: Nanimex (small blind) folded before Flop
+Seat 7: yokerone1 (big blind) collected (420)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274821286: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:36:55 CET [2021/12/16 17:36:55 ET]
+Table '3321584822 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (3941 in chips) 
+Seat 4: filiperonan (1415 in chips) 
+Seat 5: Nanimex (1128 in chips) 
+Seat 7: yokerone1 (1538 in chips) 
+Seat 8: leledoni (1168 in chips) 
+Seat 9: bogess (1239 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+yokerone1: posts small blind 40
+leledoni: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 4d]
+bogess: folds 
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+Uncalled bet (40) returned to leledoni
+leledoni collected 140 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex (button) folded before Flop (didn't bet)
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) collected (140)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274831205: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/16 23:37:17 CET [2021/12/16 17:37:17 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (3931 in chips) 
+Seat 4: filiperonan (1405 in chips) 
+Seat 5: Nanimex (1118 in chips) 
+Seat 7: yokerone1 (1488 in chips) 
+Seat 8: leledoni (1258 in chips) 
+Seat 9: bogess (1229 in chips) 
+KeinKönich: posts the ante 10
+filiperonan: posts the ante 10
+Nanimex: posts the ante 10
+yokerone1: posts the ante 10
+leledoni: posts the ante 10
+bogess: posts the ante 10
+leledoni: posts small blind 40
+bogess: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 9c]
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: raises 80 to 160
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+Uncalled bet (80) returned to Nanimex
+Nanimex collected 260 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex collected (260)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) folded before Flop
+
+
+
+PokerStars Hand #232274842891: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:37:42 CET [2021/12/16 17:37:42 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (3921 in chips) 
+Seat 4: filiperonan (1395 in chips) 
+Seat 5: Nanimex (1288 in chips) 
+Seat 7: yokerone1 (1478 in chips) 
+Seat 8: leledoni (1208 in chips) 
+Seat 9: bogess (1139 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+bogess: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 5h]
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 120 to 240
+KeinKönich: folds 
+Uncalled bet (120) returned to bogess
+bogess collected 330 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: KeinKönich (big blind) folded before Flop
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: bogess (small blind) collected (330)
+
+
+
+PokerStars Hand #232274855652: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:38:10 CET [2021/12/16 17:38:10 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (3786 in chips) 
+Seat 4: filiperonan (1380 in chips) 
+Seat 5: Nanimex (1273 in chips) 
+Seat 7: yokerone1 (1463 in chips) 
+Seat 8: leledoni (1193 in chips) 
+Seat 9: bogess (1334 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+KeinKönich: posts small blind 60
+filiperonan: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d Td]
+Nanimex: folds 
+yokerone1: folds 
+leledoni: raises 1058 to 1178 and is all-in
+bogess: folds 
+KeinKönich: folds 
+filiperonan: folds 
+Uncalled bet (1058) returned to leledoni
+leledoni collected 390 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: KeinKönich (small blind) folded before Flop
+Seat 4: filiperonan (big blind) folded before Flop
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni collected (390)
+Seat 9: bogess (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274865053: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:38:31 CET [2021/12/16 17:38:31 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (3711 in chips) 
+Seat 4: filiperonan (1245 in chips) 
+Seat 5: Nanimex (1258 in chips) 
+Seat 7: yokerone1 (1448 in chips) 
+Seat 8: leledoni (1448 in chips) 
+Seat 9: bogess (1319 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+filiperonan: posts small blind 60
+Nanimex: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 9h]
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 120 to 240
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: folds 
+Uncalled bet (120) returned to bogess
+bogess collected 390 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 4: filiperonan (small blind) folded before Flop
+Seat 5: Nanimex (big blind) folded before Flop
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess collected (390)
+
+
+
+PokerStars Hand #232274877148: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:38:58 CET [2021/12/16 17:38:58 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (3696 in chips) 
+Seat 4: filiperonan (1170 in chips) 
+Seat 5: Nanimex (1123 in chips) 
+Seat 7: yokerone1 (1433 in chips) 
+Seat 8: leledoni (1433 in chips) 
+Seat 9: bogess (1574 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+Nanimex: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Kc]
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 120 to 240
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 390 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: KeinKönich collected (390)
+Seat 4: filiperonan (button) folded before Flop (didn't bet)
+Seat 5: Nanimex (small blind) folded before Flop
+Seat 7: yokerone1 (big blind) folded before Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274889813: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:39:25 CET [2021/12/16 17:39:25 ET]
+Table '3321584822 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (3951 in chips) 
+Seat 4: filiperonan (1155 in chips) 
+Seat 5: Nanimex (1048 in chips) 
+Seat 7: yokerone1 (1298 in chips) 
+Seat 8: leledoni (1418 in chips) 
+Seat 9: bogess (1559 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+yokerone1: posts small blind 60
+leledoni: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Kc]
+bogess: folds 
+KeinKönich: folds 
+filiperonan: folds 
+Nanimex: folds 
+yokerone1: folds 
+Uncalled bet (60) returned to leledoni
+leledoni collected 210 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan folded before Flop (didn't bet)
+Seat 5: Nanimex (button) folded before Flop (didn't bet)
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) collected (210)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274899990: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:39:48 CET [2021/12/16 17:39:48 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (3936 in chips) 
+Seat 4: filiperonan (1140 in chips) 
+Seat 5: Nanimex (1033 in chips) 
+Seat 7: yokerone1 (1223 in chips) 
+Seat 8: leledoni (1553 in chips) 
+Seat 9: bogess (1544 in chips) 
+KeinKönich: posts the ante 15
+filiperonan: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+leledoni: posts small blind 60
+bogess: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 2c]
+KeinKönich: folds 
+filiperonan: raises 1005 to 1125 and is all-in
+Nanimex: folds 
+yokerone1: raises 83 to 1208 and is all-in
+leledoni: folds 
+bogess: folds 
+Uncalled bet (83) returned to yokerone1
+*** FLOP *** [8h 4c Th]
+*** TURN *** [8h 4c Th] [4s]
+*** RIVER *** [8h 4c Th 4s] [Ah]
+*** SHOW DOWN ***
+filiperonan: shows [9s 8s] (two pair, Eights and Fours)
+yokerone1: shows [Tc Ac] (two pair, Aces and Tens)
+yokerone1 collected 2520 from pot
+filiperonan finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 2520 | Rake 0 
+Board [8h 4c Th 4s Ah]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 4: filiperonan showed [9s 8s] and lost with two pair, Eights and Fours
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 (button) showed [Tc Ac] and won (2520) with two pair, Aces and Tens
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) folded before Flop
+
+
+
+PokerStars Hand #232274912143: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:40:15 CET [2021/12/16 17:40:15 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (3921 in chips) 
+Seat 5: Nanimex (1018 in chips) 
+Seat 7: yokerone1 (2603 in chips) 
+Seat 8: leledoni (1478 in chips) 
+Seat 9: bogess (1409 in chips) 
+KeinKönich: posts the ante 15
+Nanimex: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+bogess: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd Qd]
+Nanimex: folds 
+yokerone1: folds 
+leledoni: raises 1343 to 1463 and is all-in
+bogess: folds 
+KeinKönich: calls 1343
+*** FLOP *** [Ac 5d 5s]
+*** TURN *** [Ac 5d 5s] [3d]
+*** RIVER *** [Ac 5d 5s 3d] [4s]
+*** SHOW DOWN ***
+KeinKönich: shows [Kd Qd] (a pair of Fives)
+leledoni: shows [4h 4d] (a full house, Fours full of Fives)
+leledoni collected 3061 from pot
+*** SUMMARY ***
+Total pot 3061 | Rake 0 
+Board [Ac 5d 5s 3d 4s]
+Seat 1: KeinKönich (big blind) showed [Kd Qd] and lost with a pair of Fives
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) showed [4h 4d] and won (3061) with a full house, Fours full of Fives
+Seat 9: bogess (small blind) folded before Flop
+
+
+
+PokerStars Hand #232274922749: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:40:38 CET [2021/12/16 17:40:38 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (2443 in chips) 
+Seat 2: erikwilson23 (1855 in chips) 
+Seat 3: moosgrün (2374 in chips) 
+Seat 4: roger10210 (7920 in chips) 
+Seat 5: Nanimex (1003 in chips) 
+Seat 6: Leko59 (4422 in chips) 
+Seat 7: yokerone1 (2588 in chips) 
+Seat 8: leledoni (3061 in chips) 
+Seat 9: bogess (1334 in chips) 
+KeinKönich: posts the ante 15
+erikwilson23: posts the ante 15
+moosgrün: posts the ante 15
+roger10210: posts the ante 15
+Nanimex: posts the ante 15
+Leko59: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+KeinKönich: posts small blind 60
+erikwilson23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 8s]
+moosgrün: folds 
+roger10210: folds 
+Nanimex: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: raises 156 to 276
+bogess: folds 
+KeinKönich: raises 2152 to 2428 and is all-in
+erikwilson23: folds 
+leledoni: folds 
+Uncalled bet (2152) returned to KeinKönich
+KeinKönich collected 807 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 807 | Rake 0 
+Seat 1: KeinKönich (small blind) collected (807)
+Seat 2: erikwilson23 (big blind) folded before Flop
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop
+Seat 9: bogess (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274939061: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:41:14 CET [2021/12/16 17:41:14 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (2959 in chips) 
+Seat 2: erikwilson23 (1720 in chips) 
+Seat 3: moosgrün (2359 in chips) 
+Seat 4: roger10210 (7905 in chips) 
+Seat 5: Nanimex (988 in chips) 
+Seat 6: Leko59 (4407 in chips) 
+Seat 7: yokerone1 (2573 in chips) 
+Seat 8: leledoni (2770 in chips) 
+Seat 9: bogess (1319 in chips) 
+KeinKönich: posts the ante 15
+erikwilson23: posts the ante 15
+moosgrün: posts the ante 15
+roger10210: posts the ante 15
+Nanimex: posts the ante 15
+Leko59: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+erikwilson23: posts small blind 60
+moosgrün: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 2d]
+roger10210: folds 
+Nanimex: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: raises 120 to 240
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+Uncalled bet (120) returned to leledoni
+leledoni collected 435 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 2: erikwilson23 (small blind) folded before Flop
+Seat 3: moosgrün (big blind) folded before Flop
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 5: Nanimex folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni collected (435)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274947815: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:41:34 CET [2021/12/16 17:41:34 ET]
+Table '3321584822 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (2944 in chips) 
+Seat 2: erikwilson23 (1645 in chips) 
+Seat 3: moosgrün (2224 in chips) 
+Seat 4: roger10210 (7890 in chips) 
+Seat 5: Nanimex (973 in chips) 
+Seat 6: Leko59 (4392 in chips) 
+Seat 7: yokerone1 (2558 in chips) 
+Seat 8: leledoni (3070 in chips) 
+Seat 9: bogess (1304 in chips) 
+KeinKönich: posts the ante 15
+erikwilson23: posts the ante 15
+moosgrün: posts the ante 15
+roger10210: posts the ante 15
+Nanimex: posts the ante 15
+Leko59: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+moosgrün: posts small blind 60
+roger10210: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 8h]
+Nanimex: raises 838 to 958 and is all-in
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Uncalled bet (838) returned to Nanimex
+Nanimex collected 435 from pot
+Nanimex: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 (button) folded before Flop (didn't bet)
+Seat 3: moosgrün (small blind) folded before Flop
+Seat 4: roger10210 (big blind) folded before Flop
+Seat 5: Nanimex collected (435)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274955809: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/16 23:41:51 CET [2021/12/16 17:41:51 ET]
+Table '3321584822 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (2929 in chips) 
+Seat 2: erikwilson23 (1630 in chips) 
+Seat 3: moosgrün (2149 in chips) 
+Seat 4: roger10210 (7755 in chips) 
+Seat 5: Nanimex (1273 in chips) 
+Seat 6: Leko59 (4377 in chips) 
+Seat 7: yokerone1 (2543 in chips) 
+Seat 8: leledoni (3055 in chips) 
+Seat 9: bogess (1289 in chips) 
+KeinKönich: posts the ante 15
+erikwilson23: posts the ante 15
+moosgrün: posts the ante 15
+roger10210: posts the ante 15
+Nanimex: posts the ante 15
+Leko59: posts the ante 15
+yokerone1: posts the ante 15
+leledoni: posts the ante 15
+bogess: posts the ante 15
+roger10210: posts small blind 60
+Nanimex: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 7s]
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 120 to 240
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Nanimex: calls 120
+*** FLOP *** [6h 9s Ts]
+Nanimex: checks 
+bogess: bets 240
+Nanimex: calls 240
+*** TURN *** [6h 9s Ts] [5s]
+Nanimex: bets 778 and is all-in
+bogess: calls 778
+*** RIVER *** [6h 9s Ts 5s] [2d]
+*** SHOW DOWN ***
+Nanimex: shows [Qh 9h] (a pair of Nines)
+bogess: shows [Td Tc] (three of a kind, Tens)
+bogess collected 2711 from pot
+Nanimex finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2711 | Rake 0 
+Board [6h 9s Ts 5s 2d]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün (button) folded before Flop (didn't bet)
+Seat 4: roger10210 (small blind) folded before Flop
+Seat 5: Nanimex (big blind) showed [Qh 9h] and lost with a pair of Nines
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess showed [Td Tc] and won (2711) with three of a kind, Tens
+
+
+
+PokerStars Hand #232274985993: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:42:58 CET [2021/12/16 17:42:58 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (2914 in chips) 
+Seat 2: erikwilson23 (1615 in chips) 
+Seat 3: moosgrün (2134 in chips) 
+Seat 4: roger10210 (7680 in chips) 
+Seat 6: Leko59 (4362 in chips) 
+Seat 7: yokerone1 (2528 in chips) 
+Seat 8: leledoni (3040 in chips) 
+Seat 9: bogess (2727 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+Leko59: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 8d]
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59: raises 160 to 320
+yokerone1: folds 
+Uncalled bet (160) returned to Leko59
+Leko59 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) collected (480)
+Seat 7: yokerone1 (big blind) folded before Flop
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232274994325: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:43:17 CET [2021/12/16 17:43:17 ET]
+Table '3321584822 2' 9-max Seat #6 is the button
+Seat 1: KeinKönich (2894 in chips) 
+Seat 2: erikwilson23 (1595 in chips) 
+Seat 3: moosgrün (2114 in chips) 
+Seat 4: roger10210 (7660 in chips) 
+Seat 6: Leko59 (4662 in chips) 
+Seat 7: yokerone1 (2348 in chips) 
+Seat 8: leledoni (3020 in chips) 
+Seat 9: bogess (2707 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+yokerone1: posts small blind 80
+leledoni: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 6s]
+bogess: raises 160 to 320
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+Uncalled bet (160) returned to bogess
+bogess collected 560 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 (button) folded before Flop (didn't bet)
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) folded before Flop
+Seat 9: bogess collected (560)
+
+
+
+PokerStars Hand #232275005039: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:43:41 CET [2021/12/16 17:43:41 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (2874 in chips) 
+Seat 2: erikwilson23 (1575 in chips) 
+Seat 3: moosgrün (2094 in chips) 
+Seat 4: roger10210 (7640 in chips) 
+Seat 6: Leko59 (4642 in chips) 
+Seat 7: yokerone1 (2248 in chips) 
+Seat 8: leledoni (2840 in chips) 
+Seat 9: bogess (3087 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+leledoni: posts small blind 80
+bogess: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Ts]
+KeinKönich: folds 
+erikwilson23: raises 1395 to 1555 and is all-in
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+Uncalled bet (1395) returned to erikwilson23
+erikwilson23 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 collected (560)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) folded before Flop
+Seat 9: bogess (big blind) folded before Flop
+
+
+
+PokerStars Hand #232275017033: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:44:08 CET [2021/12/16 17:44:08 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (2854 in chips) 
+Seat 2: erikwilson23 (1955 in chips) 
+Seat 3: moosgrün (2074 in chips) 
+Seat 4: roger10210 (7620 in chips) 
+Seat 6: Leko59 (4622 in chips) 
+Seat 7: yokerone1 (2228 in chips) 
+Seat 8: leledoni (2740 in chips) 
+Seat 9: bogess (2907 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+bogess: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 9c]
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: raises 160 to 320
+bogess: folds 
+KeinKönich: folds 
+Uncalled bet (160) returned to leledoni
+leledoni collected 560 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich (big blind) folded before Flop
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) collected (560)
+Seat 9: bogess (small blind) folded before Flop
+
+
+
+PokerStars Hand #232275026325: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:44:29 CET [2021/12/16 17:44:29 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (2674 in chips) 
+Seat 2: erikwilson23 (1935 in chips) 
+Seat 3: moosgrün (2054 in chips) 
+Seat 4: roger10210 (7600 in chips) 
+Seat 6: Leko59 (4602 in chips) 
+Seat 7: yokerone1 (2208 in chips) 
+Seat 8: leledoni (3120 in chips) 
+Seat 9: bogess (2807 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+KeinKönich: posts small blind 80
+erikwilson23: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 4c]
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 160 to 320
+KeinKönich: folds 
+erikwilson23: folds 
+Uncalled bet (160) returned to bogess
+bogess collected 560 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich (small blind) folded before Flop
+Seat 2: erikwilson23 (big blind) folded before Flop
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess (button) collected (560)
+
+
+
+PokerStars Hand #232275038546: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:44:56 CET [2021/12/16 17:44:56 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (2574 in chips) 
+Seat 2: erikwilson23 (1755 in chips) 
+Seat 3: moosgrün (2034 in chips) 
+Seat 4: roger10210 (7580 in chips) 
+Seat 6: Leko59 (4582 in chips) 
+Seat 7: yokerone1 (2188 in chips) 
+Seat 8: leledoni (3100 in chips) 
+Seat 9: bogess (3187 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+erikwilson23: posts small blind 80
+moosgrün: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d Js]
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 160 to 320
+erikwilson23: folds 
+moosgrün: calls 160
+*** FLOP *** [Td 6c 8s]
+moosgrün: checks 
+KeinKönich: checks 
+*** TURN *** [Td 6c 8s] [Ah]
+moosgrün: checks 
+KeinKönich: bets 320
+moosgrün: calls 320
+*** RIVER *** [Td 6c 8s Ah] [3h]
+moosgrün: checks 
+KeinKönich: bets 1520
+moosgrün: folds 
+Uncalled bet (1520) returned to KeinKönich
+KeinKönich collected 1520 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1520 | Rake 0 
+Board [Td 6c 8s Ah 3h]
+Seat 1: KeinKönich (button) collected (1520)
+Seat 2: erikwilson23 (small blind) folded before Flop
+Seat 3: moosgrün (big blind) folded on the River
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275076388: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:46:04 CET [2021/12/16 17:46:04 ET]
+Table '3321584822 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (3434 in chips) 
+Seat 2: erikwilson23 (1655 in chips) 
+Seat 3: moosgrün (1374 in chips) 
+Seat 4: roger10210 (7560 in chips) 
+Seat 6: Leko59 (4562 in chips) 
+Seat 7: yokerone1 (2168 in chips) 
+Seat 8: leledoni (3080 in chips) 
+Seat 9: bogess (3167 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+moosgrün: posts small blind 80
+roger10210: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Th]
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+Uncalled bet (80) returned to roger10210
+roger10210 collected 320 from pot
+roger10210: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 (button) folded before Flop (didn't bet)
+Seat 3: moosgrün (small blind) folded before Flop
+Seat 4: roger10210 (big blind) collected (320)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275084071: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:46:22 CET [2021/12/16 17:46:22 ET]
+Table '3321584822 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (3414 in chips) 
+Seat 2: erikwilson23 (1635 in chips) 
+Seat 3: moosgrün (1274 in chips) 
+Seat 4: roger10210 (7780 in chips) 
+Seat 6: Leko59 (4542 in chips) 
+Seat 7: yokerone1 (2148 in chips) 
+Seat 8: leledoni (3060 in chips) 
+Seat 9: bogess (3147 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+roger10210: posts small blind 80
+Leko59: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 4h]
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: raises 1455 to 1615 and is all-in
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+Uncalled bet (1455) returned to erikwilson23
+erikwilson23 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 collected (560)
+Seat 3: moosgrün (button) folded before Flop (didn't bet)
+Seat 4: roger10210 (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275094010: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/16 23:46:45 CET [2021/12/16 17:46:45 ET]
+Table '3321584822 2' 9-max Seat #4 is the button
+Seat 1: KeinKönich (3394 in chips) 
+Seat 2: erikwilson23 (2015 in chips) 
+Seat 3: moosgrün (1254 in chips) 
+Seat 4: roger10210 (7680 in chips) 
+Seat 6: Leko59 (4362 in chips) 
+Seat 7: yokerone1 (2128 in chips) 
+Seat 8: leledoni (3040 in chips) 
+Seat 9: bogess (3127 in chips) 
+KeinKönich: posts the ante 20
+erikwilson23: posts the ante 20
+moosgrün: posts the ante 20
+roger10210: posts the ante 20
+Leko59: posts the ante 20
+yokerone1: posts the ante 20
+leledoni: posts the ante 20
+bogess: posts the ante 20
+Leko59: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Tc]
+leledoni: raises 240 to 400
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59 has timed out
+Leko59: folds 
+Leko59 is sitting out
+Leko59 has returned
+yokerone1: folds 
+Uncalled bet (240) returned to leledoni
+leledoni collected 560 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 (button) folded before Flop (didn't bet)
+Seat 6: Leko59 (small blind) folded before Flop
+Seat 7: yokerone1 (big blind) folded before Flop
+Seat 8: leledoni collected (560)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275110341: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:47:21 CET [2021/12/16 17:47:21 ET]
+Table '3321584822 2' 9-max Seat #6 is the button
+Seat 1: KeinKönich (3374 in chips) 
+Seat 2: erikwilson23 (1995 in chips) 
+Seat 3: moosgrün (1234 in chips) 
+Seat 4: roger10210 (7660 in chips) 
+Seat 6: Leko59 (4262 in chips) 
+Seat 7: yokerone1 (1948 in chips) 
+Seat 8: leledoni (3420 in chips) 
+Seat 9: bogess (3107 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+yokerone1: posts small blind 100
+leledoni: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Kd]
+bogess: raises 200 to 400
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59: calls 400
+yokerone1: folds 
+leledoni: folds 
+*** FLOP *** [9c 9d Ad]
+bogess: checks 
+Leko59: checks 
+*** TURN *** [9c 9d Ad] [Qh]
+bogess: bets 400
+Leko59: calls 400
+*** RIVER *** [9c 9d Ad Qh] [Kc]
+bogess: checks 
+Leko59: checks 
+*** SHOW DOWN ***
+bogess: shows [4c 4s] (two pair, Nines and Fours)
+Leko59: shows [Ah Td] (two pair, Aces and Nines)
+Leko59 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [9c 9d Ad Qh Kc]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 (button) showed [Ah Td] and won (2100) with two pair, Aces and Nines
+Seat 7: yokerone1 (small blind) folded before Flop
+Seat 8: leledoni (big blind) folded before Flop
+Seat 9: bogess showed [4c 4s] and lost with two pair, Nines and Fours
+
+
+
+PokerStars Hand #232275129352: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:48:05 CET [2021/12/16 17:48:05 ET]
+Table '3321584822 2' 9-max Seat #7 is the button
+Seat 1: KeinKönich (3349 in chips) 
+Seat 2: erikwilson23 (1970 in chips) 
+Seat 3: moosgrün (1209 in chips) 
+Seat 4: roger10210 (7635 in chips) 
+Seat 6: Leko59 (5537 in chips) 
+Seat 7: yokerone1 (1823 in chips) 
+Seat 8: leledoni (3195 in chips) 
+Seat 9: bogess (2282 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+leledoni: posts small blind 100
+bogess: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 7d]
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: raises 984 to 1184 and is all-in
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: raises 1616 to 2800
+bogess: folds 
+Uncalled bet (1616) returned to leledoni
+*** FLOP *** [7h 8c Qh]
+*** TURN *** [7h 8c Qh] [9d]
+*** RIVER *** [7h 8c Qh 9d] [Kh]
+*** SHOW DOWN ***
+leledoni: shows [Td Ac] (high card Ace)
+moosgrün: shows [As Ks] (a pair of Kings)
+moosgrün collected 2768 from pot
+*** SUMMARY ***
+Total pot 2768 | Rake 0 
+Board [7h 8c Qh 9d Kh]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün showed [As Ks] and won (2768) with a pair of Kings
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 (button) folded before Flop (didn't bet)
+Seat 8: leledoni (small blind) showed [Td Ac] and lost with high card Ace
+Seat 9: bogess (big blind) folded before Flop
+
+
+
+PokerStars Hand #232275145900: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:48:43 CET [2021/12/16 17:48:43 ET]
+Table '3321584822 2' 9-max Seat #8 is the button
+Seat 1: KeinKönich (3324 in chips) 
+Seat 2: erikwilson23 (1945 in chips) 
+Seat 3: moosgrün (2768 in chips) 
+Seat 4: roger10210 (7610 in chips) 
+Seat 6: Leko59 (5512 in chips) 
+Seat 7: yokerone1 (1798 in chips) 
+Seat 8: leledoni (1986 in chips) 
+Seat 9: bogess (2057 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+bogess: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 8d]
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+Uncalled bet (100) returned to KeinKönich
+KeinKönich collected 400 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: KeinKönich (big blind) collected (400)
+Seat 2: erikwilson23 folded before Flop (didn't bet)
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni (button) folded before Flop (didn't bet)
+Seat 9: bogess (small blind) folded before Flop
+
+
+
+PokerStars Hand #232275154539: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:49:03 CET [2021/12/16 17:49:03 ET]
+Table '3321584822 2' 9-max Seat #9 is the button
+Seat 1: KeinKönich (3599 in chips) 
+Seat 2: erikwilson23 (1920 in chips) 
+Seat 3: moosgrün (2743 in chips) 
+Seat 4: roger10210 (7585 in chips) 
+Seat 6: Leko59 (5487 in chips) 
+Seat 7: yokerone1 (1773 in chips) 
+Seat 8: leledoni (1961 in chips) 
+Seat 9: bogess (1932 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+KeinKönich: posts small blind 100
+erikwilson23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Jc]
+moosgrün: folds 
+roger10210: folds 
+Leko59: raises 400 to 600
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: folds 
+erikwilson23: raises 1295 to 1895 and is all-in
+Leko59: calls 1295
+*** FLOP *** [Qh Ac 9d]
+*** TURN *** [Qh Ac 9d] [Qs]
+*** RIVER *** [Qh Ac 9d Qs] [8s]
+*** SHOW DOWN ***
+erikwilson23: shows [8h 8d] (a full house, Eights full of Queens)
+Leko59: shows [As Kh] (two pair, Aces and Queens)
+erikwilson23 collected 4090 from pot
+*** SUMMARY ***
+Total pot 4090 | Rake 0 
+Board [Qh Ac 9d Qs 8s]
+Seat 1: KeinKönich (small blind) folded before Flop
+Seat 2: erikwilson23 (big blind) showed [8h 8d] and won (4090) with a full house, Eights full of Queens
+Seat 3: moosgrün folded before Flop (didn't bet)
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 showed [As Kh] and lost with two pair, Aces and Queens
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275166806: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:49:31 CET [2021/12/16 17:49:31 ET]
+Table '3321584822 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (3474 in chips) 
+Seat 2: erikwilson23 (4090 in chips) 
+Seat 3: moosgrün (2718 in chips) 
+Seat 4: roger10210 (7560 in chips) 
+Seat 6: Leko59 (3567 in chips) 
+Seat 7: yokerone1 (1748 in chips) 
+Seat 8: leledoni (1936 in chips) 
+Seat 9: bogess (1907 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+erikwilson23: posts small blind 100
+moosgrün: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 8h]
+roger10210: folds 
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: raises 1682 to 1882 and is all-in
+KeinKönich: folds 
+erikwilson23: folds 
+moosgrün: folds 
+Uncalled bet (1682) returned to bogess
+bogess collected 700 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 2: erikwilson23 (small blind) folded before Flop
+Seat 3: moosgrün (big blind) folded before Flop
+Seat 4: roger10210 folded before Flop (didn't bet)
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess collected (700)
+
+
+
+PokerStars Hand #232275177731: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:49:56 CET [2021/12/16 17:49:56 ET]
+Table '3321584822 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (3449 in chips) 
+Seat 2: erikwilson23 (3965 in chips) 
+Seat 3: moosgrün (2493 in chips) 
+Seat 4: roger10210 (7535 in chips) 
+Seat 6: Leko59 (3542 in chips) 
+Seat 7: yokerone1 (1723 in chips) 
+Seat 8: leledoni (1911 in chips) 
+Seat 9: bogess (2382 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+moosgrün: posts small blind 100
+roger10210: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Ac]
+Leko59: folds 
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 200 to 400
+erikwilson23: folds 
+moosgrün: folds 
+roger10210: calls 200
+*** FLOP *** [9h 8c Ks]
+roger10210: checks 
+KeinKönich: bets 550
+roger10210: calls 550
+*** TURN *** [9h 8c Ks] [As]
+roger10210: checks 
+KeinKönich: checks 
+*** RIVER *** [9h 8c Ks As] [Jh]
+roger10210: bets 1100
+KeinKönich: calls 1100
+*** SHOW DOWN ***
+roger10210: shows [Qc Ad] (a pair of Aces)
+KeinKönich: mucks hand 
+roger10210 collected 4400 from pot
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [9h 8c Ks As Jh]
+Seat 1: KeinKönich mucked [5c Ac]
+Seat 2: erikwilson23 (button) folded before Flop (didn't bet)
+Seat 3: moosgrün (small blind) folded before Flop
+Seat 4: roger10210 (big blind) showed [Qc Ad] and won (4400) with a pair of Aces
+Seat 6: Leko59 folded before Flop (didn't bet)
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275199236: Tournament #3321584822, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/16 23:50:46 CET [2021/12/16 17:50:46 ET]
+Table '3321584822 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (1374 in chips) 
+Seat 2: erikwilson23 (3940 in chips) 
+Seat 3: moosgrün (2368 in chips) 
+Seat 4: roger10210 (9860 in chips) 
+Seat 6: Leko59 (3517 in chips) 
+Seat 7: yokerone1 (1698 in chips) 
+Seat 8: leledoni (1886 in chips) 
+Seat 9: bogess (2357 in chips) 
+KeinKönich: posts the ante 25
+erikwilson23: posts the ante 25
+moosgrün: posts the ante 25
+roger10210: posts the ante 25
+Leko59: posts the ante 25
+yokerone1: posts the ante 25
+leledoni: posts the ante 25
+bogess: posts the ante 25
+roger10210: posts small blind 100
+Leko59: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Jd]
+yokerone1: folds 
+leledoni: folds 
+bogess: folds 
+KeinKönich: raises 1149 to 1349 and is all-in
+erikwilson23: raises 2566 to 3915 and is all-in
+moosgrün: folds 
+roger10210: folds 
+Leko59: folds 
+Uncalled bet (2566) returned to erikwilson23
+*** FLOP *** [Td 5c 6c]
+*** TURN *** [Td 5c 6c] [8c]
+*** RIVER *** [Td 5c 6c 8c] [Ah]
+*** SHOW DOWN ***
+KeinKönich: shows [Ks Jd] (high card Ace)
+erikwilson23: shows [Jc Kc] (a flush, King high)
+erikwilson23 collected 3198 from pot
+KeinKönich finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3198 | Rake 0 
+Board [Td 5c 6c 8c Ah]
+Seat 1: KeinKönich showed [Ks Jd] and lost with high card Ace
+Seat 2: erikwilson23 showed [Jc Kc] and won (3198) with a flush, King high
+Seat 3: moosgrün (button) folded before Flop (didn't bet)
+Seat 4: roger10210 (small blind) folded before Flop
+Seat 6: Leko59 (big blind) folded before Flop
+Seat 7: yokerone1 folded before Flop (didn't bet)
+Seat 8: leledoni folded before Flop (didn't bet)
+Seat 9: bogess folded before Flop (didn't bet)
+
+
+

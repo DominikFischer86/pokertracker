@@ -1,0 +1,1438 @@
+ï»¿PokerStars Hand #232297932681: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:48:02 CET [2021/12/17 15:48:02 ET]
+Table '3322156803 2' 9-max Seat #1 is the button
+Seat 1: farmerth (1500 in chips) 
+Seat 2: ntomat85 (1500 in chips) 
+Seat 3: Crackmeier (1500 in chips) 
+Seat 4: pedriim879 (1500 in chips) 
+Seat 5: kaDimitris (1500 in chips) 
+Seat 6: Cobinosh (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: TheGreatRus (1500 in chips) 
+Seat 9: Barellinof (1500 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+ntomat85: posts small blind 10
+Crackmeier: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 4c]
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: raises 40 to 60
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: calls 40
+*** FLOP *** [Ac 6h 6d]
+Crackmeier: checks 
+Cobinosh: bets 100
+Crackmeier: calls 100
+*** TURN *** [Ac 6h 6d] [3s]
+Crackmeier: checks 
+Cobinosh: bets 200
+Crackmeier: folds 
+Uncalled bet (200) returned to Cobinosh
+Cobinosh collected 357 from pot
+Cobinosh: doesn't show hand 
+*** SUMMARY ***
+Total pot 357 | Rake 0 
+Board [Ac 6h 6d 3s]
+Seat 1: farmerth (button) folded before Flop (didn't bet)
+Seat 2: ntomat85 (small blind) folded before Flop
+Seat 3: Crackmeier (big blind) folded on the Turn
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh collected (357)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232297968006: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:49:13 CET [2021/12/17 15:49:13 ET]
+Table '3322156803 2' 9-max Seat #2 is the button
+Seat 1: farmerth (1497 in chips) 
+Seat 2: ntomat85 (1487 in chips) 
+Seat 3: Crackmeier (1337 in chips) 
+Seat 4: pedriim879 (1497 in chips) 
+Seat 5: kaDimitris (1497 in chips) 
+Seat 6: Cobinosh (1694 in chips) 
+Seat 7: KeinKönich (1497 in chips) 
+Seat 8: TheGreatRus (1497 in chips) 
+Seat 9: Barellinof (1497 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+Crackmeier: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Kd]
+kaDimitris: raises 20 to 40
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: folds 
+pedriim879: folds 
+Uncalled bet (20) returned to kaDimitris
+kaDimitris collected 77 from pot
+kaDimitris: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 (button) folded before Flop (didn't bet)
+Seat 3: Crackmeier (small blind) folded before Flop
+Seat 4: pedriim879 (big blind) folded before Flop
+Seat 5: kaDimitris collected (77)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232297986142: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:49:50 CET [2021/12/17 15:49:50 ET]
+Table '3322156803 2' 9-max Seat #3 is the button
+Seat 1: farmerth (1494 in chips) 
+Seat 2: ntomat85 (1484 in chips) 
+Seat 3: Crackmeier (1324 in chips) 
+Seat 4: pedriim879 (1474 in chips) 
+Seat 5: kaDimitris (1551 in chips) 
+Seat 6: Cobinosh (1691 in chips) 
+Seat 7: KeinKönich (1494 in chips) 
+Seat 8: TheGreatRus (1494 in chips) 
+Seat 9: Barellinof (1494 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+pedriim879: posts small blind 10
+kaDimitris: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Kd]
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: folds 
+pedriim879: raises 45 to 65
+kaDimitris: folds 
+Uncalled bet (45) returned to pedriim879
+pedriim879 collected 67 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 folded before Flop (didn't bet)
+Seat 3: Crackmeier (button) folded before Flop (didn't bet)
+Seat 4: pedriim879 (small blind) collected (67)
+Seat 5: kaDimitris (big blind) folded before Flop
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232297996586: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:50:11 CET [2021/12/17 15:50:11 ET]
+Table '3322156803 2' 9-max Seat #4 is the button
+Seat 1: farmerth (1491 in chips) 
+Seat 2: ntomat85 (1481 in chips) 
+Seat 3: Crackmeier (1321 in chips) 
+Seat 4: pedriim879 (1518 in chips) 
+Seat 5: kaDimitris (1528 in chips) 
+Seat 6: Cobinosh (1688 in chips) 
+Seat 7: KeinKönich (1491 in chips) 
+Seat 8: TheGreatRus (1491 in chips) 
+Seat 9: Barellinof (1491 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+kaDimitris: posts small blind 10
+Cobinosh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Th]
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: raises 50 to 70
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: folds 
+Uncalled bet (50) returned to Crackmeier
+Crackmeier collected 77 from pot
+Crackmeier: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 folded before Flop (didn't bet)
+Seat 3: Crackmeier collected (77)
+Seat 4: pedriim879 (button) folded before Flop (didn't bet)
+Seat 5: kaDimitris (small blind) folded before Flop
+Seat 6: Cobinosh (big blind) folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298008122: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:50:34 CET [2021/12/17 15:50:34 ET]
+Table '3322156803 2' 9-max Seat #5 is the button
+Seat 1: farmerth (1488 in chips) 
+Seat 2: ntomat85 (1478 in chips) 
+Seat 3: Crackmeier (1375 in chips) 
+Seat 4: pedriim879 (1515 in chips) 
+Seat 5: kaDimitris (1515 in chips) 
+Seat 6: Cobinosh (1665 in chips) 
+Seat 7: KeinKönich (1488 in chips) 
+Seat 8: TheGreatRus (1488 in chips) 
+Seat 9: Barellinof (1488 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+Cobinosh: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh Jh]
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: folds 
+pedriim879: folds 
+Cobinosh is disconnected 
+kaDimitris: folds 
+Cobinosh is connected 
+Cobinosh: calls 10
+KeinKönich: raises 40 to 60
+Cobinosh: raises 160 to 220
+KeinKönich: calls 160
+*** FLOP *** [3s Ks 7c]
+Cobinosh: checks 
+KeinKönich: checks 
+*** TURN *** [3s Ks 7c] [2d]
+Cobinosh: bets 540
+KeinKönich: folds 
+Uncalled bet (540) returned to Cobinosh
+Cobinosh collected 467 from pot
+Cobinosh: doesn't show hand 
+*** SUMMARY ***
+Total pot 467 | Rake 0 
+Board [3s Ks 7c 2d]
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris (button) folded before Flop (didn't bet)
+Seat 6: Cobinosh (small blind) collected (467)
+Seat 7: KeinKönich (big blind) folded on the Turn
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298044178: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:51:47 CET [2021/12/17 15:51:47 ET]
+Table '3322156803 2' 9-max Seat #6 is the button
+Seat 1: farmerth (1485 in chips) 
+Seat 2: ntomat85 (1475 in chips) 
+Seat 3: Crackmeier (1372 in chips) 
+Seat 4: pedriim879 (1512 in chips) 
+Seat 5: kaDimitris (1512 in chips) 
+Seat 6: Cobinosh (1909 in chips) 
+Seat 7: KeinKönich (1265 in chips) 
+Seat 8: TheGreatRus (1485 in chips) 
+Seat 9: Barellinof (1485 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+KeinKönich: posts small blind 10
+TheGreatRus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 4d]
+Barellinof: folds 
+farmerth: folds 
+ntomat85: calls 20
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: checks 
+*** FLOP *** [Ts Ac 7h]
+TheGreatRus: checks 
+ntomat85: checks 
+*** TURN *** [Ts Ac 7h] [9c]
+TheGreatRus: checks 
+ntomat85: bets 40
+TheGreatRus: folds 
+Uncalled bet (40) returned to ntomat85
+ntomat85 collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Board [Ts Ac 7h 9c]
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 collected (77)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: TheGreatRus (big blind) folded on the Turn
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298068430: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:52:36 CET [2021/12/17 15:52:36 ET]
+Table '3322156803 2' 9-max Seat #7 is the button
+Seat 1: farmerth (1482 in chips) 
+Seat 2: ntomat85 (1529 in chips) 
+Seat 3: Crackmeier (1369 in chips) 
+Seat 4: pedriim879 (1509 in chips) 
+Seat 5: kaDimitris (1509 in chips) 
+Seat 6: Cobinosh (1906 in chips) 
+Seat 7: KeinKönich (1252 in chips) 
+Seat 8: TheGreatRus (1462 in chips) 
+Seat 9: Barellinof (1482 in chips) 
+farmerth: posts the ante 3
+ntomat85: posts the ante 3
+Crackmeier: posts the ante 3
+pedriim879: posts the ante 3
+kaDimitris: posts the ante 3
+Cobinosh: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts the ante 3
+Barellinof: posts the ante 3
+TheGreatRus: posts small blind 10
+Barellinof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 6s]
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: folds 
+pedriim879: raises 33 to 53
+kaDimitris: folds 
+Cobinosh: calls 53
+KeinKönich: calls 53
+TheGreatRus: raises 187 to 240
+Barellinof: folds 
+pedriim879: folds 
+Cobinosh: calls 187
+KeinKönich: calls 187
+*** FLOP *** [Ah 5c 4s]
+TheGreatRus: checks 
+Cobinosh: checks 
+KeinKönich: checks 
+*** TURN *** [Ah 5c 4s] [8d]
+TheGreatRus: bets 254
+Cobinosh: calls 254
+KeinKönich: folds 
+*** RIVER *** [Ah 5c 4s 8d] [Tc]
+TheGreatRus: bets 965 and is all-in
+Cobinosh: calls 965
+*** SHOW DOWN ***
+TheGreatRus: shows [Ac Ad] (three of a kind, Aces)
+Cobinosh: shows [4h 4c] (three of a kind, Fours)
+TheGreatRus collected 3258 from pot
+*** SUMMARY ***
+Total pot 3258 | Rake 0 
+Board [Ah 5c 4s 8d Tc]
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh showed [4h 4c] and lost with three of a kind, Fours
+Seat 7: KeinKönich (button) folded on the Turn
+Seat 8: TheGreatRus (small blind) showed [Ac Ad] and won (3258) with three of a kind, Aces
+Seat 9: Barellinof (big blind) folded before Flop
+
+
+
+PokerStars Hand #232298123078: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 21:54:26 CET [2021/12/17 15:54:26 ET]
+Table '3322156803 2' 9-max Seat #8 is the button
+Seat 1: farmerth (1479 in chips) 
+Seat 2: ntomat85 (1526 in chips) 
+Seat 3: Crackmeier (1366 in chips) 
+Seat 4: pedriim879 (1453 in chips) 
+Seat 5: kaDimitris (1506 in chips) 
+Seat 6: Cobinosh (444 in chips) 
+Seat 7: KeinKönich (1009 in chips) 
+Seat 8: TheGreatRus (3258 in chips) 
+Seat 9: Barellinof (1459 in chips) 
+farmerth: posts the ante 4
+ntomat85: posts the ante 4
+Crackmeier: posts the ante 4
+pedriim879: posts the ante 4
+kaDimitris: posts the ante 4
+Cobinosh: posts the ante 4
+KeinKönich: posts the ante 4
+TheGreatRus: posts the ante 4
+Barellinof: posts the ante 4
+Barellinof: posts small blind 15
+farmerth: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh Qc]
+ntomat85: folds 
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: raises 410 to 440 and is all-in
+KeinKönich: raises 565 to 1005 and is all-in
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+Uncalled bet (565) returned to KeinKönich
+*** FLOP *** [9d Ad 4h]
+*** TURN *** [9d Ad 4h] [2c]
+*** RIVER *** [9d Ad 4h 2c] [Jh]
+*** SHOW DOWN ***
+Cobinosh: shows [8c As] (a pair of Aces)
+KeinKönich: shows [Qh Qc] (a pair of Queens)
+Cobinosh collected 961 from pot
+*** SUMMARY ***
+Total pot 961 | Rake 0 
+Board [9d Ad 4h 2c Jh]
+Seat 1: farmerth (big blind) folded before Flop
+Seat 2: ntomat85 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh showed [8c As] and won (961) with a pair of Aces
+Seat 7: KeinKönich showed [Qh Qc] and lost with a pair of Queens
+Seat 8: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 9: Barellinof (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298274040: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:00:30 CET [2021/12/17 16:00:30 ET]
+Table '3322156803 2' 9-max Seat #9 is the button
+Seat 1: farmerth (1445 in chips) 
+Seat 2: ntomat85 (1522 in chips) 
+Seat 3: Crackmeier (1362 in chips) 
+Seat 4: pedriim879 (1449 in chips) 
+Seat 5: kaDimitris (1502 in chips) 
+Seat 6: Cobinosh (961 in chips) 
+Seat 7: KeinKönich (565 in chips) 
+Seat 8: TheGreatRus (3254 in chips) 
+Seat 9: Barellinof (1440 in chips) 
+farmerth: posts the ante 4
+ntomat85: posts the ante 4
+Crackmeier: posts the ante 4
+pedriim879: posts the ante 4
+kaDimitris: posts the ante 4
+Cobinosh: posts the ante 4
+KeinKönich: posts the ante 4
+TheGreatRus: posts the ante 4
+Barellinof: posts the ante 4
+farmerth: posts small blind 15
+ntomat85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Ad]
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: raises 45 to 75
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: calls 45
+*** FLOP *** [2d 3c As]
+ntomat85: checks 
+KeinKönich: bets 101
+ntomat85: folds 
+Uncalled bet (101) returned to KeinKönich
+KeinKönich collected 201 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [2d 3c As]
+Seat 1: farmerth (small blind) folded before Flop
+Seat 2: ntomat85 (big blind) folded on the Flop
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (201)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298300777: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:01:14 CET [2021/12/17 16:01:14 ET]
+Table '3322156803 2' 9-max Seat #1 is the button
+Seat 1: farmerth (1426 in chips) 
+Seat 2: ntomat85 (1443 in chips) 
+Seat 3: Crackmeier (1358 in chips) 
+Seat 4: pedriim879 (1445 in chips) 
+Seat 5: kaDimitris (1498 in chips) 
+Seat 6: Cobinosh (957 in chips) 
+Seat 7: KeinKönich (687 in chips) 
+Seat 8: TheGreatRus (3250 in chips) 
+Seat 9: Barellinof (1436 in chips) 
+farmerth: posts the ante 4
+ntomat85: posts the ante 4
+Crackmeier: posts the ante 4
+pedriim879: posts the ante 4
+kaDimitris: posts the ante 4
+Cobinosh: posts the ante 4
+KeinKönich: posts the ante 4
+TheGreatRus: posts the ante 4
+Barellinof: posts the ante 4
+ntomat85: posts small blind 15
+Crackmeier: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 8h]
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: raises 60 to 90
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: calls 90
+farmerth: folds 
+ntomat85: folds 
+Crackmeier: folds 
+*** FLOP *** [Th Js Jh]
+Cobinosh is connected 
+Cobinosh has timed out
+Cobinosh: checks 
+Barellinof: checks 
+*** TURN *** [Th Js Jh] [8c]
+Cobinosh: bets 210
+Barellinof: calls 210
+*** RIVER *** [Th Js Jh 8c] [9s]
+Cobinosh: bets 180
+Barellinof: folds 
+Uncalled bet (180) returned to Cobinosh
+Cobinosh collected 681 from pot
+Cobinosh: doesn't show hand 
+*** SUMMARY ***
+Total pot 681 | Rake 0 
+Board [Th Js Jh 8c 9s]
+Seat 1: farmerth (button) folded before Flop (didn't bet)
+Seat 2: ntomat85 (small blind) folded before Flop
+Seat 3: Crackmeier (big blind) folded before Flop
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh collected (681)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded on the River
+
+
+
+PokerStars Hand #232298362227: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:03:20 CET [2021/12/17 16:03:20 ET]
+Table '3322156803 2' 9-max Seat #2 is the button
+Seat 1: farmerth (1422 in chips) 
+Seat 2: ntomat85 (1424 in chips) 
+Seat 3: Crackmeier (1324 in chips) 
+Seat 4: pedriim879 (1441 in chips) 
+Seat 5: kaDimitris (1494 in chips) 
+Seat 6: Cobinosh (1334 in chips) 
+Seat 7: KeinKönich (683 in chips) 
+Seat 8: TheGreatRus (3246 in chips) 
+Seat 9: Barellinof (1132 in chips) 
+farmerth: posts the ante 4
+ntomat85: posts the ante 4
+Crackmeier: posts the ante 4
+pedriim879: posts the ante 4
+kaDimitris: posts the ante 4
+Cobinosh: posts the ante 4
+KeinKönich: posts the ante 4
+TheGreatRus: posts the ante 4
+Barellinof: posts the ante 4
+Crackmeier: posts small blind 15
+pedriim879: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 6d]
+kaDimitris: raises 30 to 60
+Cobinosh: calls 60
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+ntomat85: calls 60
+Crackmeier: folds 
+pedriim879: raises 150 to 210
+kaDimitris: folds 
+Cobinosh: calls 150
+ntomat85: calls 150
+*** FLOP *** [5s 8h 9s]
+pedriim879: bets 390
+Cobinosh: folds 
+ntomat85: raises 540 to 930
+pedriim879: raises 297 to 1227 and is all-in
+ntomat85: calls 280 and is all-in
+Uncalled bet (17) returned to pedriim879
+*** TURN *** [5s 8h 9s] [5c]
+*** RIVER *** [5s 8h 9s 5c] [8s]
+*** SHOW DOWN ***
+pedriim879: shows [Qc Qh] (two pair, Queens and Eights)
+ntomat85: shows [9d Jd] (two pair, Nines and Eights)
+pedriim879 collected 3161 from pot
+ntomat85 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 3161 | Rake 0 
+Board [5s 8h 9s 5c 8s]
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 2: ntomat85 (button) showed [9d Jd] and lost with two pair, Nines and Eights
+Seat 3: Crackmeier (small blind) folded before Flop
+Seat 4: pedriim879 (big blind) showed [Qc Qh] and won (3161) with two pair, Queens and Eights
+Seat 5: kaDimitris folded before Flop
+Seat 6: Cobinosh folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298399982: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:04:36 CET [2021/12/17 16:04:36 ET]
+Table '3322156803 2' 9-max Seat #3 is the button
+Seat 1: farmerth (1418 in chips) 
+Seat 3: Crackmeier (1305 in chips) 
+Seat 4: pedriim879 (3178 in chips) 
+Seat 5: kaDimitris (1430 in chips) 
+Seat 6: Cobinosh (1120 in chips) 
+Seat 7: KeinKönich (679 in chips) 
+Seat 8: TheGreatRus (3242 in chips) 
+Seat 9: Barellinof (1128 in chips) 
+farmerth: posts the ante 6
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+pedriim879: posts small blind 25
+kaDimitris: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 7c]
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: folds 
+Crackmeier: folds 
+pedriim879: folds 
+Uncalled bet (25) returned to kaDimitris
+kaDimitris collected 98 from pot
+kaDimitris: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: farmerth folded before Flop (didn't bet)
+Seat 3: Crackmeier (button) folded before Flop (didn't bet)
+Seat 4: pedriim879 (small blind) folded before Flop
+Seat 5: kaDimitris (big blind) collected (98)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298409957: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:04:56 CET [2021/12/17 16:04:56 ET]
+Table '3322156803 2' 9-max Seat #4 is the button
+Seat 1: farmerth (1412 in chips) 
+Seat 3: Crackmeier (1299 in chips) 
+Seat 4: pedriim879 (3147 in chips) 
+Seat 5: kaDimitris (1497 in chips) 
+Seat 6: Cobinosh (1114 in chips) 
+Seat 7: KeinKönich (673 in chips) 
+Seat 8: TheGreatRus (3236 in chips) 
+Seat 9: Barellinof (1122 in chips) 
+farmerth: posts the ante 6
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+kaDimitris: posts small blind 25
+Cobinosh: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 3d]
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+farmerth: calls 50
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris has timed out
+kaDimitris: folds 
+kaDimitris is sitting out
+Cobinosh: checks 
+*** FLOP *** [7h 3c 6d]
+Cobinosh: checks 
+farmerth: bets 87
+Cobinosh: raises 263 to 350
+farmerth: raises 1006 to 1356 and is all-in
+Cobinosh: calls 708 and is all-in
+Uncalled bet (298) returned to farmerth
+*** TURN *** [7h 3c 6d] [Qs]
+*** RIVER *** [7h 3c 6d Qs] [Ks]
+*** SHOW DOWN ***
+Cobinosh: shows [7s 2s] (a pair of Sevens)
+farmerth: shows [5h 5c] (a pair of Fives)
+Cobinosh collected 2289 from pot
+*** SUMMARY ***
+Total pot 2289 | Rake 0 
+Board [7h 3c 6d Qs Ks]
+Seat 1: farmerth showed [5h 5c] and lost with a pair of Fives
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 (button) folded before Flop (didn't bet)
+Seat 5: kaDimitris (small blind) folded before Flop
+Seat 6: Cobinosh (big blind) showed [7s 2s] and won (2289) with a pair of Sevens
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298439065: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:05:54 CET [2021/12/17 16:05:54 ET]
+Table '3322156803 2' 9-max Seat #5 is the button
+Seat 1: farmerth (298 in chips) 
+Seat 3: Crackmeier (1293 in chips) 
+Seat 4: pedriim879 (3141 in chips) 
+Seat 5: kaDimitris (1466 in chips) is sitting out
+Seat 6: Cobinosh (2289 in chips) 
+Seat 7: KeinKönich (667 in chips) 
+Seat 8: TheGreatRus (3230 in chips) 
+Seat 9: Barellinof (1116 in chips) 
+farmerth: posts the ante 6
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+Cobinosh: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 8h]
+TheGreatRus: folds 
+Barellinof: raises 62 to 112
+farmerth: raises 180 to 292 and is all-in
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: calls 267
+KeinKönich: folds 
+Barellinof: raises 818 to 1110 and is all-in
+Cobinosh: calls 818
+*** FLOP *** [6h As 2h]
+*** TURN *** [6h As 2h] [6d]
+*** RIVER *** [6h As 2h 6d] [2d]
+*** SHOW DOWN ***
+Cobinosh: shows [Tc 9c] (two pair, Sixes and Deuces)
+Barellinof: shows [Jd Ad] (two pair, Aces and Sixes)
+Barellinof collected 1636 from side pot
+farmerth: shows [8d 7d] (two pair, Sixes and Deuces)
+Barellinof collected 974 from main pot
+farmerth finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 2610 Main pot 974. Side pot 1636. | Rake 0 
+Board [6h As 2h 6d 2d]
+Seat 1: farmerth showed [8d 7d] and lost with two pair, Sixes and Deuces
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris (button) folded before Flop (didn't bet)
+Seat 6: Cobinosh (small blind) showed [Tc 9c] and lost with two pair, Sixes and Deuces
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof showed [Jd Ad] and won (2610) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #232298460268: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:06:36 CET [2021/12/17 16:06:36 ET]
+Table '3322156803 2' 9-max Seat #6 is the button
+Seat 3: Crackmeier (1287 in chips) 
+Seat 4: pedriim879 (3135 in chips) 
+Seat 5: kaDimitris (1460 in chips) is sitting out
+Seat 6: Cobinosh (1173 in chips) 
+Seat 7: KeinKönich (611 in chips) 
+Seat 8: TheGreatRus (3224 in chips) 
+Seat 9: Barellinof (2610 in chips) 
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+KeinKönich: posts small blind 25
+TheGreatRus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Ad]
+Barellinof: folds 
+Crackmeier: folds 
+pedriim879: raises 74 to 124
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: raises 481 to 605 and is all-in
+TheGreatRus: folds 
+pedriim879: calls 481
+*** FLOP *** [Kd 5d 7c]
+*** TURN *** [Kd 5d 7c] [Kc]
+*** RIVER *** [Kd 5d 7c Kc] [9h]
+*** SHOW DOWN ***
+KeinKönich: shows [9c Ad] (two pair, Kings and Nines)
+pedriim879: shows [Ac Jh] (a pair of Kings)
+KeinKönich collected 1302 from pot
+*** SUMMARY ***
+Total pot 1302 | Rake 0 
+Board [Kd 5d 7c Kc 9h]
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 showed [Ac Jh] and lost with a pair of Kings
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) showed [9c Ad] and won (1302) with two pair, Kings and Nines
+Seat 8: TheGreatRus (big blind) folded before Flop
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298486435: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:07:28 CET [2021/12/17 16:07:28 ET]
+Table '3322156803 2' 9-max Seat #7 is the button
+Seat 1: mansiz9 (1698 in chips) 
+Seat 3: Crackmeier (1281 in chips) 
+Seat 4: pedriim879 (2524 in chips) 
+Seat 5: kaDimitris (1454 in chips) is sitting out
+Seat 6: Cobinosh (1167 in chips) 
+Seat 7: KeinKönich (1302 in chips) 
+Seat 8: TheGreatRus (3168 in chips) 
+Seat 9: Barellinof (2604 in chips) 
+mansiz9: posts the ante 6
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+TheGreatRus: posts small blind 25
+Barellinof: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d As]
+mansiz9: folds 
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: raises 100 to 150
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+Uncalled bet (100) returned to Cobinosh
+Cobinosh collected 173 from pot
+Cobinosh: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: mansiz9 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh collected (173)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: TheGreatRus (small blind) folded before Flop
+Seat 9: Barellinof (big blind) folded before Flop
+
+
+
+PokerStars Hand #232298500824: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:07:56 CET [2021/12/17 16:07:56 ET]
+Table '3322156803 2' 9-max Seat #8 is the button
+Seat 1: mansiz9 (1692 in chips) 
+Seat 3: Crackmeier (1275 in chips) 
+Seat 4: pedriim879 (2518 in chips) 
+Seat 5: kaDimitris (1448 in chips) is sitting out
+Seat 6: Cobinosh (1284 in chips) 
+Seat 7: KeinKönich (1296 in chips) 
+Seat 8: TheGreatRus (3137 in chips) 
+Seat 9: Barellinof (2548 in chips) 
+mansiz9: posts the ante 6
+Crackmeier: posts the ante 6
+pedriim879: posts the ante 6
+kaDimitris: posts the ante 6
+Cobinosh: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts the ante 6
+Barellinof: posts the ante 6
+Barellinof: posts small blind 25
+mansiz9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 5d]
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: raises 50 to 100
+Barellinof: folds 
+mansiz9: calls 50
+*** FLOP *** [7h Ks 6h]
+mansiz9: checks 
+TheGreatRus: bets 100
+mansiz9: folds 
+Uncalled bet (100) returned to TheGreatRus
+TheGreatRus collected 273 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [7h Ks 6h]
+Seat 1: mansiz9 (big blind) folded on the Flop
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus (button) collected (273)
+Seat 9: Barellinof (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298528930: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:08:52 CET [2021/12/17 16:08:52 ET]
+Table '3322156803 2' 9-max Seat #9 is the button
+Seat 1: mansiz9 (1586 in chips) 
+Seat 3: Crackmeier (1269 in chips) 
+Seat 4: pedriim879 (2512 in chips) 
+Seat 5: kaDimitris (1442 in chips) is sitting out
+Seat 6: Cobinosh (1278 in chips) 
+Seat 7: KeinKönich (1290 in chips) 
+Seat 8: TheGreatRus (3304 in chips) 
+Seat 9: Barellinof (2517 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+Cobinosh: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+mansiz9: posts small blind 40
+Crackmeier: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 5c]
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: raises 80 to 160
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 280 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: mansiz9 (small blind) folded before Flop
+Seat 3: Crackmeier (big blind) folded before Flop
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (280)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298551341: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:09:36 CET [2021/12/17 16:09:36 ET]
+Table '3322156803 2' 9-max Seat #1 is the button
+Seat 1: mansiz9 (1536 in chips) 
+Seat 3: Crackmeier (1179 in chips) 
+Seat 4: pedriim879 (2502 in chips) 
+Seat 5: kaDimitris (1432 in chips) is sitting out
+Seat 6: Cobinosh (1268 in chips) 
+Seat 7: KeinKönich (1480 in chips) 
+Seat 8: TheGreatRus (3294 in chips) 
+Seat 9: Barellinof (2507 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+Cobinosh: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+Crackmeier: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Qs]
+kaDimitris: folds 
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: raises 80 to 160
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: folds 
+pedriim879: calls 80
+*** FLOP *** [5h Kh Ad]
+pedriim879: checks 
+TheGreatRus: bets 238
+pedriim879: folds 
+Uncalled bet (238) returned to TheGreatRus
+TheGreatRus collected 440 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [5h Kh Ad]
+Seat 1: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: Crackmeier (small blind) folded before Flop
+Seat 4: pedriim879 (big blind) folded on the Flop
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus collected (440)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298569251: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:10:12 CET [2021/12/17 16:10:12 ET]
+Table '3322156803 2' 9-max Seat #3 is the button
+Seat 1: mansiz9 (1526 in chips) 
+Seat 3: Crackmeier (1129 in chips) 
+Seat 4: pedriim879 (2332 in chips) 
+Seat 5: kaDimitris (1422 in chips) is sitting out
+Seat 6: Cobinosh (1258 in chips) 
+Seat 7: KeinKönich (1470 in chips) 
+Seat 8: TheGreatRus (3564 in chips) 
+Seat 9: Barellinof (2497 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+Cobinosh: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+pedriim879: posts small blind 40
+kaDimitris: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 4h]
+Cobinosh: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: raises 160 to 240
+pedriim879: folds 
+kaDimitris: folds 
+Uncalled bet (160) returned to Crackmeier
+Crackmeier collected 280 from pot
+Crackmeier: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: mansiz9 folded before Flop (didn't bet)
+Seat 3: Crackmeier (button) collected (280)
+Seat 4: pedriim879 (small blind) folded before Flop
+Seat 5: kaDimitris (big blind) folded before Flop
+Seat 6: Cobinosh folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298580153: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:10:34 CET [2021/12/17 16:10:34 ET]
+Table '3322156803 2' 9-max Seat #4 is the button
+Seat 1: mansiz9 (1516 in chips) 
+Seat 3: Crackmeier (1319 in chips) 
+Seat 4: pedriim879 (2282 in chips) 
+Seat 5: kaDimitris (1332 in chips) is sitting out
+Seat 6: Cobinosh (1248 in chips) 
+Seat 7: KeinKönich (1460 in chips) 
+Seat 8: TheGreatRus (3554 in chips) 
+Seat 9: Barellinof (2487 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+Cobinosh: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+kaDimitris: posts small blind 40
+Cobinosh: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td Kd]
+KeinKönich: folds 
+TheGreatRus: raises 80 to 160
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: calls 160
+pedriim879: folds 
+kaDimitris: folds 
+Cobinosh: calls 80
+*** FLOP *** [2s 9h Ac]
+Cobinosh: checks 
+TheGreatRus: bets 186
+Crackmeier: folds 
+Cobinosh: calls 186
+*** TURN *** [2s 9h Ac] [5s]
+Cobinosh: bets 892 and is all-in
+TheGreatRus: calls 892
+*** RIVER *** [2s 9h Ac 5s] [Ts]
+*** SHOW DOWN ***
+Cobinosh: shows [5d 4d] (a pair of Fives)
+TheGreatRus: shows [Jh Ah] (a pair of Aces)
+TheGreatRus collected 2756 from pot
+Cobinosh finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2756 | Rake 0 
+Board [2s 9h Ac 5s Ts]
+Seat 1: mansiz9 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded on the Flop
+Seat 4: pedriim879 (button) folded before Flop (didn't bet)
+Seat 5: kaDimitris (small blind) folded before Flop
+Seat 6: Cobinosh (big blind) showed [5d 4d] and lost with a pair of Fives
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus showed [Jh Ah] and won (2756) with a pair of Aces
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298607882: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:11:31 CET [2021/12/17 16:11:31 ET]
+Table '3322156803 2' 9-max Seat #5 is the button
+Seat 1: mansiz9 (1506 in chips) 
+Seat 3: Crackmeier (1149 in chips) 
+Seat 4: pedriim879 (2272 in chips) 
+Seat 5: kaDimitris (1282 in chips) is sitting out
+Seat 7: KeinKönich (1450 in chips) 
+Seat 8: TheGreatRus (5062 in chips) 
+Seat 9: Barellinof (2477 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+KeinKönich: posts small blind 40
+TheGreatRus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Tc]
+Barellinof: folds 
+mansiz9: raises 80 to 160
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Uncalled bet (80) returned to mansiz9
+mansiz9 collected 270 from pot
+mansiz9: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: mansiz9 collected (270)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: TheGreatRus (big blind) folded before Flop
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298616374: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:11:48 CET [2021/12/17 16:11:48 ET]
+Table '3322156803 2' 9-max Seat #7 is the button
+Seat 1: mansiz9 (1686 in chips) 
+Seat 3: Crackmeier (1139 in chips) 
+Seat 4: pedriim879 (2262 in chips) 
+Seat 5: kaDimitris (1272 in chips) is sitting out
+Seat 7: KeinKönich (1400 in chips) 
+Seat 8: TheGreatRus (4972 in chips) 
+Seat 9: Barellinof (2467 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+TheGreatRus: posts small blind 40
+Barellinof: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 3h]
+mansiz9: folds 
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Uncalled bet (40) returned to Barellinof
+Barellinof collected 150 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mansiz9 folded before Flop (didn't bet)
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: TheGreatRus (small blind) folded before Flop
+Seat 9: Barellinof (big blind) collected (150)
+
+
+
+PokerStars Hand #232298627839: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:11 CET [2021/12/17 16:12:11 ET]
+Table '3322156803 2' 9-max Seat #8 is the button
+Seat 1: mansiz9 (1676 in chips) 
+Seat 3: Crackmeier (1129 in chips) 
+Seat 4: pedriim879 (2252 in chips) 
+Seat 5: kaDimitris (1262 in chips) is sitting out
+Seat 7: KeinKönich (1390 in chips) 
+Seat 8: TheGreatRus (4922 in chips) 
+Seat 9: Barellinof (2567 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+Barellinof: posts small blind 40
+mansiz9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 2h]
+Crackmeier: raises 200 to 280
+pedriim879: folds 
+kaDimitris: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: folds 
+Uncalled bet (200) returned to Crackmeier
+Crackmeier collected 270 from pot
+Crackmeier: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: mansiz9 (big blind) folded before Flop
+Seat 3: Crackmeier collected (270)
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 9: Barellinof (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298640641: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:37 CET [2021/12/17 16:12:37 ET]
+Table '3322156803 2' 9-max Seat #9 is the button
+Seat 1: mansiz9 (1586 in chips) 
+Seat 3: Crackmeier (1309 in chips) 
+Seat 4: pedriim879 (2242 in chips) 
+Seat 5: kaDimitris (1252 in chips) is sitting out
+Seat 7: KeinKönich (1380 in chips) 
+Seat 8: TheGreatRus (4912 in chips) 
+Seat 9: Barellinof (2517 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+mansiz9: posts small blind 40
+Crackmeier: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Ad]
+pedriim879: folds 
+kaDimitris: folds 
+KeinKönich: raises 80 to 160
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 270 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: mansiz9 (small blind) folded before Flop
+Seat 3: Crackmeier (big blind) folded before Flop
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (270)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298651232: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:59 CET [2021/12/17 16:12:59 ET]
+Table '3322156803 2' 9-max Seat #1 is the button
+Seat 1: mansiz9 (1536 in chips) 
+Seat 3: Crackmeier (1219 in chips) 
+Seat 4: pedriim879 (2232 in chips) 
+Seat 5: kaDimitris (1242 in chips) is sitting out
+Seat 7: KeinKönich (1560 in chips) 
+Seat 8: TheGreatRus (4902 in chips) 
+Seat 9: Barellinof (2507 in chips) 
+mansiz9: posts the ante 10
+Crackmeier: posts the ante 10
+pedriim879: posts the ante 10
+kaDimitris: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts the ante 10
+Barellinof: posts the ante 10
+Crackmeier: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c Jd]
+kaDimitris: folds 
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: raises 80 to 160
+mansiz9: raises 1366 to 1526 and is all-in
+Crackmeier: folds 
+pedriim879: folds 
+Barellinof: folds 
+Uncalled bet (1366) returned to mansiz9
+mansiz9 collected 510 from pot
+mansiz9: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: mansiz9 (button) collected (510)
+Seat 3: Crackmeier (small blind) folded before Flop
+Seat 4: pedriim879 (big blind) folded before Flop
+Seat 5: kaDimitris folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop
+
+
+
+PokerStars Hand #232298669208: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:13:36 CET [2021/12/17 16:13:36 ET]
+Table '3322156803 2' 9-max Seat #3 is the button
+Seat 1: mansiz9 (1876 in chips) 
+Seat 3: Crackmeier (1169 in chips) 
+Seat 4: pedriim879 (2142 in chips) 
+Seat 5: kaDimitris (1232 in chips) is sitting out
+Seat 7: KeinKönich (1550 in chips) 
+Seat 8: TheGreatRus (4892 in chips) 
+Seat 9: Barellinof (2337 in chips) 
+mansiz9: posts the ante 15
+Crackmeier: posts the ante 15
+pedriim879: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+TheGreatRus: posts the ante 15
+Barellinof: posts the ante 15
+pedriim879: posts small blind 60
+kaDimitris: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c Td]
+KeinKönich: folds 
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: folds 
+Crackmeier: raises 1034 to 1154 and is all-in
+pedriim879: folds 
+kaDimitris: folds 
+Uncalled bet (1034) returned to Crackmeier
+Crackmeier collected 405 from pot
+Crackmeier: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: mansiz9 folded before Flop (didn't bet)
+Seat 3: Crackmeier (button) collected (405)
+Seat 4: pedriim879 (small blind) folded before Flop
+Seat 5: kaDimitris (big blind) folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298683513: Tournament #3322156803, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 22:14:05 CET [2021/12/17 16:14:05 ET]
+Table '3322156803 2' 9-max Seat #4 is the button
+Seat 1: mansiz9 (1861 in chips) 
+Seat 3: Crackmeier (1439 in chips) 
+Seat 4: pedriim879 (2067 in chips) 
+Seat 5: kaDimitris (1097 in chips) is sitting out
+Seat 7: KeinKönich (1535 in chips) 
+Seat 8: TheGreatRus (4877 in chips) 
+Seat 9: Barellinof (2322 in chips) 
+mansiz9: posts the ante 15
+Crackmeier: posts the ante 15
+pedriim879: posts the ante 15
+kaDimitris: posts the ante 15
+KeinKönich: posts the ante 15
+TheGreatRus: posts the ante 15
+Barellinof: posts the ante 15
+kaDimitris: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 9s]
+TheGreatRus: folds 
+Barellinof: folds 
+mansiz9: raises 120 to 240
+Crackmeier: folds 
+pedriim879: folds 
+kaDimitris: folds 
+KeinKönich: raises 1280 to 1520 and is all-in
+mansiz9: calls 1280
+*** FLOP *** [7c 6s Th]
+*** TURN *** [7c 6s Th] [Kd]
+*** RIVER *** [7c 6s Th Kd] [3h]
+*** SHOW DOWN ***
+KeinKönich: shows [9d 9s] (a pair of Nines)
+mansiz9: shows [Ad As] (a pair of Aces)
+mansiz9 collected 3205 from pot
+KeinKönich finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 3205 | Rake 0 
+Board [7c 6s Th Kd 3h]
+Seat 1: mansiz9 showed [Ad As] and won (3205) with a pair of Aces
+Seat 3: Crackmeier folded before Flop (didn't bet)
+Seat 4: pedriim879 (button) folded before Flop (didn't bet)
+Seat 5: kaDimitris (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) showed [9d 9s] and lost with a pair of Nines
+Seat 8: TheGreatRus folded before Flop (didn't bet)
+Seat 9: Barellinof folded before Flop (didn't bet)
+
+
+

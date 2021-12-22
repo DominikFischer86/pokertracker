@@ -1,0 +1,959 @@
+ï»¿PokerStars Hand #232298840529: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:19:15 CET [2021/12/17 16:19:15 ET]
+Table '3322178759 2' 9-max Seat #1 is the button
+Seat 1: Chicano96 (1500 in chips) 
+Seat 2: bakro83 (1500 in chips) 
+Seat 3: TheGreatRus (1500 in chips) 
+Seat 4: goiano89 (1500 in chips) 
+Seat 5: Benjo343 (1500 in chips) 
+Seat 6: tojuska7 (1500 in chips) 
+Seat 7: Borgesgr (1500 in chips) 
+Seat 8: HanHeyes (1500 in chips) 
+Seat 9: KeinKönich (1500 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+bakro83: posts small blind 10
+TheGreatRus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 3h]
+Borgesgr is disconnected 
+goiano89: folds 
+Benjo343: folds 
+tojuska7: raises 20 to 40
+Borgesgr has timed out while disconnected
+Borgesgr: folds 
+Borgesgr is sitting out
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: folds 
+TheGreatRus: calls 20
+*** FLOP *** [9d Qh 5c]
+TheGreatRus: checks 
+tojuska7: checks 
+*** TURN *** [9d Qh 5c] [Td]
+TheGreatRus: checks 
+tojuska7: bets 80
+TheGreatRus: folds 
+Uncalled bet (80) returned to tojuska7
+tojuska7 collected 117 from pot
+tojuska7: doesn't show hand 
+*** SUMMARY ***
+Total pot 117 | Rake 0 
+Board [9d Qh 5c Td]
+Seat 1: Chicano96 (button) folded before Flop (didn't bet)
+Seat 2: bakro83 (small blind) folded before Flop
+Seat 3: TheGreatRus (big blind) folded on the Turn
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 collected (117)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298877097: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:20:27 CET [2021/12/17 16:20:27 ET]
+Table '3322178759 2' 9-max Seat #2 is the button
+Seat 1: Chicano96 (1497 in chips) 
+Seat 2: bakro83 (1487 in chips) 
+Seat 3: TheGreatRus (1457 in chips) 
+Seat 4: goiano89 (1497 in chips) 
+Seat 5: Benjo343 (1497 in chips) 
+Seat 6: tojuska7 (1574 in chips) 
+Seat 7: Borgesgr (1497 in chips) is sitting out
+Seat 8: HanHeyes (1497 in chips) 
+Seat 9: KeinKönich (1497 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts small blind 10
+goiano89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 2s]
+Benjo343: folds 
+tojuska7: calls 20
+Borgesgr: folds 
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: calls 20
+TheGreatRus: folds 
+goiano89: checks 
+*** FLOP *** [3d 9s Js]
+goiano89: checks 
+tojuska7: checks 
+bakro83: checks 
+*** TURN *** [3d 9s Js] [7d]
+Benjo343 is sitting out
+goiano89: checks 
+tojuska7: bets 80
+bakro83: calls 80
+goiano89: folds 
+*** RIVER *** [3d 9s Js 7d] [Ks]
+tojuska7: bets 120
+bakro83: calls 120
+*** SHOW DOWN ***
+tojuska7: shows [Ah 9c] (a pair of Nines)
+bakro83: shows [Kc Qh] (a pair of Kings)
+bakro83 collected 497 from pot
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Board [3d 9s Js 7d Ks]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 (button) showed [Kc Qh] and won (497) with a pair of Kings
+Seat 3: TheGreatRus (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded on the Turn
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 showed [Ah 9c] and lost with a pair of Nines
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298923410: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:21:44 CET [2021/12/17 16:21:44 ET]
+Table '3322178759 2' 9-max Seat #3 is the button
+Seat 1: Chicano96 (1494 in chips) 
+Seat 2: bakro83 (1761 in chips) 
+Seat 3: TheGreatRus (1444 in chips) 
+Seat 4: goiano89 (1474 in chips) 
+Seat 5: Benjo343 (1494 in chips) is sitting out
+Seat 6: tojuska7 (1351 in chips) 
+Seat 7: Borgesgr (1494 in chips) is sitting out
+Seat 8: HanHeyes (1494 in chips) 
+Seat 9: KeinKönich (1494 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts small blind 10
+Benjo343: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Js]
+tojuska7: folds 
+Borgesgr: folds 
+HanHeyes: folds 
+KeinKönich: raises 40 to 60
+Chicano96: folds 
+bakro83: folds 
+TheGreatRus: folds 
+Benjo343 has returned
+goiano89: calls 50
+Borgesgr has returned
+Benjo343: folds 
+*** FLOP *** [Qd 5h Ah]
+goiano89: checks 
+KeinKönich: bets 90
+goiano89: folds 
+Uncalled bet (90) returned to KeinKönich
+KeinKönich collected 167 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Qd 5h Ah]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 3: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded on the Flop
+Seat 5: Benjo343 (big blind) folded before Flop
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (167)
+
+
+
+PokerStars Hand #232298940838: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:22:19 CET [2021/12/17 16:22:19 ET]
+Table '3322178759 2' 9-max Seat #4 is the button
+Seat 1: Chicano96 (1491 in chips) 
+Seat 2: bakro83 (1758 in chips) 
+Seat 3: TheGreatRus (1441 in chips) 
+Seat 4: goiano89 (1411 in chips) 
+Seat 5: Benjo343 (1471 in chips) 
+Seat 6: tojuska7 (1348 in chips) 
+Seat 7: Borgesgr (1491 in chips) 
+Seat 8: HanHeyes (1491 in chips) 
+Seat 9: KeinKönich (1598 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+Benjo343: posts small blind 10
+tojuska7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s Qd]
+Borgesgr is disconnected 
+Borgesgr is connected 
+Borgesgr has timed out
+Borgesgr: folds 
+Borgesgr is sitting out
+Borgesgr has returned
+Borgesgr is disconnected 
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: raises 40 to 60
+bakro83: folds 
+TheGreatRus: folds 
+goiano89: folds 
+Benjo343: raises 170 to 230
+tojuska7: folds 
+Borgesgr is disconnected 
+Chicano96: folds 
+Uncalled bet (170) returned to Benjo343
+Benjo343 collected 167 from pot
+Benjo343: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: Chicano96 folded before Flop
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: Benjo343 (small blind) collected (167)
+Seat 6: tojuska7 (big blind) folded before Flop
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298973586: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:23:22 CET [2021/12/17 16:23:22 ET]
+Table '3322178759 2' 9-max Seat #5 is the button
+Seat 1: Chicano96 (1428 in chips) 
+Seat 2: bakro83 (1755 in chips) 
+Seat 3: TheGreatRus (1438 in chips) 
+Seat 4: goiano89 (1408 in chips) 
+Seat 5: Benjo343 (1575 in chips) 
+Seat 6: tojuska7 (1325 in chips) 
+Seat 7: Borgesgr (1488 in chips) 
+Seat 8: HanHeyes (1488 in chips) 
+Seat 9: KeinKönich (1595 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+tojuska7: posts small blind 10
+Borgesgr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 2c]
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: raises 40 to 60
+bakro83: folds 
+TheGreatRus: folds 
+Borgesgr is disconnected 
+goiano89: folds 
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr is connected 
+Borgesgr has timed out
+Borgesgr: folds 
+Borgesgr is sitting out
+Uncalled bet (40) returned to Chicano96
+Chicano96 collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Chicano96 collected (77)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 (button) folded before Flop (didn't bet)
+Seat 6: tojuska7 (small blind) folded before Flop
+Seat 7: Borgesgr (big blind) folded before Flop
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298996681: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:24:07 CET [2021/12/17 16:24:07 ET]
+Table '3322178759 2' 9-max Seat #6 is the button
+Seat 1: Chicano96 (1482 in chips) 
+Seat 2: bakro83 (1752 in chips) 
+Seat 3: TheGreatRus (1435 in chips) 
+Seat 4: goiano89 (1405 in chips) 
+Seat 5: Benjo343 (1572 in chips) 
+Seat 6: tojuska7 (1312 in chips) 
+Seat 7: Borgesgr (1465 in chips) is sitting out
+Seat 8: HanHeyes (1485 in chips) 
+Seat 9: KeinKönich (1592 in chips) 
+Chicano96: posts the ante 3
+bakro83: posts the ante 3
+TheGreatRus: posts the ante 3
+goiano89: posts the ante 3
+Benjo343: posts the ante 3
+tojuska7: posts the ante 3
+Borgesgr: posts the ante 3
+HanHeyes: posts the ante 3
+KeinKönich: posts the ante 3
+Borgesgr: posts small blind 10
+HanHeyes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Qd]
+Borgesgr has returned
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: folds 
+TheGreatRus: folds 
+goiano89: raises 40 to 60
+Benjo343: folds 
+tojuska7 has timed out
+tojuska7: folds 
+tojuska7 is sitting out
+tojuska7 has returned
+Borgesgr: folds 
+HanHeyes: folds 
+Uncalled bet (40) returned to goiano89
+goiano89 collected 77 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: goiano89 collected (77)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 (button) folded before Flop (didn't bet)
+Seat 7: Borgesgr (small blind) folded before Flop
+Seat 8: HanHeyes (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299027559: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:25:08 CET [2021/12/17 16:25:08 ET]
+Table '3322178759 2' 9-max Seat #7 is the button
+Seat 1: Chicano96 (1479 in chips) 
+Seat 2: bakro83 (1749 in chips) 
+Seat 3: TheGreatRus (1432 in chips) 
+Seat 4: goiano89 (1459 in chips) 
+Seat 5: Benjo343 (1569 in chips) 
+Seat 6: tojuska7 (1309 in chips) 
+Seat 7: Borgesgr (1452 in chips) 
+Seat 8: HanHeyes (1462 in chips) 
+Seat 9: KeinKönich (1589 in chips) 
+Chicano96: posts the ante 4
+bakro83: posts the ante 4
+TheGreatRus: posts the ante 4
+goiano89: posts the ante 4
+Benjo343: posts the ante 4
+tojuska7: posts the ante 4
+Borgesgr: posts the ante 4
+HanHeyes: posts the ante 4
+KeinKönich: posts the ante 4
+HanHeyes: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 7h]
+Chicano96: folds 
+bakro83: folds 
+TheGreatRus: folds 
+goiano89: folds 
+Benjo343: folds 
+tojuska7: raises 30 to 60
+Borgesgr: folds 
+HanHeyes: calls 45
+KeinKönich: folds 
+*** FLOP *** [3c Qh 9s]
+HanHeyes: bets 93
+tojuska7: calls 93
+*** TURN *** [3c Qh 9s] [5c]
+HanHeyes: bets 120
+tojuska7: calls 120
+*** RIVER *** [3c Qh 9s 5c] [Kc]
+HanHeyes: bets 245
+tojuska7: folds 
+Uncalled bet (245) returned to HanHeyes
+HanHeyes collected 612 from pot
+HanHeyes: doesn't show hand 
+*** SUMMARY ***
+Total pot 612 | Rake 0 
+Board [3c Qh 9s 5c Kc]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded on the River
+Seat 7: Borgesgr (button) folded before Flop (didn't bet)
+Seat 8: HanHeyes (small blind) collected (612)
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299059058: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:26:10 CET [2021/12/17 16:26:10 ET]
+Table '3322178759 2' 9-max Seat #8 is the button
+Seat 1: Chicano96 (1475 in chips) 
+Seat 2: bakro83 (1745 in chips) 
+Seat 4: goiano89 (1455 in chips) 
+Seat 5: Benjo343 (1565 in chips) 
+Seat 6: tojuska7 (1032 in chips) 
+Seat 7: Borgesgr (1448 in chips) 
+Seat 8: HanHeyes (1797 in chips) 
+Seat 9: KeinKönich (1555 in chips) 
+Chicano96: posts the ante 4
+bakro83: posts the ante 4
+goiano89: posts the ante 4
+Benjo343: posts the ante 4
+tojuska7: posts the ante 4
+Borgesgr: posts the ante 4
+HanHeyes: posts the ante 4
+KeinKönich: posts the ante 4
+KeinKönich: posts small blind 15
+Chicano96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 6h]
+bakro83: raises 30 to 60
+goiano89: folds 
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr: calls 60
+HanHeyes: calls 60
+KeinKönich: folds 
+Chicano96: calls 30
+*** FLOP *** [4d 8d As]
+Chicano96: checks 
+bakro83: checks 
+Borgesgr: checks 
+HanHeyes: checks 
+*** TURN *** [4d 8d As] [4c]
+Chicano96: checks 
+bakro83: checks 
+Borgesgr: bets 180
+HanHeyes: folds 
+Chicano96: folds 
+bakro83: folds 
+Uncalled bet (180) returned to Borgesgr
+Borgesgr collected 287 from pot
+Borgesgr: doesn't show hand 
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [4d 8d As 4c]
+Seat 1: Chicano96 (big blind) folded on the Turn
+Seat 2: bakro83 folded on the Turn
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr collected (287)
+Seat 8: HanHeyes (button) folded on the Turn
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232299092849: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:27:16 CET [2021/12/17 16:27:16 ET]
+Table '3322178759 2' 9-max Seat #9 is the button
+Seat 1: Chicano96 (1411 in chips) 
+Seat 2: bakro83 (1681 in chips) 
+Seat 4: goiano89 (1451 in chips) 
+Seat 5: Benjo343 (1561 in chips) 
+Seat 6: tojuska7 (1028 in chips) 
+Seat 7: Borgesgr (1671 in chips) 
+Seat 8: HanHeyes (1733 in chips) 
+Seat 9: KeinKönich (1536 in chips) 
+Chicano96: posts the ante 4
+bakro83: posts the ante 4
+goiano89: posts the ante 4
+Benjo343: posts the ante 4
+tojuska7: posts the ante 4
+Borgesgr: posts the ante 4
+HanHeyes: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts small blind 15
+bakro83: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Qd]
+goiano89: folds 
+Benjo343: folds 
+tojuska7 has timed out
+tojuska7: folds 
+tojuska7 is sitting out
+tojuska7 has returned
+Borgesgr: raises 35 to 65
+HanHeyes: folds 
+KeinKönich: raises 85 to 150
+Chicano96: folds 
+bakro83: calls 120
+Borgesgr: calls 85
+*** FLOP *** [Ts 7h 5c]
+bakro83: bets 60
+Borgesgr: calls 60
+KeinKönich: raises 150 to 210
+bakro83: calls 150
+Borgesgr: calls 150
+*** TURN *** [Ts 7h 5c] [2c]
+bakro83: bets 90
+Borgesgr: calls 90
+KeinKönich: calls 90
+*** RIVER *** [Ts 7h 5c 2c] [5s]
+bakro83: checks 
+Borgesgr: bets 1217 and is all-in
+KeinKönich: folds 
+bakro83: folds 
+Uncalled bet (1217) returned to Borgesgr
+Borgesgr collected 1397 from pot
+Borgesgr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1397 | Rake 0 
+Board [Ts 7h 5c 2c 5s]
+Seat 1: Chicano96 (small blind) folded before Flop
+Seat 2: bakro83 (big blind) folded on the River
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr collected (1397)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded on the River
+
+
+
+PokerStars Hand #232299152731: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:29:05 CET [2021/12/17 16:29:05 ET]
+Table '3322178759 2' 9-max Seat #1 is the button
+Seat 1: Chicano96 (1392 in chips) 
+Seat 2: bakro83 (1227 in chips) 
+Seat 4: goiano89 (1447 in chips) 
+Seat 5: Benjo343 (1557 in chips) 
+Seat 6: tojuska7 (1024 in chips) 
+Seat 7: Borgesgr (2614 in chips) 
+Seat 8: HanHeyes (1729 in chips) 
+Seat 9: KeinKönich (1082 in chips) 
+Chicano96: posts the ante 4
+bakro83: posts the ante 4
+goiano89: posts the ante 4
+Benjo343: posts the ante 4
+tojuska7: posts the ante 4
+Borgesgr: posts the ante 4
+HanHeyes: posts the ante 4
+KeinKönich: posts the ante 4
+bakro83: posts small blind 15
+goiano89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Qc]
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr: folds 
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: folds 
+Uncalled bet (15) returned to goiano89
+goiano89 collected 62 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: Chicano96 (button) folded before Flop (didn't bet)
+Seat 2: bakro83 (small blind) folded before Flop
+Seat 4: goiano89 (big blind) collected (62)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299163943: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:29:28 CET [2021/12/17 16:29:28 ET]
+Table '3322178759 2' 9-max Seat #2 is the button
+Seat 1: Chicano96 (1388 in chips) 
+Seat 2: bakro83 (1208 in chips) 
+Seat 4: goiano89 (1490 in chips) 
+Seat 5: Benjo343 (1553 in chips) 
+Seat 6: tojuska7 (1020 in chips) 
+Seat 7: Borgesgr (2610 in chips) 
+Seat 8: HanHeyes (1725 in chips) 
+Seat 9: KeinKönich (1078 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+goiano89: posts small blind 25
+Benjo343: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd Kh]
+tojuska7 has timed out
+tojuska7: folds 
+tojuska7 is sitting out
+Borgesgr: folds 
+HanHeyes: raises 50 to 100
+tojuska7 has returned
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: folds 
+goiano89: folds 
+Benjo343: calls 50
+*** FLOP *** [8s Kd 6h]
+Benjo343: checks 
+HanHeyes: bets 100
+Benjo343: raises 175 to 275
+HanHeyes: folds 
+Uncalled bet (175) returned to Benjo343
+Benjo343 collected 473 from pot
+Benjo343: doesn't show hand 
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Board [8s Kd 6h]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 5: Benjo343 (big blind) collected (473)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded on the Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299191816: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:30:21 CET [2021/12/17 16:30:21 ET]
+Table '3322178759 2' 9-max Seat #4 is the button
+Seat 1: Chicano96 (1382 in chips) 
+Seat 2: bakro83 (1202 in chips) 
+Seat 4: goiano89 (1459 in chips) 
+Seat 5: Benjo343 (1820 in chips) 
+Seat 6: tojuska7 (1014 in chips) 
+Seat 7: Borgesgr (2604 in chips) 
+Seat 8: HanHeyes (1519 in chips) 
+Seat 9: KeinKönich (1072 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+Benjo343: posts small blind 25
+tojuska7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c 5d]
+Borgesgr: folds 
+HanHeyes: folds 
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: calls 50
+goiano89: folds 
+Benjo343: folds 
+tojuska7: checks 
+*** FLOP *** [8d 5s 5c]
+tojuska7: checks 
+bakro83: checks 
+*** TURN *** [8d 5s 5c] [Jd]
+tojuska7: checks 
+bakro83: bets 86
+tojuska7: calls 86
+*** RIVER *** [8d 5s 5c Jd] [Td]
+tojuska7: bets 150
+bakro83: raises 150 to 300
+tojuska7: calls 150
+*** SHOW DOWN ***
+bakro83: shows [Jc Qc] (two pair, Jacks and Fives)
+tojuska7: shows [Qd Js] (two pair, Jacks and Fives)
+tojuska7 collected 473 from pot
+bakro83 collected 472 from pot
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [8d 5s 5c Jd Td]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 showed [Jc Qc] and won (472) with two pair, Jacks and Fives
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: Benjo343 (small blind) folded before Flop
+Seat 6: tojuska7 (big blind) showed [Qd Js] and won (473) with two pair, Jacks and Fives
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299219323: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:31:15 CET [2021/12/17 16:31:15 ET]
+Table '3322178759 2' 9-max Seat #5 is the button
+Seat 1: Chicano96 (1376 in chips) 
+Seat 2: bakro83 (1232 in chips) 
+Seat 4: goiano89 (1453 in chips) 
+Seat 5: Benjo343 (1789 in chips) 
+Seat 6: tojuska7 (1045 in chips) 
+Seat 7: Borgesgr (2598 in chips) 
+Seat 8: HanHeyes (1513 in chips) 
+Seat 9: KeinKönich (1066 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+tojuska7: posts small blind 25
+Borgesgr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 7d]
+HanHeyes: raises 50 to 100
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: calls 100
+goiano89: folds 
+Benjo343: folds 
+tojuska7 has timed out
+tojuska7: folds 
+tojuska7 is sitting out
+Borgesgr: calls 50
+*** FLOP *** [5d 8h Jd]
+Borgesgr: checks 
+tojuska7 has returned
+HanHeyes: bets 100
+bakro83: calls 100
+Borgesgr: calls 100
+*** TURN *** [5d 8h Jd] [Ks]
+Borgesgr: checks 
+HanHeyes: bets 200
+bakro83: raises 200 to 400
+Borgesgr: folds 
+HanHeyes: calls 200
+*** RIVER *** [5d 8h Jd Ks] [4h]
+HanHeyes: checks 
+bakro83: bets 626 and is all-in
+HanHeyes: folds 
+Uncalled bet (626) returned to bakro83
+bakro83 collected 1473 from pot
+bakro83: doesn't show hand 
+*** SUMMARY ***
+Total pot 1473 | Rake 0 
+Board [5d 8h Jd Ks 4h]
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 collected (1473)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 (button) folded before Flop (didn't bet)
+Seat 6: tojuska7 (small blind) folded before Flop
+Seat 7: Borgesgr (big blind) folded on the Turn
+Seat 8: HanHeyes folded on the River
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299266698: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:32:47 CET [2021/12/17 16:32:47 ET]
+Table '3322178759 2' 9-max Seat #6 is the button
+Seat 1: Chicano96 (1370 in chips) 
+Seat 2: bakro83 (2099 in chips) 
+Seat 4: goiano89 (1447 in chips) 
+Seat 5: Benjo343 (1783 in chips) 
+Seat 6: tojuska7 (1014 in chips) 
+Seat 7: Borgesgr (2392 in chips) 
+Seat 8: HanHeyes (907 in chips) 
+Seat 9: KeinKönich (1060 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+Borgesgr: posts small blind 25
+HanHeyes: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 3s]
+KeinKönich: folds 
+Chicano96: folds 
+bakro83: folds 
+goiano89: folds 
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr: folds 
+Uncalled bet (25) returned to HanHeyes
+HanHeyes collected 98 from pot
+HanHeyes: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 (button) folded before Flop (didn't bet)
+Seat 7: Borgesgr (small blind) folded before Flop
+Seat 8: HanHeyes (big blind) collected (98)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232299277005: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:33:08 CET [2021/12/17 16:33:08 ET]
+Table '3322178759 2' 9-max Seat #7 is the button
+Seat 1: Chicano96 (1364 in chips) 
+Seat 2: bakro83 (2093 in chips) 
+Seat 4: goiano89 (1441 in chips) 
+Seat 5: Benjo343 (1777 in chips) 
+Seat 6: tojuska7 (1008 in chips) 
+Seat 7: Borgesgr (2361 in chips) 
+Seat 8: HanHeyes (974 in chips) 
+Seat 9: KeinKönich (1054 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+HanHeyes: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 4c]
+Chicano96: folds 
+bakro83: folds 
+goiano89: folds 
+Benjo343: folds 
+tojuska7 has timed out
+tojuska7: folds 
+tojuska7 is sitting out
+tojuska7 has returned
+Borgesgr: raises 50 to 100
+HanHeyes: folds 
+KeinKönich: folds 
+Uncalled bet (50) returned to Borgesgr
+Borgesgr collected 173 from pot
+Borgesgr: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Chicano96 folded before Flop (didn't bet)
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr (button) collected (173)
+Seat 8: HanHeyes (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232299295469: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:33:44 CET [2021/12/17 16:33:44 ET]
+Table '3322178759 2' 9-max Seat #8 is the button
+Seat 1: Chicano96 (1358 in chips) 
+Seat 2: bakro83 (2087 in chips) 
+Seat 4: goiano89 (1435 in chips) 
+Seat 5: Benjo343 (1771 in chips) 
+Seat 6: tojuska7 (1002 in chips) 
+Seat 7: Borgesgr (2478 in chips) 
+Seat 8: HanHeyes (943 in chips) 
+Seat 9: KeinKönich (998 in chips) 
+Chicano96: posts the ante 6
+bakro83: posts the ante 6
+goiano89: posts the ante 6
+Benjo343: posts the ante 6
+tojuska7: posts the ante 6
+Borgesgr: posts the ante 6
+HanHeyes: posts the ante 6
+KeinKönich: posts the ante 6
+KeinKönich: posts small blind 25
+Chicano96: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 5c]
+bakro83: folds 
+goiano89: folds 
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr: folds 
+HanHeyes: raises 50 to 100
+KeinKönich: raises 892 to 992 and is all-in
+Chicano96: folds 
+HanHeyes: calls 837 and is all-in
+Uncalled bet (55) returned to KeinKönich
+*** FLOP *** [7h Kd 3s]
+*** TURN *** [7h Kd 3s] [7s]
+*** RIVER *** [7h Kd 3s 7s] [3h]
+*** SHOW DOWN ***
+KeinKönich: shows [Ad 5c] (two pair, Sevens and Threes)
+HanHeyes: shows [Jh As] (two pair, Sevens and Threes)
+KeinKönich collected 986 from pot
+HanHeyes collected 986 from pot
+*** SUMMARY ***
+Total pot 1972 | Rake 0 
+Board [7h Kd 3s 7s 3h]
+Seat 1: Chicano96 (big blind) folded before Flop
+Seat 2: bakro83 folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes (button) showed [Jh As] and won (986) with two pair, Sevens and Threes
+Seat 9: KeinKönich (small blind) showed [Ad 5c] and won (986) with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #232299316595: Tournament #3322178759, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:34:26 CET [2021/12/17 16:34:26 ET]
+Table '3322178759 2' 9-max Seat #9 is the button
+Seat 1: Chicano96 (1302 in chips) 
+Seat 2: bakro83 (2081 in chips) 
+Seat 4: goiano89 (1429 in chips) 
+Seat 5: Benjo343 (1765 in chips) 
+Seat 6: tojuska7 (996 in chips) 
+Seat 7: Borgesgr (2472 in chips) 
+Seat 8: HanHeyes (986 in chips) 
+Seat 9: KeinKönich (1041 in chips) 
+Chicano96: posts the ante 10
+bakro83: posts the ante 10
+goiano89: posts the ante 10
+Benjo343: posts the ante 10
+tojuska7: posts the ante 10
+Borgesgr: posts the ante 10
+HanHeyes: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts small blind 40
+bakro83: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Td]
+goiano89: folds 
+Benjo343: folds 
+tojuska7: folds 
+Borgesgr: folds 
+HanHeyes: folds 
+KeinKönich: raises 80 to 160
+Chicano96: raises 1132 to 1292 and is all-in
+bakro83: folds 
+KeinKönich: calls 871 and is all-in
+Uncalled bet (261) returned to Chicano96
+*** FLOP *** [9c 9d 3s]
+*** TURN *** [9c 9d 3s] [9s]
+*** RIVER *** [9c 9d 3s 9s] [Jd]
+*** SHOW DOWN ***
+Chicano96: shows [Ah Kd] (three of a kind, Nines)
+KeinKönich: shows [Qc Td] (three of a kind, Nines - lower kicker)
+Chicano96 collected 2222 from pot
+*** SUMMARY ***
+Total pot 2222 | Rake 0 
+Board [9c 9d 3s 9s Jd]
+Seat 1: Chicano96 (small blind) showed [Ah Kd] and won (2222) with three of a kind, Nines
+Seat 2: bakro83 (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Benjo343 folded before Flop (didn't bet)
+Seat 6: tojuska7 folded before Flop (didn't bet)
+Seat 7: Borgesgr folded before Flop (didn't bet)
+Seat 8: HanHeyes folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) showed [Qc Td] and lost with three of a kind, Nines
+
+
+

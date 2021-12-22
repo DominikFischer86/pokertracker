@@ -1,0 +1,1377 @@
+ï»¿PokerStars Hand #232298186702: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:57:03 CET [2021/12/17 15:57:03 ET]
+Table '3322163455 1' 9-max Seat #1 is the button
+Seat 1: Totoro9 (1500 in chips) 
+Seat 2: Starrbuck (1500 in chips) 
+Seat 3: TheGreatRus (1500 in chips) 
+Seat 4: SpOs Im GoOd (1500 in chips) 
+Seat 5: erico13 (1500 in chips) 
+Seat 6: Chicano96 (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: NKL95 (1500 in chips) 
+Seat 9: pedriim879 (1500 in chips) 
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+Starrbuck: posts small blind 10
+TheGreatRus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 9c]
+SpOs Im GoOd has timed out
+SpOs Im GoOd: folds 
+SpOs Im GoOd is sitting out
+erico13: folds 
+Chicano96 has timed out while disconnected
+Chicano96: folds 
+Chicano96 is sitting out
+KeinKönich: raises 40 to 60
+NKL95: folds 
+pedriim879: folds 
+Totoro9: folds 
+Starrbuck: folds 
+pedriim879 is sitting out
+TheGreatRus: folds 
+Uncalled bet (40) returned to KeinKönich
+KeinKönich collected 77 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Totoro9 (button) folded before Flop (didn't bet)
+Seat 2: Starrbuck (small blind) folded before Flop
+Seat 3: TheGreatRus (big blind) folded before Flop
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (77)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298221976: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:58:12 CET [2021/12/17 15:58:12 ET]
+Table '3322163455 1' 9-max Seat #2 is the button
+Seat 1: Totoro9 (1497 in chips) 
+Seat 2: Starrbuck (1487 in chips) 
+Seat 3: TheGreatRus (1477 in chips) 
+Seat 4: SpOs Im GoOd (1497 in chips) is sitting out
+Seat 5: erico13 (1497 in chips) 
+Seat 6: Chicano96 (1497 in chips) is sitting out
+Seat 7: KeinKönich (1554 in chips) 
+Seat 8: NKL95 (1497 in chips) 
+Seat 9: pedriim879 (1497 in chips) is sitting out
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+TheGreatRus: posts small blind 10
+SpOs Im GoOd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 2h]
+erico13: folds 
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: raises 40 to 60
+pedriim879: folds 
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+Uncalled bet (40) returned to NKL95
+NKL95 collected 77 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Totoro9 folded before Flop (didn't bet)
+Seat 2: Starrbuck (button) folded before Flop (didn't bet)
+Seat 3: TheGreatRus (small blind) folded before Flop
+Seat 4: SpOs Im GoOd (big blind) folded before Flop
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 collected (77)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298226011: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:58:23 CET [2021/12/17 15:58:23 ET]
+Table '3322163455 1' 9-max Seat #3 is the button
+Seat 1: Totoro9 (1494 in chips) 
+Seat 2: Starrbuck (1484 in chips) 
+Seat 3: TheGreatRus (1464 in chips) 
+Seat 4: SpOs Im GoOd (1474 in chips) is sitting out
+Seat 5: erico13 (1494 in chips) 
+Seat 6: Chicano96 (1494 in chips) is sitting out
+Seat 7: KeinKönich (1551 in chips) 
+Seat 8: NKL95 (1551 in chips) 
+Seat 9: pedriim879 (1494 in chips) is sitting out
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+SpOs Im GoOd: posts small blind 10
+erico13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 4c]
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: calls 20
+pedriim879: folds 
+Totoro9: calls 20
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+Chicano96 has returned
+SpOs Im GoOd has returned
+erico13: checks 
+*** FLOP *** [8c Qc 6s]
+erico13: checks 
+NKL95: checks 
+Totoro9: checks 
+*** TURN *** [8c Qc 6s] [9d]
+erico13: checks 
+NKL95: bets 48
+Totoro9: raises 48 to 96
+erico13: folds 
+NKL95: calls 48
+*** RIVER *** [8c Qc 6s 9d] [7d]
+NKL95: checks 
+Totoro9: checks 
+*** SHOW DOWN ***
+NKL95: shows [Td Ks] (a straight, Six to Ten)
+Totoro9: mucks hand 
+NKL95 collected 289 from pot
+*** SUMMARY ***
+Total pot 289 | Rake 0 
+Board [8c Qc 6s 9d 7d]
+Seat 1: Totoro9 mucked [Qd 9h]
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (small blind) folded before Flop
+Seat 5: erico13 (big blind) folded on the Turn
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 showed [Td Ks] and won (289) with a straight, Six to Ten
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298246000: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:59:17 CET [2021/12/17 15:59:17 ET]
+Table '3322163455 1' 9-max Seat #4 is the button
+Seat 1: Totoro9 (1375 in chips) 
+Seat 2: Starrbuck (1481 in chips) 
+Seat 3: TheGreatRus (1461 in chips) 
+Seat 4: SpOs Im GoOd (1461 in chips) 
+Seat 5: erico13 (1471 in chips) 
+Seat 6: Chicano96 (1491 in chips) 
+Seat 7: KeinKönich (1548 in chips) 
+Seat 8: NKL95 (1721 in chips) 
+Seat 9: pedriim879 (1491 in chips) is sitting out
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+erico13: posts small blind 10
+Chicano96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 3s]
+KeinKönich: folds 
+NKL95: raises 40 to 60
+pedriim879: folds 
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+pedriim879 has returned
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: calls 40
+*** FLOP *** [Ts 9h 5c]
+Chicano96: checks 
+NKL95: bets 78
+Chicano96: folds 
+Uncalled bet (78) returned to NKL95
+NKL95 collected 157 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 157 | Rake 0 
+Board [Ts 9h 5c]
+Seat 1: Totoro9 folded before Flop (didn't bet)
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (button) folded before Flop (didn't bet)
+Seat 5: erico13 (small blind) folded before Flop
+Seat 6: Chicano96 (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 collected (157)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298259346: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 21:59:53 CET [2021/12/17 15:59:53 ET]
+Table '3322163455 1' 9-max Seat #5 is the button
+Seat 1: Totoro9 (1372 in chips) 
+Seat 2: Starrbuck (1478 in chips) 
+Seat 3: TheGreatRus (1458 in chips) 
+Seat 4: SpOs Im GoOd (1458 in chips) 
+Seat 5: erico13 (1458 in chips) 
+Seat 6: Chicano96 (1428 in chips) 
+Seat 7: KeinKönich (1545 in chips) 
+Seat 8: NKL95 (1815 in chips) 
+Seat 9: pedriim879 (1488 in chips) 
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 6c]
+NKL95: raises 60 to 80
+pedriim879: raises 152 to 232
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+Chicano96 is sitting out
+KeinKönich: folds 
+NKL95: calls 152
+*** FLOP *** [Ks Td 8s]
+NKL95: checks 
+pedriim879: bets 200
+NKL95: calls 200
+*** TURN *** [Ks Td 8s] [Qs]
+NKL95: checks 
+pedriim879: bets 1053 and is all-in
+Chicano96 has returned
+NKL95: folds 
+Uncalled bet (1053) returned to pedriim879
+pedriim879 collected 921 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 921 | Rake 0 
+Board [Ks Td 8s Qs]
+Seat 1: Totoro9 folded before Flop (didn't bet)
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 (button) folded before Flop (didn't bet)
+Seat 6: Chicano96 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: NKL95 folded on the Turn
+Seat 9: pedriim879 collected (921)
+
+
+
+PokerStars Hand #232298282483: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:00:50 CET [2021/12/17 16:00:50 ET]
+Table '3322163455 1' 9-max Seat #6 is the button
+Seat 1: Totoro9 (1369 in chips) 
+Seat 2: Starrbuck (1475 in chips) 
+Seat 3: TheGreatRus (1455 in chips) 
+Seat 4: SpOs Im GoOd (1455 in chips) 
+Seat 5: erico13 (1455 in chips) 
+Seat 6: Chicano96 (1415 in chips) 
+Seat 7: KeinKönich (1522 in chips) 
+Seat 8: NKL95 (1380 in chips) 
+Seat 9: pedriim879 (1974 in chips) 
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+KeinKönich: posts small blind 10
+NKL95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 9c]
+pedriim879: folds 
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: raises 20 to 40
+erico13: folds 
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: calls 20
+*** FLOP *** [Jc Ks 9d]
+NKL95: checks 
+SpOs Im GoOd: checks 
+*** TURN *** [Jc Ks 9d] [Kc]
+NKL95: bets 58
+SpOs Im GoOd: folds 
+Uncalled bet (58) returned to NKL95
+NKL95 collected 117 from pot
+NKL95: doesn't show hand 
+*** SUMMARY ***
+Total pot 117 | Rake 0 
+Board [Jc Ks 9d Kc]
+Seat 1: Totoro9 folded before Flop (didn't bet)
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded on the Turn
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: NKL95 (big blind) collected (117)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298311706: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:01:38 CET [2021/12/17 16:01:38 ET]
+Table '3322163455 1' 9-max Seat #7 is the button
+Seat 1: Totoro9 (1366 in chips) 
+Seat 2: Starrbuck (1472 in chips) 
+Seat 3: TheGreatRus (1452 in chips) 
+Seat 4: SpOs Im GoOd (1412 in chips) 
+Seat 5: erico13 (1452 in chips) 
+Seat 6: Chicano96 (1412 in chips) 
+Seat 7: KeinKönich (1509 in chips) 
+Seat 8: NKL95 (1454 in chips) 
+Seat 9: pedriim879 (1971 in chips) 
+Totoro9: posts the ante 3
+Starrbuck: posts the ante 3
+TheGreatRus: posts the ante 3
+SpOs Im GoOd: posts the ante 3
+erico13: posts the ante 3
+Chicano96: posts the ante 3
+KeinKönich: posts the ante 3
+NKL95: posts the ante 3
+pedriim879: posts the ante 3
+NKL95: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 4d]
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: raises 30 to 50
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: raises 110 to 160
+TheGreatRus: folds 
+Uncalled bet (110) returned to pedriim879
+pedriim879 collected 137 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Seat 1: Totoro9 folded before Flop (didn't bet)
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: NKL95 (small blind) folded before Flop
+Seat 9: pedriim879 (big blind) collected (137)
+
+
+
+PokerStars Hand #232298336412: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:02:28 CET [2021/12/17 16:02:28 ET]
+Table '3322163455 1' 9-max Seat #8 is the button
+Seat 1: Totoro9 (1363 in chips) 
+Seat 2: Starrbuck (1469 in chips) 
+Seat 3: TheGreatRus (1399 in chips) 
+Seat 4: SpOs Im GoOd (1409 in chips) 
+Seat 5: erico13 (1449 in chips) 
+Seat 6: Chicano96 (1409 in chips) 
+Seat 7: KeinKönich (1506 in chips) 
+Seat 8: NKL95 (1441 in chips) 
+Seat 9: pedriim879 (2055 in chips) 
+Totoro9: posts the ante 4
+Starrbuck: posts the ante 4
+TheGreatRus: posts the ante 4
+SpOs Im GoOd: posts the ante 4
+erico13: posts the ante 4
+Chicano96: posts the ante 4
+KeinKönich: posts the ante 4
+NKL95: posts the ante 4
+pedriim879: posts the ante 4
+pedriim879: posts small blind 15
+Totoro9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 8h]
+Starrbuck: folds 
+TheGreatRus: raises 45 to 75
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+KeinKönich: calls 75
+NKL95: folds 
+pedriim879: folds 
+Totoro9: folds 
+*** FLOP *** [3c Ks 8s]
+TheGreatRus: bets 72
+KeinKönich: raises 108 to 180
+TheGreatRus: folds 
+Uncalled bet (108) returned to KeinKönich
+KeinKönich collected 375 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [3c Ks 8s]
+Seat 1: Totoro9 (big blind) folded before Flop
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded on the Flop
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (375)
+Seat 8: NKL95 (button) folded before Flop (didn't bet)
+Seat 9: pedriim879 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298369714: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:03:35 CET [2021/12/17 16:03:35 ET]
+Table '3322163455 1' 9-max Seat #9 is the button
+Seat 1: Totoro9 (1329 in chips) 
+Seat 2: Starrbuck (1465 in chips) 
+Seat 3: TheGreatRus (1248 in chips) 
+Seat 4: SpOs Im GoOd (1405 in chips) 
+Seat 5: erico13 (1445 in chips) 
+Seat 6: Chicano96 (1405 in chips) 
+Seat 7: KeinKönich (1730 in chips) 
+Seat 8: NKL95 (1437 in chips) 
+Seat 9: pedriim879 (2036 in chips) 
+Totoro9: posts the ante 4
+Starrbuck: posts the ante 4
+TheGreatRus: posts the ante 4
+SpOs Im GoOd: posts the ante 4
+erico13: posts the ante 4
+Chicano96: posts the ante 4
+KeinKönich: posts the ante 4
+NKL95: posts the ante 4
+pedriim879: posts the ante 4
+Totoro9: posts small blind 15
+Starrbuck: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 4h]
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: calls 30
+pedriim879: folds 
+Totoro9: folds 
+Starrbuck: checks 
+*** FLOP *** [7d 5s 4c]
+Starrbuck: bets 111
+NKL95: folds 
+Uncalled bet (111) returned to Starrbuck
+Starrbuck collected 111 from pot
+Starrbuck: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [7d 5s 4c]
+Seat 1: Totoro9 (small blind) folded before Flop
+Seat 2: Starrbuck (big blind) collected (111)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded on the Flop
+Seat 9: pedriim879 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298395660: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:04:27 CET [2021/12/17 16:04:27 ET]
+Table '3322163455 1' 9-max Seat #1 is the button
+Seat 1: Totoro9 (1310 in chips) 
+Seat 2: Starrbuck (1542 in chips) 
+Seat 3: TheGreatRus (1244 in chips) 
+Seat 4: SpOs Im GoOd (1401 in chips) 
+Seat 5: erico13 (1441 in chips) 
+Seat 6: Chicano96 (1401 in chips) 
+Seat 7: KeinKönich (1726 in chips) 
+Seat 8: NKL95 (1403 in chips) 
+Seat 9: pedriim879 (2032 in chips) 
+Totoro9: posts the ante 4
+Starrbuck: posts the ante 4
+TheGreatRus: posts the ante 4
+SpOs Im GoOd: posts the ante 4
+erico13: posts the ante 4
+Chicano96: posts the ante 4
+KeinKönich: posts the ante 4
+NKL95: posts the ante 4
+pedriim879: posts the ante 4
+Starrbuck: posts small blind 15
+TheGreatRus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 3h]
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: raises 40 to 70
+Totoro9: folds 
+Starrbuck: folds 
+TheGreatRus: calls 40
+*** FLOP *** [As 4s Jd]
+TheGreatRus: checks 
+pedriim879: bets 60
+TheGreatRus: calls 60
+*** TURN *** [As 4s Jd] [Ac]
+TheGreatRus: checks 
+pedriim879: checks 
+*** RIVER *** [As 4s Jd Ac] [7d]
+TheGreatRus: checks 
+pedriim879: checks 
+*** SHOW DOWN ***
+TheGreatRus: shows [8h 4h] (two pair, Aces and Fours)
+pedriim879: mucks hand 
+TheGreatRus collected 311 from pot
+*** SUMMARY ***
+Total pot 311 | Rake 0 
+Board [As 4s Jd Ac 7d]
+Seat 1: Totoro9 (button) folded before Flop (didn't bet)
+Seat 2: Starrbuck (small blind) folded before Flop
+Seat 3: TheGreatRus (big blind) showed [8h 4h] and won (311) with two pair, Aces and Fours
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 mucked [9s Qd]
+
+
+
+PokerStars Hand #232298423419: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:05:22 CET [2021/12/17 16:05:22 ET]
+Table '3322163455 1' 9-max Seat #2 is the button
+Seat 2: Starrbuck (1523 in chips) 
+Seat 3: TheGreatRus (1421 in chips) 
+Seat 4: SpOs Im GoOd (1397 in chips) 
+Seat 5: erico13 (1437 in chips) 
+Seat 6: Chicano96 (1397 in chips) 
+Seat 7: KeinKönich (1722 in chips) 
+Seat 8: NKL95 (1399 in chips) 
+Seat 9: pedriim879 (1898 in chips) 
+Starrbuck: posts the ante 4
+TheGreatRus: posts the ante 4
+SpOs Im GoOd: posts the ante 4
+erico13: posts the ante 4
+Chicano96: posts the ante 4
+KeinKönich: posts the ante 4
+NKL95: posts the ante 4
+pedriim879: posts the ante 4
+TheGreatRus: posts small blind 15
+SpOs Im GoOd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 7s]
+erico13: folds 
+Chicano96: raises 45 to 75
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: calls 75
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+*** FLOP *** [5h 9h 7d]
+Chicano96: checks 
+Starrbuck: bets 150
+Chicano96: calls 150
+*** TURN *** [5h 9h 7d] [4s]
+Chicano96: checks 
+Starrbuck: bets 270
+Chicano96: calls 270
+*** RIVER *** [5h 9h 7d 4s] [5s]
+Chicano96: checks 
+Starrbuck: checks 
+*** SHOW DOWN ***
+Chicano96: shows [9c 8c] (two pair, Nines and Fives)
+Starrbuck: mucks hand 
+Chicano96 collected 1067 from pot
+*** SUMMARY ***
+Total pot 1067 | Rake 0 
+Board [5h 9h 7d 4s 5s]
+Seat 2: Starrbuck (button) mucked [7c 6c]
+Seat 3: TheGreatRus (small blind) folded before Flop
+Seat 4: SpOs Im GoOd (big blind) folded before Flop
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 6: Chicano96 showed [9c 8c] and won (1067) with two pair, Nines and Fives
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298465316: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 22:06:46 CET [2021/12/17 16:06:46 ET]
+Table '3322163455 1' 9-max Seat #3 is the button
+Seat 2: Starrbuck (1024 in chips) 
+Seat 3: TheGreatRus (1402 in chips) 
+Seat 4: SpOs Im GoOd (1363 in chips) 
+Seat 5: erico13 (1433 in chips) 
+Seat 6: Chicano96 (1965 in chips) 
+Seat 7: KeinKönich (1718 in chips) 
+Seat 8: NKL95 (1395 in chips) 
+Seat 9: pedriim879 (1894 in chips) 
+Starrbuck: posts the ante 4
+TheGreatRus: posts the ante 4
+SpOs Im GoOd: posts the ante 4
+erico13: posts the ante 4
+Chicano96: posts the ante 4
+KeinKönich: posts the ante 4
+NKL95: posts the ante 4
+pedriim879: posts the ante 4
+SpOs Im GoOd: posts small blind 15
+erico13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Ts]
+Chicano96: raises 45 to 75
+KeinKönich: folds 
+NKL95: calls 75
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: calls 45
+*** FLOP *** [7h 5s 6s]
+erico13: checks 
+Chicano96: checks 
+NKL95: bets 136
+erico13: calls 136
+Chicano96: calls 136
+*** TURN *** [7h 5s 6s] [2s]
+erico13: checks 
+Chicano96: checks 
+NKL95: bets 390
+erico13: folds 
+Chicano96: calls 390
+*** RIVER *** [7h 5s 6s 2s] [9s]
+Chicano96: checks 
+NKL95: bets 790 and is all-in
+Chicano96: calls 790
+*** SHOW DOWN ***
+NKL95: shows [Ac As] (a flush, Ace high)
+Chicano96: shows [Js Ks] (a flush, King high)
+NKL95 collected 3040 from pot
+*** SUMMARY ***
+Total pot 3040 | Rake 0 
+Board [7h 5s 6s 2s 9s]
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (small blind) folded before Flop
+Seat 5: erico13 (big blind) folded on the Turn
+Seat 6: Chicano96 showed [Js Ks] and lost with a flush, King high
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 showed [Ac As] and won (3040) with a flush, Ace high
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298528675: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:08:51 CET [2021/12/17 16:08:51 ET]
+Table '3322163455 1' 9-max Seat #4 is the button
+Seat 2: Starrbuck (1020 in chips) 
+Seat 3: TheGreatRus (1398 in chips) 
+Seat 4: SpOs Im GoOd (1344 in chips) 
+Seat 5: erico13 (1218 in chips) 
+Seat 6: Chicano96 (570 in chips) 
+Seat 7: KeinKönich (1714 in chips) 
+Seat 8: NKL95 (3040 in chips) 
+Seat 9: pedriim879 (1890 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+Chicano96: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+erico13: posts small blind 25
+Chicano96: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c Ad]
+KeinKönich: raises 75 to 125
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+Chicano96: folds 
+Uncalled bet (75) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (button) folded before Flop (didn't bet)
+Seat 5: erico13 (small blind) folded before Flop
+Seat 6: Chicano96 (big blind) folded before Flop
+Seat 7: KeinKönich collected (173)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298546111: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:09:26 CET [2021/12/17 16:09:26 ET]
+Table '3322163455 1' 9-max Seat #5 is the button
+Seat 2: Starrbuck (1014 in chips) 
+Seat 3: TheGreatRus (1392 in chips) 
+Seat 4: SpOs Im GoOd (1338 in chips) 
+Seat 5: erico13 (1187 in chips) 
+Seat 6: Chicano96 (514 in chips) 
+Seat 7: KeinKönich (1831 in chips) 
+Seat 8: NKL95 (3034 in chips) 
+Seat 9: pedriim879 (1884 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+Chicano96: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 9s]
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: raises 100 to 150
+Chicano96: raises 358 to 508 and is all-in
+KeinKönich: folds 
+erico13: calls 358
+*** FLOP *** [Qd 9d Kh]
+*** TURN *** [Qd 9d Kh] [Tc]
+*** RIVER *** [Qd 9d Kh Tc] [4h]
+*** SHOW DOWN ***
+Chicano96: shows [Ah Ks] (a pair of Kings)
+erico13: shows [As Ac] (a pair of Aces)
+erico13 collected 1114 from pot
+Chicano96 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 1114 | Rake 0 
+Board [Qd 9d Kh Tc 4h]
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 (button) showed [As Ac] and won (1114) with a pair of Aces
+Seat 6: Chicano96 (small blind) showed [Ah Ks] and lost with a pair of Kings
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298563985: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:10:02 CET [2021/12/17 16:10:02 ET]
+Table '3322163455 1' 9-max Seat #7 is the button
+Seat 2: Starrbuck (1008 in chips) 
+Seat 3: TheGreatRus (1386 in chips) 
+Seat 4: SpOs Im GoOd (1332 in chips) 
+Seat 5: erico13 (1787 in chips) 
+Seat 7: KeinKönich (1775 in chips) 
+Seat 8: NKL95 (3028 in chips) 
+Seat 9: pedriim879 (1878 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+NKL95: posts small blind 25
+pedriim879: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 4c]
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: raises 50 to 100
+NKL95: folds 
+pedriim879: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 167 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) collected (167)
+Seat 8: NKL95 (small blind) folded before Flop
+Seat 9: pedriim879 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232298576113: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:10:26 CET [2021/12/17 16:10:26 ET]
+Table '3322163455 1' 9-max Seat #8 is the button
+Seat 2: Starrbuck (1002 in chips) 
+Seat 3: TheGreatRus (1380 in chips) 
+Seat 4: SpOs Im GoOd (1326 in chips) 
+Seat 5: erico13 (1781 in chips) 
+Seat 7: KeinKönich (1886 in chips) 
+Seat 8: NKL95 (2997 in chips) 
+Seat 9: pedriim879 (1822 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+pedriim879: posts small blind 25
+Starrbuck: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Js]
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: raises 60 to 110
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+Uncalled bet (60) returned to erico13
+erico13 collected 167 from pot
+erico13: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: Starrbuck (big blind) folded before Flop
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 collected (167)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 (button) folded before Flop (didn't bet)
+Seat 9: pedriim879 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232298588257: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:10:51 CET [2021/12/17 16:10:51 ET]
+Table '3322163455 1' 9-max Seat #9 is the button
+Seat 2: Starrbuck (946 in chips) 
+Seat 3: TheGreatRus (1374 in chips) 
+Seat 4: SpOs Im GoOd (1320 in chips) 
+Seat 5: erico13 (1892 in chips) 
+Seat 7: KeinKönich (1880 in chips) 
+Seat 8: NKL95 (2991 in chips) 
+Seat 9: pedriim879 (1791 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+Starrbuck: posts small blind 25
+TheGreatRus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 7d]
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: raises 50 to 100
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 167 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: Starrbuck (small blind) folded before Flop
+Seat 3: TheGreatRus (big blind) folded before Flop
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (167)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298604232: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 22:11:23 CET [2021/12/17 16:11:23 ET]
+Table '3322163455 1' 9-max Seat #2 is the button
+Seat 2: Starrbuck (915 in chips) 
+Seat 3: TheGreatRus (1318 in chips) 
+Seat 4: SpOs Im GoOd (1314 in chips) 
+Seat 5: erico13 (1886 in chips) 
+Seat 7: KeinKönich (1991 in chips) 
+Seat 8: NKL95 (2985 in chips) 
+Seat 9: pedriim879 (1785 in chips) 
+Starrbuck: posts the ante 6
+TheGreatRus: posts the ante 6
+SpOs Im GoOd: posts the ante 6
+erico13: posts the ante 6
+KeinKönich: posts the ante 6
+NKL95: posts the ante 6
+pedriim879: posts the ante 6
+TheGreatRus: posts small blind 25
+SpOs Im GoOd: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 5h]
+erico13: folds 
+KeinKönich: folds 
+NKL95: calls 50
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: raises 150 to 200
+SpOs Im GoOd: folds 
+NKL95: calls 150
+*** FLOP *** [Qc 3c Kh]
+TheGreatRus: bets 266
+NKL95: calls 266
+*** TURN *** [Qc 3c Kh] [8h]
+TheGreatRus: bets 846 and is all-in
+NKL95: folds 
+Uncalled bet (846) returned to TheGreatRus
+TheGreatRus collected 1024 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 1024 | Rake 0 
+Board [Qc 3c Kh 8h]
+Seat 2: Starrbuck (button) folded before Flop (didn't bet)
+Seat 3: TheGreatRus (small blind) collected (1024)
+Seat 4: SpOs Im GoOd (big blind) folded before Flop
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded on the Turn
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298629733: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:15 CET [2021/12/17 16:12:15 ET]
+Table '3322163455 1' 9-max Seat #3 is the button
+Seat 2: Starrbuck (909 in chips) 
+Seat 3: TheGreatRus (1870 in chips) 
+Seat 4: SpOs Im GoOd (1258 in chips) 
+Seat 5: erico13 (1880 in chips) 
+Seat 7: KeinKönich (1985 in chips) 
+Seat 8: NKL95 (2513 in chips) 
+Seat 9: pedriim879 (1779 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+SpOs Im GoOd: posts small blind 40
+erico13: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Th]
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+Uncalled bet (40) returned to erico13
+erico13 collected 150 from pot
+erico13: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (small blind) folded before Flop
+Seat 5: erico13 (big blind) collected (150)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298637013: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:30 CET [2021/12/17 16:12:30 ET]
+Table '3322163455 1' 9-max Seat #4 is the button
+Seat 2: Starrbuck (899 in chips) 
+Seat 3: TheGreatRus (1860 in chips) 
+Seat 4: SpOs Im GoOd (1208 in chips) 
+Seat 5: erico13 (1980 in chips) 
+Seat 7: KeinKönich (1975 in chips) 
+Seat 8: NKL95 (2503 in chips) 
+Seat 9: pedriim879 (1769 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+erico13: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Ah]
+NKL95: raises 160 to 240
+pedriim879: folds 
+Starrbuck: raises 649 to 889 and is all-in
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: folds 
+NKL95: calls 649
+*** FLOP *** [6h 6s Jc]
+*** TURN *** [6h 6s Jc] [9h]
+*** RIVER *** [6h 6s Jc 9h] [As]
+*** SHOW DOWN ***
+NKL95: shows [Qs Kc] (a pair of Sixes)
+Starrbuck: shows [Qh Ac] (two pair, Aces and Sixes)
+Starrbuck collected 1968 from pot
+*** SUMMARY ***
+Total pot 1968 | Rake 0 
+Board [6h 6s Jc 9h As]
+Seat 2: Starrbuck showed [Qh Ac] and won (1968) with two pair, Aces and Sixes
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (button) folded before Flop (didn't bet)
+Seat 5: erico13 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: NKL95 showed [Qs Kc] and lost with a pair of Sixes
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298651360: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:12:59 CET [2021/12/17 16:12:59 ET]
+Table '3322163455 1' 9-max Seat #5 is the button
+Seat 2: Starrbuck (1968 in chips) 
+Seat 3: TheGreatRus (1850 in chips) 
+Seat 4: SpOs Im GoOd (1198 in chips) 
+Seat 5: erico13 (1930 in chips) 
+Seat 7: KeinKönich (1885 in chips) 
+Seat 8: NKL95 (1604 in chips) 
+Seat 9: pedriim879 (1759 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+KeinKönich: posts small blind 40
+NKL95: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Kc]
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: raises 80 to 160
+NKL95: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 230 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) collected (230)
+Seat 8: NKL95 (big blind) folded before Flop
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298663424: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:13:24 CET [2021/12/17 16:13:24 ET]
+Table '3322163455 1' 9-max Seat #7 is the button
+Seat 2: Starrbuck (1958 in chips) 
+Seat 3: TheGreatRus (1840 in chips) 
+Seat 4: SpOs Im GoOd (1188 in chips) 
+Seat 5: erico13 (1920 in chips) 
+Seat 7: KeinKönich (2025 in chips) 
+Seat 8: NKL95 (1514 in chips) 
+Seat 9: pedriim879 (1749 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+NKL95: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 9c]
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: raises 80 to 160
+NKL95: raises 80 to 240
+pedriim879: folds 
+KeinKönich: calls 80
+*** FLOP *** [Jc 3s 7s]
+NKL95: bets 315
+KeinKönich: calls 315
+*** TURN *** [Jc 3s 7s] [5h]
+NKL95: bets 550
+KeinKönich: raises 910 to 1460 and is all-in
+NKL95: calls 399 and is all-in
+Uncalled bet (511) returned to KeinKönich
+*** RIVER *** [Jc 3s 7s 5h] [8h]
+*** SHOW DOWN ***
+NKL95: shows [Ah Ac] (a pair of Aces)
+KeinKönich: shows [9d 9c] (a pair of Nines)
+NKL95 collected 3158 from pot
+*** SUMMARY ***
+Total pot 3158 | Rake 0 
+Board [Jc 3s 7s 5h 8h]
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) showed [9d 9c] and lost with a pair of Nines
+Seat 8: NKL95 (small blind) showed [Ah Ac] and won (3158) with a pair of Aces
+Seat 9: pedriim879 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232298691673: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:14:21 CET [2021/12/17 16:14:21 ET]
+Table '3322163455 1' 9-max Seat #8 is the button
+Seat 2: Starrbuck (1948 in chips) 
+Seat 3: TheGreatRus (1830 in chips) 
+Seat 4: SpOs Im GoOd (1178 in chips) 
+Seat 5: erico13 (1910 in chips) 
+Seat 7: KeinKönich (511 in chips) 
+Seat 8: NKL95 (3158 in chips) 
+Seat 9: pedriim879 (1659 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+pedriim879: posts small blind 40
+Starrbuck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 7d]
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: folds 
+NKL95: folds 
+pedriim879: raises 118 to 198
+Starrbuck: folds 
+Uncalled bet (118) returned to pedriim879
+pedriim879 collected 230 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 2: Starrbuck (big blind) folded before Flop
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 (button) folded before Flop (didn't bet)
+Seat 9: pedriim879 (small blind) collected (230)
+
+
+
+PokerStars Hand #232298705154: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:14:49 CET [2021/12/17 16:14:49 ET]
+Table '3322163455 1' 9-max Seat #9 is the button
+Seat 2: Starrbuck (1858 in chips) 
+Seat 3: TheGreatRus (1820 in chips) 
+Seat 4: SpOs Im GoOd (1168 in chips) 
+Seat 5: erico13 (1900 in chips) 
+Seat 7: KeinKönich (501 in chips) 
+Seat 8: NKL95 (3148 in chips) 
+Seat 9: pedriim879 (1799 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+Starrbuck: posts small blind 40
+TheGreatRus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 7s]
+SpOs Im GoOd: folds 
+erico13: folds 
+KeinKönich: raises 411 to 491 and is all-in
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+Uncalled bet (411) returned to KeinKönich
+KeinKönich collected 270 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: Starrbuck (small blind) folded before Flop
+Seat 3: TheGreatRus (big blind) folded before Flop
+Seat 4: SpOs Im GoOd folded before Flop (didn't bet)
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (270)
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298719300: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:15:17 CET [2021/12/17 16:15:17 ET]
+Table '3322163455 1' 9-max Seat #2 is the button
+Seat 2: Starrbuck (1808 in chips) 
+Seat 3: TheGreatRus (1730 in chips) 
+Seat 4: SpOs Im GoOd (1158 in chips) 
+Seat 5: erico13 (1890 in chips) 
+Seat 7: KeinKönich (681 in chips) 
+Seat 8: NKL95 (3138 in chips) 
+Seat 9: pedriim879 (1789 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+TheGreatRus: posts small blind 40
+SpOs Im GoOd: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 4c]
+erico13: folds 
+KeinKönich: folds 
+NKL95: raises 80 to 160
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: raises 1560 to 1720 and is all-in
+SpOs Im GoOd: folds 
+NKL95: folds 
+Uncalled bet (1560) returned to TheGreatRus
+TheGreatRus collected 470 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Seat 2: Starrbuck (button) folded before Flop (didn't bet)
+Seat 3: TheGreatRus (small blind) collected (470)
+Seat 4: SpOs Im GoOd (big blind) folded before Flop
+Seat 5: erico13 folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 folded before Flop
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298744129: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:16:05 CET [2021/12/17 16:16:05 ET]
+Table '3322163455 1' 9-max Seat #3 is the button
+Seat 2: Starrbuck (1798 in chips) 
+Seat 3: TheGreatRus (2030 in chips) 
+Seat 4: SpOs Im GoOd (1068 in chips) 
+Seat 5: erico13 (1880 in chips) 
+Seat 7: KeinKönich (671 in chips) 
+Seat 8: NKL95 (2968 in chips) 
+Seat 9: pedriim879 (1779 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+SpOs Im GoOd: posts small blind 40
+erico13: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Ac]
+KeinKönich: folds 
+NKL95: calls 80
+pedriim879: folds 
+Starrbuck: folds 
+TheGreatRus: folds 
+SpOs Im GoOd: raises 978 to 1058 and is all-in
+erico13: folds 
+NKL95: calls 978
+*** FLOP *** [4d Js Ts]
+*** TURN *** [4d Js Ts] [4s]
+*** RIVER *** [4d Js Ts 4s] [2d]
+*** SHOW DOWN ***
+SpOs Im GoOd: shows [9s 9h] (two pair, Nines and Fours)
+NKL95: shows [9d 7d] (a pair of Fours)
+SpOs Im GoOd collected 2266 from pot
+*** SUMMARY ***
+Total pot 2266 | Rake 0 
+Board [4d Js Ts 4s 2d]
+Seat 2: Starrbuck folded before Flop (didn't bet)
+Seat 3: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (small blind) showed [9s 9h] and won (2266) with two pair, Nines and Fours
+Seat 5: erico13 (big blind) folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: NKL95 showed [9d 7d] and lost with a pair of Fours
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232298762432: Tournament #3322163455, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 22:16:41 CET [2021/12/17 16:16:41 ET]
+Table '3322163455 1' 9-max Seat #4 is the button
+Seat 2: Starrbuck (1788 in chips) 
+Seat 3: TheGreatRus (2020 in chips) 
+Seat 4: SpOs Im GoOd (2266 in chips) 
+Seat 5: erico13 (1790 in chips) 
+Seat 7: KeinKönich (661 in chips) 
+Seat 8: NKL95 (1900 in chips) 
+Seat 9: pedriim879 (1769 in chips) 
+Starrbuck: posts the ante 10
+TheGreatRus: posts the ante 10
+SpOs Im GoOd: posts the ante 10
+erico13: posts the ante 10
+KeinKönich: posts the ante 10
+NKL95: posts the ante 10
+pedriim879: posts the ante 10
+erico13: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Ac]
+NKL95: folds 
+pedriim879: folds 
+Starrbuck: calls 80
+TheGreatRus: folds 
+SpOs Im GoOd: folds 
+erico13: calls 40
+KeinKönich: raises 571 to 651 and is all-in
+Starrbuck: calls 571
+erico13: folds 
+*** FLOP *** [9c Qs 6s]
+*** TURN *** [9c Qs 6s] [2d]
+*** RIVER *** [9c Qs 6s 2d] [3h]
+*** SHOW DOWN ***
+KeinKönich: shows [Ks Ac] (high card Ace)
+Starrbuck: shows [4h 4d] (a pair of Fours)
+Starrbuck collected 1452 from pot
+KeinKönich finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1452 | Rake 0 
+Board [9c Qs 6s 2d 3h]
+Seat 2: Starrbuck showed [4h 4d] and won (1452) with a pair of Fours
+Seat 3: TheGreatRus folded before Flop (didn't bet)
+Seat 4: SpOs Im GoOd (button) folded before Flop (didn't bet)
+Seat 5: erico13 (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) showed [Ks Ac] and lost with high card Ace
+Seat 8: NKL95 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+

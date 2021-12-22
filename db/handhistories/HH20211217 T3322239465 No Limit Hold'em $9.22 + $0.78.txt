@@ -1,0 +1,4143 @@
+ï»¿PokerStars Hand #232301505149: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:48:25 CET [2021/12/17 17:48:25 ET]
+Table '3322239465 1' 9-max Seat #1 is the button
+Seat 1: pangolinpicnic (1500 in chips) 
+Seat 2: TheGreatRus (1500 in chips) 
+Seat 3: pedriim879 (1500 in chips) 
+Seat 4: Chicano96 (1500 in chips) 
+Seat 5: Alexavnit (1500 in chips) 
+Seat 6: vonBaranow (1500 in chips) 
+Seat 7: dapitanboy (1500 in chips) 
+Seat 8: Director1313 (1500 in chips) 
+Seat 9: KeinKönich (1500 in chips) 
+pangolinpicnic: posts the ante 3
+TheGreatRus: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Alexavnit: posts the ante 3
+vonBaranow: posts the ante 3
+dapitanboy: posts the ante 3
+Director1313: posts the ante 3
+KeinKönich: posts the ante 3
+TheGreatRus: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 8h]
+Chicano96: raises 40 to 60
+Alexavnit: folds 
+vonBaranow: folds 
+dapitanboy: folds 
+Director1313: folds 
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Uncalled bet (40) returned to Chicano96
+Chicano96 collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: pangolinpicnic (button) folded before Flop (didn't bet)
+Seat 2: TheGreatRus (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) folded before Flop
+Seat 4: Chicano96 collected (77)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Director1313 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301521889: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:49:03 CET [2021/12/17 17:49:03 ET]
+Table '3322239465 1' 9-max Seat #2 is the button
+Seat 1: pangolinpicnic (1497 in chips) 
+Seat 2: TheGreatRus (1487 in chips) 
+Seat 3: pedriim879 (1477 in chips) 
+Seat 4: Chicano96 (1554 in chips) 
+Seat 5: Alexavnit (1497 in chips) 
+Seat 6: vonBaranow (1497 in chips) 
+Seat 7: dapitanboy (1497 in chips) 
+Seat 8: Director1313 (1497 in chips) 
+Seat 9: KeinKönich (1497 in chips) 
+pangolinpicnic: posts the ante 3
+TheGreatRus: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Alexavnit: posts the ante 3
+vonBaranow: posts the ante 3
+dapitanboy: posts the ante 3
+Director1313: posts the ante 3
+KeinKönich: posts the ante 3
+pedriim879: posts small blind 10
+Chicano96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Qd]
+Alexavnit: raises 20 to 40
+vonBaranow: raises 80 to 120
+dapitanboy: folds 
+Director1313: calls 120
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: calls 100
+Alexavnit: folds 
+*** FLOP *** [4d Js 8s]
+Chicano96: checks 
+vonBaranow: checks 
+Director1313: checks 
+*** TURN *** [4d Js 8s] [8h]
+Chicano96: checks 
+vonBaranow: checks 
+Director1313: checks 
+*** RIVER *** [4d Js 8s 8h] [6d]
+Chicano96: checks 
+vonBaranow: bets 288
+Director1313: calls 288
+Chicano96: folds 
+*** SHOW DOWN ***
+vonBaranow: shows [Tc Jc] (two pair, Jacks and Eights)
+Director1313: mucks hand 
+vonBaranow collected 1013 from pot
+*** SUMMARY ***
+Total pot 1013 | Rake 0 
+Board [4d Js 8s 8h 6d]
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) folded before Flop
+Seat 4: Chicano96 (big blind) folded on the River
+Seat 5: Alexavnit folded before Flop
+Seat 6: vonBaranow showed [Tc Jc] and won (1013) with two pair, Jacks and Eights
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Director1313 mucked [6s 7h]
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301562618: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:50:34 CET [2021/12/17 17:50:34 ET]
+Table '3322239465 1' 9-max Seat #3 is the button
+Seat 1: pangolinpicnic (1494 in chips) 
+Seat 2: TheGreatRus (1484 in chips) 
+Seat 3: pedriim879 (1464 in chips) 
+Seat 4: Chicano96 (1431 in chips) 
+Seat 5: Alexavnit (1454 in chips) 
+Seat 6: vonBaranow (2099 in chips) 
+Seat 7: dapitanboy (1494 in chips) 
+Seat 8: Director1313 (1086 in chips) 
+Seat 9: KeinKönich (1494 in chips) 
+pangolinpicnic: posts the ante 3
+TheGreatRus: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Alexavnit: posts the ante 3
+vonBaranow: posts the ante 3
+dapitanboy: posts the ante 3
+Director1313: posts the ante 3
+KeinKönich: posts the ante 3
+Chicano96: posts small blind 10
+Alexavnit: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Jh]
+vonBaranow: folds 
+dapitanboy: folds 
+Director1313: calls 20
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: calls 10
+Alexavnit: checks 
+*** FLOP *** [Ts Qd Ah]
+Chicano96: checks 
+Alexavnit: checks 
+Director1313: checks 
+*** TURN *** [Ts Qd Ah] [Td]
+Chicano96: checks 
+Alexavnit: checks 
+Director1313: bets 60
+Chicano96: folds 
+Alexavnit: calls 60
+*** RIVER *** [Ts Qd Ah Td] [Th]
+Alexavnit: checks 
+Director1313: bets 160
+Alexavnit: folds 
+Uncalled bet (160) returned to Director1313
+Director1313 collected 207 from pot
+Director1313: doesn't show hand 
+*** SUMMARY ***
+Total pot 207 | Rake 0 
+Board [Ts Qd Ah Td Th]
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 (button) folded before Flop (didn't bet)
+Seat 4: Chicano96 (small blind) folded on the Turn
+Seat 5: Alexavnit (big blind) folded on the River
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Director1313 collected (207)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301604412: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:52:07 CET [2021/12/17 17:52:07 ET]
+Table '3322239465 1' 9-max Seat #4 is the button
+Seat 1: pangolinpicnic (1491 in chips) 
+Seat 2: TheGreatRus (1481 in chips) 
+Seat 3: pedriim879 (1461 in chips) 
+Seat 4: Chicano96 (1408 in chips) 
+Seat 5: Alexavnit (1371 in chips) 
+Seat 6: vonBaranow (2096 in chips) 
+Seat 8: Director1313 (1210 in chips) 
+Seat 9: KeinKönich (1491 in chips) 
+pangolinpicnic: posts the ante 3
+TheGreatRus: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Alexavnit: posts the ante 3
+vonBaranow: posts the ante 3
+Director1313: posts the ante 3
+KeinKönich: posts the ante 3
+Alexavnit: posts small blind 10
+vonBaranow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 9c]
+Director1313: calls 20
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: raises 60 to 80
+Alexavnit: calls 70
+vonBaranow: folds 
+Director1313: calls 60
+*** FLOP *** [Qh 6d 7d]
+Alexavnit: checks 
+Director1313: checks 
+Chicano96: checks 
+*** TURN *** [Qh 6d 7d] [Jc]
+Alexavnit: bets 120
+Director1313: calls 120
+Chicano96: folds 
+*** RIVER *** [Qh 6d 7d Jc] [7s]
+Alexavnit: bets 220
+Director1313: raises 220 to 440
+Alexavnit: calls 220
+*** SHOW DOWN ***
+Director1313: shows [6s 9d] (two pair, Sevens and Sixes)
+Alexavnit: shows [Td Qc] (two pair, Queens and Sevens)
+Alexavnit collected 1404 from pot
+*** SUMMARY ***
+Total pot 1404 | Rake 0 
+Board [Qh 6d 7d Jc 7s]
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 (button) folded on the Turn
+Seat 5: Alexavnit (small blind) showed [Td Qc] and won (1404) with two pair, Queens and Sevens
+Seat 6: vonBaranow (big blind) folded before Flop
+Seat 8: Director1313 showed [6s 9d] and lost with two pair, Sevens and Sixes
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301638324: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:53:23 CET [2021/12/17 17:53:23 ET]
+Table '3322239465 1' 9-max Seat #5 is the button
+Seat 1: pangolinpicnic (1488 in chips) 
+Seat 2: TheGreatRus (1478 in chips) 
+Seat 3: pedriim879 (1458 in chips) 
+Seat 4: Chicano96 (1325 in chips) 
+Seat 5: Alexavnit (2132 in chips) 
+Seat 6: vonBaranow (2073 in chips) 
+Seat 8: Director1313 (567 in chips) 
+Seat 9: KeinKönich (1488 in chips) 
+pangolinpicnic: posts the ante 3
+TheGreatRus: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Alexavnit: posts the ante 3
+vonBaranow: posts the ante 3
+Director1313: posts the ante 3
+KeinKönich: posts the ante 3
+vonBaranow: posts small blind 10
+Director1313: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 7d]
+KeinKönich: folds 
+pangolinpicnic: raises 20 to 40
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+Director1313: calls 20
+*** FLOP *** [2d 9h 8s]
+Director1313: checks 
+pangolinpicnic: bets 114
+Director1313: calls 114
+*** TURN *** [2d 9h 8s] [3h]
+Director1313: bets 410 and is all-in
+pangolinpicnic: calls 410
+*** RIVER *** [2d 9h 8s 3h] [Ad]
+*** SHOW DOWN ***
+Director1313: shows [As 7h] (a pair of Aces)
+pangolinpicnic: shows [9c Ah] (two pair, Aces and Nines)
+pangolinpicnic collected 1162 from pot
+Director1313 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1162 | Rake 0 
+Board [2d 9h 8s 3h Ad]
+Seat 1: pangolinpicnic showed [9c Ah] and won (1162) with two pair, Aces and Nines
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit (button) folded before Flop (didn't bet)
+Seat 6: vonBaranow (small blind) folded before Flop
+Seat 8: Director1313 (big blind) showed [As 7h] and lost with a pair of Aces
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301662146: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:54:17 CET [2021/12/17 17:54:17 ET]
+Table '3322239465 1' 9-max Seat #6 is the button
+Seat 1: pangolinpicnic (2083 in chips) 
+Seat 2: TheGreatRus (1475 in chips) 
+Seat 3: pedriim879 (1455 in chips) 
+Seat 4: Chicano96 (1322 in chips) 
+Seat 5: Alexavnit (2129 in chips) 
+Seat 6: vonBaranow (2060 in chips) 
+Seat 9: KeinKönich (1485 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+KeinKönich: posts small blind 15
+pangolinpicnic: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s Jh]
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: folds 
+Uncalled bet (15) returned to pangolinpicnic
+pangolinpicnic collected 58 from pot
+pangolinpicnic: doesn't show hand 
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 1: pangolinpicnic (big blind) collected (58)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301671834: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:54:38 CET [2021/12/17 17:54:38 ET]
+Table '3322239465 1' 9-max Seat #9 is the button
+Seat 1: pangolinpicnic (2122 in chips) 
+Seat 2: TheGreatRus (1471 in chips) 
+Seat 3: pedriim879 (1451 in chips) 
+Seat 4: Chicano96 (1318 in chips) 
+Seat 5: Alexavnit (2125 in chips) 
+Seat 6: vonBaranow (2056 in chips) 
+Seat 9: KeinKönich (1466 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+pangolinpicnic: posts small blind 15
+TheGreatRus: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h 6s]
+pedriim879: folds 
+Chicano96: raises 45 to 75
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: calls 60
+TheGreatRus: folds 
+*** FLOP *** [Kd 4s Qc]
+pangolinpicnic: checks 
+Chicano96: bets 69
+pangolinpicnic: folds 
+Uncalled bet (69) returned to Chicano96
+Chicano96 collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [Kd 4s Qc]
+Seat 1: pangolinpicnic (small blind) folded on the Flop
+Seat 2: TheGreatRus (big blind) folded before Flop
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 collected (208)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301792758: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/18 0:00:16 CET [2021/12/17 18:00:16 ET]
+Table '3322239465 1' 9-max Seat #1 is the button
+Seat 1: pangolinpicnic (2043 in chips) 
+Seat 2: TheGreatRus (1437 in chips) 
+Seat 3: pedriim879 (1447 in chips) 
+Seat 4: Chicano96 (1447 in chips) 
+Seat 5: Alexavnit (2121 in chips) 
+Seat 6: vonBaranow (2052 in chips) 
+Seat 9: KeinKönich (1462 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+TheGreatRus: posts small blind 15
+pedriim879: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Kd]
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: raises 45 to 75
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Uncalled bet (45) returned to KeinKönich
+KeinKönich collected 103 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: pangolinpicnic (button) folded before Flop (didn't bet)
+Seat 2: TheGreatRus (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) folded before Flop
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (103)
+
+
+
+PokerStars Hand #232301808761: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/18 0:00:45 CET [2021/12/17 18:00:45 ET]
+Table '3322239465 1' 9-max Seat #2 is the button
+Seat 1: pangolinpicnic (2039 in chips) 
+Seat 2: TheGreatRus (1418 in chips) 
+Seat 3: pedriim879 (1413 in chips) 
+Seat 4: Chicano96 (1443 in chips) 
+Seat 5: Alexavnit (2117 in chips) 
+Seat 6: vonBaranow (2048 in chips) 
+Seat 9: KeinKönich (1531 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+pedriim879: posts small blind 15
+Chicano96: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ts]
+Alexavnit: calls 30
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: calls 30
+TheGreatRus: folds 
+pedriim879: calls 15
+Chicano96: checks 
+*** FLOP *** [2h Qs Ad]
+pedriim879: checks 
+Chicano96: checks 
+Alexavnit: checks 
+pangolinpicnic: bets 30
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: calls 30
+*** TURN *** [2h Qs Ad] [3h]
+Alexavnit: checks 
+pangolinpicnic: bets 30
+Alexavnit: raises 60 to 90
+pangolinpicnic: calls 60
+*** RIVER *** [2h Qs Ad 3h] [5s]
+Alexavnit: bets 150
+pangolinpicnic: folds 
+Uncalled bet (150) returned to Alexavnit
+Alexavnit collected 388 from pot
+Alexavnit: doesn't show hand 
+*** SUMMARY ***
+Total pot 388 | Rake 0 
+Board [2h Qs Ad 3h 5s]
+Seat 1: pangolinpicnic folded on the River
+Seat 2: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) folded on the Flop
+Seat 4: Chicano96 (big blind) folded on the Flop
+Seat 5: Alexavnit collected (388)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301860127: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/18 0:02:46 CET [2021/12/17 18:02:46 ET]
+Table '3322239465 1' 9-max Seat #3 is the button
+Seat 1: pangolinpicnic (1885 in chips) 
+Seat 2: TheGreatRus (1414 in chips) 
+Seat 3: pedriim879 (1379 in chips) 
+Seat 4: Chicano96 (1409 in chips) 
+Seat 5: Alexavnit (2351 in chips) 
+Seat 6: vonBaranow (2044 in chips) 
+Seat 9: KeinKönich (1527 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+Chicano96: posts small blind 15
+Alexavnit: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h Js]
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: calls 15
+Alexavnit: raises 60 to 90
+Chicano96: folds 
+Uncalled bet (60) returned to Alexavnit
+Alexavnit collected 88 from pot
+Alexavnit: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 (button) folded before Flop (didn't bet)
+Seat 4: Chicano96 (small blind) folded before Flop
+Seat 5: Alexavnit (big blind) collected (88)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301876299: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/18 0:03:24 CET [2021/12/17 18:03:24 ET]
+Table '3322239465 1' 9-max Seat #4 is the button
+Seat 1: pangolinpicnic (1881 in chips) 
+Seat 2: TheGreatRus (1410 in chips) 
+Seat 3: pedriim879 (1375 in chips) 
+Seat 4: Chicano96 (1375 in chips) 
+Seat 5: Alexavnit (2405 in chips) 
+Seat 6: vonBaranow (2040 in chips) 
+Seat 9: KeinKönich (1523 in chips) 
+pangolinpicnic: posts the ante 4
+TheGreatRus: posts the ante 4
+pedriim879: posts the ante 4
+Chicano96: posts the ante 4
+Alexavnit: posts the ante 4
+vonBaranow: posts the ante 4
+KeinKönich: posts the ante 4
+Alexavnit: posts small blind 15
+vonBaranow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc 5s]
+KeinKönich: folds 
+pangolinpicnic: calls 30
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: raises 90 to 120
+Alexavnit: folds 
+vonBaranow: folds 
+pangolinpicnic: calls 90
+*** FLOP *** [Qs 9s Th]
+pangolinpicnic: checks 
+Chicano96: bets 157
+pangolinpicnic: folds 
+Uncalled bet (157) returned to Chicano96
+Chicano96 collected 313 from pot
+*** SUMMARY ***
+Total pot 313 | Rake 0 
+Board [Qs 9s Th]
+Seat 1: pangolinpicnic folded on the Flop
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 (button) collected (313)
+Seat 5: Alexavnit (small blind) folded before Flop
+Seat 6: vonBaranow (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301909489: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:04:39 CET [2021/12/17 18:04:39 ET]
+Table '3322239465 1' 9-max Seat #5 is the button
+Seat 1: pangolinpicnic (1757 in chips) 
+Seat 2: TheGreatRus (1406 in chips) 
+Seat 3: pedriim879 (1371 in chips) 
+Seat 4: Chicano96 (1564 in chips) 
+Seat 5: Alexavnit (2386 in chips) 
+Seat 6: vonBaranow (2006 in chips) 
+Seat 9: KeinKönich (1519 in chips) 
+pangolinpicnic: posts the ante 6
+TheGreatRus: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts the ante 6
+Alexavnit: posts the ante 6
+vonBaranow: posts the ante 6
+KeinKönich: posts the ante 6
+vonBaranow: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 6c]
+pangolinpicnic: calls 50
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: checks 
+*** FLOP *** [3c 7c Ts]
+KeinKönich: checks 
+pangolinpicnic: bets 167
+KeinKönich: folds 
+Uncalled bet (167) returned to pangolinpicnic
+pangolinpicnic collected 167 from pot
+pangolinpicnic: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [3c 7c Ts]
+Seat 1: pangolinpicnic collected (167)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit (button) folded before Flop (didn't bet)
+Seat 6: vonBaranow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232301932277: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:05:13 CET [2021/12/17 18:05:13 ET]
+Table '3322239465 1' 9-max Seat #6 is the button
+Seat 1: pangolinpicnic (1868 in chips) 
+Seat 2: TheGreatRus (1400 in chips) 
+Seat 3: pedriim879 (1365 in chips) 
+Seat 4: Chicano96 (1558 in chips) 
+Seat 5: Alexavnit (2380 in chips) 
+Seat 6: vonBaranow (1975 in chips) 
+Seat 9: KeinKönich (1463 in chips) 
+pangolinpicnic: posts the ante 6
+TheGreatRus: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts the ante 6
+Alexavnit: posts the ante 6
+vonBaranow: posts the ante 6
+KeinKönich: posts the ante 6
+KeinKönich: posts small blind 25
+pangolinpicnic: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c Th]
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: raises 55 to 105
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: calls 55
+*** FLOP *** [2s 6c Qs]
+pangolinpicnic: checks 
+Chicano96: bets 92
+pangolinpicnic: raises 92 to 184
+Chicano96: calls 92
+*** TURN *** [2s 6c Qs] [2d]
+pangolinpicnic: bets 250
+Chicano96: calls 250
+*** RIVER *** [2s 6c Qs 2d] [4c]
+pangolinpicnic: bets 250
+Chicano96: calls 250
+*** SHOW DOWN ***
+pangolinpicnic: shows [Qh 8s] (two pair, Queens and Deuces)
+Chicano96: mucks hand 
+pangolinpicnic collected 1645 from pot
+*** SUMMARY ***
+Total pot 1645 | Rake 0 
+Board [2s 6c Qs 2d 4c]
+Seat 1: pangolinpicnic (big blind) showed [Qh 8s] and won (1645) with two pair, Queens and Deuces
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 mucked [Ah 6h]
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301963938: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:06:26 CET [2021/12/17 18:06:26 ET]
+Table '3322239465 1' 9-max Seat #9 is the button
+Seat 1: pangolinpicnic (2718 in chips) 
+Seat 2: TheGreatRus (1394 in chips) 
+Seat 3: pedriim879 (1359 in chips) 
+Seat 4: Chicano96 (763 in chips) 
+Seat 5: Alexavnit (2374 in chips) 
+Seat 6: vonBaranow (1969 in chips) 
+Seat 9: KeinKönich (1432 in chips) 
+pangolinpicnic: posts the ante 6
+TheGreatRus: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts the ante 6
+Alexavnit: posts the ante 6
+vonBaranow: posts the ante 6
+KeinKönich: posts the ante 6
+pangolinpicnic: posts small blind 25
+TheGreatRus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Td]
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: raises 50 to 100
+pangolinpicnic: calls 75
+TheGreatRus: folds 
+*** FLOP *** [8s Js 7s]
+pangolinpicnic: checks 
+KeinKönich: checks 
+*** TURN *** [8s Js 7s] [Ac]
+pangolinpicnic: checks 
+KeinKönich: bets 150
+pangolinpicnic: raises 150 to 300
+KeinKönich: folds 
+Uncalled bet (150) returned to pangolinpicnic
+pangolinpicnic collected 592 from pot
+pangolinpicnic: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Board [8s Js 7s Ac]
+Seat 1: pangolinpicnic (small blind) collected (592)
+Seat 2: TheGreatRus (big blind) folded before Flop
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded on the Turn
+
+
+
+PokerStars Hand #232301988844: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:07:23 CET [2021/12/17 18:07:23 ET]
+Table '3322239465 1' 9-max Seat #1 is the button
+Seat 1: pangolinpicnic (3054 in chips) 
+Seat 2: TheGreatRus (1338 in chips) 
+Seat 3: pedriim879 (1353 in chips) 
+Seat 4: Chicano96 (757 in chips) 
+Seat 5: Alexavnit (2368 in chips) 
+Seat 6: vonBaranow (1963 in chips) 
+Seat 9: KeinKönich (1176 in chips) 
+pangolinpicnic: posts the ante 6
+TheGreatRus: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts the ante 6
+Alexavnit: posts the ante 6
+vonBaranow: posts the ante 6
+KeinKönich: posts the ante 6
+TheGreatRus: posts small blind 25
+pedriim879: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 3c]
+Chicano96: folds 
+Alexavnit: raises 50 to 100
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: calls 100
+TheGreatRus: folds 
+pedriim879: folds 
+*** FLOP *** [Kh 8c 4s]
+Alexavnit: bets 150
+pangolinpicnic: calls 150
+*** TURN *** [Kh 8c 4s] [9d]
+Alexavnit: bets 200
+pangolinpicnic: calls 200
+*** RIVER *** [Kh 8c 4s 9d] [Js]
+Alexavnit: bets 300
+pangolinpicnic: raises 300 to 600
+Alexavnit: folds [9s]
+Uncalled bet (300) returned to pangolinpicnic
+pangolinpicnic collected 1617 from pot
+pangolinpicnic: doesn't show hand 
+*** SUMMARY ***
+Total pot 1617 | Rake 0 
+Board [Kh 8c 4s 9d Js]
+Seat 1: pangolinpicnic (button) collected (1617)
+Seat 2: TheGreatRus (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) folded before Flop
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded on the River
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302018616: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/18 0:08:33 CET [2021/12/17 18:08:33 ET]
+Table '3322239465 1' 9-max Seat #2 is the button
+Seat 1: pangolinpicnic (3915 in chips) 
+Seat 2: TheGreatRus (1307 in chips) 
+Seat 3: pedriim879 (1297 in chips) 
+Seat 4: Chicano96 (751 in chips) 
+Seat 5: Alexavnit (1612 in chips) 
+Seat 6: vonBaranow (1957 in chips) 
+Seat 9: KeinKönich (1170 in chips) 
+pangolinpicnic: posts the ante 6
+TheGreatRus: posts the ante 6
+pedriim879: posts the ante 6
+Chicano96: posts the ante 6
+Alexavnit: posts the ante 6
+vonBaranow: posts the ante 6
+KeinKönich: posts the ante 6
+pedriim879: posts small blind 25
+Chicano96: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 2s]
+Alexavnit: calls 50
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: raises 50 to 100
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: raises 645 to 745 and is all-in
+Alexavnit: folds 
+pangolinpicnic: calls 645
+*** FLOP *** [5h 9s 8d]
+*** TURN *** [5h 9s 8d] [Kh]
+*** RIVER *** [5h 9s 8d Kh] [8h]
+*** SHOW DOWN ***
+Chicano96: shows [Ac Ad] (two pair, Aces and Eights)
+pangolinpicnic: shows [Ks Ts] (two pair, Kings and Eights)
+Chicano96 collected 1607 from pot
+*** SUMMARY ***
+Total pot 1607 | Rake 0 
+Board [5h 9s 8d Kh 8h]
+Seat 1: pangolinpicnic showed [Ks Ts] and lost with two pair, Kings and Eights
+Seat 2: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) folded before Flop
+Seat 4: Chicano96 (big blind) showed [Ac Ad] and won (1607) with two pair, Aces and Eights
+Seat 5: Alexavnit folded before Flop
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302045972: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:09:23 CET [2021/12/17 18:09:23 ET]
+Table '3322239465 1' 9-max Seat #3 is the button
+Seat 1: pangolinpicnic (3164 in chips) 
+Seat 2: TheGreatRus (1301 in chips) 
+Seat 3: pedriim879 (1266 in chips) 
+Seat 4: Chicano96 (1607 in chips) 
+Seat 5: Alexavnit (1556 in chips) 
+Seat 6: vonBaranow (1951 in chips) 
+Seat 9: KeinKönich (1164 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+Chicano96: posts small blind 40
+Alexavnit: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 7h]
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: raises 83 to 163
+Chicano96: folds 
+Alexavnit: calls 83
+*** FLOP *** [Qh 5h 8c]
+Alexavnit: checks 
+pedriim879: bets 200
+Alexavnit: raises 1183 to 1383 and is all-in
+pedriim879: folds 
+Uncalled bet (1183) returned to Alexavnit
+Alexavnit collected 836 from pot
+Alexavnit: doesn't show hand 
+*** SUMMARY ***
+Total pot 836 | Rake 0 
+Board [Qh 5h 8c]
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 (button) folded on the Flop
+Seat 4: Chicano96 (small blind) folded before Flop
+Seat 5: Alexavnit (big blind) collected (836)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302071575: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:10:23 CET [2021/12/17 18:10:23 ET]
+Table '3322239465 1' 9-max Seat #4 is the button
+Seat 1: pangolinpicnic (3154 in chips) 
+Seat 2: TheGreatRus (1291 in chips) 
+Seat 3: pedriim879 (893 in chips) 
+Seat 4: Chicano96 (1557 in chips) 
+Seat 5: Alexavnit (2019 in chips) 
+Seat 6: vonBaranow (1941 in chips) 
+Seat 9: KeinKönich (1154 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+Alexavnit: posts small blind 40
+vonBaranow: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 5d]
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: raises 803 to 883 and is all-in
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+Uncalled bet (803) returned to pedriim879
+pedriim879 collected 270 from pot
+pedriim879: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 collected (270)
+Seat 4: Chicano96 (button) folded before Flop (didn't bet)
+Seat 5: Alexavnit (small blind) folded before Flop
+Seat 6: vonBaranow (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302081311: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:10:46 CET [2021/12/17 18:10:46 ET]
+Table '3322239465 1' 9-max Seat #5 is the button
+Seat 1: pangolinpicnic (3144 in chips) 
+Seat 2: TheGreatRus (1281 in chips) 
+Seat 3: pedriim879 (1073 in chips) 
+Seat 4: Chicano96 (1547 in chips) 
+Seat 5: Alexavnit (1969 in chips) 
+Seat 6: vonBaranow (1851 in chips) 
+Seat 9: KeinKönich (1144 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+vonBaranow: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 3s]
+pangolinpicnic: raises 80 to 160
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: calls 160
+vonBaranow: folds 
+KeinKönich: folds 
+*** FLOP *** [7h 4s 3d]
+pangolinpicnic: bets 160
+Alexavnit: folds 
+Uncalled bet (160) returned to pangolinpicnic
+pangolinpicnic collected 510 from pot
+pangolinpicnic: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [7h 4s 3d]
+Seat 1: pangolinpicnic collected (510)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit (button) folded on the Flop
+Seat 6: vonBaranow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302098263: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:11:25 CET [2021/12/17 18:11:25 ET]
+Table '3322239465 1' 9-max Seat #6 is the button
+Seat 1: pangolinpicnic (3484 in chips) 
+Seat 2: TheGreatRus (1271 in chips) 
+Seat 3: pedriim879 (1063 in chips) 
+Seat 4: Chicano96 (1537 in chips) 
+Seat 5: Alexavnit (1799 in chips) 
+Seat 6: vonBaranow (1801 in chips) 
+Seat 9: KeinKönich (1054 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+KeinKönich: posts small blind 40
+pangolinpicnic: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d Ah]
+TheGreatRus: raises 80 to 160
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: folds 
+Uncalled bet (80) returned to TheGreatRus
+TheGreatRus collected 270 from pot
+TheGreatRus: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: pangolinpicnic (big blind) folded before Flop
+Seat 2: TheGreatRus collected (270)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302107272: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:11:46 CET [2021/12/17 18:11:46 ET]
+Table '3322239465 1' 9-max Seat #9 is the button
+Seat 1: pangolinpicnic (3394 in chips) 
+Seat 2: TheGreatRus (1451 in chips) 
+Seat 3: pedriim879 (1053 in chips) 
+Seat 4: Chicano96 (1527 in chips) 
+Seat 5: Alexavnit (1789 in chips) 
+Seat 6: vonBaranow (1791 in chips) 
+Seat 9: KeinKönich (1004 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+pangolinpicnic: posts small blind 40
+TheGreatRus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc As]
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: raises 80 to 160
+pangolinpicnic: folds 
+TheGreatRus: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 270 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: pangolinpicnic (small blind) folded before Flop
+Seat 2: TheGreatRus (big blind) folded before Flop
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) collected (270)
+
+
+
+PokerStars Hand #232302120123: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/18 0:12:17 CET [2021/12/17 18:12:17 ET]
+Table '3322239465 1' 9-max Seat #1 is the button
+Seat 1: pangolinpicnic (3344 in chips) 
+Seat 2: TheGreatRus (1361 in chips) 
+Seat 3: pedriim879 (1043 in chips) 
+Seat 4: Chicano96 (1517 in chips) 
+Seat 5: Alexavnit (1779 in chips) 
+Seat 6: vonBaranow (1781 in chips) 
+Seat 9: KeinKönich (1184 in chips) 
+pangolinpicnic: posts the ante 10
+TheGreatRus: posts the ante 10
+pedriim879: posts the ante 10
+Chicano96: posts the ante 10
+Alexavnit: posts the ante 10
+vonBaranow: posts the ante 10
+KeinKönich: posts the ante 10
+TheGreatRus: posts small blind 40
+pedriim879: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 5d]
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: raises 80 to 160
+KeinKönich: folds 
+pangolinpicnic: calls 160
+TheGreatRus: folds 
+pedriim879: calls 80
+*** FLOP *** [4d Ad 9c]
+pedriim879: checks 
+vonBaranow: checks 
+pangolinpicnic: checks 
+*** TURN *** [4d Ad 9c] [Ts]
+pedriim879: checks 
+vonBaranow: checks 
+pangolinpicnic: checks 
+*** RIVER *** [4d Ad 9c Ts] [7s]
+pedriim879: checks 
+vonBaranow: checks 
+pangolinpicnic: checks 
+*** SHOW DOWN ***
+pedriim879: shows [Js 6s] (high card Ace)
+vonBaranow: shows [Jh Qs] (high card Ace - Queen kicker)
+pangolinpicnic: shows [8h 8s] (a pair of Eights)
+pangolinpicnic collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [4d Ad 9c Ts 7s]
+Seat 1: pangolinpicnic (button) showed [8h 8s] and won (590) with a pair of Eights
+Seat 2: TheGreatRus (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) showed [Js 6s] and lost with high card Ace
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow showed [Jh Qs] and lost with high card Ace
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302167273: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:13:48 CET [2021/12/17 18:13:48 ET]
+Table '3322239465 1' 9-max Seat #2 is the button
+Seat 1: pangolinpicnic (3764 in chips) 
+Seat 2: TheGreatRus (1311 in chips) 
+Seat 3: pedriim879 (873 in chips) 
+Seat 4: Chicano96 (1507 in chips) 
+Seat 5: Alexavnit (1769 in chips) 
+Seat 6: vonBaranow (1611 in chips) 
+Seat 9: KeinKönich (1174 in chips) 
+pangolinpicnic: posts the ante 15
+TheGreatRus: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+pedriim879: posts small blind 60
+Chicano96: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 7h]
+Alexavnit: raises 120 to 240
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: calls 240
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: calls 120
+*** FLOP *** [7d 8h 7s]
+Chicano96: checks 
+Alexavnit: bets 480
+pangolinpicnic: folds 
+Chicano96: folds 
+Uncalled bet (480) returned to Alexavnit
+Alexavnit collected 885 from pot
+Alexavnit: doesn't show hand 
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [7d 8h 7s]
+Seat 1: pangolinpicnic folded on the Flop
+Seat 2: TheGreatRus (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) folded before Flop
+Seat 4: Chicano96 (big blind) folded on the Flop
+Seat 5: Alexavnit collected (885)
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302190785: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:14:43 CET [2021/12/17 18:14:43 ET]
+Table '3322239465 1' 9-max Seat #3 is the button
+Seat 1: pangolinpicnic (3509 in chips) 
+Seat 2: TheGreatRus (1296 in chips) 
+Seat 3: pedriim879 (798 in chips) 
+Seat 4: Chicano96 (1252 in chips) 
+Seat 5: Alexavnit (2399 in chips) 
+Seat 6: vonBaranow (1596 in chips) 
+Seat 9: KeinKönich (1159 in chips) 
+pangolinpicnic: posts the ante 15
+TheGreatRus: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+Chicano96: posts small blind 60
+Alexavnit: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 4h]
+vonBaranow: raises 1461 to 1581 and is all-in
+KeinKönich: folds 
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+Uncalled bet (1461) returned to vonBaranow
+vonBaranow collected 405 from pot
+vonBaranow: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 (button) folded before Flop (didn't bet)
+Seat 4: Chicano96 (small blind) folded before Flop
+Seat 5: Alexavnit (big blind) folded before Flop
+Seat 6: vonBaranow collected (405)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302204130: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:15:15 CET [2021/12/17 18:15:15 ET]
+Table '3322239465 1' 9-max Seat #4 is the button
+Seat 1: pangolinpicnic (3494 in chips) 
+Seat 2: TheGreatRus (1281 in chips) 
+Seat 3: pedriim879 (783 in chips) 
+Seat 4: Chicano96 (1177 in chips) 
+Seat 5: Alexavnit (2264 in chips) 
+Seat 6: vonBaranow (1866 in chips) 
+Seat 9: KeinKönich (1144 in chips) 
+pangolinpicnic: posts the ante 15
+TheGreatRus: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+Alexavnit: posts small blind 60
+vonBaranow: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h Ah]
+KeinKönich: raises 1009 to 1129 and is all-in
+pangolinpicnic: folds 
+TheGreatRus: folds 
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+Uncalled bet (1009) returned to KeinKönich
+KeinKönich collected 405 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus folded before Flop (didn't bet)
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 (button) folded before Flop (didn't bet)
+Seat 5: Alexavnit (small blind) folded before Flop
+Seat 6: vonBaranow (big blind) folded before Flop
+Seat 9: KeinKönich collected (405)
+
+
+
+PokerStars Hand #232302220546: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:15:53 CET [2021/12/17 18:15:53 ET]
+Table '3322239465 1' 9-max Seat #5 is the button
+Seat 1: pangolinpicnic (3479 in chips) 
+Seat 2: TheGreatRus (1266 in chips) 
+Seat 3: pedriim879 (768 in chips) 
+Seat 4: Chicano96 (1162 in chips) 
+Seat 5: Alexavnit (2189 in chips) 
+Seat 6: vonBaranow (1731 in chips) 
+Seat 9: KeinKönich (1414 in chips) 
+pangolinpicnic: posts the ante 15
+TheGreatRus: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+vonBaranow: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac Js]
+pangolinpicnic: folds 
+TheGreatRus: raises 1131 to 1251 and is all-in
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: calls 1131
+*** FLOP *** [4s 3c 5d]
+*** TURN *** [4s 3c 5d] [Tc]
+*** RIVER *** [4s 3c 5d Tc] [2h]
+*** SHOW DOWN ***
+KeinKönich: shows [Ac Js] (a straight, Ace to Five)
+TheGreatRus: shows [9s Ts] (a pair of Tens)
+KeinKönich collected 2667 from pot
+TheGreatRus finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2667 | Rake 0 
+Board [4s 3c 5d Tc 2h]
+Seat 1: pangolinpicnic folded before Flop (didn't bet)
+Seat 2: TheGreatRus showed [9s Ts] and lost with a pair of Tens
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit (button) folded before Flop (didn't bet)
+Seat 6: vonBaranow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) showed [Ac Js] and won (2667) with a straight, Ace to Five
+
+
+
+PokerStars Hand #232302234846: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:16:27 CET [2021/12/17 18:16:27 ET]
+Table '3322239465 1' 9-max Seat #6 is the button
+Seat 1: pangolinpicnic (3464 in chips) 
+Seat 3: pedriim879 (753 in chips) 
+Seat 4: Chicano96 (1147 in chips) 
+Seat 5: Alexavnit (2174 in chips) 
+Seat 6: vonBaranow (1656 in chips) 
+Seat 9: KeinKönich (2815 in chips) 
+pangolinpicnic: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+KeinKönich: posts small blind 60
+pangolinpicnic: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd Td]
+pedriim879: folds 
+Chicano96: folds 
+Alexavnit: folds 
+vonBaranow: folds 
+KeinKönich: raises 120 to 240
+pangolinpicnic: calls 120
+*** FLOP *** [Ks Ah 6h]
+KeinKönich: bets 285
+pangolinpicnic: folds 
+Uncalled bet (285) returned to KeinKönich
+KeinKönich collected 570 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Ks Ah 6h]
+Seat 1: pangolinpicnic (big blind) folded on the Flop
+Seat 3: pedriim879 folded before Flop (didn't bet)
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) collected (570)
+
+
+
+PokerStars Hand #232302248716: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:17:00 CET [2021/12/17 18:17:00 ET]
+Table '3322239465 1' 9-max Seat #9 is the button
+Seat 1: pangolinpicnic (3209 in chips) 
+Seat 3: pedriim879 (738 in chips) 
+Seat 4: Chicano96 (1132 in chips) 
+Seat 5: Alexavnit (2159 in chips) 
+Seat 6: vonBaranow (1641 in chips) 
+Seat 9: KeinKönich (3130 in chips) 
+pangolinpicnic: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+pangolinpicnic: posts small blind 60
+pedriim879: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 2d]
+Chicano96: folds 
+Alexavnit: raises 120 to 240
+vonBaranow: folds 
+KeinKönich: folds 
+pangolinpicnic: folds 
+pedriim879: raises 483 to 723 and is all-in
+Alexavnit: calls 483
+*** FLOP *** [Tc Js 6h]
+*** TURN *** [Tc Js 6h] [9h]
+*** RIVER *** [Tc Js 6h 9h] [Kh]
+*** SHOW DOWN ***
+pedriim879: shows [Qs Kd] (a straight, Nine to King)
+Alexavnit: shows [Jc Ac] (a pair of Jacks)
+pedriim879 collected 1596 from pot
+*** SUMMARY ***
+Total pot 1596 | Rake 0 
+Board [Tc Js 6h 9h Kh]
+Seat 1: pangolinpicnic (small blind) folded before Flop
+Seat 3: pedriim879 (big blind) showed [Qs Kd] and won (1596) with a straight, Nine to King
+Seat 4: Chicano96 folded before Flop (didn't bet)
+Seat 5: Alexavnit showed [Jc Ac] and lost with a pair of Jacks
+Seat 6: vonBaranow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302267742: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:17:46 CET [2021/12/17 18:17:46 ET]
+Table '3322239465 1' 9-max Seat #1 is the button
+Seat 1: pangolinpicnic (3134 in chips) 
+Seat 3: pedriim879 (1596 in chips) 
+Seat 4: Chicano96 (1117 in chips) 
+Seat 5: Alexavnit (1421 in chips) 
+Seat 6: vonBaranow (1626 in chips) 
+Seat 9: KeinKönich (3115 in chips) 
+pangolinpicnic: posts the ante 15
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+pedriim879: posts small blind 60
+Chicano96: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Kh]
+Alexavnit: folds 
+vonBaranow: raises 1491 to 1611 and is all-in
+KeinKönich: folds 
+pangolinpicnic: folds 
+pedriim879: calls 1521 and is all-in
+Chicano96: folds 
+Uncalled bet (30) returned to vonBaranow
+*** FLOP *** [Kc 9h 7s]
+*** TURN *** [Kc 9h 7s] [9s]
+*** RIVER *** [Kc 9h 7s 9s] [Jh]
+*** SHOW DOWN ***
+pedriim879: shows [5h 5c] (two pair, Nines and Fives)
+vonBaranow: shows [Qs Ah] (a pair of Nines)
+pedriim879 collected 3372 from pot
+*** SUMMARY ***
+Total pot 3372 | Rake 0 
+Board [Kc 9h 7s 9s Jh]
+Seat 1: pangolinpicnic (button) folded before Flop (didn't bet)
+Seat 3: pedriim879 (small blind) showed [5h 5c] and won (3372) with two pair, Nines and Fives
+Seat 4: Chicano96 (big blind) folded before Flop
+Seat 5: Alexavnit folded before Flop (didn't bet)
+Seat 6: vonBaranow showed [Qs Ah] and lost with a pair of Nines
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302278595: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/18 0:18:12 CET [2021/12/17 18:18:12 ET]
+Table '3322239465 1' 9-max Seat #3 is the button
+Seat 3: pedriim879 (3372 in chips) 
+Seat 4: Chicano96 (982 in chips) 
+Seat 5: Alexavnit (1406 in chips) 
+Seat 6: vonBaranow (30 in chips) 
+Seat 9: KeinKönich (3100 in chips) 
+pedriim879: posts the ante 15
+Chicano96: posts the ante 15
+Alexavnit: posts the ante 15
+vonBaranow: posts the ante 15
+KeinKönich: posts the ante 15
+Chicano96: posts small blind 60
+Alexavnit: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 5c]
+vonBaranow: calls 15 and is all-in
+KeinKönich: folds 
+pedriim879: folds 
+Chicano96: calls 60
+Alexavnit: raises 360 to 480
+Chicano96: folds 
+Uncalled bet (360) returned to Alexavnit
+*** FLOP *** [Jh Ah 9h]
+*** TURN *** [Jh Ah 9h] [Ts]
+*** RIVER *** [Jh Ah 9h Ts] [Ad]
+*** SHOW DOWN ***
+Alexavnit: shows [Ac Qs] (three of a kind, Aces)
+Alexavnit collected 210 from side pot
+vonBaranow: shows [2c Tc] (two pair, Aces and Tens)
+Alexavnit collected 120 from main pot
+vonBaranow finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 330 Main pot 120. Side pot 210. | Rake 0 
+Board [Jh Ah 9h Ts Ad]
+Seat 3: pedriim879 (button) folded before Flop (didn't bet)
+Seat 4: Chicano96 (small blind) folded before Flop
+Seat 5: Alexavnit (big blind) showed [Ac Qs] and won (330) with three of a kind, Aces
+Seat 6: vonBaranow showed [2c Tc] and lost with two pair, Aces and Tens
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302309473: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:19:27 CET [2021/12/17 18:19:27 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (1132 in chips) 
+Seat 2: leledoni (2825 in chips) 
+Seat 3: pangolinpicnic (3119 in chips) out of hand (moved from another table into small blind)
+Seat 4: Alexavnit (1601 in chips) out of hand (moved from another table into small blind)
+Seat 5: drchaos7 (3285 in chips) 
+Seat 6: KeinKönich (3085 in chips) 
+Seat 7: dapitanboy (7749 in chips) 
+Seat 8: Chicano96 (847 in chips) 
+Seat 9: pedriim879 (3357 in chips) 
+pangolinpicnic will be allowed to play after the button
+Alexavnit will be allowed to play after the button
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+pedriim879: posts the ante 20
+drchaos7: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 6d]
+dapitanboy: folds 
+Chicano96: folds 
+pedriim879: folds 
+IgorMV85: raises 952 to 1112 and is all-in
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+Uncalled bet (952) returned to IgorMV85
+IgorMV85 collected 540 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: IgorMV85 collected (540)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 5: drchaos7 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302327208: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:20:09 CET [2021/12/17 18:20:09 ET]
+Table '3322239465 2' 9-max Seat #5 is the button
+Seat 1: IgorMV85 (1492 in chips) 
+Seat 2: leledoni (2805 in chips) 
+Seat 3: pangolinpicnic (3119 in chips) 
+Seat 4: Alexavnit (1601 in chips) 
+Seat 5: drchaos7 (3185 in chips) 
+Seat 6: KeinKönich (2905 in chips) 
+Seat 7: dapitanboy (7729 in chips) 
+Seat 8: Chicano96 (827 in chips) 
+Seat 9: pedriim879 (3337 in chips) 
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+pangolinpicnic: posts the ante 20
+Alexavnit: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+pedriim879: posts the ante 20
+KeinKönich: posts small blind 80
+dapitanboy: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8d]
+Chicano96: folds 
+pedriim879: folds 
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: folds 
+Alexavnit: folds 
+drchaos7: folds 
+KeinKönich: folds 
+Uncalled bet (80) returned to dapitanboy
+dapitanboy collected 340 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 4: Alexavnit folded before Flop (didn't bet)
+Seat 5: drchaos7 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) collected (340)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302338899: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:20:38 CET [2021/12/17 18:20:38 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (1472 in chips) 
+Seat 2: leledoni (2785 in chips) 
+Seat 3: pangolinpicnic (3099 in chips) 
+Seat 4: Alexavnit (1581 in chips) 
+Seat 5: drchaos7 (3165 in chips) 
+Seat 6: KeinKönich (2805 in chips) 
+Seat 7: dapitanboy (7969 in chips) 
+Seat 8: Chicano96 (807 in chips) 
+Seat 9: pedriim879 (3317 in chips) 
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+pangolinpicnic: posts the ante 20
+Alexavnit: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+pedriim879: posts the ante 20
+dapitanboy: posts small blind 80
+Chicano96: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 6h]
+pedriim879: folds 
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: folds 
+Alexavnit: raises 160 to 320
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: raises 467 to 787 and is all-in
+Alexavnit: calls 467
+*** FLOP *** [5d Td 2c]
+*** TURN *** [5d Td 2c] [2s]
+*** RIVER *** [5d Td 2c 2s] [As]
+*** SHOW DOWN ***
+Chicano96: shows [8c 8d] (two pair, Eights and Deuces)
+Alexavnit: shows [9c 7c] (a pair of Deuces)
+Chicano96 collected 1834 from pot
+*** SUMMARY ***
+Total pot 1834 | Rake 0 
+Board [5d Td 2c 2s As]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 4: Alexavnit showed [9c 7c] and lost with a pair of Deuces
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) showed [8c 8d] and won (1834) with two pair, Eights and Deuces
+Seat 9: pedriim879 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302360302: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:21:30 CET [2021/12/17 18:21:30 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (1452 in chips) 
+Seat 2: leledoni (2765 in chips) 
+Seat 3: pangolinpicnic (3079 in chips) 
+Seat 4: Alexavnit (774 in chips) 
+Seat 5: drchaos7 (3145 in chips) 
+Seat 6: KeinKönich (2785 in chips) 
+Seat 7: dapitanboy (7869 in chips) 
+Seat 8: Chicano96 (1834 in chips) 
+Seat 9: pedriim879 (3297 in chips) 
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+pangolinpicnic: posts the ante 20
+Alexavnit: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+pedriim879: posts the ante 20
+Chicano96: posts small blind 80
+pedriim879: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 6s]
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: folds 
+Alexavnit: folds 
+drchaos7: folds 
+KeinKönich: raises 160 to 320
+dapitanboy: folds 
+Chicano96: raises 1494 to 1814 and is all-in
+pedriim879: folds 
+KeinKönich: folds 
+Uncalled bet (1494) returned to Chicano96
+Chicano96 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 4: Alexavnit folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+Seat 8: Chicano96 (small blind) collected (980)
+Seat 9: pedriim879 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302383767: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:22:27 CET [2021/12/17 18:22:27 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (1432 in chips) 
+Seat 2: leledoni (2745 in chips) 
+Seat 3: pangolinpicnic (3059 in chips) 
+Seat 4: Alexavnit (754 in chips) 
+Seat 5: drchaos7 (3125 in chips) 
+Seat 6: KeinKönich (2445 in chips) 
+Seat 7: dapitanboy (7849 in chips) 
+Seat 8: Chicano96 (2474 in chips) 
+Seat 9: pedriim879 (3117 in chips) 
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+pangolinpicnic: posts the ante 20
+Alexavnit: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+pedriim879: posts the ante 20
+pedriim879: posts small blind 80
+IgorMV85: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 8h]
+leledoni: folds 
+pangolinpicnic: folds 
+Alexavnit: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: raises 160 to 320
+Chicano96: folds 
+pedriim879: raises 864 to 1184
+IgorMV85: folds 
+dapitanboy: raises 6645 to 7829 and is all-in
+pedriim879: calls 1913 and is all-in
+Uncalled bet (4732) returned to dapitanboy
+*** FLOP *** [Jc Tc 2c]
+*** TURN *** [Jc Tc 2c] [8s]
+*** RIVER *** [Jc Tc 2c 8s] [3c]
+*** SHOW DOWN ***
+pedriim879: shows [As Kd] (high card Ace)
+dapitanboy: shows [Ks Kh] (a pair of Kings)
+dapitanboy collected 6534 from pot
+pedriim879 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 6534 | Rake 0 
+Board [Jc Tc 2c 8s 3c]
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 4: Alexavnit folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy showed [Ks Kh] and won (6534) with a pair of Kings
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+Seat 9: pedriim879 (small blind) showed [As Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #232302400550: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/18 0:23:08 CET [2021/12/17 18:23:08 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (1252 in chips) 
+Seat 2: leledoni (2725 in chips) 
+Seat 3: pangolinpicnic (3039 in chips) 
+Seat 4: Alexavnit (734 in chips) 
+Seat 5: drchaos7 (3105 in chips) 
+Seat 6: KeinKönich (2425 in chips) 
+Seat 7: dapitanboy (11266 in chips) 
+Seat 8: Chicano96 (2454 in chips) 
+IgorMV85: posts the ante 20
+leledoni: posts the ante 20
+pangolinpicnic: posts the ante 20
+Alexavnit: posts the ante 20
+drchaos7: posts the ante 20
+KeinKönich: posts the ante 20
+dapitanboy: posts the ante 20
+Chicano96: posts the ante 20
+leledoni: posts small blind 80
+pangolinpicnic: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 8c]
+Alexavnit: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: raises 160 to 320
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: calls 160
+*** FLOP *** [Jh 2c 3c]
+pangolinpicnic: checks 
+dapitanboy: bets 290
+pangolinpicnic: folds 
+Uncalled bet (290) returned to dapitanboy
+dapitanboy collected 880 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Jh 2c 3c]
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 3: pangolinpicnic (big blind) folded on the Flop
+Seat 4: Alexavnit folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy collected (880)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302416378: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:23:47 CET [2021/12/17 18:23:47 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (1232 in chips) 
+Seat 2: leledoni (2625 in chips) 
+Seat 3: pangolinpicnic (2699 in chips) 
+Seat 4: Alexavnit (714 in chips) 
+Seat 5: drchaos7 (3085 in chips) 
+Seat 6: KeinKönich (2405 in chips) 
+Seat 7: dapitanboy (11806 in chips) 
+Seat 8: Chicano96 (2434 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+Alexavnit: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+pangolinpicnic: posts small blind 100
+Alexavnit: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac Kh]
+drchaos7: folds 
+KeinKönich: raises 200 to 400
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+IgorMV85 has returned
+leledoni: folds 
+pangolinpicnic: folds 
+Alexavnit: calls 200
+*** FLOP *** [Kd Ah 8h]
+Alexavnit: bets 289 and is all-in
+KeinKönich: calls 289
+*** TURN *** [Kd Ah 8h] [2s]
+*** RIVER *** [Kd Ah 8h 2s] [Td]
+*** SHOW DOWN ***
+Alexavnit: shows [Jd 3s] (high card Ace)
+KeinKönich: shows [Ac Kh] (two pair, Aces and Kings)
+KeinKönich collected 1678 from pot
+Alexavnit finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1678 | Rake 0 
+Board [Kd Ah 8h 2s Td]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 3: pangolinpicnic (small blind) folded before Flop
+Seat 4: Alexavnit (big blind) showed [Jd 3s] and lost with high card Ace
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich showed [Ac Kh] and won (1678) with two pair, Aces and Kings
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302435721: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:24:35 CET [2021/12/17 18:24:35 ET]
+Table '3322239465 2' 9-max Seat #3 is the button
+Seat 1: IgorMV85 (1207 in chips) 
+Seat 2: leledoni (2600 in chips) 
+Seat 3: pangolinpicnic (2574 in chips) 
+Seat 5: drchaos7 (3060 in chips) 
+Seat 6: KeinKönich (3369 in chips) 
+Seat 7: dapitanboy (11781 in chips) 
+Seat 8: Chicano96 (2409 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+drchaos7: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 9c]
+dapitanboy: folds 
+Chicano96: raises 2184 to 2384 and is all-in
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: folds 
+drchaos7: folds 
+KeinKönich: folds 
+Uncalled bet (2184) returned to Chicano96
+Chicano96 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic (button) folded before Flop (didn't bet)
+Seat 5: drchaos7 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 collected (675)
+
+
+
+PokerStars Hand #232302448644: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:25:07 CET [2021/12/17 18:25:07 ET]
+Table '3322239465 2' 9-max Seat #5 is the button
+Seat 1: IgorMV85 (1182 in chips) 
+Seat 2: leledoni (2575 in chips) 
+Seat 3: pangolinpicnic (2549 in chips) 
+Seat 5: drchaos7 (2935 in chips) 
+Seat 6: KeinKönich (3144 in chips) 
+Seat 7: dapitanboy (11756 in chips) 
+Seat 8: Chicano96 (2859 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+KeinKönich: posts small blind 100
+dapitanboy: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 7h]
+Chicano96: folds 
+IgorMV85: raises 957 to 1157 and is all-in
+leledoni: folds 
+pangolinpicnic: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (957) returned to IgorMV85
+IgorMV85 collected 675 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: IgorMV85 collected (675)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 5: drchaos7 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302459423: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:25:34 CET [2021/12/17 18:25:34 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (1632 in chips) 
+Seat 2: leledoni (2550 in chips) 
+Seat 3: pangolinpicnic (2524 in chips) 
+Seat 5: drchaos7 (2910 in chips) 
+Seat 6: KeinKönich (3019 in chips) 
+Seat 7: dapitanboy (11531 in chips) 
+Seat 8: Chicano96 (2834 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+dapitanboy: posts small blind 100
+Chicano96: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 4s]
+IgorMV85: folds 
+leledoni: folds 
+pangolinpicnic: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (100) returned to Chicano96
+Chicano96 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) collected (375)
+
+
+
+PokerStars Hand #232302471365: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:26:03 CET [2021/12/17 18:26:03 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (1607 in chips) 
+Seat 2: leledoni (2525 in chips) 
+Seat 3: pangolinpicnic (2499 in chips) 
+Seat 5: drchaos7 (2885 in chips) 
+Seat 6: KeinKönich (2994 in chips) 
+Seat 7: dapitanboy (11406 in chips) 
+Seat 8: Chicano96 (3084 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+Chicano96: posts small blind 100
+IgorMV85: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Ts]
+leledoni: folds 
+pangolinpicnic: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: raises 2859 to 3059 and is all-in
+IgorMV85: folds 
+Uncalled bet (2859) returned to Chicano96
+Chicano96 collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+Seat 8: Chicano96 (small blind) collected (575)
+
+
+
+PokerStars Hand #232302480988: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:26:27 CET [2021/12/17 18:26:27 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (1382 in chips) 
+Seat 2: leledoni (2500 in chips) 
+Seat 3: pangolinpicnic (2474 in chips) 
+Seat 5: drchaos7 (2860 in chips) 
+Seat 6: KeinKönich (2969 in chips) 
+Seat 7: dapitanboy (11381 in chips) 
+Seat 8: Chicano96 (3434 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+IgorMV85: posts small blind 100
+leledoni: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 3c]
+pangolinpicnic: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: raises 3209 to 3409 and is all-in
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (3209) returned to Chicano96
+Chicano96 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 3: pangolinpicnic folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 (button) collected (675)
+
+
+
+PokerStars Hand #232302492143: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:26:54 CET [2021/12/17 18:26:54 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (1257 in chips) 
+Seat 2: leledoni (2275 in chips) 
+Seat 3: pangolinpicnic (2449 in chips) 
+Seat 5: drchaos7 (2835 in chips) 
+Seat 6: KeinKönich (2944 in chips) 
+Seat 7: dapitanboy (11356 in chips) 
+Seat 8: Chicano96 (3884 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+leledoni: posts small blind 100
+pangolinpicnic: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h Ks]
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: raises 2000 to 2200
+pangolinpicnic: raises 224 to 2424 and is all-in
+leledoni: calls 50 and is all-in
+Uncalled bet (174) returned to pangolinpicnic
+*** FLOP *** [8h 8s As]
+*** TURN *** [8h 8s As] [5d]
+*** RIVER *** [8h 8s As 5d] [Ac]
+*** SHOW DOWN ***
+leledoni: shows [Jd Ah] (a full house, Aces full of Eights)
+pangolinpicnic: shows [9s 9h] (two pair, Aces and Nines)
+leledoni collected 4675 from pot
+*** SUMMARY ***
+Total pot 4675 | Rake 0 
+Board [8h 8s As 5d Ac]
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) showed [Jd Ah] and won (4675) with a full house, Aces full of Eights
+Seat 3: pangolinpicnic (big blind) showed [9s 9h] and lost with two pair, Aces and Nines
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302510914: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:27:41 CET [2021/12/17 18:27:41 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (1232 in chips) 
+Seat 2: leledoni (4675 in chips) 
+Seat 3: pangolinpicnic (174 in chips) 
+Seat 5: drchaos7 (2810 in chips) 
+Seat 6: KeinKönich (2919 in chips) 
+Seat 7: dapitanboy (11331 in chips) 
+Seat 8: Chicano96 (3859 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+pangolinpicnic: posts small blind 100
+drchaos7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Qh]
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: raises 260 to 460
+pangolinpicnic: calls 49 and is all-in
+drchaos7: folds 
+Uncalled bet (260) returned to leledoni
+*** FLOP *** [Ks Th Qd]
+*** TURN *** [Ks Th Qd] [2d]
+*** RIVER *** [Ks Th Qd 2d] [Kh]
+*** SHOW DOWN ***
+leledoni: shows [5c Ad] (a pair of Kings)
+leledoni collected 102 from side pot
+pangolinpicnic: shows [8d Td] (two pair, Kings and Tens)
+pangolinpicnic collected 622 from main pot
+*** SUMMARY ***
+Total pot 724 Main pot 622. Side pot 102. | Rake 0 
+Board [Ks Th Qd 2d Kh]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) showed [5c Ad] and won (102) with a pair of Kings
+Seat 3: pangolinpicnic (small blind) showed [8d Td] and won (622) with two pair, Kings and Tens
+Seat 5: drchaos7 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302529289: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:28:23 CET [2021/12/17 18:28:23 ET]
+Table '3322239465 2' 9-max Seat #3 is the button
+Seat 1: IgorMV85 (1207 in chips) 
+Seat 2: leledoni (4552 in chips) 
+Seat 3: pangolinpicnic (622 in chips) 
+Seat 5: drchaos7 (2585 in chips) 
+Seat 6: KeinKönich (2894 in chips) 
+Seat 7: dapitanboy (11306 in chips) 
+Seat 8: Chicano96 (3834 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+pangolinpicnic: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+drchaos7: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 5s]
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+IgorMV85 has returned
+leledoni: raises 3500 to 3700
+pangolinpicnic: calls 597 and is all-in
+drchaos7: folds 
+KeinKönich: folds 
+Uncalled bet (3103) returned to leledoni
+*** FLOP *** [2d 3d 8h]
+*** TURN *** [2d 3d 8h] [3s]
+*** RIVER *** [2d 3d 8h 3s] [9s]
+*** SHOW DOWN ***
+leledoni: shows [Ah 9d] (two pair, Nines and Threes)
+pangolinpicnic: shows [As Qd] (a pair of Threes)
+leledoni collected 1669 from pot
+pangolinpicnic finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1669 | Rake 0 
+Board [2d 3d 8h 3s 9s]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni showed [Ah 9d] and won (1669) with two pair, Nines and Threes
+Seat 3: pangolinpicnic (button) showed [As Qd] and lost with a pair of Threes
+Seat 5: drchaos7 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302546827: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:29:07 CET [2021/12/17 18:29:07 ET]
+Table '3322239465 2' 9-max Seat #5 is the button
+Seat 1: IgorMV85 (1182 in chips) 
+Seat 2: leledoni (5599 in chips) 
+Seat 5: drchaos7 (2460 in chips) 
+Seat 6: KeinKönich (2669 in chips) 
+Seat 7: dapitanboy (11281 in chips) 
+Seat 8: Chicano96 (3809 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+KeinKönich: posts small blind 150
+dapitanboy: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 4h]
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+drchaos7: raises 600 to 900
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (600) returned to drchaos7
+drchaos7 collected 900 from pot
+drchaos7: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 (button) collected (900)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302562388: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:29:46 CET [2021/12/17 18:29:46 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (1157 in chips) 
+Seat 2: leledoni (5574 in chips) 
+Seat 5: drchaos7 (3035 in chips) 
+Seat 6: KeinKönich (2494 in chips) 
+Seat 7: dapitanboy (10956 in chips) 
+Seat 8: Chicano96 (3784 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+dapitanboy: posts small blind 150
+Chicano96: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Jc]
+IgorMV85: raises 832 to 1132 and is all-in
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: raises 832 to 1964
+Chicano96: folds 
+Uncalled bet (832) returned to dapitanboy
+*** FLOP *** [7h Qs Qd]
+*** TURN *** [7h Qs Qd] [Td]
+*** RIVER *** [7h Qs Qd Td] [9c]
+*** SHOW DOWN ***
+dapitanboy: shows [Jh Jd] (two pair, Queens and Jacks)
+IgorMV85: shows [Ah Ad] (two pair, Aces and Queens)
+IgorMV85 collected 2714 from pot
+*** SUMMARY ***
+Total pot 2714 | Rake 0 
+Board [7h Qs Qd Td 9c]
+Seat 1: IgorMV85 showed [Ah Ad] and won (2714) with two pair, Aces and Queens
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) showed [Jh Jd] and lost with two pair, Queens and Jacks
+Seat 8: Chicano96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302578797: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:30:25 CET [2021/12/17 18:30:25 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (2714 in chips) 
+Seat 2: leledoni (5549 in chips) 
+Seat 5: drchaos7 (3010 in chips) 
+Seat 6: KeinKönich (2469 in chips) 
+Seat 7: dapitanboy (9799 in chips) 
+Seat 8: Chicano96 (3459 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+Chicano96: posts small blind 150
+IgorMV85: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Th]
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: raises 9474 to 9774 and is all-in
+Chicano96: folds 
+IgorMV85: folds 
+Uncalled bet (9474) returned to dapitanboy
+dapitanboy collected 900 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) collected (900)
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302587350: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:30:46 CET [2021/12/17 18:30:46 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (2389 in chips) 
+Seat 2: leledoni (5524 in chips) 
+Seat 5: drchaos7 (2985 in chips) 
+Seat 6: KeinKönich (2444 in chips) 
+Seat 7: dapitanboy (10374 in chips) 
+Seat 8: Chicano96 (3284 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+IgorMV85: posts small blind 150
+leledoni: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [7c 5c]
+drchaos7: folds 
+KeinKönich: raises 2119 to 2419 and is all-in
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (2119) returned to KeinKönich
+KeinKönich collected 900 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich collected (900)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302600024: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:31:17 CET [2021/12/17 18:31:17 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (2214 in chips) 
+Seat 2: leledoni (5199 in chips) 
+Seat 5: drchaos7 (2960 in chips) 
+Seat 6: KeinKönich (3019 in chips) 
+Seat 7: dapitanboy (10349 in chips) 
+Seat 8: Chicano96 (3259 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+leledoni: posts small blind 150
+drchaos7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 5d]
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: raises 2934 to 3234 and is all-in
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+leledoni: folds 
+drchaos7: folds 
+Uncalled bet (2934) returned to Chicano96
+Chicano96 collected 900 from pot
+IgorMV85 has returned
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 5: drchaos7 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 collected (900)
+
+
+
+PokerStars Hand #232302617648: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:31:49 CET [2021/12/17 18:31:49 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (2189 in chips) 
+Seat 2: leledoni (5024 in chips) 
+Seat 5: drchaos7 (2635 in chips) 
+Seat 6: KeinKönich (2994 in chips) 
+Seat 7: dapitanboy (10324 in chips) 
+Seat 8: Chicano96 (3834 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+drchaos7: posts small blind 150
+KeinKönich: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Kd]
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+drchaos7: folds 
+Uncalled bet (150) returned to KeinKönich
+KeinKönich collected 450 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 5: drchaos7 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) collected (450)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302628448: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:32:15 CET [2021/12/17 18:32:15 ET]
+Table '3322239465 2' 9-max Seat #5 is the button
+Seat 1: IgorMV85 (2164 in chips) 
+Seat 2: leledoni (4999 in chips) 
+Seat 5: drchaos7 (2460 in chips) 
+Seat 6: KeinKönich (3269 in chips) 
+Seat 7: dapitanboy (10299 in chips) 
+Seat 8: Chicano96 (3809 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+KeinKönich: posts small blind 150
+dapitanboy: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 9s]
+Chicano96: folds 
+IgorMV85: raises 1839 to 2139 and is all-in
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (1839) returned to IgorMV85
+IgorMV85 collected 900 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 collected (900)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302641225: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:32:35 CET [2021/12/17 18:32:35 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (2739 in chips) 
+Seat 2: leledoni (4974 in chips) 
+Seat 5: drchaos7 (2435 in chips) 
+Seat 6: KeinKönich (3094 in chips) 
+Seat 7: dapitanboy (9974 in chips) 
+Seat 8: Chicano96 (3784 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+dapitanboy: posts small blind 150
+Chicano96: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 5d]
+IgorMV85: folds 
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (150) returned to Chicano96
+Chicano96 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) collected (450)
+
+
+
+PokerStars Hand #232302647941: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:32:52 CET [2021/12/17 18:32:52 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (2714 in chips) 
+Seat 2: leledoni (4949 in chips) 
+Seat 5: drchaos7 (2410 in chips) 
+Seat 6: KeinKönich (3069 in chips) 
+Seat 7: dapitanboy (9799 in chips) 
+Seat 8: Chicano96 (4059 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+Chicano96: posts small blind 150
+IgorMV85: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 5h]
+leledoni: raises 300 to 600
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Uncalled bet (300) returned to leledoni
+leledoni collected 900 from pot
+IgorMV85 has returned
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni collected (900)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302659760: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/18 0:33:20 CET [2021/12/17 18:33:20 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (2389 in chips) 
+Seat 2: leledoni (5524 in chips) 
+Seat 5: drchaos7 (2385 in chips) 
+Seat 6: KeinKönich (3044 in chips) 
+Seat 7: dapitanboy (9774 in chips) 
+Seat 8: Chicano96 (3884 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+IgorMV85: posts small blind 150
+leledoni: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [As 5d]
+drchaos7: folds 
+KeinKönich: raises 2719 to 3019 and is all-in
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (2719) returned to KeinKönich
+KeinKönich collected 900 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich collected (900)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302674900: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:33:57 CET [2021/12/17 18:33:57 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (2214 in chips) 
+Seat 2: leledoni (5199 in chips) 
+Seat 5: drchaos7 (2360 in chips) 
+Seat 6: KeinKönich (3619 in chips) 
+Seat 7: dapitanboy (9749 in chips) 
+Seat 8: Chicano96 (3859 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+leledoni: posts small blind 200
+drchaos7: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Kd]
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+IgorMV85 has returned
+leledoni: folds 
+Uncalled bet (200) returned to drchaos7
+drchaos7 collected 550 from pot
+drchaos7: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 5: drchaos7 (big blind) collected (550)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302688390: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:34:30 CET [2021/12/17 18:34:30 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (2189 in chips) 
+Seat 2: leledoni (4974 in chips) 
+Seat 5: drchaos7 (2685 in chips) 
+Seat 6: KeinKönich (3594 in chips) 
+Seat 7: dapitanboy (9724 in chips) 
+Seat 8: Chicano96 (3834 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+drchaos7: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 5h]
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+drchaos7: folds 
+Uncalled bet (200) returned to KeinKönich
+KeinKönich collected 550 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 5: drchaos7 (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) collected (550)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302695713: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:34:48 CET [2021/12/17 18:34:48 ET]
+Table '3322239465 2' 9-max Seat #5 is the button
+Seat 1: IgorMV85 (2164 in chips) 
+Seat 2: leledoni (4949 in chips) 
+Seat 5: drchaos7 (2460 in chips) 
+Seat 6: KeinKönich (3919 in chips) 
+Seat 7: dapitanboy (9699 in chips) 
+Seat 8: Chicano96 (3809 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+KeinKönich: posts small blind 200
+dapitanboy: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 3d]
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: raises 4524 to 4924 and is all-in
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (4524) returned to leledoni
+leledoni collected 1150 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni collected (1150)
+Seat 5: drchaos7 (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302707536: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:35:17 CET [2021/12/17 18:35:17 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (2139 in chips) 
+Seat 2: leledoni (5674 in chips) 
+Seat 5: drchaos7 (2435 in chips) 
+Seat 6: KeinKönich (3694 in chips) 
+Seat 7: dapitanboy (9274 in chips) 
+Seat 8: Chicano96 (3784 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+dapitanboy: posts small blind 200
+Chicano96: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 7s]
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+IgorMV85 has returned
+leledoni: raises 400 to 800
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: calls 400
+*** FLOP *** [9d 6h 6d]
+Chicano96: bets 2959 and is all-in
+leledoni: folds 
+Uncalled bet (2959) returned to Chicano96
+Chicano96 collected 1950 from pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Board [9d 6h 6d]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded on the Flop
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) collected (1950)
+
+
+
+PokerStars Hand #232302728968: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:36:10 CET [2021/12/17 18:36:10 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (2114 in chips) 
+Seat 2: leledoni (4849 in chips) 
+Seat 5: drchaos7 (2410 in chips) 
+Seat 6: KeinKönich (3669 in chips) 
+Seat 7: dapitanboy (9049 in chips) 
+Seat 8: Chicano96 (4909 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+Chicano96: posts small blind 200
+IgorMV85: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 6s]
+leledoni: folds 
+drchaos7: folds 
+KeinKönich: folds 
+dapitanboy: raises 8624 to 9024 and is all-in
+Chicano96: folds 
+IgorMV85: folds 
+Uncalled bet (8624) returned to dapitanboy
+dapitanboy collected 1150 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) collected (1150)
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302746495: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:36:38 CET [2021/12/17 18:36:38 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (1689 in chips) 
+Seat 2: leledoni (4824 in chips) 
+Seat 5: drchaos7 (2385 in chips) 
+Seat 6: KeinKönich (3644 in chips) 
+Seat 7: dapitanboy (9774 in chips) 
+Seat 8: Chicano96 (4684 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+IgorMV85: posts small blind 200
+leledoni: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Td]
+drchaos7: folds 
+KeinKönich: raises 3219 to 3619 and is all-in
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (3219) returned to KeinKönich
+KeinKönich collected 1150 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 5: drchaos7 folded before Flop (didn't bet)
+Seat 6: KeinKönich collected (1150)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302761263: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:37:14 CET [2021/12/17 18:37:14 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (1464 in chips) 
+Seat 2: leledoni (4399 in chips) 
+Seat 5: drchaos7 (2360 in chips) 
+Seat 6: KeinKönich (4369 in chips) 
+Seat 7: dapitanboy (9749 in chips) 
+Seat 8: Chicano96 (4659 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+leledoni: posts small blind 200
+drchaos7: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s Ks]
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: raises 800 to 1200
+leledoni: folds 
+drchaos7: folds 
+Uncalled bet (800) returned to IgorMV85
+IgorMV85 collected 1150 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: IgorMV85 (button) collected (1150)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 5: drchaos7 (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302772695: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:37:42 CET [2021/12/17 18:37:42 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (2189 in chips) 
+Seat 2: leledoni (4174 in chips) 
+Seat 5: drchaos7 (1935 in chips) 
+Seat 6: KeinKönich (4344 in chips) 
+Seat 7: dapitanboy (9724 in chips) 
+Seat 8: Chicano96 (4634 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+drchaos7: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+drchaos7: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h Qd]
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: raises 1764 to 2164 and is all-in
+leledoni: raises 1985 to 4149 and is all-in
+drchaos7: calls 1710 and is all-in
+KeinKönich: folds 
+Uncalled bet (1985) returned to leledoni
+*** FLOP *** [Kd 9s 7d]
+*** TURN *** [Kd 9s 7d] [6d]
+*** RIVER *** [Kd 9s 7d 6d] [5c]
+*** SHOW DOWN ***
+IgorMV85: shows [8h 9h] (a straight, Five to Nine)
+leledoni: shows [Ad Qs] (high card Ace)
+IgorMV85 collected 508 from side pot
+drchaos7: shows [Kc Ks] (three of a kind, Kings)
+IgorMV85 collected 6280 from main pot
+drchaos7 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 6788 Main pot 6280. Side pot 508. | Rake 0 
+Board [Kd 9s 7d 6d 5c]
+Seat 1: IgorMV85 showed [8h 9h] and won (6788) with a straight, Five to Nine
+Seat 2: leledoni (button) showed [Ad Qs] and lost with high card Ace
+Seat 5: drchaos7 (small blind) showed [Kc Ks] and lost with three of a kind, Kings
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302788749: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:38:22 CET [2021/12/17 18:38:22 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (6788 in chips) 
+Seat 2: leledoni (1985 in chips) 
+Seat 6: KeinKönich (3919 in chips) 
+Seat 7: dapitanboy (9699 in chips) 
+Seat 8: Chicano96 (4609 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+dapitanboy: posts small blind 200
+Chicano96: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c Ks]
+IgorMV85: raises 6363 to 6763 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+Uncalled bet (6363) returned to IgorMV85
+IgorMV85 collected 1125 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: IgorMV85 collected (1125)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302795600: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/18 0:38:39 CET [2021/12/17 18:38:39 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (7488 in chips) 
+Seat 2: leledoni (1960 in chips) 
+Seat 6: KeinKönich (3894 in chips) 
+Seat 7: dapitanboy (9474 in chips) 
+Seat 8: Chicano96 (4184 in chips) 
+IgorMV85: posts the ante 25
+leledoni: posts the ante 25
+KeinKönich: posts the ante 25
+dapitanboy: posts the ante 25
+Chicano96: posts the ante 25
+Chicano96: posts small blind 200
+IgorMV85: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 8h]
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: raises 400 to 800
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Uncalled bet (400) returned to dapitanboy
+dapitanboy collected 1125 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) collected (1125)
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302811037: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:39:16 CET [2021/12/17 18:39:16 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (7063 in chips) is sitting out
+Seat 2: leledoni (1935 in chips) 
+Seat 6: KeinKönich (3869 in chips) 
+Seat 7: dapitanboy (10174 in chips) 
+Seat 8: Chicano96 (3959 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+IgorMV85: posts small blind 300
+leledoni: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 6c]
+KeinKönich: folds 
+IgorMV85 has returned
+dapitanboy: raises 9524 to 10124 and is all-in
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (9524) returned to dapitanboy
+dapitanboy collected 1750 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy collected (1750)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302823281: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:39:47 CET [2021/12/17 18:39:47 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (6713 in chips) 
+Seat 2: leledoni (1285 in chips) 
+Seat 6: KeinKönich (3819 in chips) 
+Seat 7: dapitanboy (11274 in chips) 
+Seat 8: Chicano96 (3909 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+leledoni: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Jd]
+dapitanboy: raises 10624 to 11224 and is all-in
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: calls 935 and is all-in
+KeinKönich: folds 
+Uncalled bet (9989) returned to dapitanboy
+*** FLOP *** [Ks 9h 7c]
+*** TURN *** [Ks 9h 7c] [9s]
+*** RIVER *** [Ks 9h 7c 9s] [5h]
+*** SHOW DOWN ***
+leledoni: shows [Kh 8d] (two pair, Kings and Nines)
+dapitanboy: shows [4c 4s] (two pair, Nines and Fours)
+leledoni collected 3320 from pot
+*** SUMMARY ***
+Total pot 3320 | Rake 0 
+Board [Ks 9h 7c 9s 5h]
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) showed [Kh 8d] and won (3320) with two pair, Kings and Nines
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy showed [4c 4s] and lost with two pair, Nines and Fours
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302832254: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:40:09 CET [2021/12/17 18:40:09 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (6663 in chips) 
+Seat 2: leledoni (3320 in chips) 
+Seat 6: KeinKönich (3169 in chips) 
+Seat 7: dapitanboy (9989 in chips) 
+Seat 8: Chicano96 (3859 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+KeinKönich: posts small blind 300
+dapitanboy: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc 7h]
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: raises 2519 to 3119 and is all-in
+dapitanboy: folds 
+Uncalled bet (2519) returned to KeinKönich
+KeinKönich collected 1450 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) collected (1450)
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302837679: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:40:22 CET [2021/12/17 18:40:22 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (6613 in chips) 
+Seat 2: leledoni (3270 in chips) 
+Seat 6: KeinKönich (3969 in chips) 
+Seat 7: dapitanboy (9339 in chips) 
+Seat 8: Chicano96 (3809 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+dapitanboy: posts small blind 300
+Chicano96: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kd 6s]
+IgorMV85: raises 5963 to 6563 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+Uncalled bet (5963) returned to IgorMV85
+IgorMV85 collected 1750 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 collected (1750)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302847383: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:40:46 CET [2021/12/17 18:40:46 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (7713 in chips) 
+Seat 2: leledoni (3220 in chips) 
+Seat 6: KeinKönich (3919 in chips) 
+Seat 7: dapitanboy (8989 in chips) 
+Seat 8: Chicano96 (3159 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+Chicano96: posts small blind 300
+IgorMV85: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 8d]
+leledoni: raises 1800 to 2400
+KeinKönich: folds 
+dapitanboy: raises 1800 to 4200
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: calls 770 and is all-in
+Uncalled bet (1030) returned to dapitanboy
+*** FLOP *** [6s Ac 7s]
+*** TURN *** [6s Ac 7s] [5s]
+*** RIVER *** [6s Ac 7s 5s] [4h]
+*** SHOW DOWN ***
+leledoni: shows [Js Ks] (a flush, King high)
+dapitanboy: shows [Ah Qc] (a pair of Aces)
+leledoni collected 7490 from pot
+*** SUMMARY ***
+Total pot 7490 | Rake 0 
+Board [6s Ac 7s 5s 4h]
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni showed [Js Ks] and won (7490) with a flush, King high
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) showed [Ah Qc] and lost with a pair of Aces
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302860468: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:41:18 CET [2021/12/17 18:41:18 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (7063 in chips) 
+Seat 2: leledoni (7490 in chips) 
+Seat 6: KeinKönich (3869 in chips) 
+Seat 7: dapitanboy (5769 in chips) 
+Seat 8: Chicano96 (2809 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+IgorMV85: posts small blind 300
+leledoni: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 2h]
+KeinKönich: folds 
+dapitanboy: raises 5119 to 5719 and is all-in
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+Uncalled bet (5119) returned to dapitanboy
+dapitanboy collected 1750 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy collected (1750)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302867446: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:41:36 CET [2021/12/17 18:41:36 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (6713 in chips) 
+Seat 2: leledoni (6840 in chips) 
+Seat 6: KeinKönich (3819 in chips) 
+Seat 7: dapitanboy (6869 in chips) 
+Seat 8: Chicano96 (2759 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+leledoni: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d 9h]
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: raises 6063 to 6663 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (6063) returned to IgorMV85
+IgorMV85 collected 1750 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 (button) collected (1750)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302873182: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:41:50 CET [2021/12/17 18:41:50 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (7813 in chips) 
+Seat 2: leledoni (6490 in chips) 
+Seat 6: KeinKönich (3169 in chips) 
+Seat 7: dapitanboy (6819 in chips) 
+Seat 8: Chicano96 (2709 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+KeinKönich: posts small blind 300
+dapitanboy: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 8d]
+Chicano96: raises 1800 to 2400
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (1800) returned to Chicano96
+Chicano96 collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 collected (1750)
+
+
+
+PokerStars Hand #232302883359: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:42:15 CET [2021/12/17 18:42:15 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (7763 in chips) 
+Seat 2: leledoni (6440 in chips) 
+Seat 6: KeinKönich (2819 in chips) 
+Seat 7: dapitanboy (6169 in chips) 
+Seat 8: Chicano96 (3809 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+dapitanboy: posts small blind 300
+Chicano96: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Qs]
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: raises 1800 to 2400
+dapitanboy: folds 
+Chicano96: folds 
+Uncalled bet (1800) returned to KeinKönich
+KeinKönich collected 1750 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) collected (1750)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302889238: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:42:30 CET [2021/12/17 18:42:30 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (7713 in chips) 
+Seat 2: leledoni (6390 in chips) 
+Seat 6: KeinKönich (3919 in chips) 
+Seat 7: dapitanboy (5819 in chips) 
+Seat 8: Chicano96 (3159 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+Chicano96: posts small blind 300
+IgorMV85: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh Qd]
+leledoni: raises 5740 to 6340 and is all-in
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Uncalled bet (5740) returned to leledoni
+leledoni collected 1750 from pot
+leledoni: doesn't show hand 
+IgorMV85 has returned
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni collected (1750)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+Seat 8: Chicano96 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232302899920: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:42:56 CET [2021/12/17 18:42:56 ET]
+Table '3322239465 2' 9-max Seat #8 is the button
+Seat 1: IgorMV85 (7063 in chips) 
+Seat 2: leledoni (7490 in chips) 
+Seat 6: KeinKönich (3869 in chips) 
+Seat 7: dapitanboy (5769 in chips) 
+Seat 8: Chicano96 (2809 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+IgorMV85: posts small blind 300
+leledoni: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 5c]
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: folds 
+IgorMV85: raises 6413 to 7013 and is all-in
+leledoni has timed out
+leledoni: folds 
+leledoni is sitting out
+Uncalled bet (6413) returned to IgorMV85
+IgorMV85 collected 1450 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Seat 1: IgorMV85 (small blind) collected (1450)
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302912369: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/18 0:43:27 CET [2021/12/17 18:43:27 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (7863 in chips) 
+Seat 2: leledoni (6840 in chips) is sitting out
+Seat 6: KeinKönich (3819 in chips) 
+Seat 7: dapitanboy (5719 in chips) 
+Seat 8: Chicano96 (2759 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+leledoni: posts small blind 300
+KeinKönich: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad Ac]
+dapitanboy: folds 
+leledoni has returned
+Chicano96: folds 
+IgorMV85: raises 600 to 1200
+leledoni: folds 
+KeinKönich: raises 2569 to 3769 and is all-in
+IgorMV85: calls 2569
+*** FLOP *** [Ks 3h 4c]
+*** TURN *** [Ks 3h 4c] [9c]
+*** RIVER *** [Ks 3h 4c 9c] [7s]
+*** SHOW DOWN ***
+KeinKönich: shows [Ad Ac] (a pair of Aces)
+IgorMV85: shows [Qd Qh] (a pair of Queens)
+KeinKönich collected 8088 from pot
+*** SUMMARY ***
+Total pot 8088 | Rake 0 
+Board [Ks 3h 4c 9c 7s]
+Seat 1: IgorMV85 (button) showed [Qd Qh] and lost with a pair of Queens
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) showed [Ad Ac] and won (8088) with a pair of Aces
+Seat 7: dapitanboy folded before Flop (didn't bet)
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302935106: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:43:59 CET [2021/12/17 18:43:59 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (4044 in chips) 
+Seat 2: leledoni (6490 in chips) 
+Seat 6: KeinKönich (8088 in chips) 
+Seat 7: dapitanboy (5669 in chips) 
+Seat 8: Chicano96 (2709 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+KeinKönich: posts small blind 400
+dapitanboy: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 6h]
+Chicano96: folds 
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: raises 7238 to 8038 and is all-in
+dapitanboy: folds 
+Uncalled bet (7238) returned to KeinKönich
+KeinKönich collected 1850 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) collected (1850)
+Seat 7: dapitanboy (big blind) folded before Flop
+Seat 8: Chicano96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302944008: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:44:21 CET [2021/12/17 18:44:21 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (3994 in chips) 
+Seat 2: leledoni (6440 in chips) 
+Seat 6: KeinKönich (9088 in chips) 
+Seat 7: dapitanboy (4819 in chips) 
+Seat 8: Chicano96 (2659 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+dapitanboy: posts small blind 400
+Chicano96: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac Jd]
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: raises 8238 to 9038 and is all-in
+dapitanboy: folds 
+Chicano96: folds 
+Uncalled bet (8238) returned to KeinKönich
+KeinKönich collected 2250 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) collected (2250)
+Seat 7: dapitanboy (small blind) folded before Flop
+Seat 8: Chicano96 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302956208: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:44:41 CET [2021/12/17 18:44:41 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (3944 in chips) 
+Seat 2: leledoni (6390 in chips) 
+Seat 6: KeinKönich (10488 in chips) 
+Seat 7: dapitanboy (4369 in chips) 
+Seat 8: Chicano96 (1809 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+Chicano96: posts the ante 50
+Chicano96: posts small blind 400
+IgorMV85: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 5h]
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Chicano96: raises 800 to 1600
+IgorMV85: calls 800
+*** FLOP *** [2s 4h 8c]
+Chicano96: bets 159 and is all-in
+IgorMV85: calls 159
+*** TURN *** [2s 4h 8c] [5d]
+*** RIVER *** [2s 4h 8c 5d] [3c]
+*** SHOW DOWN ***
+Chicano96: shows [7d Qd] (high card Queen)
+IgorMV85: shows [5s Qh] (a pair of Fives)
+IgorMV85 collected 3768 from pot
+Chicano96 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 3768 | Rake 0 
+Board [2s 4h 8c 5d 3c]
+Seat 1: IgorMV85 (big blind) showed [5s Qh] and won (3768) with a pair of Fives
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+Seat 8: Chicano96 (small blind) showed [7d Qd] and lost with high card Queen
+
+
+
+PokerStars Hand #232302979973: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:45:40 CET [2021/12/17 18:45:40 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (5903 in chips) 
+Seat 2: leledoni (6340 in chips) 
+Seat 6: KeinKönich (10438 in chips) 
+Seat 7: dapitanboy (4319 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+leledoni: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Qd]
+dapitanboy: folds 
+IgorMV85: raises 5053 to 5853 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (5053) returned to IgorMV85
+IgorMV85 collected 2200 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 1: IgorMV85 (button) collected (2200)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232302988577: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:46:01 CET [2021/12/17 18:46:01 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (7253 in chips) 
+Seat 2: leledoni (5890 in chips) 
+Seat 6: KeinKönich (9588 in chips) 
+Seat 7: dapitanboy (4269 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+KeinKönich: posts small blind 400
+dapitanboy: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Ad]
+IgorMV85: folds 
+leledoni: raises 5040 to 5840 and is all-in
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (5040) returned to leledoni
+leledoni collected 2200 from pot
+leledoni: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) collected (2200)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+
+
+
+PokerStars Hand #232302996614: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:46:21 CET [2021/12/17 18:46:21 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (7203 in chips) 
+Seat 2: leledoni (7240 in chips) 
+Seat 6: KeinKönich (9138 in chips) 
+Seat 7: dapitanboy (3419 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+dapitanboy: posts small blind 400
+IgorMV85: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 6d]
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (400) returned to IgorMV85
+IgorMV85 collected 1000 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: IgorMV85 (big blind) collected (1000)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) folded before Flop
+
+
+
+PokerStars Hand #232303003880: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:46:39 CET [2021/12/17 18:46:39 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (7753 in chips) 
+Seat 2: leledoni (7190 in chips) 
+Seat 6: KeinKönich (9088 in chips) 
+Seat 7: dapitanboy (2969 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+IgorMV85: posts small blind 400
+leledoni: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 3d]
+KeinKönich: folds 
+dapitanboy: raises 2119 to 2919 and is all-in
+IgorMV85: raises 4784 to 7703 and is all-in
+leledoni: folds 
+Uncalled bet (4784) returned to IgorMV85
+*** FLOP *** [8c 9s Jd]
+*** TURN *** [8c 9s Jd] [Qs]
+*** RIVER *** [8c 9s Jd Qs] [Th]
+*** SHOW DOWN ***
+IgorMV85: shows [Ah Td] (a straight, Eight to Queen)
+dapitanboy: shows [6d 8d] (a straight, Eight to Queen)
+IgorMV85 collected 3419 from pot
+dapitanboy collected 3419 from pot
+*** SUMMARY ***
+Total pot 6838 | Rake 0 
+Board [8c 9s Jd Qs Th]
+Seat 1: IgorMV85 (small blind) showed [Ah Td] and won (3419) with a straight, Eight to Queen
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) showed [6d 8d] and won (3419) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #232303013572: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:47:03 CET [2021/12/17 18:47:03 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (8203 in chips) 
+Seat 2: leledoni (6340 in chips) 
+Seat 6: KeinKönich (9038 in chips) 
+Seat 7: dapitanboy (3419 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+leledoni: posts small blind 400
+KeinKönich: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 2h]
+dapitanboy: folds 
+IgorMV85: raises 7353 to 8153 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (7353) returned to IgorMV85
+IgorMV85 collected 2200 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 1: IgorMV85 (button) collected (2200)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303020806: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:47:22 CET [2021/12/17 18:47:22 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (9553 in chips) 
+Seat 2: leledoni (5890 in chips) 
+Seat 6: KeinKönich (8188 in chips) 
+Seat 7: dapitanboy (3369 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+KeinKönich: posts small blind 400
+dapitanboy: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c 9d]
+IgorMV85: raises 8703 to 9503 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: folds 
+Uncalled bet (8703) returned to IgorMV85
+IgorMV85 collected 2200 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Seat 1: IgorMV85 collected (2200)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) folded before Flop
+
+
+
+PokerStars Hand #232303027859: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:47:39 CET [2021/12/17 18:47:39 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (10903 in chips) 
+Seat 2: leledoni (5840 in chips) 
+Seat 6: KeinKönich (7738 in chips) 
+Seat 7: dapitanboy (2519 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+dapitanboy: posts small blind 400
+IgorMV85: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [Td 7s]
+leledoni: raises 4990 to 5790 and is all-in
+KeinKönich: folds 
+dapitanboy: calls 2069 and is all-in
+IgorMV85: folds 
+Uncalled bet (3321) returned to leledoni
+*** FLOP *** [Qs 8d 2s]
+*** TURN *** [Qs 8d 2s] [Ad]
+*** RIVER *** [Qs 8d 2s Ad] [Jh]
+*** SHOW DOWN ***
+dapitanboy: shows [2h 2c] (three of a kind, Deuces)
+leledoni: shows [Qh Kh] (a pair of Queens)
+dapitanboy collected 5938 from pot
+*** SUMMARY ***
+Total pot 5938 | Rake 0 
+Board [Qs 8d 2s Ad Jh]
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni showed [Qh Kh] and lost with a pair of Queens
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) showed [2h 2c] and won (5938) with three of a kind, Deuces
+
+
+
+PokerStars Hand #232303039664: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XI (400/800) - 2021/12/18 0:48:09 CET [2021/12/17 18:48:09 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (10053 in chips) 
+Seat 2: leledoni (3321 in chips) 
+Seat 6: KeinKönich (7688 in chips) 
+Seat 7: dapitanboy (5938 in chips) 
+IgorMV85: posts the ante 50
+leledoni: posts the ante 50
+KeinKönich: posts the ante 50
+dapitanboy: posts the ante 50
+IgorMV85: posts small blind 400
+leledoni: posts big blind 800
+*** HOLE CARDS ***
+Dealt to KeinKönich [7d Th]
+KeinKönich: folds 
+dapitanboy: folds 
+IgorMV85: raises 9203 to 10003 and is all-in
+leledoni: folds 
+Uncalled bet (9203) returned to IgorMV85
+IgorMV85 collected 1800 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: IgorMV85 (small blind) collected (1800)
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303053501: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:48:44 CET [2021/12/17 18:48:44 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (11003 in chips) 
+Seat 2: leledoni (2471 in chips) 
+Seat 6: KeinKönich (7638 in chips) 
+Seat 7: dapitanboy (5888 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+leledoni: posts small blind 500
+KeinKönich: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 7h]
+dapitanboy: folds 
+IgorMV85: folds 
+leledoni: raises 1000 to 2000
+KeinKönich: raises 1000 to 3000
+leledoni: calls 411 and is all-in
+Uncalled bet (589) returned to KeinKönich
+*** FLOP *** [6s 3d 9d]
+*** TURN *** [6s 3d 9d] [Ah]
+*** RIVER *** [6s 3d 9d Ah] [6c]
+*** SHOW DOWN ***
+leledoni: shows [Tc 2h] (a pair of Sixes)
+KeinKönich: shows [8d 7h] (a pair of Sixes - lower kicker)
+leledoni collected 5062 from pot
+*** SUMMARY ***
+Total pot 5062 | Rake 0 
+Board [6s 3d 9d Ah 6c]
+Seat 1: IgorMV85 (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) showed [Tc 2h] and won (5062) with a pair of Sixes
+Seat 6: KeinKönich (big blind) showed [8d 7h] and lost with a pair of Sixes
+Seat 7: dapitanboy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303063245: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:49:08 CET [2021/12/17 18:49:08 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (10943 in chips) 
+Seat 2: leledoni (5062 in chips) 
+Seat 6: KeinKönich (5167 in chips) 
+Seat 7: dapitanboy (5828 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+KeinKönich: posts small blind 500
+dapitanboy: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d As]
+IgorMV85: folds 
+leledoni: folds 
+KeinKönich: raises 4107 to 5107 and is all-in
+dapitanboy: folds 
+Uncalled bet (4107) returned to KeinKönich
+KeinKönich collected 2240 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) collected (2240)
+Seat 7: dapitanboy (big blind) folded before Flop
+
+
+
+PokerStars Hand #232303074481: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:49:36 CET [2021/12/17 18:49:36 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (10883 in chips) 
+Seat 2: leledoni (5002 in chips) 
+Seat 6: KeinKönich (6347 in chips) 
+Seat 7: dapitanboy (4768 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+dapitanboy: posts small blind 500
+IgorMV85: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 3c]
+leledoni: folds 
+KeinKönich: folds 
+dapitanboy: raises 3708 to 4708 and is all-in
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Uncalled bet (3708) returned to dapitanboy
+dapitanboy collected 2240 from pot
+dapitanboy: doesn't show hand 
+IgorMV85 has returned
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+Seat 7: dapitanboy (small blind) collected (2240)
+
+
+
+PokerStars Hand #232303088660: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:50:12 CET [2021/12/17 18:50:12 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (9823 in chips) 
+Seat 2: leledoni (4942 in chips) 
+Seat 6: KeinKönich (6287 in chips) 
+Seat 7: dapitanboy (5948 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+IgorMV85: posts small blind 500
+leledoni: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [7h 8d]
+KeinKönich: folds 
+dapitanboy: raises 4888 to 5888 and is all-in
+IgorMV85: folds 
+leledoni: calls 3882 and is all-in
+Uncalled bet (1006) returned to dapitanboy
+*** FLOP *** [4c 2h Kc]
+*** TURN *** [4c 2h Kc] [Kh]
+*** RIVER *** [4c 2h Kc Kh] [Qs]
+*** SHOW DOWN ***
+leledoni: shows [7d Ad] (a pair of Kings)
+dapitanboy: shows [8h Jh] (a pair of Kings - lower kicker)
+leledoni collected 10504 from pot
+*** SUMMARY ***
+Total pot 10504 | Rake 0 
+Board [4c 2h Kc Kh Qs]
+Seat 1: IgorMV85 (small blind) folded before Flop
+Seat 2: leledoni (big blind) showed [7d Ad] and won (10504) with a pair of Kings
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) showed [8h Jh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #232303097689: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:50:35 CET [2021/12/17 18:50:35 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (9263 in chips) 
+Seat 2: leledoni (10504 in chips) 
+Seat 6: KeinKönich (6227 in chips) 
+Seat 7: dapitanboy (1006 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+leledoni: posts small blind 500
+KeinKönich: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ad]
+dapitanboy: folds 
+IgorMV85: raises 8203 to 9203 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (8203) returned to IgorMV85
+IgorMV85 collected 2740 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Seat 1: IgorMV85 (button) collected (2740)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303109932: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:51:05 CET [2021/12/17 18:51:05 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (10943 in chips) 
+Seat 2: leledoni (9944 in chips) 
+Seat 6: KeinKönich (5167 in chips) 
+Seat 7: dapitanboy (946 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+KeinKönich: posts small blind 500
+dapitanboy: posts big blind 886 and is all-in
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 6h]
+IgorMV85: raises 9997 to 10883 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (9997) returned to IgorMV85
+*** FLOP *** [Kd 2s 3c]
+*** TURN *** [Kd 2s 3c] [9h]
+*** RIVER *** [Kd 2s 3c 9h] [Ad]
+*** SHOW DOWN ***
+dapitanboy: shows [4s Js] (high card Ace)
+IgorMV85: shows [7d 5d] (high card Ace - lower kicker)
+dapitanboy collected 2512 from pot
+*** SUMMARY ***
+Total pot 2512 | Rake 0 
+Board [Kd 2s 3c 9h Ad]
+Seat 1: IgorMV85 showed [7d 5d] and lost with high card Ace
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) showed [4s Js] and won (2512) with high card Ace
+
+
+
+PokerStars Hand #232303119421: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:51:29 CET [2021/12/17 18:51:29 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (9997 in chips) 
+Seat 2: leledoni (9884 in chips) 
+Seat 6: KeinKönich (4607 in chips) 
+Seat 7: dapitanboy (2512 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+dapitanboy: posts small blind 500
+IgorMV85: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Ac]
+leledoni: folds 
+KeinKönich: raises 3547 to 4547 and is all-in
+dapitanboy: folds 
+IgorMV85: folds 
+Uncalled bet (3547) returned to KeinKönich
+KeinKönich collected 2740 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Seat 1: IgorMV85 (big blind) folded before Flop
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 6: KeinKönich (button) collected (2740)
+Seat 7: dapitanboy (small blind) folded before Flop
+
+
+
+PokerStars Hand #232303127992: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:51:52 CET [2021/12/17 18:51:52 ET]
+Table '3322239465 2' 9-max Seat #7 is the button
+Seat 1: IgorMV85 (8937 in chips) 
+Seat 2: leledoni (9824 in chips) 
+Seat 6: KeinKönich (6287 in chips) 
+Seat 7: dapitanboy (1952 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+IgorMV85: posts small blind 500
+leledoni: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 4d]
+KeinKönich: folds 
+dapitanboy: folds 
+IgorMV85: raises 7877 to 8877 and is all-in
+leledoni: folds 
+Uncalled bet (7877) returned to IgorMV85
+IgorMV85 collected 2240 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: IgorMV85 (small blind) collected (2240)
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich folded before Flop (didn't bet)
+Seat 7: dapitanboy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303135574: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:52:11 CET [2021/12/17 18:52:11 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (10117 in chips) 
+Seat 2: leledoni (8764 in chips) 
+Seat 6: KeinKönich (6227 in chips) 
+Seat 7: dapitanboy (1892 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+leledoni: posts small blind 500
+KeinKönich: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 6d]
+dapitanboy: folds 
+IgorMV85: raises 9057 to 10057 and is all-in
+leledoni: folds 
+KeinKönich: folds 
+Uncalled bet (9057) returned to IgorMV85
+IgorMV85 collected 2740 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Seat 1: IgorMV85 (button) collected (2740)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) folded before Flop
+Seat 7: dapitanboy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303140664: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:52:24 CET [2021/12/17 18:52:24 ET]
+Table '3322239465 2' 9-max Seat #2 is the button
+Seat 1: IgorMV85 (11797 in chips) 
+Seat 2: leledoni (8204 in chips) 
+Seat 6: KeinKönich (5167 in chips) 
+Seat 7: dapitanboy (1832 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+dapitanboy: posts the ante 60
+KeinKönich: posts small blind 500
+dapitanboy: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 4c]
+IgorMV85: folds 
+leledoni: raises 7144 to 8144 and is all-in
+KeinKönich: folds 
+dapitanboy: calls 772 and is all-in
+Uncalled bet (6372) returned to leledoni
+*** FLOP *** [Qs 7d 7c]
+*** TURN *** [Qs 7d 7c] [9s]
+*** RIVER *** [Qs 7d 7c 9s] [3h]
+*** SHOW DOWN ***
+dapitanboy: shows [8d 8s] (two pair, Eights and Sevens)
+leledoni: shows [Jc Jd] (two pair, Jacks and Sevens)
+leledoni collected 4284 from pot
+dapitanboy finished the tournament in 4th place and received $16.59.
+*** SUMMARY ***
+Total pot 4284 | Rake 0 
+Board [Qs 7d 7c 9s 3h]
+Seat 1: IgorMV85 folded before Flop (didn't bet)
+Seat 2: leledoni (button) showed [Jc Jd] and won (4284) with two pair, Jacks and Sevens
+Seat 6: KeinKönich (small blind) folded before Flop
+Seat 7: dapitanboy (big blind) showed [8d 8s] and lost with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #232303148250: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:52:43 CET [2021/12/17 18:52:43 ET]
+Table '3322239465 2' 9-max Seat #6 is the button
+Seat 1: IgorMV85 (11737 in chips) 
+Seat 2: leledoni (10656 in chips) 
+Seat 6: KeinKönich (4607 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+IgorMV85: posts small blind 500
+leledoni: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 2d]
+KeinKönich: folds 
+IgorMV85: raises 10677 to 11677 and is all-in
+leledoni: folds 
+Uncalled bet (10677) returned to IgorMV85
+IgorMV85 collected 2180 from pot
+IgorMV85: doesn't show hand 
+*** SUMMARY ***
+Total pot 2180 | Rake 0 
+Seat 1: IgorMV85 (small blind) collected (2180)
+Seat 2: leledoni (big blind) folded before Flop
+Seat 6: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232303153673: Tournament #3322239465, $9.22+$0.78 USD Hold'em No Limit - Level XII (500/1000) - 2021/12/18 0:52:57 CET [2021/12/17 18:52:57 ET]
+Table '3322239465 2' 9-max Seat #1 is the button
+Seat 1: IgorMV85 (12857 in chips) 
+Seat 2: leledoni (9596 in chips) 
+Seat 6: KeinKönich (4547 in chips) 
+IgorMV85: posts the ante 60
+leledoni: posts the ante 60
+KeinKönich: posts the ante 60
+leledoni: posts small blind 500
+KeinKönich: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 5s]
+IgorMV85: raises 11797 to 12797 and is all-in
+leledoni: folds 
+KeinKönich: calls 3487 and is all-in
+Uncalled bet (8310) returned to IgorMV85
+*** FLOP *** [Kc 4s 4h]
+*** TURN *** [Kc 4s 4h] [4c]
+*** RIVER *** [Kc 4s 4h 4c] [2c]
+*** SHOW DOWN ***
+KeinKönich: shows [7s 5s] (three of a kind, Fours)
+IgorMV85: shows [8s Qh] (three of a kind, Fours - King+Queen kicker)
+IgorMV85 collected 9654 from pot
+*** SUMMARY ***
+Total pot 9654 | Rake 0 
+Board [Kc 4s 4h 4c 2c]
+Seat 1: IgorMV85 (button) showed [8s Qh] and won (9654) with three of a kind, Fours
+Seat 2: leledoni (small blind) folded before Flop
+Seat 6: KeinKönich (big blind) showed [7s 5s] and lost with three of a kind, Fours
+
+
+

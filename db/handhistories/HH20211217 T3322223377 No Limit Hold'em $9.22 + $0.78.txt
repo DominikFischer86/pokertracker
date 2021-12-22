@@ -1,0 +1,2371 @@
+ï»¿PokerStars Hand #232300818397: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:24:47 CET [2021/12/17 17:24:47 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (1500 in chips) 
+Seat 2: dapitanboy (1500 in chips) 
+Seat 3: VegasJonesy (1500 in chips) 
+Seat 4: Barellinof (1500 in chips) 
+Seat 5: AndreMDSilva (1500 in chips) 
+Seat 6: ursdari (1500 in chips) 
+Seat 7: KeinKönich (1500 in chips) 
+Seat 8: marcaurel11 (1500 in chips) 
+Seat 9: yokerone1 (1500 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+dapitanboy: posts small blind 10
+VegasJonesy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h Js]
+Barellinof: folds 
+AndreMDSilva has timed out
+AndreMDSilva: folds 
+AndreMDSilva is sitting out
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+Uncalled bet (10) returned to VegasJonesy
+VegasJonesy collected 47 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 2: dapitanboy (small blind) folded before Flop
+Seat 3: VegasJonesy (big blind) collected (47)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300851200: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:25:39 CET [2021/12/17 17:25:39 ET]
+Table '3322223377 2' 9-max Seat #2 is the button
+Seat 1: gillou27 (1497 in chips) 
+Seat 2: dapitanboy (1487 in chips) 
+Seat 3: VegasJonesy (1534 in chips) 
+Seat 4: Barellinof (1497 in chips) 
+Seat 5: AndreMDSilva (1497 in chips) is sitting out
+Seat 6: ursdari (1497 in chips) 
+Seat 7: KeinKönich (1497 in chips) 
+Seat 8: marcaurel11 (1497 in chips) 
+Seat 9: yokerone1 (1497 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+VegasJonesy: posts small blind 10
+Barellinof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js Ac]
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: raises 40 to 60
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 50
+Barellinof: folds 
+*** FLOP *** [Kh 5s 2s]
+AndreMDSilva has returned
+VegasJonesy: checks 
+KeinKönich: bets 100
+VegasJonesy: folds 
+Uncalled bet (100) returned to KeinKönich
+KeinKönich collected 167 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Kh 5s 2s]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy (button) folded before Flop (didn't bet)
+Seat 3: VegasJonesy (small blind) folded on the Flop
+Seat 4: Barellinof (big blind) folded before Flop
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (167)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300877974: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:26:35 CET [2021/12/17 17:26:35 ET]
+Table '3322223377 2' 9-max Seat #3 is the button
+Seat 1: gillou27 (1494 in chips) 
+Seat 2: dapitanboy (1484 in chips) 
+Seat 3: VegasJonesy (1471 in chips) 
+Seat 4: Barellinof (1474 in chips) 
+Seat 5: AndreMDSilva (1494 in chips) 
+Seat 6: ursdari (1494 in chips) 
+Seat 7: KeinKönich (1601 in chips) 
+Seat 8: marcaurel11 (1494 in chips) 
+Seat 9: yokerone1 (1494 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+Barellinof: posts small blind 10
+AndreMDSilva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks Td]
+ursdari: calls 20
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: calls 10
+AndreMDSilva: checks 
+*** FLOP *** [4h 4s Js]
+Barellinof: checks 
+AndreMDSilva: checks 
+ursdari: checks 
+*** TURN *** [4h 4s Js] [Jc]
+Barellinof: checks 
+AndreMDSilva: checks 
+ursdari: checks 
+*** RIVER *** [4h 4s Js Jc] [Qc]
+Barellinof: checks 
+AndreMDSilva: checks 
+ursdari: checks 
+*** SHOW DOWN ***
+Barellinof: shows [As 8s] (two pair, Jacks and Fours)
+AndreMDSilva: mucks hand 
+ursdari: mucks hand 
+Barellinof collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Board [4h 4s Js Jc Qc]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy (button) folded before Flop (didn't bet)
+Seat 4: Barellinof (small blind) showed [As 8s] and won (87) with two pair, Jacks and Fours
+Seat 5: AndreMDSilva (big blind) mucked [6h Kd]
+Seat 6: ursdari mucked [3h 3c]
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300916641: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:27:51 CET [2021/12/17 17:27:51 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (1491 in chips) 
+Seat 2: dapitanboy (1481 in chips) 
+Seat 3: VegasJonesy (1468 in chips) 
+Seat 4: Barellinof (1538 in chips) 
+Seat 5: AndreMDSilva (1471 in chips) 
+Seat 6: ursdari (1471 in chips) 
+Seat 7: KeinKönich (1598 in chips) 
+Seat 8: marcaurel11 (1491 in chips) 
+Seat 9: yokerone1 (1491 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+AndreMDSilva: posts small blind 10
+ursdari: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 8d]
+KeinKönich: raises 40 to 60
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+Uncalled bet (40) returned to KeinKönich
+KeinKönich collected 77 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof (button) folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (small blind) folded before Flop
+Seat 6: ursdari (big blind) folded before Flop
+Seat 7: KeinKönich collected (77)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300928078: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:28:15 CET [2021/12/17 17:28:15 ET]
+Table '3322223377 2' 9-max Seat #5 is the button
+Seat 1: gillou27 (1488 in chips) 
+Seat 2: dapitanboy (1478 in chips) 
+Seat 3: VegasJonesy (1465 in chips) 
+Seat 4: Barellinof (1535 in chips) 
+Seat 5: AndreMDSilva (1458 in chips) 
+Seat 6: ursdari (1448 in chips) 
+Seat 7: KeinKönich (1652 in chips) 
+Seat 8: marcaurel11 (1488 in chips) 
+Seat 9: yokerone1 (1488 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+ursdari: posts small blind 10
+KeinKönich: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h Jd]
+marcaurel11: raises 30 to 50
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+Uncalled bet (30) returned to marcaurel11
+marcaurel11 collected 77 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 6: ursdari (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: marcaurel11 collected (77)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300942644: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:28:46 CET [2021/12/17 17:28:46 ET]
+Table '3322223377 2' 9-max Seat #6 is the button
+Seat 1: gillou27 (1485 in chips) 
+Seat 2: dapitanboy (1475 in chips) 
+Seat 3: VegasJonesy (1462 in chips) 
+Seat 4: Barellinof (1532 in chips) 
+Seat 5: AndreMDSilva (1455 in chips) 
+Seat 6: ursdari (1435 in chips) 
+Seat 7: KeinKönich (1629 in chips) 
+Seat 8: marcaurel11 (1542 in chips) 
+Seat 9: yokerone1 (1485 in chips) 
+gillou27: posts the ante 3
+dapitanboy: posts the ante 3
+VegasJonesy: posts the ante 3
+Barellinof: posts the ante 3
+AndreMDSilva: posts the ante 3
+ursdari: posts the ante 3
+KeinKönich: posts the ante 3
+marcaurel11: posts the ante 3
+yokerone1: posts the ante 3
+KeinKönich: posts small blind 10
+marcaurel11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 9d]
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: raises 30 to 50
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: calls 30
+*** FLOP *** [Kd 3c 5h]
+marcaurel11: checks 
+Barellinof: checks 
+*** TURN *** [Kd 3c 5h] [Qc]
+marcaurel11: checks 
+Barellinof: bets 69
+marcaurel11: folds 
+Uncalled bet (69) returned to Barellinof
+Barellinof collected 137 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Kd 3c 5h Qc]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof collected (137)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: marcaurel11 (big blind) folded on the Turn
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300977712: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:30:00 CET [2021/12/17 17:30:00 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (1482 in chips) 
+Seat 2: dapitanboy (1472 in chips) 
+Seat 3: VegasJonesy (1459 in chips) 
+Seat 4: Barellinof (1616 in chips) 
+Seat 5: AndreMDSilva (1452 in chips) 
+Seat 6: ursdari (1432 in chips) 
+Seat 7: KeinKönich (1616 in chips) 
+Seat 8: marcaurel11 (1489 in chips) 
+Seat 9: yokerone1 (1482 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+marcaurel11: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 9s]
+gillou27: raises 30 to 60
+dapitanboy: folds 
+VegasJonesy: calls 60
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+*** FLOP *** [Qd Tc 2s]
+gillou27: bets 120
+VegasJonesy: calls 120
+*** TURN *** [Qd Tc 2s] [Qc]
+gillou27: checks 
+VegasJonesy: bets 220
+gillou27: calls 220
+*** RIVER *** [Qd Tc 2s Qc] [5h]
+gillou27: checks 
+VegasJonesy: checks 
+*** SHOW DOWN ***
+gillou27: shows [Ac Ah] (two pair, Aces and Queens)
+VegasJonesy: mucks hand 
+gillou27 collected 881 from pot
+*** SUMMARY ***
+Total pot 881 | Rake 0 
+Board [Qd Tc 2s Qc 5h]
+Seat 1: gillou27 showed [Ac Ah] and won (881) with two pair, Aces and Queens
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy mucked [Th 9h]
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: marcaurel11 (small blind) folded before Flop
+Seat 9: yokerone1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300998075: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:30:43 CET [2021/12/17 17:30:43 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (1959 in chips) 
+Seat 2: dapitanboy (1468 in chips) 
+Seat 3: VegasJonesy (1055 in chips) 
+Seat 4: Barellinof (1612 in chips) 
+Seat 5: AndreMDSilva (1448 in chips) 
+Seat 6: ursdari (1428 in chips) 
+Seat 7: KeinKönich (1612 in chips) 
+Seat 8: marcaurel11 (1470 in chips) 
+Seat 9: yokerone1 (1448 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+yokerone1: posts small blind 15
+gillou27: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 8h]
+dapitanboy: folds 
+VegasJonesy: raises 90 to 120
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: calls 105
+gillou27: calls 90
+*** FLOP *** [5s Qc Ts]
+yokerone1: checks 
+gillou27: checks 
+VegasJonesy: bets 396
+yokerone1: folds 
+gillou27: folds 
+Uncalled bet (396) returned to VegasJonesy
+VegasJonesy collected 396 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Board [5s Qc Ts]
+Seat 1: gillou27 (big blind) folded on the Flop
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy collected (396)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #232301019392: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:31:28 CET [2021/12/17 17:31:28 ET]
+Table '3322223377 2' 9-max Seat #9 is the button
+Seat 1: gillou27 (1835 in chips) 
+Seat 2: dapitanboy (1464 in chips) 
+Seat 3: VegasJonesy (1327 in chips) 
+Seat 4: Barellinof (1608 in chips) 
+Seat 5: AndreMDSilva (1444 in chips) 
+Seat 6: ursdari (1424 in chips) 
+Seat 7: KeinKönich (1608 in chips) 
+Seat 8: marcaurel11 (1466 in chips) 
+Seat 9: yokerone1 (1324 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+gillou27: posts small blind 15
+dapitanboy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 5h]
+VegasJonesy: calls 30
+Barellinof: folds 
+AndreMDSilva: calls 30
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: raises 150 to 180
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 150
+AndreMDSilva: folds 
+*** FLOP *** [7h 4h 2s]
+VegasJonesy: bets 1143 and is all-in
+yokerone1: folds 
+Uncalled bet (1143) returned to VegasJonesy
+VegasJonesy collected 471 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 471 | Rake 0 
+Board [7h 4h 2s]
+Seat 1: gillou27 (small blind) folded before Flop
+Seat 2: dapitanboy (big blind) folded before Flop
+Seat 3: VegasJonesy collected (471)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 (button) folded on the Flop
+
+
+
+PokerStars Hand #232301042397: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:32:18 CET [2021/12/17 17:32:18 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (1816 in chips) 
+Seat 2: dapitanboy (1430 in chips) 
+Seat 3: VegasJonesy (1614 in chips) 
+Seat 4: Barellinof (1604 in chips) 
+Seat 5: AndreMDSilva (1410 in chips) 
+Seat 6: ursdari (1420 in chips) 
+Seat 7: KeinKönich (1604 in chips) 
+Seat 8: marcaurel11 (1462 in chips) 
+Seat 9: yokerone1 (1140 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+dapitanboy: posts small blind 15
+VegasJonesy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Jh]
+Barellinof: raises 45 to 75
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 45
+*** FLOP *** [Js 3h Qc]
+VegasJonesy: checks 
+Barellinof: checks 
+*** TURN *** [Js 3h Qc] [2h]
+VegasJonesy: checks 
+Barellinof: bets 101
+VegasJonesy: calls 101
+*** RIVER *** [Js 3h Qc 2h] [5s]
+VegasJonesy: checks 
+Barellinof: bets 202
+VegasJonesy: folds 
+Uncalled bet (202) returned to Barellinof
+Barellinof collected 403 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [Js 3h Qc 2h 5s]
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 2: dapitanboy (small blind) folded before Flop
+Seat 3: VegasJonesy (big blind) folded on the River
+Seat 4: Barellinof collected (403)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301083943: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:33:46 CET [2021/12/17 17:33:46 ET]
+Table '3322223377 2' 9-max Seat #2 is the button
+Seat 1: gillou27 (1812 in chips) 
+Seat 2: dapitanboy (1411 in chips) 
+Seat 3: VegasJonesy (1434 in chips) 
+Seat 4: Barellinof (1827 in chips) 
+Seat 5: AndreMDSilva (1406 in chips) 
+Seat 6: ursdari (1416 in chips) 
+Seat 7: KeinKönich (1600 in chips) 
+Seat 8: marcaurel11 (1458 in chips) 
+Seat 9: yokerone1 (1136 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+VegasJonesy: posts small blind 15
+Barellinof: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c 4d]
+AndreMDSilva: raises 45 to 75
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: calls 45
+*** FLOP *** [8c 9h Kd]
+Barellinof: checks 
+AndreMDSilva: checks 
+*** TURN *** [8c 9h Kd] [4c]
+Barellinof: checks 
+AndreMDSilva: checks 
+*** RIVER *** [8c 9h Kd 4c] [8s]
+Barellinof: bets 151
+AndreMDSilva: folds 
+Uncalled bet (151) returned to Barellinof
+Barellinof collected 201 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [8c 9h Kd 4c 8s]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy (button) folded before Flop (didn't bet)
+Seat 3: VegasJonesy (small blind) folded before Flop
+Seat 4: Barellinof (big blind) collected (201)
+Seat 5: AndreMDSilva folded on the River
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301116915: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:34:35 CET [2021/12/17 17:34:35 ET]
+Table '3322223377 2' 9-max Seat #3 is the button
+Seat 1: gillou27 (1808 in chips) 
+Seat 2: dapitanboy (1407 in chips) 
+Seat 3: VegasJonesy (1415 in chips) 
+Seat 4: Barellinof (1949 in chips) 
+Seat 5: AndreMDSilva (1327 in chips) 
+Seat 6: ursdari (1412 in chips) 
+Seat 7: KeinKönich (1596 in chips) 
+Seat 8: marcaurel11 (1454 in chips) 
+Seat 9: yokerone1 (1132 in chips) 
+gillou27: posts the ante 4
+dapitanboy: posts the ante 4
+VegasJonesy: posts the ante 4
+Barellinof: posts the ante 4
+AndreMDSilva: posts the ante 4
+ursdari: posts the ante 4
+KeinKönich: posts the ante 4
+marcaurel11: posts the ante 4
+yokerone1: posts the ante 4
+Barellinof: posts small blind 15
+AndreMDSilva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s 2d]
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: raises 36 to 66
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 66
+Barellinof: folds 
+AndreMDSilva: folds 
+*** FLOP *** [Ks 8s 3d]
+marcaurel11: checks 
+VegasJonesy: bets 90
+marcaurel11: calls 90
+*** TURN *** [Ks 8s 3d] [Js]
+marcaurel11: checks 
+VegasJonesy: checks 
+*** RIVER *** [Ks 8s 3d Js] [2c]
+marcaurel11: checks 
+VegasJonesy: bets 393
+marcaurel11: folds 
+Uncalled bet (393) returned to VegasJonesy
+VegasJonesy collected 393 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 393 | Rake 0 
+Board [Ks 8s 3d Js 2c]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy (button) collected (393)
+Seat 4: Barellinof (small blind) folded before Flop
+Seat 5: AndreMDSilva (big blind) folded before Flop
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded on the River
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301155539: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:35:58 CET [2021/12/17 17:35:58 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (1804 in chips) 
+Seat 2: dapitanboy (1403 in chips) 
+Seat 3: VegasJonesy (1648 in chips) 
+Seat 4: Barellinof (1930 in chips) 
+Seat 5: AndreMDSilva (1293 in chips) 
+Seat 6: ursdari (1408 in chips) 
+Seat 7: KeinKönich (1592 in chips) 
+Seat 8: marcaurel11 (1294 in chips) 
+Seat 9: yokerone1 (1128 in chips) 
+gillou27: posts the ante 6
+dapitanboy: posts the ante 6
+VegasJonesy: posts the ante 6
+Barellinof: posts the ante 6
+AndreMDSilva: posts the ante 6
+ursdari: posts the ante 6
+KeinKönich: posts the ante 6
+marcaurel11: posts the ante 6
+yokerone1: posts the ante 6
+AndreMDSilva: posts small blind 25
+ursdari: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 5h]
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: calls 50
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: calls 50
+AndreMDSilva: calls 25
+ursdari: checks 
+*** FLOP *** [6c Qh 2c]
+AndreMDSilva: checks 
+ursdari: checks 
+gillou27: checks 
+Barellinof: checks 
+*** TURN *** [6c Qh 2c] [Th]
+AndreMDSilva: checks 
+ursdari: checks 
+gillou27: checks 
+Barellinof: bets 150
+AndreMDSilva: folds 
+ursdari: folds 
+gillou27: folds 
+Uncalled bet (150) returned to Barellinof
+Barellinof collected 254 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 254 | Rake 0 
+Board [6c Qh 2c Th]
+Seat 1: gillou27 folded on the Turn
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof (button) collected (254)
+Seat 5: AndreMDSilva (small blind) folded on the Turn
+Seat 6: ursdari (big blind) folded on the Turn
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301186365: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:37:05 CET [2021/12/17 17:37:05 ET]
+Table '3322223377 2' 9-max Seat #5 is the button
+Seat 1: gillou27 (1748 in chips) 
+Seat 2: dapitanboy (1397 in chips) 
+Seat 3: VegasJonesy (1642 in chips) 
+Seat 4: Barellinof (2128 in chips) 
+Seat 5: AndreMDSilva (1237 in chips) 
+Seat 6: ursdari (1352 in chips) 
+Seat 7: KeinKönich (1586 in chips) 
+Seat 8: marcaurel11 (1288 in chips) 
+Seat 9: yokerone1 (1122 in chips) 
+gillou27: posts the ante 6
+dapitanboy: posts the ante 6
+VegasJonesy: posts the ante 6
+Barellinof: posts the ante 6
+AndreMDSilva: posts the ante 6
+ursdari: posts the ante 6
+KeinKönich: posts the ante 6
+marcaurel11: posts the ante 6
+yokerone1: posts the ante 6
+ursdari: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ks 9h]
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: raises 50 to 100
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari has timed out
+ursdari: folds 
+ursdari is sitting out
+KeinKönich: folds 
+Uncalled bet (50) returned to dapitanboy
+dapitanboy collected 179 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy collected (179)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 6: ursdari (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301205286: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:37:45 CET [2021/12/17 17:37:45 ET]
+Table '3322223377 2' 9-max Seat #6 is the button
+Seat 1: gillou27 (1742 in chips) 
+Seat 2: dapitanboy (1520 in chips) 
+Seat 3: VegasJonesy (1636 in chips) 
+Seat 4: Barellinof (2122 in chips) 
+Seat 5: AndreMDSilva (1231 in chips) 
+Seat 6: ursdari (1321 in chips) is sitting out
+Seat 7: KeinKönich (1530 in chips) 
+Seat 8: marcaurel11 (1282 in chips) 
+Seat 9: yokerone1 (1116 in chips) 
+gillou27: posts the ante 6
+dapitanboy: posts the ante 6
+VegasJonesy: posts the ante 6
+Barellinof: posts the ante 6
+AndreMDSilva: posts the ante 6
+ursdari: posts the ante 6
+KeinKönich: posts the ante 6
+marcaurel11: posts the ante 6
+yokerone1: posts the ante 6
+KeinKönich: posts small blind 25
+marcaurel11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d Js]
+yokerone1: folds 
+gillou27: folds 
+ursdari has returned
+dapitanboy: folds 
+VegasJonesy: calls 50
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: checks 
+*** FLOP *** [Kc 5c 9s]
+marcaurel11: checks 
+VegasJonesy: checks 
+*** TURN *** [Kc 5c 9s] [Tc]
+marcaurel11: checks 
+VegasJonesy: bets 100
+marcaurel11: calls 100
+*** RIVER *** [Kc 5c 9s Tc] [Ac]
+marcaurel11: checks 
+VegasJonesy: bets 379
+marcaurel11: folds 
+Uncalled bet (379) returned to VegasJonesy
+VegasJonesy collected 379 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 379 | Rake 0 
+Board [Kc 5c 9s Tc Ac]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy collected (379)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: marcaurel11 (big blind) folded on the River
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301241257: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:39:03 CET [2021/12/17 17:39:03 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (1736 in chips) 
+Seat 2: dapitanboy (1514 in chips) 
+Seat 3: VegasJonesy (1859 in chips) 
+Seat 4: Barellinof (2116 in chips) 
+Seat 5: AndreMDSilva (1225 in chips) 
+Seat 6: ursdari (1315 in chips) 
+Seat 7: KeinKönich (1499 in chips) 
+Seat 8: marcaurel11 (1126 in chips) 
+Seat 9: yokerone1 (1110 in chips) 
+gillou27: posts the ante 6
+dapitanboy: posts the ante 6
+VegasJonesy: posts the ante 6
+Barellinof: posts the ante 6
+AndreMDSilva: posts the ante 6
+ursdari: posts the ante 6
+KeinKönich: posts the ante 6
+marcaurel11: posts the ante 6
+yokerone1: posts the ante 6
+marcaurel11: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Qc]
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: raises 50 to 100
+marcaurel11: folds 
+yokerone1: folds 
+Uncalled bet (50) returned to KeinKönich
+KeinKönich collected 179 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) collected (179)
+Seat 8: marcaurel11 (small blind) folded before Flop
+Seat 9: yokerone1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301255375: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:39:33 CET [2021/12/17 17:39:33 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (1730 in chips) 
+Seat 2: dapitanboy (1508 in chips) 
+Seat 3: VegasJonesy (1853 in chips) 
+Seat 4: Barellinof (2110 in chips) 
+Seat 5: AndreMDSilva (1219 in chips) 
+Seat 6: ursdari (1309 in chips) 
+Seat 7: KeinKönich (1622 in chips) 
+Seat 8: marcaurel11 (1095 in chips) 
+Seat 9: yokerone1 (1054 in chips) 
+gillou27: posts the ante 6
+dapitanboy: posts the ante 6
+VegasJonesy: posts the ante 6
+Barellinof: posts the ante 6
+AndreMDSilva: posts the ante 6
+ursdari: posts the ante 6
+KeinKönich: posts the ante 6
+marcaurel11: posts the ante 6
+yokerone1: posts the ante 6
+yokerone1: posts small blind 25
+gillou27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Ks]
+dapitanboy: folds 
+VegasJonesy: calls 50
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: calls 50
+KeinKönich: calls 50
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: checks 
+*** FLOP *** [2d 3h Qd]
+gillou27: checks 
+VegasJonesy: checks 
+ursdari: checks 
+KeinKönich: bets 150
+gillou27: folds 
+VegasJonesy: folds 
+ursdari: folds 
+Uncalled bet (150) returned to KeinKönich
+KeinKönich collected 279 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [2d 3h Qd]
+Seat 1: gillou27 (big blind) folded on the Flop
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded on the Flop
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded on the Flop
+Seat 7: KeinKönich collected (279)
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301291617: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:40:51 CET [2021/12/17 17:40:51 ET]
+Table '3322223377 2' 9-max Seat #9 is the button
+Seat 1: gillou27 (1674 in chips) 
+Seat 2: dapitanboy (1502 in chips) 
+Seat 3: VegasJonesy (1797 in chips) 
+Seat 4: Barellinof (2104 in chips) 
+Seat 5: AndreMDSilva (1213 in chips) 
+Seat 6: ursdari (1253 in chips) 
+Seat 7: KeinKönich (1845 in chips) 
+Seat 8: marcaurel11 (1089 in chips) 
+Seat 9: yokerone1 (1023 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+gillou27: posts small blind 40
+dapitanboy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c 4h]
+VegasJonesy: folds 
+Barellinof: raises 100 to 180
+AndreMDSilva: folds 
+ursdari: raises 570 to 750
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+Barellinof: raises 1344 to 2094 and is all-in
+ursdari: calls 493 and is all-in
+Uncalled bet (851) returned to Barellinof
+*** FLOP *** [Kh Th Qs]
+*** TURN *** [Kh Th Qs] [9s]
+*** RIVER *** [Kh Th Qs 9s] [9c]
+*** SHOW DOWN ***
+Barellinof: shows [Ac Ks] (two pair, Kings and Nines)
+ursdari: shows [As Kc] (two pair, Kings and Nines)
+Barellinof collected 1348 from pot
+ursdari collected 1348 from pot
+*** SUMMARY ***
+Total pot 2696 | Rake 0 
+Board [Kh Th Qs 9s 9c]
+Seat 1: gillou27 (small blind) folded before Flop
+Seat 2: dapitanboy (big blind) folded before Flop
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof showed [Ac Ks] and won (1348) with two pair, Kings and Nines
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari showed [As Kc] and won (1348) with two pair, Kings and Nines
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301316980: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:41:47 CET [2021/12/17 17:41:47 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (1624 in chips) 
+Seat 2: dapitanboy (1412 in chips) 
+Seat 3: VegasJonesy (1787 in chips) 
+Seat 4: Barellinof (2199 in chips) 
+Seat 5: AndreMDSilva (1203 in chips) 
+Seat 6: ursdari (1348 in chips) 
+Seat 7: KeinKönich (1835 in chips) 
+Seat 8: marcaurel11 (1079 in chips) 
+Seat 9: yokerone1 (1013 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+dapitanboy: posts small blind 40
+VegasJonesy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th 3d]
+Barellinof has timed out
+Barellinof: folds 
+Barellinof is sitting out
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+Barellinof has returned
+marcaurel11: raises 989 to 1069 and is all-in
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 989
+*** FLOP *** [4c 6s 3h]
+*** TURN *** [4c 6s 3h] [7h]
+*** RIVER *** [4c 6s 3h 7h] [Jd]
+*** SHOW DOWN ***
+VegasJonesy: shows [Ks Ad] (high card Ace)
+marcaurel11: shows [Jh Kh] (a pair of Jacks)
+marcaurel11 collected 2268 from pot
+*** SUMMARY ***
+Total pot 2268 | Rake 0 
+Board [4c 6s 3h 7h Jd]
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 2: dapitanboy (small blind) folded before Flop
+Seat 3: VegasJonesy (big blind) showed [Ks Ad] and lost with high card Ace
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 showed [Jh Kh] and won (2268) with a pair of Jacks
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301344686: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:42:47 CET [2021/12/17 17:42:47 ET]
+Table '3322223377 2' 9-max Seat #2 is the button
+Seat 1: gillou27 (1614 in chips) 
+Seat 2: dapitanboy (1362 in chips) 
+Seat 3: VegasJonesy (708 in chips) 
+Seat 4: Barellinof (2189 in chips) 
+Seat 5: AndreMDSilva (1193 in chips) 
+Seat 6: ursdari (1338 in chips) 
+Seat 7: KeinKönich (1825 in chips) 
+Seat 8: marcaurel11 (2268 in chips) 
+Seat 9: yokerone1 (1003 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+VegasJonesy: posts small blind 40
+Barellinof: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 4d]
+AndreMDSilva: raises 1103 to 1183 and is all-in
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+Uncalled bet (1103) returned to AndreMDSilva
+AndreMDSilva collected 290 from pot
+AndreMDSilva: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy (button) folded before Flop (didn't bet)
+Seat 3: VegasJonesy (small blind) folded before Flop
+Seat 4: Barellinof (big blind) folded before Flop
+Seat 5: AndreMDSilva collected (290)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301351485: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:43:02 CET [2021/12/17 17:43:02 ET]
+Table '3322223377 2' 9-max Seat #3 is the button
+Seat 1: gillou27 (1604 in chips) 
+Seat 2: dapitanboy (1352 in chips) 
+Seat 3: VegasJonesy (658 in chips) 
+Seat 4: Barellinof (2099 in chips) 
+Seat 5: AndreMDSilva (1393 in chips) 
+Seat 6: ursdari (1328 in chips) 
+Seat 7: KeinKönich (1815 in chips) 
+Seat 8: marcaurel11 (2258 in chips) 
+Seat 9: yokerone1 (993 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+Barellinof: posts small blind 40
+AndreMDSilva: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Ks]
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: raises 80 to 160
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+Uncalled bet (80) returned to marcaurel11
+marcaurel11 collected 290 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy (button) folded before Flop (didn't bet)
+Seat 4: Barellinof (small blind) folded before Flop
+Seat 5: AndreMDSilva (big blind) folded before Flop
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 collected (290)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301367478: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:43:21 CET [2021/12/17 17:43:21 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (1594 in chips) 
+Seat 2: dapitanboy (1342 in chips) 
+Seat 3: VegasJonesy (648 in chips) 
+Seat 4: Barellinof (2049 in chips) 
+Seat 5: AndreMDSilva (1303 in chips) 
+Seat 6: ursdari (1318 in chips) 
+Seat 7: KeinKönich (1805 in chips) 
+Seat 8: marcaurel11 (2458 in chips) 
+Seat 9: yokerone1 (983 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+AndreMDSilva: posts small blind 40
+ursdari: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 7c]
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: raises 100 to 180
+AndreMDSilva: folds 
+ursdari: folds 
+Uncalled bet (100) returned to Barellinof
+Barellinof collected 290 from pot
+Barellinof: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof (button) collected (290)
+Seat 5: AndreMDSilva (small blind) folded before Flop
+Seat 6: ursdari (big blind) folded before Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301379676: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:43:48 CET [2021/12/17 17:43:48 ET]
+Table '3322223377 2' 9-max Seat #5 is the button
+Seat 1: gillou27 (1584 in chips) 
+Seat 2: dapitanboy (1332 in chips) 
+Seat 3: VegasJonesy (638 in chips) 
+Seat 4: Barellinof (2249 in chips) 
+Seat 5: AndreMDSilva (1253 in chips) 
+Seat 6: ursdari (1228 in chips) 
+Seat 7: KeinKönich (1795 in chips) 
+Seat 8: marcaurel11 (2448 in chips) 
+Seat 9: yokerone1 (973 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+ursdari: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 8s]
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+Uncalled bet (40) returned to KeinKönich
+KeinKönich collected 170 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 6: ursdari (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) collected (170)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301386221: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:44:02 CET [2021/12/17 17:44:02 ET]
+Table '3322223377 2' 9-max Seat #6 is the button
+Seat 1: gillou27 (1574 in chips) 
+Seat 2: dapitanboy (1322 in chips) 
+Seat 3: VegasJonesy (628 in chips) 
+Seat 4: Barellinof (2239 in chips) 
+Seat 5: AndreMDSilva (1243 in chips) 
+Seat 6: ursdari (1178 in chips) 
+Seat 7: KeinKönich (1915 in chips) 
+Seat 8: marcaurel11 (2438 in chips) 
+Seat 9: yokerone1 (963 in chips) 
+gillou27: posts the ante 10
+dapitanboy: posts the ante 10
+VegasJonesy: posts the ante 10
+Barellinof: posts the ante 10
+AndreMDSilva: posts the ante 10
+ursdari: posts the ante 10
+KeinKönich: posts the ante 10
+marcaurel11: posts the ante 10
+yokerone1: posts the ante 10
+KeinKönich: posts small blind 40
+marcaurel11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h 3d]
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 80
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: calls 40
+marcaurel11: checks 
+*** FLOP *** [8s 6c 5h]
+KeinKönich: bets 165
+marcaurel11: folds 
+VegasJonesy: raises 373 to 538 and is all-in
+KeinKönich: calls 373
+*** TURN *** [8s 6c 5h] [Kh]
+*** RIVER *** [8s 6c 5h Kh] [Ac]
+*** SHOW DOWN ***
+KeinKönich: shows [9h 3d] (high card Ace)
+VegasJonesy: shows [7s As] (a pair of Aces)
+VegasJonesy collected 1406 from pot
+*** SUMMARY ***
+Total pot 1406 | Rake 0 
+Board [8s 6c 5h Kh Ac]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy showed [7s As] and won (1406) with a pair of Aces
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) showed [9h 3d] and lost with high card Ace
+Seat 8: marcaurel11 (big blind) folded on the Flop
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301416288: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:45:08 CET [2021/12/17 17:45:08 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (1564 in chips) 
+Seat 2: dapitanboy (1312 in chips) 
+Seat 3: VegasJonesy (1406 in chips) 
+Seat 4: Barellinof (2229 in chips) 
+Seat 5: AndreMDSilva (1233 in chips) 
+Seat 6: ursdari (1168 in chips) 
+Seat 7: KeinKönich (1287 in chips) 
+Seat 8: marcaurel11 (2348 in chips) 
+Seat 9: yokerone1 (953 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+marcaurel11: posts small blind 60
+yokerone1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d 6s]
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: raises 2213 to 2333 and is all-in
+yokerone1: calls 818 and is all-in
+Uncalled bet (1395) returned to marcaurel11
+*** FLOP *** [7s 6d Td]
+*** TURN *** [7s 6d Td] [4h]
+*** RIVER *** [7s 6d Td 4h] [2s]
+*** SHOW DOWN ***
+marcaurel11: shows [Jd 9h] (high card Jack)
+yokerone1: shows [8d Ks] (high card King)
+yokerone1 collected 2011 from pot
+*** SUMMARY ***
+Total pot 2011 | Rake 0 
+Board [7s 6d Td 4h 2s]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: marcaurel11 (small blind) showed [Jd 9h] and lost with high card Jack
+Seat 9: yokerone1 (big blind) showed [8d Ks] and won (2011) with high card King
+
+
+
+PokerStars Hand #232301437186: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:45:54 CET [2021/12/17 17:45:54 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (1549 in chips) 
+Seat 2: dapitanboy (1297 in chips) 
+Seat 3: VegasJonesy (1391 in chips) 
+Seat 4: Barellinof (2214 in chips) 
+Seat 5: AndreMDSilva (1218 in chips) 
+Seat 6: ursdari (1153 in chips) 
+Seat 7: KeinKönich (1272 in chips) 
+Seat 8: marcaurel11 (1395 in chips) 
+Seat 9: yokerone1 (2011 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+yokerone1: posts small blind 60
+gillou27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s Ah]
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: raises 1137 to 1257 and is all-in
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+Uncalled bet (1137) returned to KeinKönich
+KeinKönich collected 435 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: gillou27 (big blind) folded before Flop
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich collected (435)
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301448770: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:46:20 CET [2021/12/17 17:46:20 ET]
+Table '3322223377 2' 9-max Seat #9 is the button
+Seat 1: gillou27 (1414 in chips) 
+Seat 2: dapitanboy (1282 in chips) 
+Seat 3: VegasJonesy (1376 in chips) 
+Seat 4: Barellinof (2199 in chips) 
+Seat 5: AndreMDSilva (1203 in chips) 
+Seat 6: ursdari (1138 in chips) 
+Seat 7: KeinKönich (1572 in chips) 
+Seat 8: marcaurel11 (1380 in chips) 
+Seat 9: yokerone1 (1936 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+gillou27: posts small blind 60
+dapitanboy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 5h]
+VegasJonesy: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+Uncalled bet (60) returned to dapitanboy
+dapitanboy collected 255 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Seat 1: gillou27 (small blind) folded before Flop
+Seat 2: dapitanboy (big blind) collected (255)
+Seat 3: VegasJonesy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301454048: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:46:31 CET [2021/12/17 17:46:31 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (1339 in chips) 
+Seat 2: dapitanboy (1462 in chips) 
+Seat 3: VegasJonesy (1361 in chips) 
+Seat 4: Barellinof (2184 in chips) 
+Seat 5: AndreMDSilva (1188 in chips) 
+Seat 6: ursdari (1123 in chips) 
+Seat 7: KeinKönich (1557 in chips) 
+Seat 8: marcaurel11 (1365 in chips) 
+Seat 9: yokerone1 (1921 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+dapitanboy: posts small blind 60
+VegasJonesy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 6c]
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: raises 1230 to 1350 and is all-in
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Uncalled bet (1230) returned to marcaurel11
+marcaurel11 collected 435 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 2: dapitanboy (small blind) folded before Flop
+Seat 3: VegasJonesy (big blind) folded before Flop
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 collected (435)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301467044: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:47:00 CET [2021/12/17 17:47:00 ET]
+Table '3322223377 2' 9-max Seat #2 is the button
+Seat 1: gillou27 (1324 in chips) 
+Seat 2: dapitanboy (1387 in chips) 
+Seat 3: VegasJonesy (1226 in chips) 
+Seat 4: Barellinof (2169 in chips) 
+Seat 5: AndreMDSilva (1173 in chips) 
+Seat 6: ursdari (1108 in chips) 
+Seat 7: KeinKönich (1542 in chips) 
+Seat 8: marcaurel11 (1665 in chips) 
+Seat 9: yokerone1 (1906 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+VegasJonesy: posts small blind 60
+Barellinof: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d 3h]
+AndreMDSilva: raises 1038 to 1158 and is all-in
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: folds 
+Barellinof has timed out
+Barellinof: folds 
+Barellinof is sitting out
+Uncalled bet (1038) returned to AndreMDSilva
+AndreMDSilva collected 435 from pot
+AndreMDSilva: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy (button) folded before Flop (didn't bet)
+Seat 3: VegasJonesy (small blind) folded before Flop
+Seat 4: Barellinof (big blind) folded before Flop
+Seat 5: AndreMDSilva collected (435)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301482144: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:47:34 CET [2021/12/17 17:47:34 ET]
+Table '3322223377 2' 9-max Seat #3 is the button
+Seat 1: gillou27 (1309 in chips) 
+Seat 2: dapitanboy (1372 in chips) 
+Seat 3: VegasJonesy (1151 in chips) 
+Seat 4: Barellinof (2034 in chips) is sitting out
+Seat 5: AndreMDSilva (1473 in chips) 
+Seat 6: ursdari (1093 in chips) 
+Seat 7: KeinKönich (1527 in chips) 
+Seat 8: marcaurel11 (1650 in chips) 
+Seat 9: yokerone1 (1891 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+Barellinof: posts small blind 60
+AndreMDSilva: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 9s]
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: raises 1237 to 1357 and is all-in
+VegasJonesy: folds 
+Barellinof: folds 
+Barellinof has returned
+AndreMDSilva: folds 
+Uncalled bet (1237) returned to dapitanboy
+dapitanboy collected 435 from pot
+dapitanboy: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy collected (435)
+Seat 3: VegasJonesy (button) folded before Flop (didn't bet)
+Seat 4: Barellinof (small blind) folded before Flop
+Seat 5: AndreMDSilva (big blind) folded before Flop
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301493547: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:47:59 CET [2021/12/17 17:47:59 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (1294 in chips) 
+Seat 2: dapitanboy (1672 in chips) 
+Seat 3: VegasJonesy (1136 in chips) 
+Seat 4: Barellinof (1959 in chips) 
+Seat 5: AndreMDSilva (1338 in chips) 
+Seat 6: ursdari (1078 in chips) 
+Seat 7: KeinKönich (1512 in chips) 
+Seat 8: marcaurel11 (1635 in chips) 
+Seat 9: yokerone1 (1876 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+AndreMDSilva: posts small blind 60
+ursdari: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd 7s]
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: calls 120
+Barellinof: folds 
+AndreMDSilva: folds 
+ursdari: checks 
+*** FLOP *** [9d 5c 4d]
+ursdari: checks 
+VegasJonesy: bets 240
+ursdari: folds 
+Uncalled bet (240) returned to VegasJonesy
+VegasJonesy collected 435 from pot
+VegasJonesy: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [9d 5c 4d]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy collected (435)
+Seat 4: Barellinof (button) folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (small blind) folded before Flop
+Seat 6: ursdari (big blind) folded on the Flop
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301514526: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:48:47 CET [2021/12/17 17:48:47 ET]
+Table '3322223377 2' 9-max Seat #5 is the button
+Seat 1: gillou27 (1279 in chips) 
+Seat 2: dapitanboy (1657 in chips) 
+Seat 3: VegasJonesy (1436 in chips) 
+Seat 4: Barellinof (1944 in chips) 
+Seat 5: AndreMDSilva (1263 in chips) 
+Seat 6: ursdari (943 in chips) 
+Seat 7: KeinKönich (1497 in chips) 
+Seat 8: marcaurel11 (1620 in chips) 
+Seat 9: yokerone1 (1861 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+VegasJonesy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+ursdari: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 4s]
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+VegasJonesy: raises 120 to 240
+Barellinof has timed out
+Barellinof: folds 
+Barellinof is sitting out
+AndreMDSilva: folds 
+Barellinof has returned
+ursdari: folds 
+KeinKönich: raises 1242 to 1482 and is all-in
+VegasJonesy: calls 1181 and is all-in
+Uncalled bet (61) returned to KeinKönich
+*** FLOP *** [9c 3h 6h]
+*** TURN *** [9c 3h 6h] [8c]
+*** RIVER *** [9c 3h 6h 8c] [5s]
+*** SHOW DOWN ***
+KeinKönich: shows [4h 4s] (a pair of Fours)
+VegasJonesy: shows [Ad Jh] (high card Ace)
+KeinKönich collected 3037 from pot
+VegasJonesy finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 3037 | Rake 0 
+Board [9c 3h 6h 8c 5s]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 3: VegasJonesy showed [Ad Jh] and lost with high card Ace
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (button) folded before Flop (didn't bet)
+Seat 6: ursdari (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) showed [4h 4s] and won (3037) with a pair of Fours
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301532112: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:49:26 CET [2021/12/17 17:49:26 ET]
+Table '3322223377 2' 9-max Seat #6 is the button
+Seat 1: gillou27 (1264 in chips) 
+Seat 2: dapitanboy (1642 in chips) 
+Seat 4: Barellinof (1929 in chips) 
+Seat 5: AndreMDSilva (1248 in chips) 
+Seat 6: ursdari (868 in chips) 
+Seat 7: KeinKönich (3098 in chips) 
+Seat 8: marcaurel11 (1605 in chips) 
+Seat 9: yokerone1 (1846 in chips) 
+gillou27: posts the ante 15
+dapitanboy: posts the ante 15
+Barellinof: posts the ante 15
+AndreMDSilva: posts the ante 15
+ursdari: posts the ante 15
+KeinKönich: posts the ante 15
+marcaurel11: posts the ante 15
+yokerone1: posts the ante 15
+KeinKönich: posts small blind 60
+marcaurel11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 8h]
+yokerone1: folds 
+gillou27: folds 
+dapitanboy: folds 
+Barellinof: folds 
+AndreMDSilva: raises 1113 to 1233 and is all-in
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+Uncalled bet (1113) returned to AndreMDSilva
+AndreMDSilva collected 420 from pot
+AndreMDSilva: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva collected (420)
+Seat 6: ursdari (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: marcaurel11 (big blind) folded before Flop
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301547277: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:49:59 CET [2021/12/17 17:49:59 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (1249 in chips) 
+Seat 2: dapitanboy (1627 in chips) 
+Seat 4: Barellinof (1914 in chips) 
+Seat 5: AndreMDSilva (1533 in chips) 
+Seat 6: ursdari (853 in chips) 
+Seat 7: KeinKönich (3023 in chips) 
+Seat 8: marcaurel11 (1470 in chips) 
+Seat 9: yokerone1 (1831 in chips) 
+gillou27: posts the ante 20
+dapitanboy: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+ursdari: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+marcaurel11: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s 3c]
+gillou27: folds 
+dapitanboy: raises 1447 to 1607 and is all-in
+Barellinof: raises 287 to 1894 and is all-in
+AndreMDSilva: folds 
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+Uncalled bet (287) returned to Barellinof
+*** FLOP *** [Th 6c Ts]
+*** TURN *** [Th 6c Ts] [8h]
+*** RIVER *** [Th 6c Ts 8h] [2d]
+*** SHOW DOWN ***
+dapitanboy: shows [Qd Kd] (a pair of Tens)
+Barellinof: shows [8d 8c] (a full house, Eights full of Tens)
+Barellinof collected 3614 from pot
+dapitanboy finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 3614 | Rake 0 
+Board [Th 6c Ts 8h 2d]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: dapitanboy showed [Qd Kd] and lost with a pair of Tens
+Seat 4: Barellinof showed [8d 8c] and won (3614) with a full house, Eights full of Tens
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: marcaurel11 (small blind) folded before Flop
+Seat 9: yokerone1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301561605: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:50:32 CET [2021/12/17 17:50:32 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (1229 in chips) 
+Seat 4: Barellinof (3901 in chips) 
+Seat 5: AndreMDSilva (1513 in chips) 
+Seat 6: ursdari (833 in chips) 
+Seat 7: KeinKönich (3003 in chips) 
+Seat 8: marcaurel11 (1370 in chips) 
+Seat 9: yokerone1 (1651 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+ursdari: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+yokerone1: posts small blind 80
+gillou27: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac Jh]
+Barellinof: folds 
+AndreMDSilva: raises 1333 to 1493 and is all-in
+ursdari: folds 
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: calls 1049 and is all-in
+Uncalled bet (284) returned to AndreMDSilva
+*** FLOP *** [8c Js 5d]
+*** TURN *** [8c Js 5d] [7c]
+*** RIVER *** [8c Js 5d 7c] [6c]
+*** SHOW DOWN ***
+gillou27: shows [As Kh] (high card Ace)
+AndreMDSilva: shows [2d Ad] (high card Ace - lower kicker)
+gillou27 collected 2638 from pot
+*** SUMMARY ***
+Total pot 2638 | Rake 0 
+Board [8c Js 5d 7c 6c]
+Seat 1: gillou27 (big blind) showed [As Kh] and won (2638) with high card Ace
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva showed [2d Ad] and lost with high card Ace
+Seat 6: ursdari folded before Flop (didn't bet)
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301573020: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:50:57 CET [2021/12/17 17:50:57 ET]
+Table '3322223377 2' 9-max Seat #9 is the button
+Seat 1: gillou27 (2638 in chips) 
+Seat 4: Barellinof (3881 in chips) 
+Seat 5: AndreMDSilva (284 in chips) 
+Seat 6: ursdari (813 in chips) 
+Seat 7: KeinKönich (2983 in chips) 
+Seat 8: marcaurel11 (1350 in chips) 
+Seat 9: yokerone1 (1551 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+ursdari: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+gillou27: posts small blind 80
+Barellinof: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 5s]
+AndreMDSilva: folds 
+ursdari: raises 633 to 793 and is all-in
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+Barellinof: calls 633
+*** FLOP *** [Qs Ts Td]
+*** TURN *** [Qs Ts Td] [9s]
+*** RIVER *** [Qs Ts Td 9s] [7s]
+*** SHOW DOWN ***
+Barellinof: shows [Kc Kh] (two pair, Kings and Tens)
+ursdari: shows [Qd 7c] (two pair, Queens and Tens)
+Barellinof collected 1806 from pot
+ursdari finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 1806 | Rake 0 
+Board [Qs Ts Td 9s 7s]
+Seat 1: gillou27 (small blind) folded before Flop
+Seat 4: Barellinof (big blind) showed [Kc Kh] and won (1806) with two pair, Kings and Tens
+Seat 5: AndreMDSilva folded before Flop (didn't bet)
+Seat 6: ursdari showed [Qd 7c] and lost with two pair, Queens and Tens
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301582808: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:51:19 CET [2021/12/17 17:51:19 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (2538 in chips) 
+Seat 4: Barellinof (4874 in chips) 
+Seat 5: AndreMDSilva (264 in chips) 
+Seat 7: KeinKönich (2963 in chips) 
+Seat 8: marcaurel11 (1330 in chips) 
+Seat 9: yokerone1 (1531 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+Barellinof: posts small blind 80
+AndreMDSilva: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 6c]
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+Barellinof: raises 160 to 320
+AndreMDSilva: calls 84 and is all-in
+Uncalled bet (76) returned to Barellinof
+*** FLOP *** [6h 2h Td]
+*** TURN *** [6h 2h Td] [8s]
+*** RIVER *** [6h 2h Td 8s] [3d]
+*** SHOW DOWN ***
+Barellinof: shows [3c Kc] (a pair of Threes)
+AndreMDSilva: shows [8h 9c] (a pair of Eights)
+AndreMDSilva collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | Rake 0 
+Board [6h 2h Td 8s 3d]
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 4: Barellinof (small blind) showed [3c Kc] and lost with a pair of Threes
+Seat 5: AndreMDSilva (big blind) showed [8h 9c] and won (608) with a pair of Eights
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301593129: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:51:42 CET [2021/12/17 17:51:42 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (2518 in chips) 
+Seat 4: Barellinof (4610 in chips) 
+Seat 5: AndreMDSilva (608 in chips) 
+Seat 7: KeinKönich (2943 in chips) 
+Seat 8: marcaurel11 (1310 in chips) 
+Seat 9: yokerone1 (1511 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+AndreMDSilva: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d Td]
+marcaurel11: raises 1130 to 1290 and is all-in
+yokerone1: folds 
+gillou27: folds 
+Barellinof: folds 
+AndreMDSilva: folds 
+KeinKönich: folds 
+Uncalled bet (1130) returned to marcaurel11
+marcaurel11 collected 520 from pot
+marcaurel11: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 4: Barellinof (button) folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: marcaurel11 collected (520)
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301603546: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:52:05 CET [2021/12/17 17:52:05 ET]
+Table '3322223377 2' 9-max Seat #5 is the button
+Seat 1: gillou27 (2498 in chips) 
+Seat 2: speers782 (2484 in chips) 
+Seat 4: Barellinof (4590 in chips) 
+Seat 5: AndreMDSilva (508 in chips) 
+Seat 7: KeinKönich (2763 in chips) 
+Seat 8: marcaurel11 (1650 in chips) 
+Seat 9: yokerone1 (1491 in chips) 
+gillou27: posts the ante 20
+speers782: posts the ante 20
+Barellinof: posts the ante 20
+AndreMDSilva: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+KeinKönich: posts small blind 80
+marcaurel11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s Td]
+yokerone1: folds 
+gillou27: folds 
+speers782 has timed out
+speers782: folds 
+speers782 is sitting out
+Barellinof: folds 
+AndreMDSilva: raises 328 to 488 and is all-in
+KeinKönich: folds 
+marcaurel11: calls 328
+*** FLOP *** [7s 4c 3c]
+*** TURN *** [7s 4c 3c] [As]
+speers782 has returned
+*** RIVER *** [7s 4c 3c As] [7h]
+*** SHOW DOWN ***
+marcaurel11: shows [8s 4h] (two pair, Sevens and Fours)
+AndreMDSilva: shows [Kd 6c] (a pair of Sevens)
+marcaurel11 collected 1196 from pot
+AndreMDSilva finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1196 | Rake 0 
+Board [7s 4c 3c As 7h]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: speers782 folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 5: AndreMDSilva (button) showed [Kd 6c] and lost with a pair of Sevens
+Seat 7: KeinKönich (small blind) folded before Flop
+Seat 8: marcaurel11 (big blind) showed [8s 4h] and won (1196) with two pair, Sevens and Fours
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301622637: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:52:47 CET [2021/12/17 17:52:47 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (2478 in chips) 
+Seat 2: speers782 (2464 in chips) 
+Seat 4: Barellinof (4570 in chips) 
+Seat 7: KeinKönich (2663 in chips) 
+Seat 8: marcaurel11 (2338 in chips) 
+Seat 9: yokerone1 (1471 in chips) 
+gillou27: posts the ante 20
+speers782: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+marcaurel11: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s Qs]
+gillou27: folds 
+speers782: folds 
+Barellinof: raises 177 to 337
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: raises 1114 to 1451 and is all-in
+Barellinof: folds 
+Uncalled bet (1114) returned to yokerone1
+yokerone1 collected 874 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 874 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 2: speers782 folded before Flop (didn't bet)
+Seat 4: Barellinof folded before Flop
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: marcaurel11 (small blind) folded before Flop
+Seat 9: yokerone1 (big blind) collected (874)
+
+
+
+PokerStars Hand #232301633216: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:53:11 CET [2021/12/17 17:53:11 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (2458 in chips) 
+Seat 2: speers782 (2444 in chips) 
+Seat 4: Barellinof (4213 in chips) 
+Seat 7: KeinKönich (2643 in chips) 
+Seat 8: marcaurel11 (2238 in chips) 
+Seat 9: yokerone1 (1988 in chips) 
+gillou27: posts the ante 20
+speers782: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+yokerone1: posts small blind 80
+gillou27: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Jc]
+speers782: raises 160 to 320
+Barellinof: raises 3873 to 4193 and is all-in
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: folds 
+speers782: calls 2104 and is all-in
+Uncalled bet (1769) returned to Barellinof
+*** FLOP *** [9h 2c 3c]
+*** TURN *** [9h 2c 3c] [Ah]
+*** RIVER *** [9h 2c 3c Ah] [As]
+*** SHOW DOWN ***
+speers782: shows [Ac Jd] (three of a kind, Aces)
+Barellinof: shows [Ks Ad] (three of a kind, Aces - King kicker)
+Barellinof collected 5208 from pot
+speers782 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 5208 | Rake 0 
+Board [9h 2c 3c Ah As]
+Seat 1: gillou27 (big blind) folded before Flop
+Seat 2: speers782 showed [Ac Jd] and lost with three of a kind, Aces
+Seat 4: Barellinof showed [Ks Ad] and won (5208) with three of a kind, Aces
+Seat 7: KeinKönich folded before Flop (didn't bet)
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301643723: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:53:35 CET [2021/12/17 17:53:35 ET]
+Table '3322223377 2' 9-max Seat #9 is the button
+Seat 1: gillou27 (2278 in chips) 
+Seat 4: Barellinof (6977 in chips) 
+Seat 7: KeinKönich (2623 in chips) 
+Seat 8: marcaurel11 (2218 in chips) 
+Seat 9: yokerone1 (1888 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+gillou27: posts small blind 80
+Barellinof: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 7h]
+KeinKönich: raises 160 to 320
+marcaurel11: folds 
+yokerone1: folds 
+gillou27: raises 1938 to 2258 and is all-in
+Barellinof: folds 
+KeinKönich: folds 
+Uncalled bet (1938) returned to gillou27
+gillou27 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: gillou27 (small blind) collected (900)
+Seat 4: Barellinof (big blind) folded before Flop
+Seat 7: KeinKönich folded before Flop
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301651445: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:53:52 CET [2021/12/17 17:53:52 ET]
+Table '3322223377 2' 9-max Seat #1 is the button
+Seat 1: gillou27 (2838 in chips) 
+Seat 4: Barellinof (6797 in chips) 
+Seat 7: KeinKönich (2283 in chips) 
+Seat 8: marcaurel11 (2198 in chips) 
+Seat 9: yokerone1 (1868 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+Barellinof: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh Jd]
+marcaurel11: folds 
+yokerone1: raises 1688 to 1848 and is all-in
+gillou27: folds 
+Barellinof: folds 
+KeinKönich: folds 
+Uncalled bet (1688) returned to yokerone1
+yokerone1 collected 500 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: gillou27 (button) folded before Flop (didn't bet)
+Seat 4: Barellinof (small blind) folded before Flop
+Seat 7: KeinKönich (big blind) folded before Flop
+Seat 8: marcaurel11 folded before Flop (didn't bet)
+Seat 9: yokerone1 collected (500)
+
+
+
+PokerStars Hand #232301661133: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:54:14 CET [2021/12/17 17:54:14 ET]
+Table '3322223377 2' 9-max Seat #4 is the button
+Seat 1: gillou27 (2818 in chips) 
+Seat 4: Barellinof (6697 in chips) 
+Seat 7: KeinKönich (2103 in chips) 
+Seat 8: marcaurel11 (2178 in chips) 
+Seat 9: yokerone1 (2188 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+KeinKönich: posts small blind 80
+marcaurel11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc Tc]
+yokerone1: folds 
+gillou27: folds 
+Barellinof: folds 
+KeinKönich: raises 1923 to 2083 and is all-in
+marcaurel11: folds 
+Uncalled bet (1923) returned to KeinKönich
+KeinKönich collected 420 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 4: Barellinof (button) folded before Flop (didn't bet)
+Seat 7: KeinKönich (small blind) collected (420)
+Seat 8: marcaurel11 (big blind) folded before Flop
+Seat 9: yokerone1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301665785: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:54:25 CET [2021/12/17 17:54:25 ET]
+Table '3322223377 2' 9-max Seat #7 is the button
+Seat 1: gillou27 (2798 in chips) 
+Seat 4: Barellinof (6677 in chips) 
+Seat 7: KeinKönich (2343 in chips) 
+Seat 8: marcaurel11 (1998 in chips) 
+Seat 9: yokerone1 (2168 in chips) 
+gillou27: posts the ante 20
+Barellinof: posts the ante 20
+KeinKönich: posts the ante 20
+marcaurel11: posts the ante 20
+yokerone1: posts the ante 20
+marcaurel11: posts small blind 80
+yokerone1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Ad]
+gillou27: folds 
+Barellinof: raises 177 to 337
+KeinKönich: folds 
+marcaurel11: folds 
+yokerone1: calls 177
+*** FLOP *** [Ac Qs 8h]
+yokerone1: checks 
+Barellinof: bets 225
+yokerone1: raises 415 to 640
+Barellinof: folds 
+Uncalled bet (415) returned to yokerone1
+yokerone1 collected 1304 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1304 | Rake 0 
+Board [Ac Qs 8h]
+Seat 1: gillou27 folded before Flop (didn't bet)
+Seat 4: Barellinof folded on the Flop
+Seat 7: KeinKönich (button) folded before Flop (didn't bet)
+Seat 8: marcaurel11 (small blind) folded before Flop
+Seat 9: yokerone1 (big blind) collected (1304)
+
+
+
+PokerStars Hand #232301813395: Tournament #3322223377, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/18 0:00:57 CET [2021/12/17 18:00:57 ET]
+Table '3322223377 2' 9-max Seat #8 is the button
+Seat 1: gillou27 (2778 in chips) 
+Seat 4: Barellinof (6095 in chips) 
+Seat 7: KeinKönich (2323 in chips) 
+Seat 8: marcaurel11 (1898 in chips) 
+Seat 9: yokerone1 (2890 in chips) 
+gillou27: posts the ante 25
+Barellinof: posts the ante 25
+KeinKönich: posts the ante 25
+marcaurel11: posts the ante 25
+yokerone1: posts the ante 25
+yokerone1: posts small blind 100
+gillou27: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah 9s]
+Barellinof: folds 
+KeinKönich: raises 2098 to 2298 and is all-in
+marcaurel11: folds 
+yokerone1: raises 567 to 2865 and is all-in
+gillou27: folds 
+Uncalled bet (567) returned to yokerone1
+*** FLOP *** [7c Qc 4d]
+*** TURN *** [7c Qc 4d] [4c]
+*** RIVER *** [7c Qc 4d 4c] [6h]
+*** SHOW DOWN ***
+yokerone1: shows [Kd Ad] (a pair of Fours)
+KeinKönich: shows [Ah 9s] (a pair of Fours - lower kicker)
+yokerone1 collected 4921 from pot
+*** SUMMARY ***
+Total pot 4921 | Rake 0 
+Board [7c Qc 4d 4c 6h]
+Seat 1: gillou27 (big blind) folded before Flop
+Seat 4: Barellinof folded before Flop (didn't bet)
+Seat 7: KeinKönich showed [Ah 9s] and lost with a pair of Fours
+Seat 8: marcaurel11 (button) folded before Flop (didn't bet)
+Seat 9: yokerone1 (small blind) showed [Kd Ad] and won (4921) with a pair of Fours
+
+
+

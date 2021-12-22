@@ -1,0 +1,225 @@
+ï»¿PokerStars Hand #232275805983: Tournament #3321621633, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:15:33 CET [2021/12/16 18:15:33 ET]
+Table '3321621633 2' 9-max Seat #1 is the button
+Seat 1: KeinKönich (1500 in chips) 
+Seat 2: leledoni (1500 in chips) 
+Seat 3: AAGamerAA (1500 in chips) 
+Seat 4: pedriim879 (1500 in chips) 
+Seat 5: Chicano96 (1500 in chips) 
+Seat 6: Elitrips9 (1500 in chips) 
+Seat 7: wojtaszip (1500 in chips) 
+Seat 8: ShanesDisplaced (1500 in chips) 
+Seat 9: mmadn247365 (1500 in chips) 
+KeinKönich: posts the ante 3
+leledoni: posts the ante 3
+AAGamerAA: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Elitrips9: posts the ante 3
+wojtaszip: posts the ante 3
+ShanesDisplaced: posts the ante 3
+mmadn247365: posts the ante 3
+leledoni: posts small blind 10
+AAGamerAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c Js]
+pedriim879: folds 
+Chicano96: folds 
+Elitrips9: folds 
+wojtaszip: raises 30 to 50
+ShanesDisplaced: folds 
+mmadn247365: folds 
+KeinKönich: folds 
+leledoni: folds 
+AAGamerAA: folds 
+Uncalled bet (30) returned to wojtaszip
+wojtaszip collected 77 from pot
+wojtaszip: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: KeinKönich (button) folded before Flop (didn't bet)
+Seat 2: leledoni (small blind) folded before Flop
+Seat 3: AAGamerAA (big blind) folded before Flop
+Seat 4: pedriim879 folded before Flop (didn't bet)
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: Elitrips9 folded before Flop (didn't bet)
+Seat 7: wojtaszip collected (77)
+Seat 8: ShanesDisplaced folded before Flop (didn't bet)
+Seat 9: mmadn247365 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275821132: Tournament #3321621633, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:16:11 CET [2021/12/16 18:16:11 ET]
+Table '3321621633 2' 9-max Seat #2 is the button
+Seat 1: KeinKönich (1497 in chips) 
+Seat 2: leledoni (1487 in chips) 
+Seat 3: AAGamerAA (1477 in chips) 
+Seat 4: pedriim879 (1497 in chips) 
+Seat 5: Chicano96 (1497 in chips) 
+Seat 6: Elitrips9 (1497 in chips) 
+Seat 7: wojtaszip (1554 in chips) 
+Seat 8: ShanesDisplaced (1497 in chips) 
+Seat 9: mmadn247365 (1497 in chips) 
+KeinKönich: posts the ante 3
+leledoni: posts the ante 3
+AAGamerAA: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Elitrips9: posts the ante 3
+wojtaszip: posts the ante 3
+ShanesDisplaced: posts the ante 3
+mmadn247365: posts the ante 3
+AAGamerAA: posts small blind 10
+pedriim879: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh 7s]
+Chicano96: folds 
+Elitrips9: folds 
+wojtaszip: folds 
+ShanesDisplaced: raises 26 to 46
+mmadn247365: raises 154 to 200
+KeinKönich: folds 
+leledoni: folds 
+AAGamerAA: folds 
+pedriim879: folds 
+ShanesDisplaced: calls 154
+*** FLOP *** [Qd 3c 8h]
+ShanesDisplaced: checks 
+mmadn247365: bets 229
+ShanesDisplaced: folds 
+Uncalled bet (229) returned to mmadn247365
+mmadn247365 collected 457 from pot
+mmadn247365: doesn't show hand 
+*** SUMMARY ***
+Total pot 457 | Rake 0 
+Board [Qd 3c 8h]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: leledoni (button) folded before Flop (didn't bet)
+Seat 3: AAGamerAA (small blind) folded before Flop
+Seat 4: pedriim879 (big blind) folded before Flop
+Seat 5: Chicano96 folded before Flop (didn't bet)
+Seat 6: Elitrips9 folded before Flop (didn't bet)
+Seat 7: wojtaszip folded before Flop (didn't bet)
+Seat 8: ShanesDisplaced folded on the Flop
+Seat 9: mmadn247365 collected (457)
+
+
+
+PokerStars Hand #232275859457: Tournament #3321621633, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:17:39 CET [2021/12/16 18:17:39 ET]
+Table '3321621633 2' 9-max Seat #3 is the button
+Seat 1: KeinKönich (1494 in chips) 
+Seat 2: leledoni (1484 in chips) 
+Seat 3: AAGamerAA (1464 in chips) 
+Seat 4: pedriim879 (1474 in chips) 
+Seat 5: Chicano96 (1494 in chips) 
+Seat 6: Elitrips9 (1494 in chips) 
+Seat 7: wojtaszip (1551 in chips) 
+Seat 8: ShanesDisplaced (1294 in chips) 
+Seat 9: mmadn247365 (1751 in chips) 
+KeinKönich: posts the ante 3
+leledoni: posts the ante 3
+AAGamerAA: posts the ante 3
+pedriim879: posts the ante 3
+Chicano96: posts the ante 3
+Elitrips9: posts the ante 3
+wojtaszip: posts the ante 3
+ShanesDisplaced: posts the ante 3
+mmadn247365: posts the ante 3
+pedriim879: posts small blind 10
+Chicano96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h 7c]
+Elitrips9: folds 
+wojtaszip: raises 30 to 50
+ShanesDisplaced: folds 
+mmadn247365: folds 
+KeinKönich: folds 
+leledoni: folds 
+AAGamerAA: folds 
+pedriim879: raises 150 to 200
+Chicano96: folds 
+wojtaszip: calls 150
+*** FLOP *** [7d 8d 2d]
+pedriim879: bets 260
+wojtaszip: calls 260
+*** TURN *** [7d 8d 2d] [Qc]
+pedriim879: bets 599
+wojtaszip: raises 489 to 1088 and is all-in
+pedriim879: calls 412 and is all-in
+Uncalled bet (77) returned to wojtaszip
+*** RIVER *** [7d 8d 2d Qc] [As]
+*** SHOW DOWN ***
+pedriim879: shows [Qh Qd] (three of a kind, Queens)
+wojtaszip: shows [Td Ad] (a flush, Ace high)
+wojtaszip collected 2989 from pot
+pedriim879 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 2989 | Rake 0 
+Board [7d 8d 2d Qc As]
+Seat 1: KeinKönich folded before Flop (didn't bet)
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: AAGamerAA (button) folded before Flop (didn't bet)
+Seat 4: pedriim879 (small blind) showed [Qh Qd] and lost with three of a kind, Queens
+Seat 5: Chicano96 (big blind) folded before Flop
+Seat 6: Elitrips9 folded before Flop (didn't bet)
+Seat 7: wojtaszip showed [Td Ad] and won (2989) with a flush, Ace high
+Seat 8: ShanesDisplaced folded before Flop (didn't bet)
+Seat 9: mmadn247365 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232275886400: Tournament #3321621633, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 0:18:47 CET [2021/12/16 18:18:47 ET]
+Table '3321621633 2' 9-max Seat #5 is the button
+Seat 1: KeinKönich (1491 in chips) 
+Seat 2: leledoni (1481 in chips) 
+Seat 3: AAGamerAA (1461 in chips) 
+Seat 5: Chicano96 (1471 in chips) 
+Seat 6: Elitrips9 (1491 in chips) 
+Seat 7: wojtaszip (3066 in chips) 
+Seat 8: ShanesDisplaced (1291 in chips) 
+Seat 9: mmadn247365 (1748 in chips) 
+KeinKönich: posts the ante 3
+leledoni: posts the ante 3
+AAGamerAA: posts the ante 3
+Chicano96: posts the ante 3
+Elitrips9: posts the ante 3
+wojtaszip: posts the ante 3
+ShanesDisplaced: posts the ante 3
+mmadn247365: posts the ante 3
+Elitrips9: posts small blind 10
+wojtaszip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kh Kd]
+ShanesDisplaced: folds 
+mmadn247365: folds 
+KeinKönich: raises 40 to 60
+leledoni: folds 
+AAGamerAA: folds 
+Chicano96: calls 60
+Elitrips9: calls 50
+wojtaszip: raises 270 to 330
+KeinKönich: raises 1158 to 1488 and is all-in
+Chicano96: folds 
+Elitrips9: folds 
+wojtaszip: calls 1158
+*** FLOP *** [Jc Qd 3h]
+*** TURN *** [Jc Qd 3h] [5c]
+*** RIVER *** [Jc Qd 3h 5c] [8h]
+*** SHOW DOWN ***
+wojtaszip: shows [Ah Ac] (a pair of Aces)
+KeinKönich: shows [Kh Kd] (a pair of Kings)
+wojtaszip collected 3120 from pot
+KeinKönich finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [Jc Qd 3h 5c 8h]
+Seat 1: KeinKönich showed [Kh Kd] and lost with a pair of Kings
+Seat 2: leledoni folded before Flop (didn't bet)
+Seat 3: AAGamerAA folded before Flop (didn't bet)
+Seat 5: Chicano96 (button) folded before Flop
+Seat 6: Elitrips9 (small blind) folded before Flop
+Seat 7: wojtaszip (big blind) showed [Ah Ac] and won (3120) with a pair of Aces
+Seat 8: ShanesDisplaced folded before Flop (didn't bet)
+Seat 9: mmadn247365 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3576 @@
+ï»¿PokerStars Hand #232300044805: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 22:58:45 CET [2021/12/17 16:58:45 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: chrischi115 (1500 in chips) 
+Seat 2: yokerone1 (1500 in chips) 
+Seat 3: xzotyaxx (1500 in chips) 
+Seat 4: goiano89 (1500 in chips) 
+Seat 5: Marcelo Leoni (1500 in chips) 
+Seat 6: IWannaR0ck (1500 in chips) 
+Seat 7: bogess (1500 in chips) 
+Seat 8: SnowTheLow (1500 in chips) 
+Seat 9: KeinKönich (1500 in chips) 
+chrischi115: posts the ante 3
+yokerone1: posts the ante 3
+xzotyaxx: posts the ante 3
+goiano89: posts the ante 3
+Marcelo Leoni: posts the ante 3
+IWannaR0ck: posts the ante 3
+bogess: posts the ante 3
+SnowTheLow: posts the ante 3
+KeinKönich: posts the ante 3
+yokerone1: posts small blind 10
+xzotyaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qd Qs]
+goiano89: folds 
+Marcelo Leoni: calls 20
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: raises 50 to 70
+chrischi115: calls 70
+yokerone1: folds 
+xzotyaxx: calls 50
+Marcelo Leoni: folds 
+*** FLOP *** [Tc 7h Jd]
+xzotyaxx: checks 
+KeinKönich: bets 150
+chrischi115: calls 150
+xzotyaxx: calls 150
+*** TURN *** [Tc 7h Jd] [3d]
+xzotyaxx: checks 
+KeinKönich: bets 350
+chrischi115: folds 
+xzotyaxx: folds 
+Uncalled bet (350) returned to KeinKönich
+KeinKönich collected 717 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 717 | Rake 0 
+Board [Tc 7h Jd 3d]
+Seat 1: chrischi115 (button) folded on the Turn
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded on the Turn
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Marcelo Leoni folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (717)
+
+
+
+PokerStars Hand #232300080311: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:00:18 CET [2021/12/17 17:00:18 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: chrischi115 (1277 in chips) 
+Seat 2: yokerone1 (1487 in chips) 
+Seat 3: xzotyaxx (1277 in chips) 
+Seat 4: goiano89 (1497 in chips) 
+Seat 5: Marcelo Leoni (1477 in chips) 
+Seat 6: IWannaR0ck (1497 in chips) 
+Seat 7: bogess (1497 in chips) 
+Seat 8: SnowTheLow (1497 in chips) 
+Seat 9: KeinKönich (1994 in chips) 
+chrischi115: posts the ante 3
+yokerone1: posts the ante 3
+xzotyaxx: posts the ante 3
+goiano89: posts the ante 3
+Marcelo Leoni: posts the ante 3
+IWannaR0ck: posts the ante 3
+bogess: posts the ante 3
+SnowTheLow: posts the ante 3
+KeinKönich: posts the ante 3
+xzotyaxx: posts small blind 10
+goiano89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 3h]
+Marcelo Leoni: calls 20
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+chrischi115: raises 20 to 40
+yokerone1: calls 40
+xzotyaxx: folds 
+goiano89: folds 
+Marcelo Leoni: calls 20
+*** FLOP *** [4c Qd 7c]
+Marcelo Leoni: checks 
+chrischi115: bets 40
+yokerone1: folds 
+Marcelo Leoni: calls 40
+*** TURN *** [4c Qd 7c] [5d]
+Marcelo Leoni: checks 
+chrischi115: bets 40
+Marcelo Leoni: calls 40
+*** RIVER *** [4c Qd 7c 5d] [8s]
+Marcelo Leoni: checks 
+chrischi115: bets 60
+Marcelo Leoni: calls 60
+*** SHOW DOWN ***
+chrischi115: shows [6c 6d] (a straight, Four to Eight)
+Marcelo Leoni: mucks hand 
+chrischi115 collected 457 from pot
+*** SUMMARY ***
+Total pot 457 | Rake 0 
+Board [4c Qd 7c 5d 8s]
+Seat 1: chrischi115 showed [6c 6d] and won (457) with a straight, Four to Eight
+Seat 2: yokerone1 (button) folded on the Flop
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 5: Marcelo Leoni mucked [9d 9c]
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300106227: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:01:19 CET [2021/12/17 17:01:19 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: chrischi115 (1551 in chips) 
+Seat 2: yokerone1 (1444 in chips) 
+Seat 3: xzotyaxx (1264 in chips) 
+Seat 4: goiano89 (1474 in chips) 
+Seat 5: Marcelo Leoni (1294 in chips) 
+Seat 6: IWannaR0ck (1494 in chips) 
+Seat 7: bogess (1494 in chips) 
+Seat 8: SnowTheLow (1494 in chips) 
+Seat 9: KeinKönich (1991 in chips) 
+chrischi115: posts the ante 3
+yokerone1: posts the ante 3
+xzotyaxx: posts the ante 3
+goiano89: posts the ante 3
+Marcelo Leoni: posts the ante 3
+IWannaR0ck: posts the ante 3
+bogess: posts the ante 3
+SnowTheLow: posts the ante 3
+KeinKönich: posts the ante 3
+goiano89: posts small blind 10
+Marcelo Leoni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qc 4s]
+IWannaR0ck: raises 30 to 50
+bogess: folds 
+SnowTheLow: raises 147 to 197
+KeinKönich: folds 
+chrischi115: calls 197
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Marcelo Leoni: folds 
+IWannaR0ck: calls 147
+*** FLOP *** [Ks Kh 7d]
+IWannaR0ck: checks 
+SnowTheLow: bets 188
+chrischi115: raises 1163 to 1351 and is all-in
+IWannaR0ck: folds 
+SnowTheLow: calls 1106 and is all-in
+Uncalled bet (57) returned to chrischi115
+*** TURN *** [Ks Kh 7d] [4c]
+*** RIVER *** [Ks Kh 7d 4c] [3s]
+*** SHOW DOWN ***
+SnowTheLow: shows [Js Jd] (two pair, Kings and Jacks)
+chrischi115: shows [9d 9h] (two pair, Kings and Nines)
+SnowTheLow collected 3236 from pot
+*** SUMMARY ***
+Total pot 3236 | Rake 0 
+Board [Ks Kh 7d 4c 3s]
+Seat 1: chrischi115 showed [9d 9h] and lost with two pair, Kings and Nines
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 5: Marcelo Leoni (big blind) folded before Flop
+Seat 6: IWannaR0ck folded on the Flop
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow showed [Js Jd] and won (3236) with two pair, Kings and Jacks
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300153490: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:02:40 CET [2021/12/17 17:02:40 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: chrischi115 (57 in chips) 
+Seat 2: yokerone1 (1441 in chips) 
+Seat 3: xzotyaxx (1261 in chips) 
+Seat 4: goiano89 (1461 in chips) 
+Seat 5: Marcelo Leoni (1271 in chips) 
+Seat 6: IWannaR0ck (1294 in chips) 
+Seat 7: bogess (1491 in chips) 
+Seat 8: SnowTheLow (3236 in chips) 
+Seat 9: KeinKönich (1988 in chips) 
+chrischi115: posts the ante 3
+yokerone1: posts the ante 3
+xzotyaxx: posts the ante 3
+goiano89: posts the ante 3
+Marcelo Leoni: posts the ante 3
+IWannaR0ck: posts the ante 3
+bogess: posts the ante 3
+SnowTheLow: posts the ante 3
+KeinKönich: posts the ante 3
+Marcelo Leoni: posts small blind 10
+IWannaR0ck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 7d]
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: raises 40 to 60
+chrischi115: calls 54 and is all-in
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Marcelo Leoni: folds 
+IWannaR0ck: folds 
+Uncalled bet (6) returned to KeinKönich
+*** FLOP *** [Qs 9s 2h]
+*** TURN *** [Qs 9s 2h] [5h]
+*** RIVER *** [Qs 9s 2h 5h] [3s]
+*** SHOW DOWN ***
+KeinKönich: shows [5d 7d] (a pair of Fives)
+chrischi115: shows [6c Jh] (high card Queen)
+KeinKönich collected 165 from pot
+chrischi115 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [Qs 9s 2h 5h 3s]
+Seat 1: chrischi115 showed [6c Jh] and lost with high card Queen
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: Marcelo Leoni (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich showed [5d 7d] and won (165) with a pair of Fives
+
+
+
+PokerStars Hand #232300167855: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level I (10/20) - 2021/12/17 23:03:09 CET [2021/12/17 17:03:09 ET]
+Table '3322205988 2' 9-max Seat #5 is the button
+Seat 2: yokerone1 (1438 in chips) 
+Seat 3: xzotyaxx (1258 in chips) 
+Seat 4: goiano89 (1458 in chips) 
+Seat 5: Marcelo Leoni (1258 in chips) 
+Seat 6: IWannaR0ck (1271 in chips) 
+Seat 7: bogess (1488 in chips) 
+Seat 8: SnowTheLow (3233 in chips) 
+Seat 9: KeinKönich (2096 in chips) 
+yokerone1: posts the ante 3
+xzotyaxx: posts the ante 3
+goiano89: posts the ante 3
+Marcelo Leoni: posts the ante 3
+IWannaR0ck: posts the ante 3
+bogess: posts the ante 3
+SnowTheLow: posts the ante 3
+KeinKönich: posts the ante 3
+IWannaR0ck: posts small blind 10
+bogess: posts big blind 20
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts Kd]
+SnowTheLow: folds 
+KeinKönich: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Marcelo Leoni: calls 20
+IWannaR0ck: folds 
+bogess: checks 
+*** FLOP *** [Ac Js 4h]
+bogess: bets 60
+Marcelo Leoni: folds 
+Uncalled bet (60) returned to bogess
+bogess collected 74 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Board [Ac Js 4h]
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Marcelo Leoni (button) folded on the Flop
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 7: bogess (big blind) collected (74)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300189781: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:03:53 CET [2021/12/17 17:03:53 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 2: yokerone1 (1435 in chips) 
+Seat 3: xzotyaxx (1255 in chips) 
+Seat 4: goiano89 (1455 in chips) 
+Seat 5: Marcelo Leoni (1235 in chips) 
+Seat 6: IWannaR0ck (1258 in chips) 
+Seat 7: bogess (1539 in chips) 
+Seat 8: SnowTheLow (3230 in chips) 
+Seat 9: KeinKönich (2093 in chips) 
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+Marcelo Leoni: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+bogess: posts small blind 15
+SnowTheLow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 9d]
+KeinKönich: raises 45 to 75
+yokerone1: calls 75
+xzotyaxx: folds 
+goiano89: folds 
+Marcelo Leoni: calls 75
+IWannaR0ck: raises 1179 to 1254 and is all-in
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+yokerone1: folds 
+Marcelo Leoni: calls 1156 and is all-in
+Uncalled bet (23) returned to IWannaR0ck
+*** FLOP *** [8c 3c Kh]
+*** TURN *** [8c 3c Kh] [3h]
+*** RIVER *** [8c 3c Kh 3h] [4d]
+*** SHOW DOWN ***
+Marcelo Leoni: shows [Ad Qh] (a pair of Threes)
+IWannaR0ck: shows [Ah Ks] (two pair, Kings and Threes)
+IWannaR0ck collected 2689 from pot
+Marcelo Leoni finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 2689 | Rake 0 
+Board [8c 3c Kh 3h 4d]
+Seat 2: yokerone1 folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: Marcelo Leoni showed [Ad Qh] and lost with a pair of Threes
+Seat 6: IWannaR0ck (button) showed [Ah Ks] and won (2689) with two pair, Kings and Threes
+Seat 7: bogess (small blind) folded before Flop
+Seat 8: SnowTheLow (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop
+
+
+
+PokerStars Hand #232300211253: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:04:35 CET [2021/12/17 17:04:35 ET]
+Table '3322205988 2' 9-max Seat #7 is the button
+Seat 2: yokerone1 (1356 in chips) 
+Seat 3: xzotyaxx (1251 in chips) 
+Seat 4: goiano89 (1451 in chips) 
+Seat 6: IWannaR0ck (2712 in chips) 
+Seat 7: bogess (1520 in chips) 
+Seat 8: SnowTheLow (3196 in chips) 
+Seat 9: KeinKönich (2014 in chips) 
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+SnowTheLow: posts small blind 15
+KeinKönich: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 2c]
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 40 to 70
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: calls 40
+*** FLOP *** [As 7c Js]
+KeinKönich: checks 
+IWannaR0ck: bets 122
+KeinKönich: folds 
+Uncalled bet (122) returned to IWannaR0ck
+IWannaR0ck collected 183 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 183 | Rake 0 
+Board [As 7c Js]
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (183)
+Seat 7: bogess (button) folded before Flop (didn't bet)
+Seat 8: SnowTheLow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded on the Flop
+
+
+
+PokerStars Hand #232300232562: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:05:18 CET [2021/12/17 17:05:18 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (1418 in chips) 
+Seat 2: yokerone1 (1352 in chips) 
+Seat 3: xzotyaxx (1247 in chips) 
+Seat 4: goiano89 (1447 in chips) 
+Seat 6: IWannaR0ck (2821 in chips) 
+Seat 7: bogess (1516 in chips) 
+Seat 8: SnowTheLow (3177 in chips) 
+Seat 9: KeinKönich (1940 in chips) 
+lucasgomes70: posts the ante 4
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+KeinKönich: posts small blind 15
+lucasgomes70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d Jd]
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 40 to 70
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: calls 40
+*** FLOP *** [Kc 8d Qc]
+lucasgomes70: checks 
+IWannaR0ck: checks 
+*** TURN *** [Kc 8d Qc] [Tc]
+lucasgomes70: bets 75
+IWannaR0ck: calls 75
+*** RIVER *** [Kc 8d Qc Tc] [Ks]
+lucasgomes70: checks 
+IWannaR0ck: bets 111
+lucasgomes70: folds 
+Uncalled bet (111) returned to IWannaR0ck
+IWannaR0ck collected 337 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [Kc 8d Qc Tc Ks]
+Seat 1: lucasgomes70 (big blind) folded on the River
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (337)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300266380: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:06:25 CET [2021/12/17 17:06:25 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1269 in chips) 
+Seat 2: yokerone1 (1348 in chips) 
+Seat 3: xzotyaxx (1243 in chips) 
+Seat 4: goiano89 (1443 in chips) 
+Seat 6: IWannaR0ck (3009 in chips) 
+Seat 7: bogess (1512 in chips) 
+Seat 8: SnowTheLow (3173 in chips) 
+Seat 9: KeinKönich (1921 in chips) 
+lucasgomes70: posts the ante 4
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+lucasgomes70: posts small blind 15
+yokerone1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [9d Qh]
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: raises 30 to 60
+lucasgomes70: folds 
+yokerone1: folds 
+Uncalled bet (30) returned to KeinKönich
+KeinKönich collected 107 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: yokerone1 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) collected (107)
+
+
+
+PokerStars Hand #232300276726: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:06:46 CET [2021/12/17 17:06:46 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (1250 in chips) 
+Seat 2: yokerone1 (1314 in chips) 
+Seat 3: xzotyaxx (1239 in chips) 
+Seat 4: goiano89 (1439 in chips) 
+Seat 6: IWannaR0ck (3005 in chips) 
+Seat 7: bogess (1508 in chips) 
+Seat 8: SnowTheLow (3169 in chips) 
+Seat 9: KeinKönich (1994 in chips) 
+lucasgomes70: posts the ante 4
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+yokerone1: posts small blind 15
+xzotyaxx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 3s]
+goiano89: folds 
+IWannaR0ck: raises 40 to 70
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+Uncalled bet (40) returned to IWannaR0ck
+IWannaR0ck collected 107 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (107)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300288657: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:07:10 CET [2021/12/17 17:07:10 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (1246 in chips) 
+Seat 2: yokerone1 (1295 in chips) 
+Seat 3: xzotyaxx (1205 in chips) 
+Seat 4: goiano89 (1435 in chips) 
+Seat 6: IWannaR0ck (3078 in chips) 
+Seat 7: bogess (1504 in chips) 
+Seat 8: SnowTheLow (3165 in chips) 
+Seat 9: KeinKönich (1990 in chips) 
+lucasgomes70: posts the ante 4
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+xzotyaxx: posts small blind 15
+goiano89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 4c]
+IWannaR0ck: raises 40 to 70
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: calls 70
+xzotyaxx: folds 
+goiano89: folds 
+*** FLOP *** [5s 4s 5d]
+IWannaR0ck: bets 109
+yokerone1: folds 
+Uncalled bet (109) returned to IWannaR0ck
+IWannaR0ck collected 217 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [5s 4s 5d]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 (button) folded on the Flop
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 6: IWannaR0ck collected (217)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300305881: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level II (15/30) - 2021/12/17 23:07:44 CET [2021/12/17 17:07:44 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (1242 in chips) 
+Seat 2: yokerone1 (1221 in chips) 
+Seat 3: xzotyaxx (1186 in chips) 
+Seat 4: goiano89 (1401 in chips) 
+Seat 6: IWannaR0ck (3221 in chips) 
+Seat 7: bogess (1500 in chips) 
+Seat 8: SnowTheLow (3161 in chips) 
+Seat 9: KeinKönich (1986 in chips) 
+lucasgomes70: posts the ante 4
+yokerone1: posts the ante 4
+xzotyaxx: posts the ante 4
+goiano89: posts the ante 4
+IWannaR0ck: posts the ante 4
+bogess: posts the ante 4
+SnowTheLow: posts the ante 4
+KeinKönich: posts the ante 4
+goiano89: posts small blind 15
+IWannaR0ck: posts big blind 30
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Jh]
+bogess: folds 
+SnowTheLow: raises 35 to 65
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: calls 65
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 190 to 255
+SnowTheLow: calls 190
+yokerone1: folds 
+*** FLOP *** [4h 9c Js]
+IWannaR0ck: bets 285
+SnowTheLow: calls 285
+*** TURN *** [4h 9c Js] [Th]
+IWannaR0ck: checks 
+SnowTheLow: checks 
+*** RIVER *** [4h 9c Js Th] [6h]
+IWannaR0ck: bets 596
+SnowTheLow: calls 596
+*** SHOW DOWN ***
+IWannaR0ck: shows [Ah As] (a pair of Aces)
+SnowTheLow: mucks hand 
+IWannaR0ck collected 2384 from pot
+*** SUMMARY ***
+Total pot 2384 | Rake 0 
+Board [4h 9c Js Th 6h]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) showed [Ah As] and won (2384) with a pair of Aces
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow mucked [Jd Kd]
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300355396: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:09:24 CET [2021/12/17 17:09:24 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (1238 in chips) 
+Seat 2: yokerone1 (1152 in chips) 
+Seat 3: xzotyaxx (1182 in chips) 
+Seat 4: goiano89 (1382 in chips) 
+Seat 6: IWannaR0ck (4465 in chips) 
+Seat 7: bogess (1496 in chips) 
+Seat 8: SnowTheLow (2021 in chips) 
+Seat 9: KeinKönich (1982 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+IWannaR0ck: posts small blind 25
+bogess: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d Qs]
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: raises 55 to 105
+goiano89: calls 105
+IWannaR0ck: raises 4354 to 4459 and is all-in
+bogess: folds 
+xzotyaxx: calls 1071 and is all-in
+goiano89: folds 
+Uncalled bet (3283) returned to IWannaR0ck
+*** FLOP *** [Ks Td Kc]
+*** TURN *** [Ks Td Kc] [8d]
+*** RIVER *** [Ks Td Kc 8d] [6s]
+*** SHOW DOWN ***
+IWannaR0ck: shows [3s 3d] (two pair, Kings and Threes)
+xzotyaxx: shows [9s 9c] (two pair, Kings and Nines)
+xzotyaxx collected 2555 from pot
+*** SUMMARY ***
+Total pot 2555 | Rake 0 
+Board [Ks Td Kc 8d 6s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx showed [9s 9c] and won (2555) with two pair, Kings and Nines
+Seat 4: goiano89 (button) folded before Flop
+Seat 6: IWannaR0ck (small blind) showed [3s 3d] and lost with two pair, Kings and Threes
+Seat 7: bogess (big blind) folded before Flop
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300382620: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:10:19 CET [2021/12/17 17:10:19 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1232 in chips) 
+Seat 2: yokerone1 (1146 in chips) 
+Seat 3: xzotyaxx (2555 in chips) 
+Seat 4: goiano89 (1271 in chips) 
+Seat 6: IWannaR0ck (3283 in chips) 
+Seat 7: bogess (1440 in chips) 
+Seat 8: SnowTheLow (2015 in chips) 
+Seat 9: KeinKönich (1976 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+bogess: posts small blind 25
+SnowTheLow: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [4h 4s]
+KeinKönich: raises 75 to 125
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+Uncalled bet (75) returned to KeinKönich
+KeinKönich collected 173 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 7: bogess (small blind) folded before Flop
+Seat 8: SnowTheLow (big blind) folded before Flop
+Seat 9: KeinKönich collected (173)
+
+
+
+PokerStars Hand #232300401739: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:10:57 CET [2021/12/17 17:10:57 ET]
+Table '3322205988 2' 9-max Seat #7 is the button
+Seat 1: lucasgomes70 (1226 in chips) 
+Seat 2: yokerone1 (1140 in chips) 
+Seat 3: xzotyaxx (2549 in chips) 
+Seat 4: goiano89 (1265 in chips) 
+Seat 6: IWannaR0ck (3277 in chips) 
+Seat 7: bogess (1409 in chips) 
+Seat 8: SnowTheLow (1959 in chips) 
+Seat 9: KeinKönich (2093 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+SnowTheLow: posts small blind 25
+KeinKönich: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 6s]
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 50 to 100
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: calls 50
+*** FLOP *** [6d 4d 5d]
+KeinKönich: checks 
+IWannaR0ck: checks 
+*** TURN *** [6d 4d 5d] [4s]
+KeinKönich: bets 137
+IWannaR0ck: folds 
+Uncalled bet (137) returned to KeinKönich
+KeinKönich collected 273 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [6d 4d 5d 4s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded on the Turn
+Seat 7: bogess (button) folded before Flop (didn't bet)
+Seat 8: SnowTheLow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) collected (273)
+
+
+
+PokerStars Hand #232300426819: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:11:48 CET [2021/12/17 17:11:48 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (1220 in chips) 
+Seat 2: yokerone1 (1134 in chips) 
+Seat 3: xzotyaxx (2543 in chips) 
+Seat 4: goiano89 (1259 in chips) 
+Seat 6: IWannaR0ck (3171 in chips) 
+Seat 7: bogess (1403 in chips) 
+Seat 8: SnowTheLow (1928 in chips) 
+Seat 9: KeinKönich (2260 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+KeinKönich: posts small blind 25
+lucasgomes70: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 5c]
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: raises 59 to 109
+KeinKönich: folds 
+lucasgomes70: calls 59
+*** FLOP *** [Js Ac Kd]
+lucasgomes70: checks 
+SnowTheLow: bets 84
+lucasgomes70: calls 84
+*** TURN *** [Js Ac Kd] [Qs]
+lucasgomes70: checks 
+SnowTheLow: checks 
+*** RIVER *** [Js Ac Kd Qs] [Ad]
+lucasgomes70: bets 275
+SnowTheLow: calls 275
+*** SHOW DOWN ***
+lucasgomes70: shows [Td Qd] (a straight, Ten to Ace)
+SnowTheLow: mucks hand 
+lucasgomes70 collected 1009 from pot
+*** SUMMARY ***
+Total pot 1009 | Rake 0 
+Board [Js Ac Kd Qs Ad]
+Seat 1: lucasgomes70 (big blind) showed [Td Qd] and won (1009) with a straight, Ten to Ace
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow (button) mucked [As 8h]
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300454964: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:12:42 CET [2021/12/17 17:12:42 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1755 in chips) 
+Seat 2: yokerone1 (1128 in chips) 
+Seat 3: xzotyaxx (2537 in chips) 
+Seat 4: goiano89 (1253 in chips) 
+Seat 6: IWannaR0ck (3165 in chips) 
+Seat 7: bogess (1397 in chips) 
+Seat 8: SnowTheLow (1454 in chips) 
+Seat 9: KeinKönich (2229 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+lucasgomes70: posts small blind 25
+yokerone1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ts 7h]
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 50 to 100
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+Uncalled bet (50) returned to IWannaR0ck
+IWannaR0ck collected 173 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: yokerone1 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (173)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300473719: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level III (25/50) - 2021/12/17 23:13:20 CET [2021/12/17 17:13:20 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (1724 in chips) 
+Seat 2: yokerone1 (1072 in chips) 
+Seat 3: xzotyaxx (2531 in chips) 
+Seat 4: goiano89 (1247 in chips) 
+Seat 6: IWannaR0ck (3282 in chips) 
+Seat 7: bogess (1391 in chips) 
+Seat 8: SnowTheLow (1448 in chips) 
+Seat 9: KeinKönich (2223 in chips) 
+lucasgomes70: posts the ante 6
+yokerone1: posts the ante 6
+xzotyaxx: posts the ante 6
+goiano89: posts the ante 6
+IWannaR0ck: posts the ante 6
+bogess: posts the ante 6
+SnowTheLow: posts the ante 6
+KeinKönich: posts the ante 6
+yokerone1: posts small blind 25
+xzotyaxx: posts big blind 50
+*** HOLE CARDS ***
+Dealt to KeinKönich [7s 2s]
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: raises 75 to 125
+yokerone1: folds 
+xzotyaxx: calls 75
+*** FLOP *** [6d 4d 4s]
+xzotyaxx: checks 
+lucasgomes70: bets 194
+xzotyaxx: folds 
+Uncalled bet (194) returned to lucasgomes70
+lucasgomes70 collected 323 from pot
+lucasgomes70: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Board [6d 4d 4s]
+Seat 1: lucasgomes70 (button) collected (323)
+Seat 2: yokerone1 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded on the Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300498988: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:14:12 CET [2021/12/17 17:14:12 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (1916 in chips) 
+Seat 2: yokerone1 (1041 in chips) 
+Seat 3: xzotyaxx (2400 in chips) 
+Seat 4: goiano89 (1241 in chips) 
+Seat 6: IWannaR0ck (3276 in chips) 
+Seat 7: bogess (1385 in chips) 
+Seat 8: SnowTheLow (1442 in chips) 
+Seat 9: KeinKönich (2217 in chips) 
+lucasgomes70: posts the ante 10
+yokerone1: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+xzotyaxx: posts small blind 40
+goiano89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [5h Jd]
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: raises 95 to 175
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: raises 2215 to 2390 and is all-in
+goiano89: folds 
+SnowTheLow: calls 1257 and is all-in
+Uncalled bet (958) returned to xzotyaxx
+*** FLOP *** [Qs Qc 8c]
+*** TURN *** [Qs Qc 8c] [9h]
+*** RIVER *** [Qs Qc 8c 9h] [2s]
+*** SHOW DOWN ***
+xzotyaxx: shows [Kd Qh] (three of a kind, Queens)
+SnowTheLow: shows [Ks Qd] (three of a kind, Queens)
+xzotyaxx collected 1512 from pot
+SnowTheLow collected 1512 from pot
+*** SUMMARY ***
+Total pot 3024 | Rake 0 
+Board [Qs Qc 8c 9h 2s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) showed [Kd Qh] and won (1512) with three of a kind, Queens
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow showed [Ks Qd] and won (1512) with three of a kind, Queens
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300524083: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:15:03 CET [2021/12/17 17:15:03 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (1906 in chips) 
+Seat 2: yokerone1 (1031 in chips) 
+Seat 3: xzotyaxx (2470 in chips) 
+Seat 4: goiano89 (1151 in chips) 
+Seat 6: IWannaR0ck (3266 in chips) 
+Seat 7: bogess (1375 in chips) 
+Seat 8: SnowTheLow (1512 in chips) 
+Seat 9: KeinKönich (2207 in chips) 
+lucasgomes70: posts the ante 10
+yokerone1: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+goiano89: posts small blind 40
+IWannaR0ck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s 7d]
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: raises 88 to 168
+goiano89: folds 
+IWannaR0ck: calls 88
+*** FLOP *** [7c 9d Js]
+IWannaR0ck: checks 
+xzotyaxx: bets 319
+IWannaR0ck: folds 
+Uncalled bet (319) returned to xzotyaxx
+xzotyaxx collected 456 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Board [7c 9d Js]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) collected (456)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded on the Flop
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300559320: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:16:15 CET [2021/12/17 17:16:15 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (1896 in chips) 
+Seat 2: yokerone1 (1021 in chips) 
+Seat 3: xzotyaxx (2748 in chips) 
+Seat 4: goiano89 (1101 in chips) 
+Seat 6: IWannaR0ck (3088 in chips) 
+Seat 7: bogess (1365 in chips) 
+Seat 8: SnowTheLow (1502 in chips) 
+Seat 9: KeinKönich (2197 in chips) 
+lucasgomes70: posts the ante 10
+yokerone1: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+IWannaR0ck: posts small blind 40
+bogess: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac Qs]
+SnowTheLow: folds 
+KeinKönich: raises 80 to 160
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: calls 80
+*** FLOP *** [Kh 5h 7s]
+bogess: checks 
+KeinKönich: bets 240
+bogess: folds 
+Uncalled bet (240) returned to KeinKönich
+KeinKönich collected 440 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Kh 5h 7s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 7: bogess (big blind) folded on the Flop
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (440)
+
+
+
+PokerStars Hand #232300590635: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:17:02 CET [2021/12/17 17:17:02 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1886 in chips) 
+Seat 2: yokerone1 (1011 in chips) 
+Seat 3: xzotyaxx (2738 in chips) 
+Seat 4: goiano89 (1091 in chips) 
+Seat 6: IWannaR0ck (3038 in chips) 
+Seat 7: bogess (1195 in chips) 
+Seat 8: SnowTheLow (1492 in chips) 
+Seat 9: KeinKönich (2467 in chips) 
+lucasgomes70: posts the ante 10
+yokerone1: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+bogess: posts small blind 40
+SnowTheLow: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 4h]
+KeinKönich: folds 
+lucasgomes70: folds 
+yokerone1: folds 
+xzotyaxx: folds 
+goiano89: raises 1001 to 1081 and is all-in
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+Uncalled bet (1001) returned to goiano89
+goiano89 collected 280 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: yokerone1 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 collected (280)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 7: bogess (small blind) folded before Flop
+Seat 8: SnowTheLow (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300602875: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:17:27 CET [2021/12/17 17:17:27 ET]
+Table '3322205988 2' 9-max Seat #7 is the button
+Seat 1: lucasgomes70 (1876 in chips) 
+Seat 3: xzotyaxx (2728 in chips) 
+Seat 4: goiano89 (1281 in chips) 
+Seat 6: IWannaR0ck (3028 in chips) 
+Seat 7: bogess (1145 in chips) 
+Seat 8: SnowTheLow (1402 in chips) 
+Seat 9: KeinKönich (2457 in chips) 
+lucasgomes70: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+SnowTheLow: posts small blind 40
+KeinKönich: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [6h 8d]
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: raises 80 to 160
+SnowTheLow: folds 
+KeinKönich: folds 
+Uncalled bet (80) returned to bogess
+bogess collected 270 from pot
+bogess: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess (button) collected (270)
+Seat 8: SnowTheLow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300615804: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:17:53 CET [2021/12/17 17:17:53 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (1866 in chips) 
+Seat 3: xzotyaxx (2718 in chips) 
+Seat 4: goiano89 (1271 in chips) 
+Seat 6: IWannaR0ck (3018 in chips) 
+Seat 7: bogess (1325 in chips) 
+Seat 8: SnowTheLow (1352 in chips) 
+Seat 9: KeinKönich (2367 in chips) 
+lucasgomes70: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+KeinKönich: posts small blind 40
+lucasgomes70: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d 4d]
+xzotyaxx: folds 
+goiano89: raises 1181 to 1261 and is all-in
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (1181) returned to goiano89
+goiano89 collected 270 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 collected (270)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300627090: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:18:16 CET [2021/12/17 17:18:16 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1776 in chips) 
+Seat 3: xzotyaxx (2708 in chips) 
+Seat 4: goiano89 (1451 in chips) 
+Seat 6: IWannaR0ck (3008 in chips) 
+Seat 7: bogess (1315 in chips) 
+Seat 8: SnowTheLow (1342 in chips) 
+Seat 9: KeinKönich (2317 in chips) 
+lucasgomes70: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+lucasgomes70: posts small blind 40
+xzotyaxx: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [9s 6c]
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: raises 80 to 160
+lucasgomes70: folds 
+xzotyaxx: folds 
+Uncalled bet (80) returned to KeinKönich
+KeinKönich collected 270 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) collected (270)
+
+
+
+PokerStars Hand #232300635807: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IV (40/80) - 2021/12/17 23:18:34 CET [2021/12/17 17:18:34 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (1726 in chips) 
+Seat 3: xzotyaxx (2618 in chips) 
+Seat 4: goiano89 (1441 in chips) 
+Seat 6: IWannaR0ck (2998 in chips) 
+Seat 7: bogess (1305 in chips) 
+Seat 8: SnowTheLow (1332 in chips) 
+Seat 9: KeinKönich (2497 in chips) 
+lucasgomes70: posts the ante 10
+xzotyaxx: posts the ante 10
+goiano89: posts the ante 10
+IWannaR0ck: posts the ante 10
+bogess: posts the ante 10
+SnowTheLow: posts the ante 10
+KeinKönich: posts the ante 10
+xzotyaxx: posts small blind 40
+goiano89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s Kd]
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: raises 1242 to 1322 and is all-in
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (1242) returned to SnowTheLow
+SnowTheLow collected 270 from pot
+SnowTheLow: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow collected (270)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300649092: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:19:01 CET [2021/12/17 17:19:01 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (1716 in chips) 
+Seat 3: xzotyaxx (2568 in chips) 
+Seat 4: goiano89 (1351 in chips) 
+Seat 6: IWannaR0ck (2988 in chips) 
+Seat 7: bogess (1295 in chips) 
+Seat 8: SnowTheLow (1512 in chips) 
+Seat 9: KeinKönich (2487 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+bogess: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts small blind 60
+IWannaR0ck: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Th Qh]
+bogess: folds 
+SnowTheLow: folds 
+KeinKönich: raises 120 to 240
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+Uncalled bet (120) returned to KeinKönich
+KeinKönich collected 405 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 7: bogess folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (405)
+
+
+
+PokerStars Hand #232300666492: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:19:37 CET [2021/12/17 17:19:37 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (1701 in chips) 
+Seat 3: xzotyaxx (2553 in chips) 
+Seat 4: goiano89 (1276 in chips) 
+Seat 6: IWannaR0ck (2853 in chips) 
+Seat 7: bogess (1280 in chips) 
+Seat 8: SnowTheLow (1497 in chips) 
+Seat 9: KeinKönich (2757 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+bogess: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts small blind 60
+bogess: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3c Ts]
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: raises 1141 to 1261 and is all-in
+IWannaR0ck: folds 
+bogess: folds 
+Uncalled bet (1141) returned to goiano89
+goiano89 collected 405 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) collected (405)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 7: bogess (big blind) folded before Flop
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300676881: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:19:58 CET [2021/12/17 17:19:58 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1686 in chips) 
+Seat 3: xzotyaxx (2538 in chips) 
+Seat 4: goiano89 (1546 in chips) 
+Seat 6: IWannaR0ck (2778 in chips) 
+Seat 7: bogess (1145 in chips) 
+Seat 8: SnowTheLow (1482 in chips) 
+Seat 9: KeinKönich (2742 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+bogess: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+bogess: posts small blind 60
+SnowTheLow: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc 2h]
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: raises 133 to 253
+goiano89: folds 
+IWannaR0ck: folds 
+bogess: folds 
+SnowTheLow: folds 
+Uncalled bet (133) returned to xzotyaxx
+xzotyaxx collected 405 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx collected (405)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 7: bogess (small blind) folded before Flop
+Seat 8: SnowTheLow (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300691070: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:20:27 CET [2021/12/17 17:20:27 ET]
+Table '3322205988 2' 9-max Seat #7 is the button
+Seat 1: lucasgomes70 (1671 in chips) 
+Seat 3: xzotyaxx (2808 in chips) 
+Seat 4: goiano89 (1531 in chips) 
+Seat 6: IWannaR0ck (2763 in chips) 
+Seat 7: bogess (1070 in chips) 
+Seat 8: SnowTheLow (1347 in chips) 
+Seat 9: KeinKönich (2727 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+bogess: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+SnowTheLow: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc 3s]
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: raises 120 to 240
+bogess: raises 815 to 1055 and is all-in
+SnowTheLow: folds 
+KeinKönich: folds 
+IWannaR0ck: calls 815
+*** FLOP *** [Qh 8c 3h]
+*** TURN *** [Qh 8c 3h] [4d]
+*** RIVER *** [Qh 8c 3h 4d] [2d]
+*** SHOW DOWN ***
+IWannaR0ck: shows [5d 5s] (a pair of Fives)
+bogess: shows [4s Ac] (a pair of Fours)
+IWannaR0ck collected 2395 from pot
+bogess finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 2395 | Rake 0 
+Board [Qh 8c 3h 4d 2d]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck showed [5d 5s] and won (2395) with a pair of Fives
+Seat 7: bogess (button) showed [4s Ac] and lost with a pair of Fours
+Seat 8: SnowTheLow (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300712962: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:21:12 CET [2021/12/17 17:21:12 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (1656 in chips) 
+Seat 3: xzotyaxx (2793 in chips) 
+Seat 4: goiano89 (1516 in chips) 
+Seat 6: IWannaR0ck (4088 in chips) 
+Seat 8: SnowTheLow (1272 in chips) 
+Seat 9: KeinKönich (2592 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+KeinKönich: posts small blind 60
+lucasgomes70: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh 6s]
+xzotyaxx: folds 
+goiano89: raises 1381 to 1501 and is all-in
+IWannaR0ck: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (1381) returned to goiano89
+goiano89 collected 390 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 collected (390)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: SnowTheLow (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300724019: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:21:35 CET [2021/12/17 17:21:35 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1521 in chips) 
+Seat 3: xzotyaxx (2778 in chips) 
+Seat 4: goiano89 (1771 in chips) 
+Seat 6: IWannaR0ck (4073 in chips) 
+Seat 8: SnowTheLow (1257 in chips) 
+Seat 9: KeinKönich (2517 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+lucasgomes70: posts small blind 60
+xzotyaxx: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 3c]
+goiano89: folds 
+IWannaR0ck: folds 
+SnowTheLow: folds 
+KeinKönich: folds 
+lucasgomes70: raises 1386 to 1506 and is all-in
+xzotyaxx: folds 
+Uncalled bet (1386) returned to lucasgomes70
+lucasgomes70 collected 330 from pot
+lucasgomes70: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: lucasgomes70 (small blind) collected (330)
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: SnowTheLow folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300737021: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:22:01 CET [2021/12/17 17:22:01 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (1716 in chips) 
+Seat 3: xzotyaxx (2643 in chips) 
+Seat 4: goiano89 (1756 in chips) 
+Seat 6: IWannaR0ck (4058 in chips) 
+Seat 8: SnowTheLow (1242 in chips) 
+Seat 9: KeinKönich (2502 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+xzotyaxx: posts small blind 60
+goiano89: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [3s Jh]
+IWannaR0ck: folds 
+SnowTheLow: raises 1107 to 1227 and is all-in
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (1107) returned to SnowTheLow
+SnowTheLow collected 390 from pot
+SnowTheLow: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: SnowTheLow collected (390)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300745758: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:22:19 CET [2021/12/17 17:22:19 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (1701 in chips) 
+Seat 3: xzotyaxx (2568 in chips) 
+Seat 4: goiano89 (1621 in chips) 
+Seat 6: IWannaR0ck (4043 in chips) 
+Seat 8: SnowTheLow (1497 in chips) 
+Seat 9: KeinKönich (2487 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+SnowTheLow: posts the ante 15
+KeinKönich: posts the ante 15
+goiano89: posts small blind 60
+IWannaR0ck: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Kh]
+SnowTheLow: raises 1362 to 1482 and is all-in
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: raises 124 to 1606 and is all-in
+IWannaR0ck: folds 
+Uncalled bet (124) returned to goiano89
+*** FLOP *** [2s Td 6h]
+*** TURN *** [2s Td 6h] [Jh]
+*** RIVER *** [2s Td 6h Jh] [7c]
+*** SHOW DOWN ***
+goiano89: shows [Jc Ad] (a pair of Jacks)
+SnowTheLow: shows [3h 3d] (a pair of Threes)
+goiano89 collected 3174 from pot
+SnowTheLow finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 3174 | Rake 0 
+Board [2s Td 6h Jh 7c]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) showed [Jc Ad] and won (3174) with a pair of Jacks
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 8: SnowTheLow showed [3h 3d] and lost with a pair of Threes
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300765115: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level V (60/120) - 2021/12/17 23:22:59 CET [2021/12/17 17:22:59 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (1686 in chips) 
+Seat 3: xzotyaxx (2553 in chips) 
+Seat 4: goiano89 (3298 in chips) 
+Seat 6: IWannaR0ck (3908 in chips) 
+Seat 9: KeinKönich (2472 in chips) 
+lucasgomes70: posts the ante 15
+xzotyaxx: posts the ante 15
+goiano89: posts the ante 15
+IWannaR0ck: posts the ante 15
+KeinKönich: posts the ante 15
+IWannaR0ck: posts small blind 60
+KeinKönich: posts big blind 120
+*** HOLE CARDS ***
+Dealt to KeinKönich [Kc Jc]
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: calls 60
+KeinKönich: raises 180 to 300
+IWannaR0ck: calls 180
+*** FLOP *** [4h 9h 7d]
+IWannaR0ck: checks 
+KeinKönich: checks 
+*** TURN *** [4h 9h 7d] [2s]
+IWannaR0ck: bets 450
+KeinKönich: folds 
+Uncalled bet (450) returned to IWannaR0ck
+IWannaR0ck collected 675 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [4h 9h 7d 2s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) collected (675)
+Seat 9: KeinKönich (big blind) folded on the Turn
+
+
+
+PokerStars Hand #232300797273: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:24:06 CET [2021/12/17 17:24:06 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1671 in chips) 
+Seat 3: xzotyaxx (2538 in chips) 
+Seat 4: goiano89 (3283 in chips) 
+Seat 6: IWannaR0ck (4268 in chips) 
+Seat 9: KeinKönich (2157 in chips) 
+lucasgomes70: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+KeinKönich: posts small blind 80
+lucasgomes70: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h Kd]
+xzotyaxx: raises 2358 to 2518 and is all-in
+goiano89: folds 
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (2358) returned to xzotyaxx
+xzotyaxx collected 500 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 3: xzotyaxx collected (500)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232300805782: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:24:21 CET [2021/12/17 17:24:21 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1491 in chips) 
+Seat 3: xzotyaxx (2858 in chips) 
+Seat 4: goiano89 (3263 in chips) 
+Seat 6: IWannaR0ck (4248 in chips) 
+Seat 9: KeinKönich (2057 in chips) 
+lucasgomes70: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+lucasgomes70: posts small blind 80
+xzotyaxx: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c 7c]
+goiano89: folds 
+IWannaR0ck: folds 
+KeinKönich: raises 160 to 320
+lucasgomes70: raises 1151 to 1471 and is all-in
+xzotyaxx: folds 
+KeinKönich: folds 
+Uncalled bet (1151) returned to lucasgomes70
+lucasgomes70 collected 900 from pot
+lucasgomes70: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: lucasgomes70 (small blind) collected (900)
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop
+
+
+
+PokerStars Hand #232300820415: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:24:52 CET [2021/12/17 17:24:52 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (2051 in chips) 
+Seat 3: xzotyaxx (2678 in chips) 
+Seat 4: goiano89 (3243 in chips) 
+Seat 6: IWannaR0ck (4228 in chips) 
+Seat 9: KeinKönich (1717 in chips) 
+lucasgomes70: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+xzotyaxx: posts small blind 80
+goiano89: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [5c Qh]
+IWannaR0ck: raises 160 to 320
+KeinKönich: folds 
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (160) returned to IWannaR0ck
+IWannaR0ck collected 500 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 6: IWannaR0ck collected (500)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300829384: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:25:10 CET [2021/12/17 17:25:10 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (2031 in chips) 
+Seat 3: xzotyaxx (2578 in chips) 
+Seat 4: goiano89 (3063 in chips) 
+Seat 6: IWannaR0ck (4548 in chips) 
+Seat 9: KeinKönich (1697 in chips) 
+lucasgomes70: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+goiano89: posts small blind 80
+IWannaR0ck: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h Ac]
+KeinKönich: raises 1517 to 1677 and is all-in
+lucasgomes70: folds 
+xzotyaxx: folds 
+goiano89: folds 
+IWannaR0ck: folds 
+Uncalled bet (1517) returned to KeinKönich
+KeinKönich collected 500 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 9: KeinKönich collected (500)
+
+
+
+PokerStars Hand #232300854894: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:25:46 CET [2021/12/17 17:25:46 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (2011 in chips) 
+Seat 3: xzotyaxx (2558 in chips) 
+Seat 4: goiano89 (2963 in chips) 
+Seat 6: IWannaR0ck (4368 in chips) 
+Seat 9: KeinKönich (2017 in chips) 
+lucasgomes70: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+IWannaR0ck: posts small blind 80
+KeinKönich: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 5s]
+lucasgomes70: folds 
+xzotyaxx: raises 177 to 337
+goiano89: folds 
+IWannaR0ck: folds 
+KeinKönich: folds 
+Uncalled bet (177) returned to xzotyaxx
+xzotyaxx collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 3: xzotyaxx collected (500)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232300870737: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:26:19 CET [2021/12/17 17:26:19 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1991 in chips) 
+Seat 2: mansiz9 (4877 in chips) 
+Seat 3: xzotyaxx (2878 in chips) 
+Seat 4: goiano89 (2943 in chips) 
+Seat 5: fyysisin (2488 in chips) 
+Seat 6: IWannaR0ck (4268 in chips) 
+Seat 7: A.Marichescu (2094 in chips) out of hand (moved from another table into small blind)
+Seat 8: yokerone1 (3624 in chips) out of hand (moved from another table into small blind)
+Seat 9: KeinKönich (1837 in chips) 
+A.Marichescu will be allowed to play after the button
+yokerone1 will be allowed to play after the button
+lucasgomes70: posts the ante 20
+mansiz9: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+fyysisin: posts the ante 20
+IWannaR0ck: posts the ante 20
+KeinKönich: posts the ante 20
+KeinKönich: posts small blind 80
+lucasgomes70: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 8s]
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+KeinKönich: raises 1657 to 1817 and is all-in
+lucasgomes70: folds 
+Uncalled bet (1657) returned to KeinKönich
+KeinKönich collected 460 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) collected (460)
+
+
+
+PokerStars Hand #232300892811: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:27:06 CET [2021/12/17 17:27:06 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (1811 in chips) 
+Seat 2: mansiz9 (4857 in chips) 
+Seat 3: xzotyaxx (2858 in chips) 
+Seat 4: goiano89 (2923 in chips) 
+Seat 5: fyysisin (2468 in chips) 
+Seat 6: IWannaR0ck (4248 in chips) 
+Seat 7: A.Marichescu (2094 in chips) 
+Seat 8: yokerone1 (3624 in chips) 
+Seat 9: KeinKönich (2117 in chips) 
+lucasgomes70: posts the ante 20
+mansiz9: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+fyysisin: posts the ante 20
+IWannaR0ck: posts the ante 20
+A.Marichescu: posts the ante 20
+yokerone1: posts the ante 20
+KeinKönich: posts the ante 20
+lucasgomes70: posts small blind 80
+mansiz9: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [3h 6h]
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+A.Marichescu: calls 160
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: checks 
+*** FLOP *** [5h 9d 5d]
+mansiz9: checks 
+A.Marichescu: bets 580
+mansiz9: raises 1218 to 1798
+A.Marichescu: raises 116 to 1914 and is all-in
+mansiz9: calls 116
+*** TURN *** [5h 9d 5d] [Td]
+*** RIVER *** [5h 9d 5d Td] [7c]
+*** SHOW DOWN ***
+mansiz9: shows [Qd Jd] (a flush, Queen high)
+A.Marichescu: shows [9c Ad] (two pair, Nines and Fives)
+mansiz9 collected 4408 from pot
+A.Marichescu finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 4408 | Rake 0 
+Board [5h 9d 5d Td 7c]
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: mansiz9 (big blind) showed [Qd Jd] and won (4408) with a flush, Queen high
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 7: A.Marichescu showed [9c Ad] and lost with two pair, Nines and Fives
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300929504: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VI (80/160) - 2021/12/17 23:28:18 CET [2021/12/17 17:28:18 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (1711 in chips) 
+Seat 2: mansiz9 (7171 in chips) 
+Seat 3: xzotyaxx (2838 in chips) 
+Seat 4: goiano89 (2903 in chips) 
+Seat 5: fyysisin (2448 in chips) 
+Seat 6: IWannaR0ck (4228 in chips) 
+Seat 8: yokerone1 (3604 in chips) 
+Seat 9: KeinKönich (2097 in chips) 
+lucasgomes70: posts the ante 20
+mansiz9: posts the ante 20
+xzotyaxx: posts the ante 20
+goiano89: posts the ante 20
+fyysisin: posts the ante 20
+IWannaR0ck: posts the ante 20
+yokerone1: posts the ante 20
+KeinKönich: posts the ante 20
+mansiz9: posts small blind 80
+xzotyaxx: posts big blind 160
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Ah]
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: raises 160 to 320
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+Uncalled bet (160) returned to KeinKönich
+KeinKönich collected 560 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 2: mansiz9 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (560)
+
+
+
+PokerStars Hand #232300945829: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:28:53 CET [2021/12/17 17:28:53 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (1691 in chips) 
+Seat 2: mansiz9 (7071 in chips) 
+Seat 3: xzotyaxx (2658 in chips) 
+Seat 4: goiano89 (2883 in chips) 
+Seat 5: fyysisin (2428 in chips) 
+Seat 6: IWannaR0ck (4208 in chips) 
+Seat 8: yokerone1 (3584 in chips) 
+Seat 9: KeinKönich (2477 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+xzotyaxx: posts small blind 100
+goiano89: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [5d 9d]
+fyysisin: folds 
+IWannaR0ck: raises 200 to 400
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (200) returned to IWannaR0ck
+IWannaR0ck collected 700 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (700)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300957260: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:29:17 CET [2021/12/17 17:29:17 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (1666 in chips) 
+Seat 2: mansiz9 (7046 in chips) 
+Seat 3: xzotyaxx (2533 in chips) 
+Seat 4: goiano89 (2658 in chips) 
+Seat 5: fyysisin (2403 in chips) 
+Seat 6: IWannaR0ck (4683 in chips) 
+Seat 8: yokerone1 (3559 in chips) 
+Seat 9: KeinKönich (2452 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+goiano89: posts small blind 100
+fyysisin: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [6d Ks]
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: raises 2433 to 2633 and is all-in
+fyysisin: folds 
+Uncalled bet (2433) returned to goiano89
+goiano89 collected 600 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) collected (600)
+Seat 5: fyysisin (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300969426: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:29:43 CET [2021/12/17 17:29:43 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (1641 in chips) 
+Seat 2: mansiz9 (7021 in chips) 
+Seat 3: xzotyaxx (2508 in chips) 
+Seat 4: goiano89 (3033 in chips) 
+Seat 5: fyysisin (2178 in chips) 
+Seat 6: IWannaR0ck (4658 in chips) 
+Seat 8: yokerone1 (3534 in chips) 
+Seat 9: KeinKönich (2427 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+fyysisin: posts small blind 100
+IWannaR0ck: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 4h]
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 1953 to 2153 and is all-in
+IWannaR0ck: folds 
+Uncalled bet (1953) returned to fyysisin
+fyysisin collected 600 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: fyysisin (small blind) collected (600)
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300981377: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:30:07 CET [2021/12/17 17:30:07 ET]
+Table '3322205988 2' 9-max Seat #5 is the button
+Seat 1: lucasgomes70 (1616 in chips) 
+Seat 2: mansiz9 (6996 in chips) 
+Seat 3: xzotyaxx (2483 in chips) 
+Seat 4: goiano89 (3008 in chips) 
+Seat 5: fyysisin (2553 in chips) 
+Seat 6: IWannaR0ck (4433 in chips) 
+Seat 8: yokerone1 (3509 in chips) 
+Seat 9: KeinKönich (2402 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+IWannaR0ck: posts small blind 100
+yokerone1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jh Qs]
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: raises 200 to 400
+xzotyaxx: raises 2058 to 2458 and is all-in
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+mansiz9: folds 
+Uncalled bet (2058) returned to xzotyaxx
+xzotyaxx collected 1300 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop
+Seat 3: xzotyaxx collected (1300)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 8: yokerone1 (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232300994896: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:30:36 CET [2021/12/17 17:30:36 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (1591 in chips) 
+Seat 2: mansiz9 (6571 in chips) 
+Seat 3: xzotyaxx (3358 in chips) 
+Seat 4: goiano89 (2983 in chips) 
+Seat 5: fyysisin (2528 in chips) 
+Seat 6: IWannaR0ck (4308 in chips) 
+Seat 8: yokerone1 (3284 in chips) 
+Seat 9: KeinKönich (2377 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+yokerone1: posts small blind 100
+KeinKönich: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [9h Kc]
+lucasgomes70: raises 1366 to 1566 and is all-in
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+Uncalled bet (1366) returned to lucasgomes70
+lucasgomes70 collected 700 from pot
+lucasgomes70: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: lucasgomes70 collected (700)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: yokerone1 (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301007894: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:31:04 CET [2021/12/17 17:31:04 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (2066 in chips) 
+Seat 2: mansiz9 (6546 in chips) 
+Seat 3: xzotyaxx (3333 in chips) 
+Seat 4: goiano89 (2958 in chips) 
+Seat 5: fyysisin (2503 in chips) 
+Seat 6: IWannaR0ck (4283 in chips) 
+Seat 8: yokerone1 (3159 in chips) 
+Seat 9: KeinKönich (2152 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+KeinKönich: posts small blind 100
+lucasgomes70: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 7c]
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 240 to 440
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: calls 240
+*** FLOP *** [4h Kc 2h]
+lucasgomes70: checks 
+fyysisin: bets 300
+lucasgomes70: raises 1301 to 1601 and is all-in
+fyysisin: calls 1301
+*** TURN *** [4h Kc 2h] [6s]
+*** RIVER *** [4h Kc 2h 6s] [6c]
+*** SHOW DOWN ***
+lucasgomes70: shows [Jh Ks] (two pair, Kings and Sixes)
+fyysisin: shows [Qh Qs] (two pair, Queens and Sixes)
+lucasgomes70 collected 4382 from pot
+*** SUMMARY ***
+Total pot 4382 | Rake 0 
+Board [4h Kc 2h 6s 6c]
+Seat 1: lucasgomes70 (big blind) showed [Jh Ks] and won (4382) with two pair, Kings and Sixes
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin showed [Qh Qs] and lost with two pair, Queens and Sixes
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301033779: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:31:59 CET [2021/12/17 17:31:59 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (4382 in chips) 
+Seat 2: mansiz9 (6521 in chips) 
+Seat 3: xzotyaxx (3308 in chips) 
+Seat 4: goiano89 (2933 in chips) 
+Seat 5: fyysisin (437 in chips) 
+Seat 6: IWannaR0ck (4258 in chips) 
+Seat 8: yokerone1 (3134 in chips) 
+Seat 9: KeinKönich (2027 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+lucasgomes70: posts small blind 100
+mansiz9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jd 6h]
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 212 to 412 and is all-in
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: raises 3945 to 4357 and is all-in
+mansiz9: folds 
+Uncalled bet (3945) returned to lucasgomes70
+*** FLOP *** [8d 2s 8c]
+*** TURN *** [8d 2s 8c] [Qh]
+*** RIVER *** [8d 2s 8c Qh] [Kd]
+*** SHOW DOWN ***
+lucasgomes70: shows [Td Ts] (two pair, Tens and Eights)
+fyysisin: shows [2d Kc] (two pair, Kings and Eights)
+fyysisin collected 1224 from pot
+*** SUMMARY ***
+Total pot 1224 | Rake 0 
+Board [8d 2s 8c Qh Kd]
+Seat 1: lucasgomes70 (small blind) showed [Td Ts] and lost with two pair, Tens and Eights
+Seat 2: mansiz9 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin showed [2d Kc] and won (1224) with two pair, Kings and Eights
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301049774: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:32:33 CET [2021/12/17 17:32:33 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (3945 in chips) 
+Seat 2: mansiz9 (6296 in chips) 
+Seat 3: xzotyaxx (3283 in chips) 
+Seat 4: goiano89 (2908 in chips) 
+Seat 5: fyysisin (1224 in chips) 
+Seat 6: IWannaR0ck (4233 in chips) 
+Seat 8: yokerone1 (3109 in chips) 
+Seat 9: KeinKönich (2002 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+mansiz9: posts small blind 100
+xzotyaxx: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [2d 7h]
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: raises 210 to 410
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+Uncalled bet (210) returned to yokerone1
+yokerone1 collected 700 from pot
+yokerone1: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 2: mansiz9 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 collected (700)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301058777: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:32:52 CET [2021/12/17 17:32:52 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (3920 in chips) 
+Seat 2: mansiz9 (6171 in chips) 
+Seat 3: xzotyaxx (3058 in chips) 
+Seat 4: goiano89 (2883 in chips) 
+Seat 5: fyysisin (1199 in chips) 
+Seat 6: IWannaR0ck (4208 in chips) 
+Seat 8: yokerone1 (3584 in chips) 
+Seat 9: KeinKönich (1977 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+xzotyaxx: posts small blind 100
+goiano89: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 9h]
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: raises 300 to 500
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (300) returned to lucasgomes70
+lucasgomes70 collected 700 from pot
+lucasgomes70: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: lucasgomes70 collected (700)
+Seat 2: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301071702: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VII (100/200) - 2021/12/17 23:33:20 CET [2021/12/17 17:33:20 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (4395 in chips) 
+Seat 2: mansiz9 (6146 in chips) 
+Seat 3: xzotyaxx (2933 in chips) 
+Seat 4: goiano89 (2658 in chips) 
+Seat 5: fyysisin (1174 in chips) 
+Seat 6: IWannaR0ck (4183 in chips) 
+Seat 8: yokerone1 (3559 in chips) 
+Seat 9: KeinKönich (1952 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+goiano89: posts small blind 100
+fyysisin: posts big blind 200
+*** HOLE CARDS ***
+Dealt to KeinKönich [Tc 8s]
+IWannaR0ck: folds 
+yokerone1: raises 210 to 410
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: raises 590 to 1000
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+yokerone1: folds 
+Uncalled bet (590) returned to mansiz9
+mansiz9 collected 1320 from pot
+mansiz9: doesn't show hand 
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 collected (1320)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 5: fyysisin (big blind) folded before Flop
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301092741: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:34:05 CET [2021/12/17 17:34:05 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (4370 in chips) 
+Seat 2: mansiz9 (7031 in chips) 
+Seat 3: xzotyaxx (2908 in chips) 
+Seat 4: goiano89 (2533 in chips) 
+Seat 5: fyysisin (949 in chips) 
+Seat 6: IWannaR0ck (4158 in chips) 
+Seat 8: yokerone1 (3124 in chips) 
+Seat 9: KeinKönich (1927 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+fyysisin: posts small blind 150
+IWannaR0ck: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [8c Js]
+yokerone1: raises 2799 to 3099 and is all-in
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: calls 774 and is all-in
+IWannaR0ck: folds 
+Uncalled bet (2175) returned to yokerone1
+*** FLOP *** [6d 3h 4s]
+*** TURN *** [6d 3h 4s] [7h]
+*** RIVER *** [6d 3h 4s 7h] [6h]
+*** SHOW DOWN ***
+fyysisin: shows [3c 3s] (a full house, Threes full of Sixes)
+yokerone1: shows [Kc Ah] (a pair of Sixes)
+fyysisin collected 2348 from pot
+*** SUMMARY ***
+Total pot 2348 | Rake 0 
+Board [6d 3h 4s 7h 6h]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: fyysisin (small blind) showed [3c 3s] and won (2348) with a full house, Threes full of Sixes
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 8: yokerone1 showed [Kc Ah] and lost with a pair of Sixes
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301123454: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:34:49 CET [2021/12/17 17:34:49 ET]
+Table '3322205988 2' 9-max Seat #5 is the button
+Seat 1: lucasgomes70 (4345 in chips) 
+Seat 2: mansiz9 (7006 in chips) 
+Seat 3: xzotyaxx (2883 in chips) 
+Seat 4: goiano89 (2508 in chips) 
+Seat 5: fyysisin (2348 in chips) 
+Seat 6: IWannaR0ck (3833 in chips) 
+Seat 8: yokerone1 (2175 in chips) 
+Seat 9: KeinKönich (1902 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+IWannaR0ck: posts small blind 150
+yokerone1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [2h Ad]
+KeinKönich: raises 1577 to 1877 and is all-in
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+Uncalled bet (1577) returned to KeinKönich
+KeinKönich collected 950 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 8: yokerone1 (big blind) folded before Flop
+Seat 9: KeinKönich collected (950)
+
+
+
+PokerStars Hand #232301135506: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:35:15 CET [2021/12/17 17:35:15 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (4320 in chips) 
+Seat 2: mansiz9 (6981 in chips) 
+Seat 3: xzotyaxx (2858 in chips) 
+Seat 4: goiano89 (2483 in chips) 
+Seat 5: fyysisin (2323 in chips) 
+Seat 6: IWannaR0ck (3658 in chips) 
+Seat 8: yokerone1 (1850 in chips) 
+Seat 9: KeinKönich (2527 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+yokerone1: posts small blind 150
+KeinKönich: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [8h 9s]
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: raises 2158 to 2458 and is all-in
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+Uncalled bet (2158) returned to goiano89
+goiano89 collected 950 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 collected (950)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: yokerone1 (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301147842: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:35:42 CET [2021/12/17 17:35:42 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (4295 in chips) 
+Seat 2: mansiz9 (6956 in chips) 
+Seat 3: xzotyaxx (2833 in chips) 
+Seat 4: goiano89 (3108 in chips) 
+Seat 5: fyysisin (2298 in chips) 
+Seat 6: IWannaR0ck (3633 in chips) 
+Seat 8: yokerone1 (1675 in chips) 
+Seat 9: KeinKönich (2202 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+KeinKönich: posts small blind 150
+lucasgomes70: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ad 5d]
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: raises 2783 to 3083 and is all-in
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (2783) returned to goiano89
+goiano89 collected 950 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 collected (950)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301161683: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:36:11 CET [2021/12/17 17:36:11 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (3970 in chips) 
+Seat 2: mansiz9 (6931 in chips) 
+Seat 3: xzotyaxx (2808 in chips) 
+Seat 4: goiano89 (3733 in chips) 
+Seat 5: fyysisin (2273 in chips) 
+Seat 6: IWannaR0ck (3608 in chips) 
+Seat 8: yokerone1 (1650 in chips) 
+Seat 9: KeinKönich (2027 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+lucasgomes70: posts small blind 150
+mansiz9: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [2s Js]
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (150) returned to mansiz9
+mansiz9 collected 500 from pot
+mansiz9: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: mansiz9 (big blind) collected (500)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301172085: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:36:34 CET [2021/12/17 17:36:34 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (3795 in chips) 
+Seat 2: mansiz9 (7256 in chips) 
+Seat 3: xzotyaxx (2783 in chips) 
+Seat 4: goiano89 (3708 in chips) 
+Seat 5: fyysisin (2248 in chips) 
+Seat 6: IWannaR0ck (3583 in chips) 
+Seat 8: yokerone1 (1625 in chips) 
+Seat 9: KeinKönich (2002 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+mansiz9: posts small blind 150
+xzotyaxx: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qs 5c]
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: raises 3258 to 3558 and is all-in
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+Uncalled bet (3258) returned to IWannaR0ck
+IWannaR0ck collected 950 from pot
+IWannaR0ck: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 2: mansiz9 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck collected (950)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301179998: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:36:51 CET [2021/12/17 17:36:51 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (3770 in chips) 
+Seat 2: mansiz9 (7081 in chips) 
+Seat 3: xzotyaxx (2458 in chips) 
+Seat 4: goiano89 (3683 in chips) 
+Seat 5: fyysisin (2223 in chips) 
+Seat 6: IWannaR0ck (4208 in chips) 
+Seat 8: yokerone1 (1600 in chips) 
+Seat 9: KeinKönich (1977 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+xzotyaxx: posts small blind 150
+goiano89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [6s 2s]
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+Uncalled bet (150) returned to goiano89
+goiano89 collected 500 from pot
+goiano89: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) collected (500)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301188367: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:37:09 CET [2021/12/17 17:37:09 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (3745 in chips) 
+Seat 2: mansiz9 (7056 in chips) 
+Seat 3: xzotyaxx (2283 in chips) 
+Seat 4: goiano89 (4008 in chips) 
+Seat 5: fyysisin (2198 in chips) 
+Seat 6: IWannaR0ck (4183 in chips) 
+Seat 8: yokerone1 (1575 in chips) 
+Seat 9: KeinKönich (1952 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+goiano89: posts small blind 150
+fyysisin: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Js 4c]
+IWannaR0ck: raises 300 to 600
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 1573 to 2173 and is all-in
+IWannaR0ck: folds 
+Uncalled bet (1573) returned to fyysisin
+fyysisin collected 1550 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 5: fyysisin (big blind) collected (1550)
+Seat 6: IWannaR0ck folded before Flop
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301203748: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:37:42 CET [2021/12/17 17:37:42 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (3720 in chips) 
+Seat 2: mansiz9 (7031 in chips) 
+Seat 3: xzotyaxx (2258 in chips) 
+Seat 4: goiano89 (3833 in chips) 
+Seat 5: fyysisin (3123 in chips) 
+Seat 6: IWannaR0ck (3558 in chips) 
+Seat 8: yokerone1 (1550 in chips) 
+Seat 9: KeinKönich (1927 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+fyysisin: posts small blind 150
+IWannaR0ck: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ac 8s]
+yokerone1: folds 
+KeinKönich: raises 1602 to 1902 and is all-in
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+Uncalled bet (1602) returned to KeinKönich
+KeinKönich collected 950 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: fyysisin (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (950)
+
+
+
+PokerStars Hand #232301213748: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level VIII (150/300) - 2021/12/17 23:38:03 CET [2021/12/17 17:38:03 ET]
+Table '3322205988 2' 9-max Seat #5 is the button
+Seat 1: lucasgomes70 (3695 in chips) 
+Seat 2: mansiz9 (7006 in chips) 
+Seat 3: xzotyaxx (2233 in chips) 
+Seat 4: goiano89 (3808 in chips) 
+Seat 5: fyysisin (2948 in chips) 
+Seat 6: IWannaR0ck (3233 in chips) 
+Seat 8: yokerone1 (1525 in chips) 
+Seat 9: KeinKönich (2552 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+IWannaR0ck: posts small blind 150
+yokerone1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 8c]
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: raises 300 to 600
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 2323 to 2923 and is all-in
+IWannaR0ck: folds 
+yokerone1: folds 
+mansiz9: folds 
+Uncalled bet (2323) returned to fyysisin
+fyysisin collected 1850 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin (button) collected (1850)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 8: yokerone1 (big blind) folded before Flop
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301235264: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:38:50 CET [2021/12/17 17:38:50 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (3670 in chips) 
+Seat 2: mansiz9 (6381 in chips) 
+Seat 3: xzotyaxx (2208 in chips) 
+Seat 4: goiano89 (3783 in chips) 
+Seat 5: fyysisin (4173 in chips) 
+Seat 6: IWannaR0ck (3058 in chips) 
+Seat 8: yokerone1 (1200 in chips) 
+Seat 9: KeinKönich (2527 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+yokerone1: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [6c Ts]
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: raises 1783 to 2183 and is all-in
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+Uncalled bet (1783) returned to xzotyaxx
+xzotyaxx collected 1200 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx collected (1200)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 8: yokerone1 (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) folded before Flop
+
+
+
+PokerStars Hand #232301244504: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:39:10 CET [2021/12/17 17:39:10 ET]
+Table '3322205988 2' 9-max Seat #8 is the button
+Seat 1: lucasgomes70 (3645 in chips) 
+Seat 2: mansiz9 (6356 in chips) 
+Seat 3: xzotyaxx (2983 in chips) 
+Seat 4: goiano89 (3758 in chips) 
+Seat 5: fyysisin (4148 in chips) 
+Seat 6: IWannaR0ck (3033 in chips) 
+Seat 8: yokerone1 (975 in chips) 
+Seat 9: KeinKönich (2102 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+KeinKönich: posts small blind 200
+lucasgomes70: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [3d Kd]
+mansiz9: folds 
+xzotyaxx: raises 2558 to 2958 and is all-in
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (2558) returned to xzotyaxx
+xzotyaxx collected 1200 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx collected (1200)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301253660: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:39:30 CET [2021/12/17 17:39:30 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (3220 in chips) 
+Seat 2: mansiz9 (6331 in chips) 
+Seat 3: xzotyaxx (3758 in chips) 
+Seat 4: goiano89 (3733 in chips) 
+Seat 5: fyysisin (4123 in chips) 
+Seat 6: IWannaR0ck (3008 in chips) 
+Seat 8: yokerone1 (950 in chips) 
+Seat 9: KeinKönich (1877 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+lucasgomes70: posts small blind 200
+mansiz9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [8s Kd]
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 3698 to 4098 and is all-in
+IWannaR0ck: folds 
+yokerone1: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+Uncalled bet (3698) returned to fyysisin
+fyysisin collected 1200 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: mansiz9 (big blind) folded before Flop
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin collected (1200)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301267386: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:39:59 CET [2021/12/17 17:39:59 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (2995 in chips) 
+Seat 2: mansiz9 (5906 in chips) 
+Seat 3: xzotyaxx (3733 in chips) 
+Seat 4: goiano89 (3708 in chips) 
+Seat 5: fyysisin (4898 in chips) 
+Seat 6: IWannaR0ck (2983 in chips) 
+Seat 8: yokerone1 (925 in chips) 
+Seat 9: KeinKönich (1852 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+yokerone1: posts the ante 25
+KeinKönich: posts the ante 25
+mansiz9: posts small blind 200
+xzotyaxx: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [4s 5d]
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+yokerone1: raises 420 to 820
+KeinKönich: folds 
+lucasgomes70: raises 2150 to 2970 and is all-in
+mansiz9: folds 
+xzotyaxx: folds 
+yokerone1: calls 80 and is all-in
+Uncalled bet (2070) returned to lucasgomes70
+*** FLOP *** [5s 7s Ks]
+*** TURN *** [5s 7s Ks] [3c]
+*** RIVER *** [5s 7s Ks 3c] [Td]
+*** SHOW DOWN ***
+yokerone1: shows [8s 9d] (high card King)
+lucasgomes70: shows [9h Ad] (high card Ace)
+lucasgomes70 collected 2600 from pot
+yokerone1 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [5s 7s Ks 3c Td]
+Seat 1: lucasgomes70 (button) showed [9h Ad] and won (2600) with high card Ace
+Seat 2: mansiz9 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 8: yokerone1 showed [8s 9d] and lost with high card King
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301285503: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:40:38 CET [2021/12/17 17:40:38 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (4670 in chips) 
+Seat 2: mansiz9 (5681 in chips) 
+Seat 3: xzotyaxx (3308 in chips) 
+Seat 4: goiano89 (3683 in chips) 
+Seat 5: fyysisin (4873 in chips) 
+Seat 6: IWannaR0ck (2958 in chips) 
+Seat 9: KeinKönich (1827 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+xzotyaxx: posts small blind 200
+goiano89: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Qh 6h]
+fyysisin: folds 
+IWannaR0ck: folds 
+KeinKönich: raises 1000 to 1400
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+Uncalled bet (1000) returned to KeinKönich
+KeinKönich collected 1175 from pot
+KeinKönich: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) folded before Flop
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich collected (1175)
+
+
+
+PokerStars Hand #232301294933: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:40:58 CET [2021/12/17 17:40:58 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (4645 in chips) 
+Seat 2: mansiz9 (5656 in chips) 
+Seat 3: xzotyaxx (3083 in chips) 
+Seat 4: goiano89 (3258 in chips) 
+Seat 5: fyysisin (4848 in chips) 
+Seat 6: IWannaR0ck (2933 in chips) 
+Seat 9: KeinKönich (2577 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+goiano89: posts small blind 200
+fyysisin: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [4d 8c]
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: raises 2658 to 3058 and is all-in
+goiano89: folds 
+fyysisin: calls 2658
+*** FLOP *** [5h Qh 9h]
+*** TURN *** [5h Qh 9h] [5s]
+*** RIVER *** [5h Qh 9h 5s] [2s]
+*** SHOW DOWN ***
+fyysisin: shows [7s 7c] (two pair, Sevens and Fives)
+xzotyaxx: shows [Ah 5d] (three of a kind, Fives)
+xzotyaxx collected 6491 from pot
+*** SUMMARY ***
+Total pot 6491 | Rake 0 
+Board [5h Qh 9h 5s 2s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) showed [Ah 5d] and won (6491) with three of a kind, Fives
+Seat 4: goiano89 (small blind) folded before Flop
+Seat 5: fyysisin (big blind) showed [7s 7c] and lost with two pair, Sevens and Fives
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301306276: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:41:23 CET [2021/12/17 17:41:23 ET]
+Table '3322205988 2' 9-max Seat #4 is the button
+Seat 1: lucasgomes70 (4620 in chips) 
+Seat 2: mansiz9 (5631 in chips) 
+Seat 3: xzotyaxx (6491 in chips) 
+Seat 4: goiano89 (3033 in chips) 
+Seat 5: fyysisin (1765 in chips) 
+Seat 6: IWannaR0ck (2908 in chips) 
+Seat 9: KeinKönich (2552 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+fyysisin: posts small blind 200
+IWannaR0ck: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Ah Ks]
+KeinKönich: raises 2127 to 2527 and is all-in
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: calls 1540 and is all-in
+IWannaR0ck: folds 
+Uncalled bet (787) returned to KeinKönich
+*** FLOP *** [Qh Qs 8s]
+*** TURN *** [Qh Qs 8s] [7c]
+*** RIVER *** [Qh Qs 8s 7c] [Qc]
+*** SHOW DOWN ***
+fyysisin: shows [9h 9s] (a full house, Queens full of Nines)
+KeinKönich: shows [Ah Ks] (three of a kind, Queens)
+fyysisin collected 4055 from pot
+*** SUMMARY ***
+Total pot 4055 | Rake 0 
+Board [Qh Qs 8s 7c Qc]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 (button) folded before Flop (didn't bet)
+Seat 5: fyysisin (small blind) showed [9h 9s] and won (4055) with a full house, Queens full of Nines
+Seat 6: IWannaR0ck (big blind) folded before Flop
+Seat 9: KeinKönich showed [Ah Ks] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #232301323716: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:42:01 CET [2021/12/17 17:42:01 ET]
+Table '3322205988 2' 9-max Seat #5 is the button
+Seat 1: lucasgomes70 (4595 in chips) 
+Seat 2: mansiz9 (5606 in chips) 
+Seat 3: xzotyaxx (6466 in chips) 
+Seat 4: goiano89 (3008 in chips) 
+Seat 5: fyysisin (4055 in chips) 
+Seat 6: IWannaR0ck (2483 in chips) 
+Seat 9: KeinKönich (787 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+IWannaR0ck: posts small blind 200
+KeinKönich: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [4c 8d]
+lucasgomes70: raises 4170 to 4570 and is all-in
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+KeinKönich: calls 362 and is all-in
+Uncalled bet (3808) returned to lucasgomes70
+*** FLOP *** [9d 5s 4d]
+*** TURN *** [9d 5s 4d] [7h]
+*** RIVER *** [9d 5s 4d 7h] [6d]
+*** SHOW DOWN ***
+KeinKönich: shows [4c 8d] (a straight, Five to Nine)
+lucasgomes70: shows [Jh Jd] (a pair of Jacks)
+KeinKönich collected 1899 from pot
+*** SUMMARY ***
+Total pot 1899 | Rake 0 
+Board [9d 5s 4d 7h 6d]
+Seat 1: lucasgomes70 showed [Jh Jd] and lost with a pair of Jacks
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin (button) folded before Flop (didn't bet)
+Seat 6: IWannaR0ck (small blind) folded before Flop
+Seat 9: KeinKönich (big blind) showed [4c 8d] and won (1899) with a straight, Five to Nine
+
+
+
+PokerStars Hand #232301335892: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:42:28 CET [2021/12/17 17:42:28 ET]
+Table '3322205988 2' 9-max Seat #6 is the button
+Seat 1: lucasgomes70 (3808 in chips) 
+Seat 2: mansiz9 (5581 in chips) 
+Seat 3: xzotyaxx (6441 in chips) 
+Seat 4: goiano89 (2983 in chips) 
+Seat 5: fyysisin (4030 in chips) 
+Seat 6: IWannaR0ck (2258 in chips) 
+Seat 9: KeinKönich (1899 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+KeinKönich: posts small blind 200
+lucasgomes70: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [Jc Qd]
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: folds 
+fyysisin: raises 400 to 800
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+Uncalled bet (400) returned to fyysisin
+fyysisin collected 1175 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: lucasgomes70 (big blind) folded before Flop
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx folded before Flop (didn't bet)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin collected (1175)
+Seat 6: IWannaR0ck (button) folded before Flop (didn't bet)
+Seat 9: KeinKönich (small blind) folded before Flop
+
+
+
+PokerStars Hand #232301346368: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:42:50 CET [2021/12/17 17:42:50 ET]
+Table '3322205988 2' 9-max Seat #9 is the button
+Seat 1: lucasgomes70 (3383 in chips) 
+Seat 2: mansiz9 (5556 in chips) 
+Seat 3: xzotyaxx (6416 in chips) 
+Seat 4: goiano89 (2958 in chips) 
+Seat 5: fyysisin (4780 in chips) 
+Seat 6: IWannaR0ck (2233 in chips) 
+Seat 9: KeinKönich (1674 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+lucasgomes70: posts small blind 200
+mansiz9: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [2c 7d]
+xzotyaxx: raises 444 to 844
+goiano89: folds 
+fyysisin: folds 
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+Uncalled bet (444) returned to xzotyaxx
+xzotyaxx collected 1175 from pot
+xzotyaxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: lucasgomes70 (small blind) folded before Flop
+Seat 2: mansiz9 (big blind) folded before Flop
+Seat 3: xzotyaxx collected (1175)
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin folded before Flop (didn't bet)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301361621: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:43:08 CET [2021/12/17 17:43:08 ET]
+Table '3322205988 2' 9-max Seat #1 is the button
+Seat 1: lucasgomes70 (3158 in chips) 
+Seat 2: mansiz9 (5131 in chips) 
+Seat 3: xzotyaxx (7166 in chips) 
+Seat 4: goiano89 (2933 in chips) 
+Seat 5: fyysisin (4755 in chips) 
+Seat 6: IWannaR0ck (2208 in chips) 
+Seat 9: KeinKönich (1649 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+mansiz9: posts small blind 200
+xzotyaxx: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [5s 7s]
+goiano89: folds 
+fyysisin: raises 4330 to 4730 and is all-in
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+Uncalled bet (4330) returned to fyysisin
+fyysisin collected 1175 from pot
+fyysisin: doesn't show hand 
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Seat 1: lucasgomes70 (button) folded before Flop (didn't bet)
+Seat 2: mansiz9 (small blind) folded before Flop
+Seat 3: xzotyaxx (big blind) folded before Flop
+Seat 4: goiano89 folded before Flop (didn't bet)
+Seat 5: fyysisin collected (1175)
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301371652: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level IX (200/400) - 2021/12/17 23:43:30 CET [2021/12/17 17:43:30 ET]
+Table '3322205988 2' 9-max Seat #2 is the button
+Seat 1: lucasgomes70 (3133 in chips) 
+Seat 2: mansiz9 (4906 in chips) 
+Seat 3: xzotyaxx (6741 in chips) 
+Seat 4: goiano89 (2908 in chips) 
+Seat 5: fyysisin (5505 in chips) 
+Seat 6: IWannaR0ck (2183 in chips) 
+Seat 9: KeinKönich (1624 in chips) 
+lucasgomes70: posts the ante 25
+mansiz9: posts the ante 25
+xzotyaxx: posts the ante 25
+goiano89: posts the ante 25
+fyysisin: posts the ante 25
+IWannaR0ck: posts the ante 25
+KeinKönich: posts the ante 25
+xzotyaxx: posts small blind 200
+goiano89: posts big blind 400
+*** HOLE CARDS ***
+Dealt to KeinKönich [9c 2h]
+fyysisin: raises 480 to 880
+IWannaR0ck: folds 
+KeinKönich: folds 
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+goiano89: raises 2003 to 2883 and is all-in
+fyysisin: calls 2003
+*** FLOP *** [6d 5d 5h]
+*** TURN *** [6d 5d 5h] [7s]
+*** RIVER *** [6d 5d 5h 7s] [7h]
+*** SHOW DOWN ***
+goiano89: shows [Ah Kc] (two pair, Sevens and Fives)
+fyysisin: shows [Jc Jd] (two pair, Jacks and Sevens)
+fyysisin collected 6141 from pot
+goiano89 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 6141 | Rake 0 
+Board [6d 5d 5h 7s 7h]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 (button) folded before Flop (didn't bet)
+Seat 3: xzotyaxx (small blind) folded before Flop
+Seat 4: goiano89 (big blind) showed [Ah Kc] and lost with two pair, Sevens and Fives
+Seat 5: fyysisin showed [Jc Jd] and won (6141) with two pair, Jacks and Sevens
+Seat 6: IWannaR0ck folded before Flop (didn't bet)
+Seat 9: KeinKönich folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #232301384030: Tournament #3322205988, $9.22+$0.78 USD Hold'em No Limit - Level X (300/600) - 2021/12/17 23:43:57 CET [2021/12/17 17:43:57 ET]
+Table '3322205988 2' 9-max Seat #3 is the button
+Seat 1: lucasgomes70 (3108 in chips) 
+Seat 2: mansiz9 (4881 in chips) 
+Seat 3: xzotyaxx (6516 in chips) 
+Seat 5: fyysisin (8738 in chips) 
+Seat 6: IWannaR0ck (2158 in chips) 
+Seat 9: KeinKönich (1599 in chips) 
+lucasgomes70: posts the ante 50
+mansiz9: posts the ante 50
+xzotyaxx: posts the ante 50
+fyysisin: posts the ante 50
+IWannaR0ck: posts the ante 50
+KeinKönich: posts the ante 50
+fyysisin: posts small blind 300
+IWannaR0ck: posts big blind 600
+*** HOLE CARDS ***
+Dealt to KeinKönich [8d Jh]
+KeinKönich: raises 900 to 1500
+lucasgomes70: folds 
+mansiz9: folds 
+xzotyaxx: folds 
+fyysisin: folds 
+IWannaR0ck: raises 608 to 2108 and is all-in
+KeinKönich: calls 49 and is all-in
+Uncalled bet (559) returned to IWannaR0ck
+*** FLOP *** [3d Td 3h]
+*** TURN *** [3d Td 3h] [Qd]
+*** RIVER *** [3d Td 3h Qd] [6s]
+*** SHOW DOWN ***
+IWannaR0ck: shows [7s Qc] (two pair, Queens and Threes)
+KeinKönich: shows [8d Jh] (a pair of Threes)
+IWannaR0ck collected 3698 from pot
+KeinKönich finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 3698 | Rake 0 
+Board [3d Td 3h Qd 6s]
+Seat 1: lucasgomes70 folded before Flop (didn't bet)
+Seat 2: mansiz9 folded before Flop (didn't bet)
+Seat 3: xzotyaxx (button) folded before Flop (didn't bet)
+Seat 5: fyysisin (small blind) folded before Flop
+Seat 6: IWannaR0ck (big blind) showed [7s Qc] and won (3698) with two pair, Queens and Threes
+Seat 9: KeinKönich showed [8d Jh] and lost with a pair of Threes
+
+
+
