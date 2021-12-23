@@ -11,7 +11,8 @@ import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 import { tournamentFileConverter } from "./tournamentFileConverter"
 import { handFileConverter } from "./handFileConverter"
-import PreviewTable from "./components/PreviewTable";
+import TournamentPreviewTable from "./components/TournamentPreviewTable"
+import HandHistoryPreviewTable from "./components/HandHistoryPreviewTable"
 import { TournamentFilePicker } from "./components/TournamentFilePicker"
 import { HandFilePicker } from "./components/HandFilePicker"
 
@@ -45,7 +46,7 @@ const ImportPage = () => {
             .then(jsonRes => setTournaments(jsonRes))
             .catch(err => console.log(err))
 
-    }, [tournamentPreviewExpanded, getUrl])
+    }, [tournamentPreviewExpanded, handPreviewExpanded, getUrl])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
@@ -114,6 +115,10 @@ const ImportPage = () => {
         setSkipFilePlacements(false)
     }
 
+    const submitHandData = () => {
+        alert("Submitto!")
+    }
+
     const pickTournamentMultiFile =  e => {
         const files = e.currentTarget.files
         const newFiles = []
@@ -122,8 +127,8 @@ const ImportPage = () => {
             const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
-                const convertedFiles = tournamentFileConverter(reader.result, heroName)
-                newFiles.push(convertedFiles)
+                const convertedTournamentFiles = tournamentFileConverter(reader.result, heroName)
+                newFiles.push(convertedTournamentFiles)
                 setTournamentMap(newFiles)
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
@@ -143,8 +148,8 @@ const ImportPage = () => {
             const file = files[index]
              const reader = new FileReader()
              reader.onload = e => {
-                const convertedFiles = handFileConverter(reader.result, heroName)
-                newFiles.push(convertedFiles)
+                const convertedHandsFiles = handFileConverter(reader.result, heroName)
+                newFiles.push(convertedHandsFiles)
                 setHandMap(newFiles)
                 setIsReadyToSubmit(true)
                 setIsSubmitted(true)
@@ -153,7 +158,7 @@ const ImportPage = () => {
         })
 
         setFileExpanded(false)
-        setHandPreviewExpanded(false)
+        setHandPreviewExpanded(true)
     }
 
     const openModal = () => {
@@ -210,7 +215,7 @@ const ImportPage = () => {
                             </ExpansionPanel>
                             {/* PREVIEW TABLE */}
                             <ExpansionPanel {...panel2Props} expanded={tournamentPreviewExpanded} header="Preview" className="mt-2">
-                                <PreviewTable
+                                <TournamentPreviewTable
                                     tournamentMap={tournamentMap}
                                     isSubmitted={isSubmitted}
                                     isReadyToSubmit={isReadyToSubmit}
@@ -238,7 +243,13 @@ const ImportPage = () => {
                             </div>
                         </ExpansionPanel>
                         <ExpansionPanel {...panel4Props} expanded={handPreviewExpanded} header="Preview" className="mt-2">
-                           <h2>Preview soon...</h2>
+                            <HandHistoryPreviewTable
+                                handHistoryMap={handMap}
+                                isSubmitted={isSubmitted}
+                                isReadyToSubmit={isReadyToSubmit}
+                                submitHandData={submitHandData}
+                                heroName={heroName}
+                            />
                         </ExpansionPanel>
                 </TabPanel>
             </TabPanels>

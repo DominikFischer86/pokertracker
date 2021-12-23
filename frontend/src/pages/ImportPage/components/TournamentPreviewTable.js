@@ -6,7 +6,7 @@ import { FaCheck } from "react-icons/fa"
 
 import { formFields } from "../helpers"
 
-const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit }) => {
+const TournamentPreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit }) => {
     const tabs = ["Table", "JSON"]
 
     return (
@@ -14,9 +14,9 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
             <div className="formNav">
                 <h3>Preview:</h3>
                 <div>
-                    <Button 
-                        theme="primary" 
-                        buttonType="icon" 
+                    <Button
+                        theme="primary"
+                        buttonType="icon"
                         aria-label="Submit"
                         disabled={!isSubmitted}
                         onClick={submitData}
@@ -50,9 +50,9 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
                                         } else {
                                             return (
                                             <tr key={i} style={
-                                                tournament.playerPrizeMoney > 0 
-                                                    ? {color: "rgb(0,150,0)", fontWeight: "500"} 
-                                                    : null                                            
+                                                tournament.playerPrizeMoney > 0
+                                                    ? {color: "rgb(0,150,0)", fontWeight: "500"}
+                                                    : null
                                                 }>
                                                 <td>{tournament.tournamentId}</td>
                                                 <td>${tournament.buyIn}</td>
@@ -83,7 +83,7 @@ const PreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit 
     )
 }
 
-PreviewTable.propTypes = {
+TournamentPreviewTable.propTypes = {
     tournamentMap: PropTypes.oneOfType([
         PropTypes.object,
         PropTypes.array
@@ -93,4 +93,4 @@ PreviewTable.propTypes = {
     isReadyToSubmit: PropTypes.bool
 }
 
-export default PreviewTable
+export default TournamentPreviewTable
