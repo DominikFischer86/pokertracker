@@ -21,6 +21,7 @@ const ImportPage = () => {
 
     const [tournaments, setTournaments] = useState([])
     const [tournamentMap, setTournamentMap] = useState({})
+    const [hands, setHands] = useState([])
     const [handMap, setHandMap] = useState({})
     const [skipFilePlacements, setSkipFilePlacements] = useState(false)
     const [isReadyToSubmit, setIsReadyToSubmit] = useState(false)
@@ -33,20 +34,21 @@ const ImportPage = () => {
 
     const tabs = ["Tournaments", "Hand Histories"]
 
-    const getUrl = "http://localhost:3001/tournaments"
-    const postUrl = "http://localhost:3001/tournaments/add"
+    const tournamentAndHandsGetUrl = "http://localhost:3001/hand-histories-and-tournaments"
+    const tournamentPostUrl = "http://localhost:3001/tournaments/add"
+    const handHistoryPostUrl = "http://localhost:3001/hand-histories/add"
 
     useEffect(() => {
-        fetch(getUrl)
-            .then(res => {
-                if (res.ok) {
-                    return res.json()
-                }
-            })
-            .then(jsonRes => setTournaments(jsonRes))
-            .catch(err => console.log(err))
-
-    }, [tournamentPreviewExpanded, handPreviewExpanded, getUrl])
+        try {
+            axios.get(tournamentAndHandsGetUrl)
+                .then(res => {
+                    setHands(res.data[0])
+                    setTournaments(res.data[1])
+                })
+        } catch (e) {
+            console.log(e)
+        }
+    }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
@@ -104,7 +106,7 @@ const ImportPage = () => {
                 return warningMessageList.push(`Tournament #${newTournament.tournamentId} already exists.`)
             }
 
-            axios.post(postUrl, newTournament)
+            axios.post(tournamentPostUrl, newTournament)
             successMessageList.push(`Added Tournament: #${newTournament.tournamentId}`)
             console.log(`%c Added Tournament: #${newTournament.tournamentId}`, "color: green")
         })
@@ -116,7 +118,41 @@ const ImportPage = () => {
     }
 
     const submitHandData = () => {
-        alert("Submitto!")
+        let successMessageList = []
+        let warningMessageList = []
+
+        handMap.forEach(handHistory => {
+            const handHistoryLength = handHistory.length
+            const lastHand = handHistory[handHistoryLength-1]
+            const handMeta = handHistory[0]["1_meta"]
+            const finalBounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
+            const tournamentId = handHistory[0].tournamentId
+
+            const tournamentExists = hands.some(
+                element => element.handHistory[0].tournamentId === tournamentId)
+
+            if (finalBounty > 0 && tournamentExists) updateBountyInTournament(finalBounty, tournamentId)
+
+            if (tournamentExists) {
+                console.log(`%c Tournament with these hands #${tournamentId} already exists.`, "color: orange")
+                return warningMessageList.push(`Tournament with these hands #${tournamentId} already exists.`)
+            }
+
+            axios.post(handHistoryPostUrl, handHistory)
+            successMessageList.push(` Added Hand History for tournament: #${tournamentId}`)
+            console.log(`%c Added Hand History for tournament: #${tournamentId}`, "color: green")
+
+        })
+
+        const messageLists = {successMessageList, warningMessageList}
+        console.log(messageLists)
+        setModalContent(messageLists)
+        openModal()
+        setHandPreviewExpanded(false)
+    }
+
+    const updateBountyInTournament = (finalBounty, tournamentId) => {
+        console.log(finalBounty, tournamentId)
     }
 
     const pickTournamentMultiFile =  e => {
@@ -227,6 +263,11 @@ const ImportPage = () => {
                 <TabPanel>
                          <h2>Hand Histories</h2>
                         <hr />
+                        <ImportConfirmationModal
+                            confirmationModalIsOpen={confirmationModalIsOpen}
+                            closeModal={closeModal}
+                            modalContent={modalContent}
+                        />
                         <ExpansionPanel
                             {...panel3Props}
                             expanded={fileExpanded}
