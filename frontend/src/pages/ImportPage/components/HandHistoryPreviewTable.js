@@ -41,7 +41,7 @@ const HandHistoryPreviewTable = ({ handHistoryMap, isSubmitted, isReadyToSubmit,
 
                             return (
                               <tr key={i}>
-                                  <td><a href={`http://localhost:3000/tournament/${handMeta.tournamentId}`}>{handMeta.tournamentId}</a></td>
+                                  <td><a href={`http://localhost:3000/tournament/${handHistory[0].tournamentId}`}>{handHistory[0].tournamentId}</a></td>
                                   <td>{handHistoryLength}</td>
                                   <td>{handMeta.date}</td>
                                   <td>{handMeta.time}</td>
