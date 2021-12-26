@@ -4,7 +4,9 @@ export const handFileConverter = (file, hero) => {
     const handsFromFileArray = file.split("PokerStars ").slice(1)
 
     const singleHand = handsFromFileArray.map(hand => {
-        let handMap = {}
+        let handMap = {
+            tournamentId: tournamentId
+        }
         const parseHand = JSON.stringify(hand).replace(/(KeinK).{1,3}(nich)/g, "KeinKönich")
         const changedHand = JSON.parse(parseHand)
         const handSplit = changedHand.split("\n")
@@ -30,7 +32,6 @@ export const handFileConverter = (file, hero) => {
 
         // determine hand meta
         const handMetaMap = {
-            tournamentId,
             handId,
             level,
             smallBlind: smallBlindAmount,
@@ -64,15 +65,15 @@ export const handFileConverter = (file, hero) => {
             seatsMap = {
                 ...seatsMap,
                 [seatId]: {
-                    "playerSeat": seatId,
-                    "playerName": seatedPlayerName,
-                    "playerStack": parseFloat(seatedPlayerStack),
-                    "playerBounty": parseFloat(seatedPlayerBounty),
-                    "playerSmallBlind": seatedPlayerName === isSmallBlindPlayer ? parseFloat(smallBlindAmount) : 0,
-                    "playerBigBlind": seatedPlayerName === isBigBlindPlayer ? parseFloat(bigBlindAmount) : 0,
-                    "playerAnte": !isOutOfHand ? parseFloat(anteAmount) : 0,
-                    "playerSitOut": isSittingOut,
-                    "playerOutOfHand": isOutOfHand
+                    playerSeat: seatId,
+                    playerName: seatedPlayerName,
+                    playerStack: parseFloat(seatedPlayerStack),
+                    playerBounty: parseFloat(seatedPlayerBounty),
+                    playerSmallBlind: seatedPlayerName === isSmallBlindPlayer ? parseFloat(smallBlindAmount) : 0,
+                    playerBigBlind: seatedPlayerName === isBigBlindPlayer ? parseFloat(bigBlindAmount) : 0,
+                    playerAnte: !isOutOfHand ? parseFloat(anteAmount) : 0,
+                    playerSitOut: isSittingOut,
+                    playerOutOfHand: isOutOfHand
                 }
             }
         })
@@ -89,14 +90,14 @@ export const handFileConverter = (file, hero) => {
             preflopActionsStartPosition + 1,
             isTruePreflopActionEndPosition - preflopActionsStartPosition - 1)
 
-        let preflopStory = null
-        let flopStory = null
-        let turnStory = null
-        let riverStory = null
-        let summary = null
+        let preflopStory = {}
+        let flopStory = {}
+        let turnStory = {}
+        let riverStory = {}
+        let summary = {}
 
-        let holeCards = null
-        let board = null
+        let holeCards = ""
+        let board = ""
         let story = []
 
         preflopActions.map((action, index) => {
@@ -133,8 +134,8 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             preflopStory = {
                 ...preflopStory,
-                "holeCards": holeCards,
-                story
+                holeCards,
+                story: story.length > 0 ? story : []
             }
         })
 
@@ -186,8 +187,8 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 flopStory = {
                     ...flopStory,
-                    "board": board,
-                    story
+                    board,
+                    story: story.length > 0 ? story : []
                 }
             })
         }
@@ -244,8 +245,8 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 turnStory = {
                     ...turnStory,
-                    "board": board,
-                    story
+                    board,
+                    story: story.length > 0 ? story : []
                 }
             })
         }
@@ -304,8 +305,8 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 riverStory = {
                     ...riverStory,
-                    "board": board,
-                    story: story.length > 0 ? story : null
+                    board,
+                    story: story.length > 0 ? story : []
                 }
             })
         }
@@ -395,13 +396,14 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             summary = {
                 ...summary,
-                "holeCards": holeCards,
-                "board": board,
+                holeCards,
+                board,
                 story
             }
         })
 
         handMap = {
+            ...handMap,
             "1_meta": handMetaMap,
             "2_seats": seatsMap,
             "3_preflop": preflopStory,
