@@ -32,6 +32,7 @@ export const handFileConverter = (file, hero) => {
 
         // determine hand meta
         const handMetaMap = {
+            tournamentId,
             handId,
             level,
             smallBlind: smallBlindAmount,
@@ -64,7 +65,9 @@ export const handFileConverter = (file, hero) => {
 
             seatsMap = {
                 ...seatsMap,
+                handId,
                 [seatId]: {
+                    handId,
                     playerSeat: seatId,
                     playerName: seatedPlayerName,
                     playerStack: parseFloat(seatedPlayerStack),
@@ -134,6 +137,7 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             preflopStory = {
                 ...preflopStory,
+                handId,
                 holeCards,
                 story: story.length > 0 ? story : []
             }
@@ -187,6 +191,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 flopStory = {
                     ...flopStory,
+                    handId,
                     board,
                     story: story.length > 0 ? story : []
                 }
@@ -245,6 +250,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 turnStory = {
                     ...turnStory,
+                    handId,
                     board,
                     story: story.length > 0 ? story : []
                 }
@@ -305,6 +311,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 riverStory = {
                     ...riverStory,
+                    handId,
                     board,
                     story: story.length > 0 ? story : []
                 }
@@ -396,6 +403,7 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             summary = {
                 ...summary,
+                handId,
                 holeCards,
                 board,
                 story
@@ -403,7 +411,6 @@ export const handFileConverter = (file, hero) => {
         })
 
         handMap = {
-            ...handMap,
             "1_meta": handMetaMap,
             "2_seats": seatsMap,
             "3_preflop": preflopStory,
