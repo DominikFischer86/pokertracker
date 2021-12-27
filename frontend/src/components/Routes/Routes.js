@@ -9,52 +9,49 @@ import ResultsPage from "../../pages/ResultsPage/ResultsPage"
 import TournamentPage from "../../pages/TournamentPage/TournamentPage"
 import PlayerPage from "../../pages/PlayerPage/PlayerPage"
 import RakebackManager from "../../pages/RakebackManager/RakebackManager"
+import HandReplayer from "../../pages/HandReplayer/HandReplayer"
 
 const Routes = () => {
     return (
         <div className="container mt-3">
         <Switch>
              <Route exact path={["/"]} component={HomePage} />
-             <Route 
+             <Route
                path="/import"
-               render={(props) => (
-                 <ImportPage {...props} />
-               )}
+               component={ImportPage}
              />
-              <Route 
+              <Route
                path="/rakeback-manager"
-               render={(props) => (
-                 <RakebackManager {...props} />
-               )}
+               component={RakebackManager}
              />
-             <Route 
+             <Route
                path="/results"
-               render={(props) => (
-                 <ResultsPage {...props} />
-               )}
+               component={ResultsPage}
              />
              <Route
                path="/tournament"
                component={TournamentPage}
              />
-             <Route 
+             <Route
+               path="/hand-replayer"
+               component={HandReplayer}
+             />
+             <Route
                path="/player-analysis"
-               render={(props) => (
-                 <PlayerAnalysisPage {...props} />
-               )}
+               component={PlayerAnalysisPage}
              />
              <Route
                path="/player"
                component={PlayerPage}
              />
              {/*
-             <Route 
+             <Route
                path="/tax-report"
                render={(props) => (
                  <TaxReportPage {...props} />
                )}
-             />   
-            */} 
+             />
+            */}
         </Switch>
       </div>
     )
