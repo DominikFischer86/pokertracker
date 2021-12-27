@@ -33,12 +33,10 @@ const ImportPage = () => {
     const [modalContent, setModalContent] = useState({successMessageList: [], warningMessageList: [], errorMessageList:[]})
 
     const tabs = ["Tournaments", "Hand Histories"]
-    console.log(hands)
 
     const tournamentAndHandsGetUrl = "http://localhost:3001/hand-histories-and-tournaments"
     const tournamentPostUrl = "http://localhost:3001/tournaments/add"
     const handHistoryPostMetaUrl = "http://localhost:3001/hand-histories/add/meta"
-    // const handHistoryPostSeatsUrl = "http://localhost:3001/hand-histories/add/seats"
     const handHistoryPostSeat1Url = "http://localhost:3001/hand-histories/add/seat_1"
     const handHistoryPostSeat2Url = "http://localhost:3001/hand-histories/add/seat_2"
     const handHistoryPostSeat3Url = "http://localhost:3001/hand-histories/add/seat_3"
@@ -139,7 +137,6 @@ const ImportPage = () => {
 
         for (let handHistory of handMap){
             let metaMap = []
-            // let seatsMap = []
             let seat_1Map = []
             let seat_2Map = []
             let seat_3Map = []
@@ -171,8 +168,6 @@ const ImportPage = () => {
             for (let hand of handHistory){
                 const meta = Object.keys(hand["1_meta"]).length > 0 ? hand["1_meta"] : null
                 if (meta !== null) metaMap.push(meta)
-                // const seats = Object.keys(hand["2_seats"]).length > 0 ? hand["2_seats"] : null
-                // if (seats !== null) seatsMap.push(seats)
 
                 const seat_1 = Object.keys(hand["2_seats"]["seat_1"])?.length > 0 ? hand["2_seats"]["seat_1"] : null
                 if (seat_1 !== null) seat_1Map.push(seat_1)
@@ -225,7 +220,6 @@ const ImportPage = () => {
                 successMessageList.push(` Added Hand History for tournament: #${tournamentId}`)
                 console.log(`%c Added Hand History for tournament: #${tournamentId}`, "color: green")
             }
-
         }
 
         const messageLists = {successMessageList, warningMessageList}
