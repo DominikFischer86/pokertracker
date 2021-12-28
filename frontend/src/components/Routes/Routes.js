@@ -9,7 +9,7 @@ import ResultsPage from "../../pages/ResultsPage/ResultsPage"
 import TournamentPage from "../../pages/TournamentPage/TournamentPage"
 import PlayerPage from "../../pages/PlayerPage/PlayerPage"
 import RakebackManager from "../../pages/RakebackManager/RakebackManager"
-import HandReplayer from "../../pages/HandReplayer/HandReplayer"
+import HandReplayerPage from "../../pages/HandReplayerPage/HandReplayerPage"
 
 const Routes = () => {
     return (
@@ -32,9 +32,9 @@ const Routes = () => {
                path="/tournament"
                component={TournamentPage}
              />
-             <Route
+              <Route
                path="/hand-replayer"
-               component={HandReplayer}
+               component={HandReplayerPage}
              />
              <Route
                path="/player-analysis"
