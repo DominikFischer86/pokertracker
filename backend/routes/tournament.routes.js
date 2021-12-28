@@ -1,6 +1,7 @@
 const Players = require("../models/Players")
 const Tournament = require("../models/Tournament")
 const Rakeback = require("../models/Rakeback")
+const HandHistory = require("../models/HandHistory")
 
 module.exports = app => {
 
@@ -8,13 +9,15 @@ module.exports = app => {
     app.get("/tournaments/dateSorted", (req, res) => {
         let results = []
         Tournament.find().sort({"timeStamp": 1})
-            .then(tournaments => { 
+            .then(tournaments => {
                 results.push(tournaments)
                 return Rakeback.find()
             })
             .then(rakeback => {
                 results.push(rakeback)
+                return HandHistory.Meta.find()
             })
+            .then(hands => results.push(hands))
             .then(() => res.json([...new Set(results)]))
             .catch(err => res.status(400).json("Error:" + err))
     })
@@ -31,7 +34,7 @@ module.exports = app => {
         let results = []
 
         Tournament.find({ tournamentId: id })
-            .then(tournament => {                
+            .then(tournament => {
                 tournament[0].placements.map(player => playerList.push(player.playerName))
                 results.push(tournament)
                 return Players.find({"playerName":{ "$in": playerList}})

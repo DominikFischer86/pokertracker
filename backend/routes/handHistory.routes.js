@@ -18,6 +18,77 @@ module.exports = app => {
       .catch(err => res.status(400).json("Error: " + err))
   })
 
+  app.get("/hand-histories-for-tournament/:id", (req, res) => {
+    const id = req.params.id
+    let results = []
+    Tournament.find({ tournamentId: id })
+      .then(tournament => {
+        results.push(tournament)
+        return HandHistory.Meta.find({"meta.tournamentId": id})
+      })
+      .then(meta => {
+        results.push(meta)
+        return HandHistory.Seat_1.find({"seat_1.tournamentId": id})
+      })
+      .then(seat_1 => {
+        results.push(seat_1)
+        return HandHistory.Seat_2.find({"seat_2.tournamentId": id})
+      })
+      .then(seat_2 => {
+        results.push(seat_2)
+        return HandHistory.Seat_3.find({"seat_3.tournamentId": id})
+      })
+      .then(seat_3 => {
+        results.push(seat_3)
+        return HandHistory.Seat_4.find({"seat_4.tournamentId": id})
+      })
+      .then(seat_4 => {
+        results.push(seat_4)
+        return HandHistory.Seat_5.find({"seat_5.tournamentId": id})
+      })
+      .then(seat_5 => {
+        results.push(seat_5)
+        return HandHistory.Seat_6.find({"seat_6.tournamentId": id})
+      })
+      .then(seat_6 => {
+        results.push(seat_6)
+        return HandHistory.Seat_7.find({"seat_7.tournamentId": id})
+      })
+      .then(seat_7 => {
+        results.push(seat_7)
+        return HandHistory.Seat_8.find({"seat_8.tournamentId": id})
+      })
+      .then(seat_8 => {
+        results.push(seat_8)
+        return HandHistory.Seat_9.find({"seat_9.tournamentId": id})
+      })
+      .then(seat_9 => {
+        results.push(seat_9)
+        return HandHistory.Preflop.find({"preflop.tournamentId": id})
+      })
+      .then(preflop => {
+        results.push(preflop)
+        return HandHistory.Flop.find({"flop.tournamentId": id})
+      })
+      .then(flop => {
+        results.push(flop)
+        return HandHistory.Turn.find({"turn.tournamentId": id})
+      })
+      .then(turn => {
+        results.push(turn)
+        return HandHistory.River.find({"river.tournamentId": id})
+      })
+      .then(river => {
+        results.push(river)
+        return HandHistory.Summary.find({"summary.tournamentId": id})
+      })
+      .then(summary => {
+        results.push(summary)
+      })
+      .then(() => res.json([...new Set(results)]))
+      .catch(err => res.status(400).json("Error: " + err))
+  })
+
   app.get("/hand-history/:id", (req, res) => {
     HandHistory.Meta.find()
       .then(handHistories => res.json(handHistories))
