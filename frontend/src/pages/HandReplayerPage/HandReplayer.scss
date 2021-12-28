@@ -1,4 +1,49 @@
+h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+div.leftToggled {
+  max-width: 130px;
+}
+
+div.rightToggled {
+  flex-grow: 1;
+}
+
 .handList {
+  .headerNav {
+    display: flex;
+    justify-content: space-between;
+
+    button {
+      border: 1px solid rgba(0,0,0,.25);
+      background: rgba(222,222,222,.5);
+      transition: all .2s ease;
+      border-radius: 50%;
+      position: relative;
+
+      &.toggled {
+        transform: rotate(180deg);
+
+        svg {
+          top: -2px;
+          left: 3px;
+        }
+      }
+
+      &:hover {
+        border: 1px solid rgba(0,0,0,.5);
+      }
+
+      svg {
+        transform: rotate(90deg);
+        position: relative;
+        left: 2px;
+      }
+    }
+  }
+
   ul {
     padding: 0;
 
@@ -12,6 +57,10 @@
       align-items: center;
       cursor: pointer;
 
+      &.toggled {
+        justify-content: unset;
+      }
+
       &.active {
         font-weight: bold;
 
@@ -22,6 +71,11 @@
 
       p {
         margin: 0;
+        transition: all .05s ease;
+
+        &.toggled {
+          font-size: 0;
+        }
       }
 
       span {
@@ -52,4 +106,8 @@
       }
     }
   }
+}
+
+.smooth {
+  transition: all .05s ease;
 }
