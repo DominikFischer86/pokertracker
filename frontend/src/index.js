@@ -5,7 +5,8 @@ import App from "./App"
 import { BrowserRouter } from "react-router-dom"
 
 const meta = {
-  heroName: "KeinKönich"
+  heroName: "KeinKönich",
+  appName: "StarsTracker"
 }
 export const MetaContext = createContext(meta)
 
