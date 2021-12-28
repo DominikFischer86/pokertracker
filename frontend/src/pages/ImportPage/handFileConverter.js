@@ -68,6 +68,7 @@ export const handFileConverter = (file, hero) => {
                 handId,
                 [seatId]: {
                     handId,
+                    tournamentId,
                     playerSeat: seatId,
                     playerName: seatedPlayerName,
                     playerStack: parseFloat(seatedPlayerStack),
@@ -137,6 +138,7 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             preflopStory = {
                 ...preflopStory,
+                tournamentId,
                 handId,
                 holeCards,
                 story: story.length > 0 ? story : []
@@ -191,6 +193,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 flopStory = {
                     ...flopStory,
+                    tournamentId,
                     handId,
                     board,
                     story: story.length > 0 ? story : []
@@ -250,6 +253,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 turnStory = {
                     ...turnStory,
+                    tournamentId,
                     handId,
                     board,
                     story: story.length > 0 ? story : []
@@ -311,6 +315,7 @@ export const handFileConverter = (file, hero) => {
                 if (!activePlayerSeat) return
                 riverStory = {
                     ...riverStory,
+                    tournamentId,
                     handId,
                     board,
                     story: story.length > 0 ? story : []
@@ -403,6 +408,7 @@ export const handFileConverter = (file, hero) => {
             if (!activePlayerSeat) return
             summary = {
                 ...summary,
+                tournamentId,
                 handId,
                 holeCards,
                 board,
