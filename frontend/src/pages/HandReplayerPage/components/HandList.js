@@ -28,7 +28,7 @@ const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
           const matcher = /[A,K,Q,J,T]|[2-9]/g
 
           return (
-            <li key={handId} id={handId} className={slideNavToggle ? "listButton" : "listButton toggled"} onClick={() => selectHand(handId)}>
+            <li key={handId} id={handId} className={slideNavToggle ? "listButton" : "listButton"} onClick={() => selectHand(handId)}>
               <p className={slideNavToggle ? "" : "toggled"}>{handId}</p>
               <p><span className={cardA.split(matcher)[1]}>{prettyCardA}</span><span className={cardB.split(matcher)[1]}>{prettyCardB}</span></p>
             </li>
