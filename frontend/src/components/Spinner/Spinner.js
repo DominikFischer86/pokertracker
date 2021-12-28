@@ -1,10 +1,17 @@
 import React from "react"
+import { string } from "prop-types"
+
 import "./spinner.scss"
 
-const Spinner = () => {
+const Spinner = ({message}) => {
     return (
         <div className="spinnerContainer">
-            <p>Loading data...</p>
+            {!message &&
+                <p>Loading data...</p>
+            }
+            {message &&
+                <p>{message}</p>
+            }
             <div className="spinner">
                 <span className="spades">♠</span>
                 <span className="clubs">♣</span>
@@ -13,6 +20,10 @@ const Spinner = () => {
             </div>
         </div>
     )
+}
+
+Spinner.propTypes = {
+    message: string
 }
 
 export default Spinner
