@@ -33,7 +33,6 @@ const ResultsTable = ({isLoading, tournaments, hands, onDelete}) => {
                             const tournamentId = tournament.tournamentId
                             const handAmountPerTournamentMeta = hands.filter(hand =>  hand.meta.find(x => x.tournamentId === tournamentId))[0]?.meta
                             const handAmount = handAmountPerTournamentMeta ? handAmountPerTournamentMeta?.length : 0
-                            const handIdForTournament = handAmountPerTournamentMeta?.[0].handId
 
                             return (
                             <tr key={i} style={
