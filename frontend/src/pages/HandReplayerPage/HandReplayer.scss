@@ -1,0 +1,55 @@
+.handList {
+  ul {
+    padding: 0;
+
+    li.listButton {
+      list-style: none;
+      padding: 0.25rem;
+      border-bottom: 1px solid rgba(0,0,0,.25);
+      font-size: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+
+      &.active {
+        font-weight: bold;
+
+        span {
+          border: 1px solid rgba(0,0,0,1);
+        }
+      }
+
+      p {
+        margin: 0;
+      }
+
+      span {
+        font-weight: bold;
+        font-size: 16px;
+        display: inline-block;
+        min-width: 40px;
+        border: 1px solid rgba(0,0,0,.25);
+        text-align: center;
+        padding: .25rem;
+        margin: 0 .1rem;
+
+        &.c {
+          color: green;
+        }
+
+        &.h {
+          color: red;
+        }
+
+        &.s {
+          color: #000;
+        }
+
+        &.d {
+          color: royalblue;
+        }
+      }
+    }
+  }
+}
