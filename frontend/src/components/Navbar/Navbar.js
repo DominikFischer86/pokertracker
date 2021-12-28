@@ -28,11 +28,6 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to={"/hand-replayer"} className="nav-link">
-              Hand Replayer
-            </NavLink>
-          </li>
-          <li className="nav-item">
             <NavLink to={"/player-analysis"} className="nav-link">
               Player Analysis
             </NavLink>
