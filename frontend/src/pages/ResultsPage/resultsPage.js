@@ -10,6 +10,7 @@ import { createFolders } from "./helpers"
 
 const ResultsPage = () => {
     const [tournaments, setTournaments] = useState([])
+    const [hands, setHands] = useState([])
     const [rakebackData, setRakebackData] = useState([])
     const [sortedTournaments, setSortedTournaments] = useState([])
     const [dateFormattedTournaments, setDateFormattedTournaments] = useState({})
@@ -28,6 +29,7 @@ const ResultsPage = () => {
                     setIsLoading(false)
                     setTournaments(res.data[0])
                     setRakebackData(res.data[1])
+                    setHands(res.data[2])
                     createFolders(res.data[0], setSortedTournaments, setDateFormattedTournaments)
                 })
         } catch (e) {
@@ -64,6 +66,7 @@ const ResultsPage = () => {
                         <ResultsFolder
                             sortedTournaments={sortedTournaments}
                             dateFormattedTournaments={dateFormattedTournaments}
+                            hands={hands}
                             isLoading={isLoading}
                             onDelete={onDelete}
                         />

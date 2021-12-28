@@ -8,18 +8,18 @@ import { translateMonth, translateDays } from "../../../../helpers/monthCalc"
 import "./styles.scss"
 
 
-const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, onDelete}) => {
+const ResultsFolder = ({isLoading, sortedTournaments, hands, dateFormattedTournaments, onDelete}) => {
   const [selectedTournaments, setSelectedTournaments] = useState(sortedTournaments)
 
   const toggleFolder = e => {
     const yearClass = `.year-${e[0]}`
-    const monthClass = `.year-${e[0]}-${e[1]}`    
-    const target = (e[1] == "year") 
-      ? document.querySelector(yearClass) 
+    const monthClass = `.year-${e[0]}-${e[1]}`
+    const target = (e[1] == "year")
+      ? document.querySelector(yearClass)
       : document.querySelector(monthClass)
     const siblingIcon = target.previousSibling.lastChild
     const itemClassList = Object.values(target.classList)
- 
+
     // TOGGLE YEAR (.results_nav_month)
     if (itemClassList.includes("results_nav_month") && itemClassList.includes("active")){
           siblingIcon.classList.remove("active")
@@ -43,7 +43,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
     }
 
     if (itemClassList.includes("results_nav_day")) {
-      const allMonths = Object.values(document.querySelectorAll(".results_nav_day"))   
+      const allMonths = Object.values(document.querySelectorAll(".results_nav_day"))
       allMonths.map(element => {
         element.previousSibling.lastChild.classList.remove("active")
         element.classList.remove("active")
@@ -51,7 +51,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
       siblingIcon.classList.add("active")
       return target.classList.add("active")
     }
-    
+
     target.classList.add("active")
   }
 
@@ -61,7 +61,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
     allElements.map(element => {
       element.classList.remove("active")
     })
-    
+
     // Set new single active class
     const target = e.target
     const date = target.id
@@ -83,10 +83,10 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
             <nav className="results_nav">
               <ul className={`results_nav_year`}>
                 {Object.keys(sortedTournaments).map((year, index) => {
-                
+
                   return (
                     <li key={index}>
-                    <span 
+                    <span
                       onClick={() => toggleFolder([year, "year"])}>
                         {year}
                         <FaSortDown className="year_icon" />
@@ -98,7 +98,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                         }, 0)
                         return (
                           <li key={index}>
-                              <span 
+                              <span
                                 onClick={() => toggleFolder([year, month])}
                                 >
                                   {translateMonth(month)} ({amountPerMonth})
@@ -107,7 +107,7 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                               <ul className={`results_nav_day year-${year}-${month}`}>
                                 {Object.keys(sortedTournaments[year]?.[month]).sort().map((day, index) => {
                                   const amountPerDay = sortedTournaments[year][month][day].length
-  
+
                                   return (
                                     <li key={index}>
                                       <span id={`${year}/${month}/${day}`} onClick={selectTournaments}>{translateDays(day)} ({amountPerDay} Tournaments) <FaSortDown className="day_icon" /></span>
@@ -118,37 +118,39 @@ const ResultsFolder = ({isLoading, sortedTournaments, dateFormattedTournaments, 
                               </ul>
                           </li>
                         )
-                      })}                      
+                      })}
                     </ul>
                   </li>
                   )
-                })                 
-                }                
+                })
+                }
               </ul>
             </nav>
           </div>
           <div className="col-lg-9">
           {isLoading && <p>Loading...</p>}
-            {selectedTournaments.length < 1 && 
+            {selectedTournaments.length < 1 &&
               <>
               <h3>Last session results from {lastSessionTournaments?.[0]?.startDate}</h3>
                 <ResultsTable
                   tournaments={lastSessionTournaments}
+                  hands={hands}
                   isLoading={isLoading}
-                  onDelete={onDelete} 
+                  onDelete={onDelete}
                 />
             </>
-            }            
+            }
             {!isLoading && selectedTournaments.length > 0 &&
             <>
               <h3>{selectedTournaments?.length} results from {selectedTournaments?.[0]?.startDate}</h3>
                 <ResultsTable
                   tournaments={selectedTournaments}
+                  hands={hands}
                   isLoading={isLoading}
-                  onDelete={onDelete} 
+                  onDelete={onDelete}
                 />
             </>
-            }            
+            }
           </div>
         </div>
       </>
@@ -165,7 +167,11 @@ ResultsFolder.propTypes = {
   dateFormattedTournaments: PropTypes.oneOfType([
     PropTypes.object,
     PropTypes.array
-]),
+  ]),
+  hands: PropTypes.oneOfType([
+    PropTypes.object,
+    PropTypes.array
+  ]),
   isLoading: PropTypes.bool,
   onDelete: PropTypes.func
 }
