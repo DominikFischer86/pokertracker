@@ -4,12 +4,12 @@ import { MetaContext } from "../../index"
 
 
 const Navbar = () => {
-    const { heroName } = useContext(MetaContext)
+    const { heroName, appName } = useContext(MetaContext)
 
     return (
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a href="/" className="navbar-brand">
-          Pokertracker
+          {appName}
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
