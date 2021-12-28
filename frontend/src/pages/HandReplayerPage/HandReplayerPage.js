@@ -14,8 +14,6 @@ const HandReplayerPage = () => {
   const [activeHand, setActiveHand] = useState({})
   const [slideNavToggle, setSlideNavToggle] = useState(true)
 
-  console.log(slideNavToggle)
-
   const tournamentId =  window.location.pathname.split("/")[2]
   const getHandsOfTournamentUrl = "http://localhost:3001/hand-histories-for-tournament/" + tournamentId
 
