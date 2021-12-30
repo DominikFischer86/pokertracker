@@ -63,3 +63,35 @@ export const formatSecond = timeStamp => {
     let second = timeStamp.getSeconds()
     return second < 10 ? '0' + second : "" + second
 }
+
+
+
+export const formatPosition = (isOutOfHand, buttonPosition, availableSeats, seatId, playerPerTable) => {
+    const buttonIndex = availableSeats.indexOf(buttonPosition)
+    const arrayLength  = availableSeats.length
+    const arrayToButtonPosition = availableSeats.slice(0, buttonIndex)
+    const arrayFromButtonPosition = availableSeats.slice(buttonIndex, arrayLength)
+    const sortedPositionArray = arrayFromButtonPosition.concat(arrayToButtonPosition)
+   
+    if (isOutOfHand) return "Out of hand"
+    const finalPlayerIndex = sortedPositionArray.indexOf(seatId)
+
+    const nineActivePlayersPositions = ["BU", "SB", "BB", "UTG", "UTG+1", "UTG+2", "LJ", "HJ", "CO"]
+    const eightActivePlayersPositions = ["BU", "SB", "BB", "UTG", "UTG+1", "LJ", "HJ", "CO"]
+    const sevenActivePlayersPositions = ["BU", "SB", "BB", "UTG", "LJ", "HJ", "CO"]
+    const sixActivePlayersPositions = ["BU", "SB", "BB", "LJ", "HJ", "CO"]
+    const fiveActivePlayersPositions = ["BU", "SB", "BB", "HJ", "CO"]
+    const fourActivePlayersPositions = ["BU", "SB", "BB", "CO"]
+    const threeActivePlayersPositions = ["BU", "SB", "BB"]
+    const twoActivePlayersPositions = ["BU", "BB"]
+
+    if (playerPerTable === 9) return nineActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 8) return eightActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 7) return sevenActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 6) return sixActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 5) return fiveActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 4) return fourActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 3) return threeActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 2) return twoActivePlayersPositions[finalPlayerIndex]    
+  }
+  
