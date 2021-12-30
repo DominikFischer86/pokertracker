@@ -1,3 +1,5 @@
+import { formatPosition } from "./helpers"
+
 export const handFileConverter = (file, hero) => {
 
     const tournamentId = file.split("Tournament #")[1].split(", ")[0]
@@ -28,21 +30,24 @@ export const handFileConverter = (file, hero) => {
         let isBigBlindPlayer = changedHand.split(": posts big blind ")[0].split("\n")[isBigBlindPlayerPosition-1]
         if (isBigBlindPlayer.includes(hero)) isBigBlindPlayer = hero
 
-        const anteAmount = changedHand.split("posts the ante ")[1]?.split("\n")[0]
+        let anteAmount = changedHand.split("posts the ante ")[1]?.split("\n")[0]
+        if (!anteAmount) anteAmount = 0
 
         // determine hand meta
         const handMetaMap = {
             tournamentId,
             handId,
             level,
-            smallBlind: smallBlindAmount,
-            bigBlind: bigBlindAmount,
+            ante: anteAmount,
+            smallBlind: parseFloat(smallBlindAmount),
+            bigBlind: parseFloat(bigBlindAmount),
             date: handDate,
             time: handTime
         }
 
         // Determine initial seat distribution
         const maxSeats = handSplit[1].split("-max")[0].split(" ")[3]
+        const buttonPosition = "seat_" + handSplit[1].split("-max")[1].split("#")[1].split(" ")[0]
         const seats = handSplit.splice(2, maxSeats)
         let seatsMap = {}
         for (let i = 1; i <= maxSeats; i++){
@@ -52,11 +57,19 @@ export const handFileConverter = (file, hero) => {
             }
         }
 
+        let availableSeats = []
+        seats.forEach(seat => {
+            const seatId = seat.split(":")[0].replace(" ", "_").toLowerCase()  
+            if (seat.split(":")[0]?.includes("Seat")) availableSeats.push(seatId)
+        })
+
         seats.map(seat => {
-            const seatId = seat.split(":")[0].replace(" ", "_").toLowerCase()
+            const seatId = seat.split(":")[0].replace(" ", "_").toLowerCase()            
             const isValidSeat = seat.split(":")[0]?.includes("Seat")
             const isOutOfHand = seat.split(":")[1]?.includes("out of hand")
             if (!isValidSeat) return null
+            const playersPerTable = availableSeats.length
+            const playerPosition = formatPosition(isOutOfHand, buttonPosition, availableSeats, seatId, playersPerTable)
             let seatedPlayerName = seat?.split(": ")[1].split(" (")[0]
             if (seatedPlayerName.includes("KeinK")) seatedPlayerName = "KeinKönich"
             const seatedPlayerStack = seat?.split(" (")[1]?.split(" in")[0]
@@ -72,11 +85,12 @@ export const handFileConverter = (file, hero) => {
                     playerSeat: seatId,
                     playerName: seatedPlayerName,
                     playerStack: parseFloat(seatedPlayerStack),
-                    playerBounty: parseFloat(seatedPlayerBounty),
+                    playerBounty: seatedPlayerBounty ? parseFloat(seatedPlayerBounty) : 0,
                     playerSmallBlind: seatedPlayerName === isSmallBlindPlayer ? parseFloat(smallBlindAmount) : 0,
                     playerBigBlind: seatedPlayerName === isBigBlindPlayer ? parseFloat(bigBlindAmount) : 0,
                     playerAnte: !isOutOfHand ? parseFloat(anteAmount) : 0,
                     playerSitOut: isSittingOut,
+                    playerPosition: playerPosition,
                     playerOutOfHand: isOutOfHand
                 }
             }
@@ -429,5 +443,6 @@ export const handFileConverter = (file, hero) => {
         return handMap
     })
 
+    console.log(singleHand)
     return singleHand
 }
