@@ -6,9 +6,8 @@ import { FaCoins } from "react-icons/fa"
 const PlayerPlacements = ({players, tournament, heroPosition, heroName}) => {
     const url = "http://localhost:3000/player/"
 
-    const playerUrl = playerName => {        
-        const player = players.find(player => player.playerName === playerName)
-        const { playerId } = player
+    const playerUrl = playerName => {     
+        const playerId = players.find(player => player.playerName === playerName)?.playerId
         return url+playerId
     }
 
