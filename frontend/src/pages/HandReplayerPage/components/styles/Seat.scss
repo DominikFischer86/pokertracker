@@ -26,12 +26,12 @@ div.stackWrapper {
         display: inline-block;
         padding: 0 10px 0 20px;
         position: relative;
-        font-size: 16px;;
+        font-size: 14px;
         top: -4px;
-        left: -10px;
+        left: -15px;
         z-index: 0;
         border-top-right-radius: 10px;
-        border-bottom-right-radius: 10px;        
+        border-bottom-right-radius: 10px;
       }
     }
 
@@ -59,6 +59,19 @@ div.stackWrapper {
         transform: rotate3d(.5, 0, 0, .4rad);
         box-shadow: 0 2px 4px #000;
         position: absolute;
+        
+      }
+
+      &:hover {
+        &:after {          
+          transition: all .15s ease-in;
+          transform: translateY(-4px) rotate3d(.25, 0, 0, .8rad);
+          border-bottom-width: 6px;
+          border-bottom-style: inset;
+          height: 28px;
+          box-shadow: 0 12px 6px rgba(0, 0, 0,.5);
+        }
+        
       }
     }
 
@@ -84,14 +97,26 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          right: -60px;
-          top: 20px;
+          right: -35px;
+          top: 50px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        right: -120px;
-        top: 60px;
+        right: -220px;
+        top: 20px;
+
+        &.stacks-3 {
+          right: -190px;
+        }
+
+        &.stacks-2 {
+          right: -150px;
+        }
+
+        &.stacks-1 {
+          right: -110px;
+        }
       }
 
       @media only screen and (max-width: 1280px) {
@@ -100,20 +125,32 @@ div.stackWrapper {
     }
 
     &.seat_2 {
-      left: 0;
+      left: -25px;
       top: 25%;
       transform: translate(-25%, -75%);
 
       &.bu {
         &:after {
-          right: -60px;
-          top: 30px;
+          right: -20px;
+          top: 60px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        right: -100px;
-        top: 50px;
+        right: -220px;
+        top: 60px;
+
+        &.stacks-3 {
+          right: -190px;
+        }
+
+        &.stacks-2 {
+          right: -150px;
+        }
+
+        &.stacks-1 {
+          right: -110px;
+        }
       }
 
       @media only screen and (max-width: 1280px) {
@@ -128,15 +165,27 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          right: -20px;
-          top: 100px;
+          right: -70px;
+          top: 80px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        right: -60px;
-        top: 100px;
+        right: -120px;
+        top: 110px;
         z-index: 100;
+
+        &.stacks-3 {
+          right: -90px;
+        }
+
+        &.stacks-2 {
+          right: -50px;
+        }
+
+        &.stacks-1 {
+          right: -10px;
+        }
       }
 
       @media only screen and (max-width: 1280px) {
@@ -151,14 +200,14 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          left: -30px;
-          top: 100px;
+          left: 0px;
+          top: 80px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
         left: 0px;
-        top: 100px;
+        top: 110px;
         z-index: 100;
       }
 
@@ -174,19 +223,19 @@ div.stackWrapper {
     }
 
     &.seat_5 {
-      right: 0;
+      right: -25px;
       top: 25%;
       transform: translate(25%, -75%);
 
       &.bu {
         &:after {
           left: -60px;
-          top: 40px;
+          top: 20px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        left: -80px;
+        left: -70px;
         top: 60px;
       }
 
@@ -208,14 +257,14 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          left: -60px;
-          top: 20px;
+          left: -50px;
+          top: 50px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        left: -100px;
-        top: 60px;
+        left: -90px;
+        top: 20px;
       }
 
       p.playerPosition {
@@ -236,14 +285,14 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          left: -60px;
+          left: -50px;
           top: 10px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        left: -100px;
-        top: 10px;
+        left: -60px;
+        top: -20px;
       }
 
       p.playerPosition {
@@ -264,13 +313,13 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          left: 85px;
-          top: -50px;
+          right: 0px;
+          top: -70px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        left: 80px;
+        left: 140px;
         top: -40px;
       }
 
@@ -286,21 +335,32 @@ div.stackWrapper {
 
       &.bu {
         &:after {
-          right: -65px;
-          top: 0px;
+          right: -50px;
+          top: 10px;
         }
       }
 
       div.smallBlind, div.bigBlind, div.bet {
-        right: -120px;
-        top: 20px;
+        right: -200px;
+        top: -20px;
+
+        &.stacks-3 {
+          right: -170px;
+        }
+
+        &.stacks-2 {
+          right: -130px;
+        }
+
+        &.stacks-1 {
+          right: -100px;
+        }
       }
 
       @media only screen and (max-width: 1280px) {
         transform: translate(-50%, 75%) scale(0.75,0.75);
       }
     }
-
 
     &.utg, &.utg1, &.utg2, &.utg3 {
       p.playerPosition  {
@@ -316,7 +376,8 @@ div.stackWrapper {
 
       &.playerName {
         font-weight: bold;
-        border-bottom: 1px solid rgba(#fff,.25);              
+        border-bottom: 1px solid rgba(#fff,.25);
+        font-size: 14px;          
       }
 
       &.playerPosition {
@@ -337,6 +398,10 @@ div.stackWrapper {
         box-shadow: -2px 0 2px 0px #888;
         pointer-events: none;
         z-index: 2;
+      }
+
+      &.playerStack {
+        font-size: 14px;
       }
     }
   }
