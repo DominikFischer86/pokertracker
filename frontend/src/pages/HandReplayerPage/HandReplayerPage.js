@@ -62,8 +62,6 @@ const HandReplayerPage = () => {
   const river = hands[13]?.river
   const summary = hands[14]?.summary
 
-  const maxPlayers = hands
-
   const selectHand = id => {
     const listElement = document.getElementById(id)
     const allListElements = document.querySelectorAll(".listButton")
