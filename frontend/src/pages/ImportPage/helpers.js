@@ -73,9 +73,6 @@ export const formatPosition = (isOutOfHand, buttonPosition, availableSeats, seat
     const arrayFromButtonPosition = availableSeats.slice(buttonIndex, arrayLength)
     const sortedPositionArray = arrayFromButtonPosition.concat(arrayToButtonPosition)
    
-    if (isOutOfHand) return "Out of hand"
-    const finalPlayerIndex = sortedPositionArray.indexOf(seatId)
-
     const nineActivePlayersPositions = ["BU", "SB", "BB", "UTG", "UTG+1", "UTG+2", "LJ", "HJ", "CO"]
     const eightActivePlayersPositions = ["BU", "SB", "BB", "UTG", "UTG+1", "LJ", "HJ", "CO"]
     const sevenActivePlayersPositions = ["BU", "SB", "BB", "UTG", "LJ", "HJ", "CO"]
@@ -85,13 +82,33 @@ export const formatPosition = (isOutOfHand, buttonPosition, availableSeats, seat
     const threeActivePlayersPositions = ["BU", "SB", "BB"]
     const twoActivePlayersPositions = ["BU", "BB"]
 
-    if (playerPerTable === 9) return nineActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 8) return eightActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 7) return sevenActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 6) return sixActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 5) return fiveActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 4) return fourActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 3) return threeActivePlayersPositions[finalPlayerIndex]
-    if (playerPerTable === 2) return twoActivePlayersPositions[finalPlayerIndex]    
+    let finalPlayerIndex = sortedPositionArray.indexOf(seatId)
+
+    if (isOutOfHand) {
+        sortedPositionArray.splice(1, 0, null)
+        nineActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        eightActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        sevenActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        sixActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        fiveActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        fourActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        threeActivePlayersPositions.splice(finalPlayerIndex, 0, "-")
+        console.log(`%c ${isOutOfHand}`, isOutOfHand ? "color: green; font-weight: bold;" : "color: black;")
+        console.log("Players: " + playerPerTable)
+        console.log("Player Index: " + finalPlayerIndex)
+        console.log("Position Array: " + sortedPositionArray)
+        console.log(eightActivePlayersPositions)
+        console.log(sevenActivePlayersPositions)
+        console.log(sixActivePlayersPositions)
+    }
+
+    if (playerPerTable === 9) return isOutOfHand ? eightActivePlayersPositions[finalPlayerIndex+1] : nineActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 8) return isOutOfHand ? sevenActivePlayersPositions[finalPlayerIndex+1] : eightActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 7) return isOutOfHand ? sixActivePlayersPositions[finalPlayerIndex+1] : sevenActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 6) return isOutOfHand ? fiveActivePlayersPositions[finalPlayerIndex+1] : sixActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 5) return isOutOfHand ? fourActivePlayersPositions[finalPlayerIndex+1] : fiveActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 4) return isOutOfHand ? threeActivePlayersPositions[finalPlayerIndex+1] : fourActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 3) return isOutOfHand ? twoActivePlayersPositions[finalPlayerIndex+1] : threeActivePlayersPositions[finalPlayerIndex]
+    if (playerPerTable === 2) return twoActivePlayersPositions[finalPlayerIndex]
   }
   
