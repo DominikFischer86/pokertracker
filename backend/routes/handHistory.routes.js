@@ -223,4 +223,26 @@ module.exports = app => {
       .then(res.status(200).json("Added tournament seat_9 hand history successfully"))
       .catch(err => res.status(400).json("Error: " + err))
   })
+
+  // delete routes
+  app.delete("/hand-histories/deleteHands", (req, res) => {
+    HandHistory.Meta.deleteMany()
+      .then(() => HandHistory.Seat_1.deleteMany())
+      .then(() => HandHistory.Seat_2.deleteMany())
+      .then(() => HandHistory.Seat_3.deleteMany())
+      .then(() => HandHistory.Seat_4.deleteMany())
+      .then(() => HandHistory.Seat_5.deleteMany())
+      .then(() => HandHistory.Seat_6.deleteMany())
+      .then(() => HandHistory.Seat_7.deleteMany())
+      .then(() => HandHistory.Seat_8.deleteMany())
+      .then(() => HandHistory.Seat_9.deleteMany())
+      .then(() => HandHistory.Preflop.deleteMany())
+      .then(() => HandHistory.Flop.deleteMany())
+      .then(() => HandHistory.Turn.deleteMany())
+      .then(() => HandHistory.River.deleteMany())
+      .then(() => HandHistory.Summary.deleteMany())
+      .catch(err => res.status(400).json("Error: " + err))
+})
+  
 }
+
