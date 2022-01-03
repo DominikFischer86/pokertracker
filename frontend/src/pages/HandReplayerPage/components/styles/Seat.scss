@@ -1,0 +1,342 @@
+div.stackWrapper {
+  position: absolute;
+}
+
+.seat {
+    background-image: radial-gradient(farthest-corner at 100px -100px,#888 0%, #000 100%);
+    border-radius: 50px;
+    border: 5px solid #000;
+    text-align: center;
+    min-width: 200px;
+    max-width: 300px;
+    position: absolute;
+    box-shadow: 0 0 10px #fff;
+    filter: hue-rotate(30deg);
+
+    div.smallBlind, div.bigBlind, div.bet {
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1;
+
+      p {
+        color: #fff;
+        background: rgba(0,0,0,.5);
+        display: inline-block;
+        padding: 0 10px 0 20px;
+        position: relative;
+        font-size: 16px;;
+        top: -4px;
+        left: -10px;
+        z-index: 0;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;        
+      }
+    }
+
+    div.bet {
+      p {
+          top: 0;
+      }
+    }
+
+    &.bu {
+      &:after {
+        content: 'D';
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        width: 25px;
+        height: 25px;
+        background: #fff;
+        color: #000;
+        font-size: 18px;
+        border-radius: 50%;
+        border: 1px solid #444;
+        border-bottom-width: 4px;
+        transform: rotate3d(.5, 0, 0, .4rad);
+        box-shadow: 0 2px 4px #000;
+        position: absolute;
+      }
+    }
+
+    &.folded, &.seat_empty {
+      box-shadow: none;
+      opacity: .5;
+
+      p.playerName, p.playerStack {
+        opacity: .15;
+      }
+
+      p.playerPosition {
+        color: #333;
+      }
+    }
+
+    // Seat related positions
+    
+    &.seat_1 {
+      left: 0;
+      bottom: 50%;
+      transform: translate(-70%, 50%);
+
+      &.bu {
+        &:after {
+          right: -60px;
+          top: 20px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        right: -120px;
+        top: 60px;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(-70%, 50%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_2 {
+      left: 0;
+      top: 25%;
+      transform: translate(-25%, -75%);
+
+      &.bu {
+        &:after {
+          right: -60px;
+          top: 30px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        right: -100px;
+        top: 50px;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(-50%, -75%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_3 {
+      left: 25%;
+      top: 0;
+      transform: translate(-50%, -75%);
+
+      &.bu {
+        &:after {
+          right: -20px;
+          top: 100px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        right: -60px;
+        top: 100px;
+        z-index: 100;
+      }
+
+      @media only screen and (max-width: 1280px) {
+         transform: translate(-70%, -50%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_4 {
+      right: 25%;
+      top: 0;
+      transform: translate(50%, -75%);
+
+      &.bu {
+        &:after {
+          left: -30px;
+          top: 100px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        left: 0px;
+        top: 100px;
+        z-index: 100;
+      }
+
+      p.playerPosition {
+        right: auto;
+        left: -20px;              
+        box-shadow: 2px 0 2px 0px #888;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(70%, -50%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_5 {
+      right: 0;
+      top: 25%;
+      transform: translate(25%, -75%);
+
+      &.bu {
+        &:after {
+          left: -60px;
+          top: 40px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        left: -80px;
+        top: 60px;
+      }
+
+      p.playerPosition {
+        right: auto;
+        left: -20px;              
+        box-shadow: 2px 0 2px 0px #888;
+      }
+
+      @media only screen and (max-width: 1280px) {
+         transform: translate(50%, -75%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_6 {
+      right: 0;
+      bottom: 50%;
+      transform: translate(70%, 50%);
+
+      &.bu {
+        &:after {
+          left: -60px;
+          top: 20px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        left: -100px;
+        top: 60px;
+      }
+
+      p.playerPosition {
+        right: auto;
+        left: -20px;              
+        box-shadow: 2px 0 2px 0px #888;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(70%, 50%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_7 {
+      right: 0;
+      bottom: 25%;
+      transform: translate(25%, 75%);
+
+      &.bu {
+        &:after {
+          left: -60px;
+          top: 10px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        left: -100px;
+        top: 10px;
+      }
+
+      p.playerPosition {
+        right: auto;
+        left: -20px;              
+        box-shadow: 2px 0 2px 0px #888;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(50%, 75%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_8 {
+      left: 50%;
+      bottom: 0;
+      transform: translate(-55%, 40%);
+
+      &.bu {
+        &:after {
+          left: 85px;
+          top: -50px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        left: 80px;
+        top: -40px;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(-55%, 40%) scale(0.75,0.75);
+      }
+    }
+
+    &.seat_9 {
+      left: 0%;
+      bottom: 25%;
+      transform: translate(-25%, 75%);
+
+      &.bu {
+        &:after {
+          right: -65px;
+          top: 0px;
+        }
+      }
+
+      div.smallBlind, div.bigBlind, div.bet {
+        right: -120px;
+        top: 20px;
+      }
+
+      @media only screen and (max-width: 1280px) {
+        transform: translate(-50%, 75%) scale(0.75,0.75);
+      }
+    }
+
+
+    &.utg, &.utg1, &.utg2, &.utg3 {
+      p.playerPosition  {
+        font-size: 10px;
+      }
+    }
+
+    p {
+      margin: 0;
+      padding: .25rem 0;
+      color: #fff;
+      letter-spacing: 1px;
+
+      &.playerName {
+        font-weight: bold;
+        border-bottom: 1px solid rgba(#fff,.25);              
+      }
+
+      &.playerPosition {
+        font-weight: bold;
+        font-size: 16px;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        right: -20px;
+        top: 50%;
+        transform: translateY(-50%);
+        background-image: radial-gradient(farthest-corner at 100px -100px,#888 0%, #000 100%);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border: 4px solid #000;
+        box-shadow: -2px 0 2px 0px #888;
+        pointer-events: none;
+        z-index: 2;
+      }
+    }
+  }

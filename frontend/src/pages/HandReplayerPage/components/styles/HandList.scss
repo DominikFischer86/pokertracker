@@ -1,0 +1,97 @@
+.handList {
+ 
+    .headerNav {
+      display: flex;
+      justify-content: space-between;
+  
+      button {
+        border: 1px solid rgba(0,0,0,.25);
+        background: rgba(222,222,222,.5);
+        transition: all .2s ease;
+        border-radius: 50%;
+        position: relative;
+        left: -5px;
+  
+        &.toggled {
+          transform: rotate(180deg);
+  
+          svg {
+            top: -2px;
+            left: 3px;
+          }
+        }
+  
+        &:hover {
+          border: 1px solid rgba(0,0,0,.5);
+        }
+  
+        svg {
+          transform: rotate(90deg);
+          position: relative;
+          left: 2px;
+        }
+      }
+    }
+  
+    ul {
+      padding: 0;
+      max-height: 80vh;
+      overflow-y: scroll;
+  
+      li.listButton {
+        list-style: none;
+        padding: 0.25rem;
+        border-bottom: 1px solid rgba(0,0,0,.25);
+        font-size: 14px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        cursor: pointer;
+  
+        &.active {
+          font-weight: bold;
+  
+          span {
+            border: 1px solid rgba(0,0,0,1);
+          }
+        }
+  
+        p {
+          margin: 0;
+          transition: all .05s ease;
+  
+          &.toggled {
+            font-size: 0;
+          }
+        }
+  
+        span {
+          font-weight: bold;
+          font-size: 16px;
+          display: inline-block;
+          min-width: 40px;
+          border: 1px solid rgba(0,0,0,.25);
+          text-align: center;
+          padding: .25rem;
+          margin: 0 .1rem;
+  
+          &.c {
+            color: green;
+          }
+  
+          &.h {
+            color: red;
+          }
+  
+          &.s {
+            color: #000;
+          }
+  
+          &.d {
+            color: royalblue;
+          }
+        }
+      }
+    }
+  }
+  

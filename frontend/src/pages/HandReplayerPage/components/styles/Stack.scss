@@ -1,0 +1,71 @@
+div.coin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    width: 26px;
+    height: 26px;
+    background: #fff;
+    color: #222;
+    font-size: 16px;
+    line-height: 28px;
+    vertical-align: top;
+    border-radius: 50%;
+    transform: rotate3d(.5, 0, 0, .4rad);
+    box-shadow: 0 2px 2px #000;
+    z-index: 1;
+    position: absolute;
+    left: -30px;
+
+    &:before {
+        content: "$";
+        position: relative;
+        top: -2px;
+    }
+
+    &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        left: -1px;
+        top: -2px;
+        width: 26px;
+        height: 26px;
+        transform: rotate3d(.5, 0, 0, .4rad);
+        border-radius: 50%;
+    }
+
+    &.color-1 {
+        border: 1px solid rgb(1, 44, 10);
+
+        &:after {
+            border: 2px solid green;
+        }
+    }
+
+    &.color-2 {
+        border: 1px solid rgb(1, 25, 92);
+
+        &:after {
+            border: 2px solid blue;
+        }
+    }
+
+    &.color-1 {
+        border: 1px solid rgb(1, 44, 10);
+
+        &:after {
+            border: 2px solid green;
+        }
+    }
+
+    &.color-3{
+        border: 1px solid rgb(51, 1, 1);
+
+        &:after {
+            border: 2px solid red;
+        }
+    }
+
+
+}
