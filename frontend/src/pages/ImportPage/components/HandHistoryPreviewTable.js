@@ -37,8 +37,11 @@ const HandHistoryPreviewTable = ({ handHistoryMap, isSubmitted, isReadyToSubmit,
                             const handHistoryLength = handHistory.length
                             const lastHand = handHistory[handHistoryLength-1]
                             const handMeta = handHistory[0]["1_meta"]
-                            const finalBounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
-
+                           
+                            const initialBounty = lastHand["1_meta"].buyInBountyAmount
+                            const bounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
+                            const finalBounty = parseFloat(bounty - initialBounty)
+                           
                             return (
                               <tr key={i}>
                                   <td><a href={`http://localhost:3000/tournament/${handMeta.tournamentId}`}>{handMeta.tournamentId}</a></td>
