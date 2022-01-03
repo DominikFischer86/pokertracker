@@ -4,7 +4,7 @@ import { array, func, bool } from "prop-types"
 import { prettyHolecards } from "../../../helpers/prettyHolecards"
 import { FaSortDown } from "react-icons/fa"
 
-import "../HandReplayer.scss"
+import "./styles/HandList.scss"
 
 const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
   const meta = hands[0].meta
@@ -18,7 +18,7 @@ const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
       </div>
       <hr />
       <ul>
-        {meta.map(meta => {
+        {meta.map((meta, index) => {
           const handId = meta.handId
           const holeCards = preflop.find(elem => elem.handId === handId).holeCards
           const cardA = holeCards.split(" ")[0]
@@ -29,6 +29,7 @@ const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
 
           return (
             <li key={handId} id={handId} className={slideNavToggle ? "listButton" : "listButton"} onClick={() => selectHand(handId)}>
+              <p className={slideNavToggle ? "" : "toggled"}>#{index+1}</p>
               <p className={slideNavToggle ? "" : "toggled"}>{handId}</p>
               <p><span className={cardA.split(matcher)[1]}>{prettyCardA}</span><span className={cardB.split(matcher)[1]}>{prettyCardB}</span></p>
             </li>
