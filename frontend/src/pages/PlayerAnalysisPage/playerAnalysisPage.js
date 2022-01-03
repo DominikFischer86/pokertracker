@@ -2,6 +2,8 @@ import React, { useEffect, useState, useContext } from "react"
 import axios from "axios"
 import { ResponsivePie } from '@nivo/pie'
 
+import { FaTrashAlt, FaDatabase, FaSyncAlt } from "react-icons/fa"
+
 import { createUsers } from "./helpers"
 import { MetaContext } from "../../index"
 
@@ -149,9 +151,24 @@ const PlayerAnalysisPage = () => {
                         <div className="Player_analysis_title">
                             <h2>All Players {players.length > 0 ? `(${players.length})` : null}*</h2>
                             <div>
-                                <button onClick={removeUsersClick}>Remove all users</button>
-                                <button style={{display: players.length > 0 ? "none" : "block"}} onClick={createUserClick}>Create user database</button>
-                                <button style={{display: players.length > 0 ? "block" : "none"}} onClick={updateUserClick}>Update user database</button>
+                                <FaTrashAlt 
+                                    onClick={removeUsersClick}
+                                    title="Remove all users"
+                                    className="trash-icon"
+                                    style={{color: "red", display: players.length > 0 ? "block" : "none"}}
+                                />
+                                <FaDatabase 
+                                    onClick={createUserClick}
+                                    title="Create user database"
+                                    className="trash-icon"
+                                    style={{color: "green", display: players.length > 0 ? "none" : "block"}}
+                                />
+                                <FaSyncAlt 
+                                    onClick={updateUserClick}
+                                    title="Update user database"
+                                    className="trash-icon"
+                                    style={{color:"green", display: players.length > 0 ? "block" : "none"}}
+                                />
                             </div>
                         </div>
                         <hr />

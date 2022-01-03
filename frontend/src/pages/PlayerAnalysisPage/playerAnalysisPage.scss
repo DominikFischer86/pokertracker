@@ -5,15 +5,11 @@
     div {
         display: flex;
         justify-content: space-between;
+        align-items: center;
     }
     
-    button {
-        margin: .5rem;
-        padding: .5rem;
-
-        &:hover {
-            background: rgba(0,0,0,.15)
-        }
+    svg {
+       margin: 0 .5rem;
     }
 }
 

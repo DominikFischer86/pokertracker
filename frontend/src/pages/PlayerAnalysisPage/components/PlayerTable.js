@@ -52,6 +52,7 @@ const PlayerTable = ({isLoading, players, onDelete}) => {
                                     onClick={() => onDelete(player.playerId)}
                                     className="trash-icon"
                                     style={{color: "red"}}
+                                    title={`Remove user ${player.playerName}`}
                                 />
                             </td>                              
                         </tr>

@@ -2,11 +2,12 @@
 import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
 
-import { MetaContext } from "../../index"
-
 import { Switch } from "@react-md/form"
 import { ExpansionList, ExpansionPanel, usePanels } from "@react-md/expansion-panel"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
+import { FaTrashAlt } from "react-icons/fa"
+
+import { MetaContext } from "../../index"
 
 import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmationModal"
 import { tournamentFileConverter } from "./tournamentFileConverter"
@@ -15,6 +16,8 @@ import TournamentPreviewTable from "./components/TournamentPreviewTable"
 import HandHistoryPreviewTable from "./components/HandHistoryPreviewTable"
 import { TournamentFilePicker } from "./components/TournamentFilePicker"
 import { HandFilePicker } from "./components/HandFilePicker"
+
+import "./ImportPage.scss"
 
 const ImportPage = () => {
     const { heroName } = useContext(MetaContext)
@@ -35,6 +38,7 @@ const ImportPage = () => {
     const tabs = ["Tournaments", "Hand Histories"]
 
     const tournamentAndHandsGetUrl = "http://localhost:3001/hand-histories-and-tournaments"
+    const tournamentUrl = "http://localhost:3001/tournament/"
     const tournamentPostUrl = "http://localhost:3001/tournaments/add"
     const handHistoryPostMetaUrl = "http://localhost:3001/hand-histories/add/meta"
     const handHistoryPostSeat1Url = "http://localhost:3001/hand-histories/add/seat_1"
@@ -52,6 +56,8 @@ const ImportPage = () => {
     const handHistoryPostRiverUrl = "http://localhost:3001/hand-histories/add/river"
     const handHistoryPostSummaryUrl = "http://localhost:3001/hand-histories/add/summary"
 
+    const killDataUrl = "http://localhost:3001/hand-histories/deleteHands"
+
     useEffect(() => {
         try {
             axios.get(tournamentAndHandsGetUrl)
@@ -62,7 +68,7 @@ const ImportPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl])
+    }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl, killDataUrl])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
@@ -153,12 +159,14 @@ const ImportPage = () => {
             let summaryMap = []
             const handHistoryLength = handHistory.length
             const lastHand = handHistory[handHistoryLength-1]
-            const finalBounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
+            const initialBounty = lastHand["1_meta"]?.buyInBountyAmount
+            const bounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
+            const finalBounty = parseFloat(bounty - initialBounty)
             const tournamentId = handHistory.find(hand => hand["1_meta"].tournamentId)["1_meta"].tournamentId
 
             const tournamentExists = hands.some(element => element.meta[0].tournamentId === tournamentId)
 
-            if (finalBounty > 0 && tournamentExists) updateBountyInTournament(finalBounty, tournamentId)
+            if (bounty > 0) updateBountyInTournament(finalBounty, tournamentId)
 
             if (tournamentExists) {
                 console.log(`%c Tournament with these hands #${tournamentId} already exists.`, "color: orange")
@@ -166,36 +174,48 @@ const ImportPage = () => {
             }
 
             for (let hand of handHistory){
-                const meta = Object.keys(hand["1_meta"]).length > 0 ? hand["1_meta"] : null
-                if (meta !== null) metaMap.push(meta)
+                const meta = hand["1_meta"]
+                if (Object.keys(hand["1_meta"]).length > 0) metaMap.push(meta)
 
-                const seat_1 = Object.keys(hand["2_seats"]["seat_1"])?.length > 0 ? hand["2_seats"]["seat_1"] : null
-                if (seat_1 !== null) seat_1Map.push(seat_1)
-                const seat_2 = Object.keys(hand["2_seats"]["seat_2"])?.length > 0 ? hand["2_seats"]["seat_2"] : null
-                if (seat_2 !== null) seat_2Map.push(seat_2)
-                const seat_3 = Object.keys(hand["2_seats"]["seat_3"])?.length > 0 ? hand["2_seats"]["seat_3"] : null
-                if (seat_3 !== null) seat_3Map.push(seat_3)
-                const seat_4 = Object.keys(hand["2_seats"]["seat_4"])?.length > 0 ? hand["2_seats"]["seat_4"] : null
-                if (seat_4 !== null) seat_4Map.push(seat_4)
-                const seat_5 = Object.keys(hand["2_seats"]["seat_5"])?.length > 0 ? hand["2_seats"]["seat_5"] : null
-                if (seat_5 !== null) seat_5Map.push(seat_5)
-                const seat_6 = Object.keys(hand["2_seats"]["seat_6"])?.length > 0 ? hand["2_seats"]["seat_6"] : null
-                if (seat_6 !== null) seat_6Map.push(seat_6)
-                const seat_7 = Object.keys(hand["2_seats"]["seat_7"])?.length > 0 ? hand["2_seats"]["seat_7"] : null
-                if (seat_7 !== null) seat_7Map.push(seat_7)
-                const seat_8 = Object.keys(hand["2_seats"]["seat_8"])?.length > 0 ? hand["2_seats"]["seat_8"] : null
-                if (seat_8 !== null) seat_8Map.push(seat_8)
-                const seat_9 = Object.keys(hand["2_seats"]["seat_9"])?.length > 0 ? hand["2_seats"]["seat_9"] : null
-                if (seat_9 !== null) seat_9Map.push(seat_9)
+                const seat_1 = hand["2_seats"]["seat_1"]
+                if (Object.keys(hand["2_seats"]["seat_1"])?.length > 0) seat_1Map.push(seat_1)
+                
+                const seat_2 = hand["2_seats"]["seat_2"]
+                if (Object.keys(hand["2_seats"]["seat_2"])?.length > 0) seat_2Map.push(seat_2)
+                
+                const seat_3 = hand["2_seats"]["seat_3"]
+                if (Object.keys(hand["2_seats"]["seat_3"])?.length > 0) seat_3Map.push(seat_3)
+                
+                const seat_4 = hand["2_seats"]["seat_4"]
+                if (Object.keys(hand["2_seats"]["seat_4"])?.length > 0) seat_4Map.push(seat_4)
+                
+                const seat_5 = hand["2_seats"]["seat_5"]
+                if (Object.keys(hand["2_seats"]["seat_5"])?.length > 0) seat_5Map.push(seat_5)
+                
+                const seat_6 = hand["2_seats"]["seat_6"]
+                if (Object.keys(hand["2_seats"]["seat_6"])?.length > 0) seat_6Map.push(seat_6)
+                
+                const seat_7 = hand["2_seats"]["seat_7"]
+                if (Object.keys(hand["2_seats"]["seat_7"])?.length > 0) seat_7Map.push(seat_7)
+                
+                const seat_8 = hand["2_seats"]["seat_8"]
+                if (Object.keys(hand["2_seats"]["seat_8"])?.length > 0) seat_8Map.push(seat_8)
+                
+                const seat_9 = hand["2_seats"]["seat_9"]
+                if (hand["2_seats"]["seat_9"]) seat_9Map.push(seat_9)
 
                 const preflop = Object.keys(hand["3_preflop"]).length > 0 ? hand["3_preflop"] : null
                 if (preflop !== null) preflopMap.push(preflop)
+
                 const flop = Object.keys(hand["4_flop"]).length > 0 ? hand["4_flop"] : null
                 if (flop !== null) flopMap.push(flop)
+
                 const turn = Object.keys(hand["5_turn"]).length > 0 ? hand["5_turn"] : null
                 if (turn !== null) turnMap.push(turn)
+
                 const river = Object.keys(hand["6_river"]).length > 0 ? hand["6_river"] : null
                 if (river !== null) riverMap.push(river)
+
                 const summary = Object.keys(hand["7_summary"]).length > 0 ? hand["7_summary"] : null
                 if (summary !== null) summaryMap.push(summary)
             }
@@ -216,7 +236,7 @@ const ImportPage = () => {
                 .then(() => axios.post(handHistoryPostTurnUrl, turnMap))
                 .then(() => axios.post(handHistoryPostRiverUrl, riverMap))
                 .then(() => axios.post(handHistoryPostSummaryUrl, summaryMap))
-
+                
                 successMessageList.push(` Added Hand History for tournament: #${tournamentId}`)
                 console.log(`%c Added Hand History for tournament: #${tournamentId}`, "color: green")
             }
@@ -228,8 +248,16 @@ const ImportPage = () => {
         setHandPreviewExpanded(false)
     }
 
-    const updateBountyInTournament = (finalBounty, tournamentId) => {
-        console.log(finalBounty, tournamentId)
+    const updateBountyInTournament = async (finalBounty, tournamentId) => {
+        const selectedTournament = tournaments.find(item => item.tournamentId === tournamentId)
+        const data = {
+            ...selectedTournament,
+            bounties: parseFloat(finalBounty)
+        }
+
+        console.log(data)
+        await axios.patch(tournamentUrl + tournamentId, data)
+            .then(console.log("Updated bounty for tournament: " + tournamentId))
     }
 
     const pickTournamentMultiFile =  e => {
@@ -281,6 +309,18 @@ const ImportPage = () => {
 
     const closeModal = () => {
         setConfirmationModalIsOpen(false)
+    }
+
+    const deletHandData = () => {
+        if (confirm("Delete existing hand histories?")){
+            try {
+                axios.delete(killDataUrl)
+            } catch (e) {
+                console.log(e)
+            }
+
+            console.log("Cleared hand history database")
+        }       
     }
 
     return (
@@ -338,37 +378,47 @@ const ImportPage = () => {
                         </ExpansionList>
                 </TabPanel>
                 <TabPanel>
-                         <h2>Hand Histories</h2>
-                        <hr />
-                        <ImportConfirmationModal
-                            confirmationModalIsOpen={confirmationModalIsOpen}
-                            closeModal={closeModal}
-                            modalContent={modalContent}
-                        />
-                        <ExpansionPanel
-                            {...panel3Props}
-                            expanded={fileExpanded}
-                            header="File Picker"
-                            className="mt-2"
-                            onExpandClick={() => {
-                                setFileExpanded(!fileExpanded)
-                            }}
-                        >
-                            <div className="row">
-                                <div className="col-lg-6">
-                                    <HandFilePicker pickMultiFile={pickHandMultiFile} multiple />
-                                </div>
-                            </div>
-                        </ExpansionPanel>
-                        <ExpansionPanel {...panel4Props} expanded={handPreviewExpanded} header="Preview" className="mt-2">
-                            <HandHistoryPreviewTable
-                                handHistoryMap={handMap}
-                                isSubmitted={isSubmitted}
-                                isReadyToSubmit={isReadyToSubmit}
-                                submitHandData={submitHandData}
-                                heroName={heroName}
+                    <div className="header">
+                        <h2>Hand Histories</h2>
+                        {hands.length > 0 &&
+                                <FaTrashAlt 
+                                onClick={deletHandData}
+                                className="trash-icon"
+                                style={{color: "red"}}
+                                title="Delete hand histories from database"
                             />
-                        </ExpansionPanel>
+                        }
+                    </div>
+                    <hr />
+                    <ImportConfirmationModal
+                        confirmationModalIsOpen={confirmationModalIsOpen}
+                        closeModal={closeModal}
+                        modalContent={modalContent}
+                    />
+                    <ExpansionPanel
+                        {...panel3Props}
+                        expanded={fileExpanded}
+                        header="File Picker"
+                        className="mt-2"
+                        onExpandClick={() => {
+                            setFileExpanded(!fileExpanded)
+                        }}
+                    >
+                        <div className="row">
+                            <div className="col-lg-6">
+                                <HandFilePicker pickMultiFile={pickHandMultiFile} multiple />
+                            </div>
+                        </div>
+                    </ExpansionPanel>
+                    <ExpansionPanel {...panel4Props} expanded={handPreviewExpanded} header="Preview" className="mt-2">
+                        <HandHistoryPreviewTable
+                            handHistoryMap={handMap}
+                            isSubmitted={isSubmitted}
+                            isReadyToSubmit={isReadyToSubmit}
+                            submitHandData={submitHandData}
+                            heroName={heroName}
+                        />
+                    </ExpansionPanel>
                 </TabPanel>
             </TabPanels>
         </TabsManager>
