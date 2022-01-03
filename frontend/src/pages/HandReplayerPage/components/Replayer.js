@@ -2,7 +2,6 @@ import React, { useState, useContext } from "react"
 import { object, array } from "prop-types"
 
 import { Switch } from "@react-md/form"
-import { FaCoins } from "react-icons/fa"
 
 import Spinner from "../../../components/Spinner/Spinner"
 import { MetaContext } from "../../../index"
@@ -13,16 +12,19 @@ import "./styles/Replayer.scss"
 
 const Replayer = ({tournament, activeHand}) => {
   const [toggleBlindUnits, setToggleBlindUnits] = useState(false)
-  const [toggleNames, setToggleNames] = useState(false)   
+  const [toggleNames, setToggleNames] = useState(false)
+
+  const maxPlayers =  tournament[0].playerAmount
 
   const { heroName, appName } = useContext(MetaContext)
   if (Object.keys(activeHand).length < 1) return <Spinner message="Select a hand" />
   const { smallBlind, bigBlind, level, date, time, ante } = activeHand["1_meta"]
   const playerPositions = ["2_seat_1", "3_seat_2", "4_seat_3", "5_seat_4", "6_seat_5", "7_seat_6", "8_seat_7", "9_seat_8", "10_seat_9"]
-  const activePlayers = playerPositions.filter(position => activeHand[position]?.playerAnte > 0).length
-  
+  const activePlayers = playerPositions.filter(position => activeHand[position]).length
+
   const initialPot = smallBlind + bigBlind + ante * activePlayers
   let pot = initialPot
+  const potInBb = parseFloat(pot / bigBlind).toFixed(1)
 
   return (
     <div className="replayer">
@@ -44,12 +46,13 @@ const Replayer = ({tournament, activeHand}) => {
       <hr />
       <div className="canvas">
         <div className="metaBar">
-              <p>Level: {level} - Blinds: {smallBlind}/{bigBlind} - Ante: {ante}</p>
+              {ante > 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind} - Ante: {ante}</p>}
+              {ante === 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind}</p>}
               <p>Time: {date} - {time}</p>
         </div>
         <div className="table">
-          <p className="pot">Pot: {pot}</p>
-          <p className="ante">Ante: {ante * activePlayers}</p>
+          <p className="pot">Pot: {toggleBlindUnits ? potInBb : pot}</p>
+          {ante > 0 && <p className="ante">Ante: {ante * activePlayers}</p>}          
           <p className="appTitle">{appName}</p>
             {playerPositions.map(position => {
               const seat = "seat_" + position.split("seat_")[1]
@@ -65,6 +68,9 @@ const Replayer = ({tournament, activeHand}) => {
                   bigBlind={bigBlind}
                   initialPot={initialPot}
                   activePlayers={activePlayers}
+                  maxPlayers={maxPlayers}
+                  playerAction={""}
+                  bet={0}
                 />
               )
             })}          
