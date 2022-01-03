@@ -15,6 +15,7 @@ export const handFileConverter = (file, hero) => {
         const handLength = handSplit.length
         const handId = handSplit[0].split("Hand #")[1].split(": ")[0]
         const isBounty = (handSplit[0].split(" USD")[0].split(", ")[1].split("$").length - 1) > 2
+        const buyInBountyAmount = isBounty ? parseFloat((handSplit[0].split(" USD")[0].split(", ")[1].split("$")[2].split("+")[0])) : 0
         const level = handSplit[0].split("Level ")[1].split(" (")[0]
         const handDate = handSplit[0].split(" - ")[2].split(" ")[0]
         const handTime = handSplit[0].split(" - ")[2].split(" ")[1] + " " + handSplit[0].split(" - ")[2].split(" ")[2]
@@ -33,12 +34,16 @@ export const handFileConverter = (file, hero) => {
         let anteAmount = changedHand.split("posts the ante ")[1]?.split("\n")[0]
         if (!anteAmount) anteAmount = 0
 
+        const maxSeats = handSplit[1].split("-max")[0].split(" ")[3]
+
         // determine hand meta
         const handMetaMap = {
             tournamentId,
             handId,
+            buyInBountyAmount,
+            maxSeats,
             level,
-            ante: anteAmount,
+            ante: parseFloat(anteAmount),
             smallBlind: parseFloat(smallBlindAmount),
             bigBlind: parseFloat(bigBlindAmount),
             date: handDate,
@@ -46,7 +51,6 @@ export const handFileConverter = (file, hero) => {
         }
 
         // Determine initial seat distribution
-        const maxSeats = handSplit[1].split("-max")[0].split(" ")[3]
         const buttonPosition = "seat_" + handSplit[1].split("-max")[1].split("#")[1].split(" ")[0]
         const seats = handSplit.splice(2, maxSeats)
         let seatsMap = {}
@@ -95,6 +99,8 @@ export const handFileConverter = (file, hero) => {
                 }
             }
         })
+
+        console.log("====================================")
 
         // Determine preflop action
         const preflopActionsStartPosition = changedHand.split("\n*** HOLE CARDS ***")[0].split("\n").length
@@ -443,6 +449,5 @@ export const handFileConverter = (file, hero) => {
         return handMap
     })
 
-    console.log(singleHand)
     return singleHand
 }
