@@ -62,6 +62,8 @@ const HandReplayerPage = () => {
   const river = hands[13]?.river
   const summary = hands[14]?.summary
 
+  const maxPlayers = hands
+
   const selectHand = id => {
     const listElement = document.getElementById(id)
     const allListElements = document.querySelectorAll(".listButton")
@@ -70,15 +72,15 @@ const HandReplayerPage = () => {
     classList.add("active")
 
     const handMeta = meta.find(elem => elem.handId === id)
-    const handSeat_1 = seat_1.find(elem => elem.handId === id)
-    const handSeat_2 = seat_2.find(elem => elem.handId === id)
-    const handSeat_3 = seat_3.find(elem => elem.handId === id)
-    const handSeat_4 = seat_4.find(elem => elem.handId === id)
-    const handSeat_5 = seat_5.find(elem => elem.handId === id)
-    const handSeat_6 = seat_6.find(elem => elem.handId === id)
-    const handSeat_7 = seat_7.find(elem => elem.handId === id)
-    const handSeat_8 = seat_8.find(elem => elem.handId === id)
-    const handSeat_9 = seat_9.find(elem => elem.handId === id)
+    const handSeat_1 = seat_1?.find(elem => elem.handId === id)
+    const handSeat_2 = seat_2?.find(elem => elem.handId === id)
+    const handSeat_3 = seat_3?.find(elem => elem.handId === id)
+    const handSeat_4 = seat_4?.find(elem => elem.handId === id)
+    const handSeat_5 = seat_5?.find(elem => elem.handId === id)
+    const handSeat_6 = seat_6?.find(elem => elem.handId === id)
+    const handSeat_7 = seat_7?.find(elem => elem.handId === id)
+    const handSeat_8 = seat_8?.find(elem => elem.handId === id)
+    const handSeat_9 = seat_9?.find(elem => elem.handId === id)
     const handPreflop = preflop.find(elem => elem.handId === id)
     const handFlop = flop.find(elem => elem.handId === id)
     const handTurn = turn.find(elem => elem.handId === id)
