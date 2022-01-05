@@ -4,8 +4,6 @@ import { Switch } from "@react-md/form"
 
 import { OverviewTable } from "./OverviewTable"
 import { ResponsiveLineContainer } from "./config"
-import { Filters } from "../../../../components/Filters/Filters"
-
 import Spinner from "../../../../components/Spinner/Spinner"
 
 import "./styles.scss"
@@ -13,8 +11,6 @@ import "./styles.scss"
 const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
     const [toggleRakeback, setToggleRakeback] = useState(false)
     const [toggleBounties, setToggleBounties] = useState(false)
-    const [toggleFilter, setToggleFilter] = useState(false)
-    const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
   
     if (!tournaments) isLoading = true
     return (
@@ -25,13 +21,13 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                 <div className="overViewTable">
                     <OverviewTable 
                         allTournamentsAmount={tournaments.length}
-                        filteredTournaments={filteredTournaments} 
+                        filteredTournaments={tournaments} 
                         rakebackData={rakebackData} 
                     />
                 </div>
                 <div className="graph_wrapper">
                     <ResponsiveLineContainer 
-                        filteredTournaments={filteredTournaments}
+                        filteredTournaments={tournaments}
                         allTournamentsAmount={tournaments.length}
                         rakebackData={rakebackData}
                         toggleBounties={toggleBounties}
@@ -50,22 +46,6 @@ const ResultsGraph = ({tournaments, rakebackData, isLoading}) => {
                         name="bounty-switcher" 
                         label={!toggleBounties ? "Show Bounties" : "Hide Bounties"}
                         onChange={() => setToggleBounties(!toggleBounties)} 
-                    />
-                    <Switch 
-                        id="filter-switcher" 
-                        name="filter-switcher" 
-                        label={!toggleFilter ? "Show Filter" : "Hide Filter"}
-                        onChange={() => setToggleFilter(!toggleFilter)} 
-                    />
-                    </div>
-                <hr />
-                <div className={`filter_list ${toggleFilter ? "active" : ""}`}>
-                   <Filters 
-                    allTournaments={tournaments} 
-                    filteredTournaments={filteredTournaments} 
-                    setFilteredTournaments={setFilteredTournaments}
-                    hasBuyInSlider
-                    hasEntrantsSlider
                     />
                 </div>
             </>   
