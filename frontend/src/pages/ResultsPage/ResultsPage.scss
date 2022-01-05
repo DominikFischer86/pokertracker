@@ -1,0 +1,28 @@
+div.filter_list {
+    max-height: 0px;
+    overflow: hidden;
+    transition: all .2s ease;
+    pointer-events: none;
+    opacity: 0;
+    margin-bottom: 0;
+
+    &.active {
+        max-height: 300px;
+        pointer-events: auto;
+        overflow: visible;
+        opacity: 1;
+    }
+}
+
+.subheader {
+    display: flex;
+    align-items: center;
+
+    > div {
+        display: flex;
+    }
+
+    p {
+        margin: 0 1rem 0 0;
+    }
+}
