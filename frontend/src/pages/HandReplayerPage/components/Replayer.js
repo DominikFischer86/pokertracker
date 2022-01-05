@@ -7,6 +7,8 @@ import Spinner from "../../../components/Spinner/Spinner"
 import { MetaContext } from "../../../index"
 
 import Seat from "./Seat"
+import Cards from "./Cards"
+import { createStory } from "../helper"
 
 import "./styles/Replayer.scss"
 
@@ -25,6 +27,12 @@ const Replayer = ({tournament, activeHand}) => {
   const initialPot = smallBlind + bigBlind + ante * activePlayers
   let pot = initialPot
   const potInBb = parseFloat(pot / bigBlind).toFixed(1)
+
+  const story = createStory(activeHand)
+  console.log(activeHand)
+  console.log(story)
+
+  const board = null
 
   return (
     <div className="replayer">
@@ -58,22 +66,29 @@ const Replayer = ({tournament, activeHand}) => {
               const seat = "seat_" + position.split("seat_")[1]
 
               return (
-                <Seat 
-                  key={position} 
-                  seat={seat} 
-                  seatedPlayer={activeHand[position]}
-                  toggleBlindUnits={toggleBlindUnits}
-                  toggleNames={toggleNames}
-                  heroName={heroName}
-                  bigBlind={bigBlind}
-                  initialPot={initialPot}
-                  activePlayers={activePlayers}
-                  maxPlayers={maxPlayers}
-                  playerAction={""}
-                  bet={0}
-                />
+                  <Seat 
+                    key={position} 
+                    seat={seat} 
+                    seatedPlayer={activeHand[position]}
+                    toggleBlindUnits={toggleBlindUnits}
+                    toggleNames={toggleNames}
+                    heroName={heroName}
+                    bigBlind={bigBlind}
+                    initialPot={initialPot}
+                    activePlayers={activePlayers}
+                    maxPlayers={maxPlayers}
+                    playerAction={""}
+                    playerHand={"As Ah"}
+                    bet={0}
+                  />
               )
-            })}          
+            })}
+            {board &&
+               <p className="board">
+               {board.map((card, index) => <Cards key={index} card={card} />
+               )}
+             </p>
+            }
         </div>
       </div>
     </div>

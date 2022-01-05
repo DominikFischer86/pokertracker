@@ -41,7 +41,7 @@
           z-index: 2;
           color: #fff;
           left: 50%;
-          top: calc(50% - 30px);
+          top: calc(50% + 30px);
           transform: translate(-50%, -50%);
           background: rgba(0,0,0,.5);
           border-radius: 10px;
@@ -49,7 +49,7 @@
         }
 
         .ante {
-          top: calc(50% + 30px);
+          top: calc(50% + 65px);
         }
 
         &:before {
@@ -81,6 +81,21 @@
           mix-blend-mode: multiply;
           transform: translate(-38%, -50%);
           pointer-events: none;
+        }
+      }
+
+      .board {
+        display: flex;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -85px);
+
+        img {
+          width: 45px;
+          height: 70px;
+          margin: 0 .25rem;
+          filter: hue-rotate(30deg);
         }
       }
     }
