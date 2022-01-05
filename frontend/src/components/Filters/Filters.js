@@ -5,12 +5,16 @@ import { BuyInSlider } from "./components/BuyInSlider"
 import { EntrantsSlider } from "./components/EntrantsSlider"
 import { DateRangePicker } from "./components/DateRangePicker"
 
+import { createFolders } from "../../pages/ResultsPage/helpers"
+
 export const Filters = ({
         allTournaments, 
         filteredTournaments, 
         setFilteredTournaments,
         hasBuyInSlider,
-        hasEntrantsSlider
+        hasEntrantsSlider,
+        setSortedTournaments,
+        setDateFormattedTournaments
     }) => {
     const [activeFilters, setActiveFilters] = useState([])
 
@@ -60,6 +64,9 @@ export const Filters = ({
         }
         
         setFilteredTournaments(filterResult)
+        if (setSortedTournaments && setDateFormattedTournaments){
+            createFolders(filterResult, setSortedTournaments, setDateFormattedTournaments)
+        }
     }
 
 
@@ -96,5 +103,7 @@ Filters.propTypes = {
     filteredTournaments: oneOfType([object,array]),
     setFilteredTournaments: func,
     hasBuyInSlider: bool,
-    hasEntrantsSlider: bool
+    hasEntrantsSlider: bool,
+    setSortedTournaments: func,
+    setDateFormattedTournaments: func
 }
