@@ -13,6 +13,23 @@ div.stackWrapper {
     box-shadow: 0 0 10px #fff;
     filter: hue-rotate(30deg);
 
+        
+    .holeCards {
+      position: absolute;
+      z-index: -10;
+      left: 50%;
+      top: -60px;
+      transform: translateX(-62px);
+      
+
+      img {
+        width: 65px;
+        height: 90px;
+        margin: 0 .25rem;
+        filter: hue-rotate(30deg);
+      }
+    }
+
     div.smallBlind, div.bigBlind, div.bet {
       position: absolute;
       display: flex;
