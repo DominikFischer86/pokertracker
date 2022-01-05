@@ -2,10 +2,24 @@ import React from "react"
 import { object, string, bool, number } from "prop-types"
 
 import Stack from "./Stack"
+import Cards from "./Cards"
 
 import "./styles/Seat.scss"
 
-const Seat = ({seat, seatedPlayer, toggleBlindUnits, toggleNames, heroName, bigBlind, initialPot, activePlayers, maxPlayers, bet, playerAction}) => {
+const Seat = ({
+    seat, 
+    seatedPlayer, 
+    toggleBlindUnits, 
+    toggleNames, 
+    heroName, 
+    bigBlind, 
+    initialPot, 
+    activePlayers,
+    maxPlayers,
+    bet, 
+    playerAction,
+    playerHand
+}) => {
     if (!seatedPlayer) {
         return (
             <div className={`seat seat_empty ${seat}`}>
@@ -48,8 +62,18 @@ const Seat = ({seat, seatedPlayer, toggleBlindUnits, toggleNames, heroName, bigB
 
     return (
         <div className={`seat ${playerSeat} ${positionClass}`}>
+            {playerHand 
+                ? playerHand.split(" ").map((card, index) => {
+                    return (
+                        <div className="holeCards" key={card} style={{ marginLeft: index * 55 + "px"}}>
+                            <Cards card={card} />) 
+                        </div>
+                    )
+                })
+                : null}    
             <p className="playerPosition">{playerPosition}</p>       
             <p className="playerName">{toggleNames ? newName : playerName}</p>
+            
             {playerOutOfHand && 
                 <p className="playerStack">Out of hand</p>
             }
@@ -93,7 +117,8 @@ Seat.propTypes = {
     activePlayers: number,
     maxPlayers: number,
     bet: number,
-    playerAction: string
+    playerAction: string,
+    playerHand: string
 }
 
 export default Seat
