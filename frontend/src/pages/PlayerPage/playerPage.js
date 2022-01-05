@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
-import { Switch } from "@react-md/form"
 import axios from "axios"
 
+import { Switch } from "@react-md/form"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
 import Spinner from "../../components/Spinner/Spinner"
