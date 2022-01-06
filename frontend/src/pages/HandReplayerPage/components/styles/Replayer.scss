@@ -14,6 +14,52 @@
           font-weight: bold;
           color: #fff;
           text-shadow: 0 0 5px #000;
+          
+          &.replaySlider {
+            flex-grow: 1;
+            font-weight: normal;
+            padding: 0 1rem;
+            margin: 0 1rem;
+            display: flex;
+            align-items: center;
+            border: 2px solid rgba(#fff,.25);
+            position: relative;
+            top: -11px;
+
+            > span {
+
+              &.prev, &.next {
+                position: relative;
+                top: -1rem;
+                cursor: pointer;
+                color: #aaa;
+                transition: all .2s ease;
+
+                &.disabled {
+                  pointer-events: none;
+
+                  &:hover {
+                    color: #aaa;
+                  }
+                }
+
+                &:hover {
+                  color: #fff;
+                }
+              }
+
+              &:nth-child(2) {
+                width: 100%;
+                position: relative;
+                top: 1rem;
+                padding: 0 2rem 2rem 2rem;
+
+                .rs-slider-mark-content {
+                  font-size: 12px;
+                }
+              }
+            }
+          }
         }
       }
 
@@ -24,7 +70,7 @@
         height: 500px;
         position: absolute;
         left: 50%;
-        top: calc(50% + 20px);
+        top: calc(50% + 60px);
         transform: translate(-50%, -50%);
         border-radius: 10px;
         margin: 0;

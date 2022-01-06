@@ -2,6 +2,8 @@ import React, { useState, useContext } from "react"
 import { object, array } from "prop-types"
 
 import { Switch } from "@react-md/form"
+import Slider from "rsuite/Slider"
+import { FaStepBackward, FaStepForward } from "react-icons/fa"
 
 import Spinner from "../../../components/Spinner/Spinner"
 import { MetaContext } from "../../../index"
@@ -10,11 +12,13 @@ import Seat from "./Seat"
 import Cards from "./Cards"
 import { createStory } from "../helper"
 
+import './styles/Slider.scss'
 import "./styles/Replayer.scss"
 
 const Replayer = ({tournament, activeHand}) => {
   const [toggleBlindUnits, setToggleBlindUnits] = useState(false)
   const [toggleNames, setToggleNames] = useState(false)
+  const [sliderValue, setSliderValue] = useState(0)
 
   const maxPlayers =  tournament[0].playerAmount
 
@@ -29,10 +33,29 @@ const Replayer = ({tournament, activeHand}) => {
   const potInBb = parseFloat(pot / bigBlind).toFixed(1)
 
   const story = createStory(activeHand)
-  console.log(activeHand)
   console.log(story)
 
   const board = null
+
+  const sliderMax = story.length - 1
+
+  let flopIndex = story.indexOf(story.find(item => item["flop"]))
+  if (flopIndex < 0) flopIndex = null
+
+  let turnIndex = story.indexOf(story.find(item => item["turn"]))
+  if (turnIndex < 0) turnIndex = null
+
+  let riverIndex = story.indexOf(story.find(item => item["river"]))
+  if (riverIndex < 0) riverIndex = null
+
+  let summaryIndex = story.indexOf(story.find(item => item["summary"]))
+  if (summaryIndex < 0) summaryIndex = parseFloat(sliderMax-1)
+
+  document.querySelector(".prev").classList.remove("disabled")
+  document.querySelector(".next").classList.remove("disabled")
+
+  if (sliderValue < 0) document.querySelector(".prev").classList.add("disabled")
+  if (sliderValue > sliderMax) document.querySelector(".next").classList.add("disabled")
 
   return (
     <div className="replayer">
@@ -56,6 +79,34 @@ const Replayer = ({tournament, activeHand}) => {
         <div className="metaBar">
               {ante > 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind} - Ante: {ante}</p>}
               {ante === 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind}</p>}
+              <p className="replaySlider">
+                <span className="prev"><FaStepBackward onClick={() => setSliderValue(sliderValue-1)} /></span>
+                <span>
+                <Slider 
+                  defaultValue={sliderValue}
+                  value={sliderValue}
+                  min={0} 
+                  step={1} 
+                  max={sliderMax} 
+                  graduated 
+                  progress
+                  onChange={value => {
+                    setSliderValue(value);
+                  }}
+                  renderMark={mark => {
+                    if ([0, flopIndex, turnIndex, riverIndex, summaryIndex].includes(mark)) {
+                      if (mark === 0) return <span title="Preflop">PF</span>
+                      if (mark === flopIndex) return <span title="Flop">F</span>
+                      if (mark === turnIndex) return <span title="Turn">T</span>
+                      if (mark === riverIndex) return <span title="River">R</span>
+                      if (mark === summaryIndex) return <span title="Summary">Sum</span>
+                    }
+                    return null;
+                  }}
+                />
+                </span>
+                <span className="next"><FaStepForward onClick={() => setSliderValue(sliderValue+1)} /></span>
+              </p>              
               <p>Time: {date} - {time}</p>
         </div>
         <div className="table">
@@ -78,7 +129,7 @@ const Replayer = ({tournament, activeHand}) => {
                     activePlayers={activePlayers}
                     maxPlayers={maxPlayers}
                     playerAction={""}
-                    playerHand={"As Ah"}
+                    playerHand={"null nill"}
                     bet={0}
                   />
               )
