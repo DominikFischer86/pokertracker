@@ -61,7 +61,7 @@ const Seat = ({
     }
 
     return (
-        <div className={`seat ${playerSeat} ${positionClass}`}>
+        <div className={`seat ${playerSeat} ${positionClass}`}>            
             {playerHand 
                 ? playerHand.split(" ").map((card, index) => {
                     return (
@@ -70,7 +70,8 @@ const Seat = ({
                         </div>
                     )
                 })
-                : null}    
+                : null}
+            <div className="seatBox"></div>
             <p className="playerPosition">{playerPosition}</p>       
             <p className="playerName">{toggleNames ? newName : playerName}</p>
             

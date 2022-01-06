@@ -3,23 +3,39 @@ div.stackWrapper {
 }
 
 .seat {
-    background-image: radial-gradient(farthest-corner at 100px -100px,#888 0%, #000 100%);
-    border-radius: 50px;
-    border: 5px solid #000;
-    text-align: center;
     min-width: 200px;
     max-width: 300px;
     position: absolute;
-    box-shadow: 0 0 10px #fff;
     filter: hue-rotate(30deg);
+    text-align: center;
+
+    
+    .seatBox {
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      text-align: center;
+      border: 5px solid #000;
+      border-radius: 50px;
+      background-image: radial-gradient(farthest-corner at 100px -100px,#888 0%, #000 100%);
+      box-shadow: 0 0 10px #fff;
+      z-index: -1;
+    }
 
         
     .holeCards {
       position: absolute;
       z-index: -10;
       left: 50%;
-      top: -60px;
-      transform: translateX(-62px);
+      top: 0;
+      transform: translate(-62px, -40px);
+      transition: all .25s ease;
+
+      &:hover {
+        transform: translate(-62px, -50px);
+      }
       
 
       img {
@@ -92,9 +108,15 @@ div.stackWrapper {
       }
     }
 
-    &.folded, &.seat_empty {
-      box-shadow: none;
+    &.folded, &.seat_empty {      
       opacity: .5;
+      position: absolute;
+      text-align: center;
+      border: 5px solid #000;
+      border-radius: 50px;
+      background-image: radial-gradient(farthest-corner at 100px -100px,#888 0%, #000 100%);
+      box-shadow: none;
+      z-index: -1;
 
       p.playerName, p.playerStack {
         opacity: .15;
@@ -337,7 +359,7 @@ div.stackWrapper {
 
       div.smallBlind, div.bigBlind, div.bet {
         left: 140px;
-        top: -40px;
+        top: -70px;
       }
 
       @media only screen and (max-width: 1280px) {
