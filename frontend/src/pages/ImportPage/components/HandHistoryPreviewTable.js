@@ -4,6 +4,8 @@ import { Button } from "react-md"
 import { FaCheck } from "react-icons/fa"
 
 const HandHistoryPreviewTable = ({ handHistoryMap, isSubmitted, isReadyToSubmit, submitHandData, heroName }) => {
+    if (!handHistoryMap) return null
+   
     return (
         <div className="border mt-2 p-2">
             <div className="formNav">
