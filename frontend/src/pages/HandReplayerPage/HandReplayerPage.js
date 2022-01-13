@@ -1,6 +1,10 @@
 import React, { useState, useEffect } from "react"
 import axios from "axios"
 
+import { Button } from "@react-md/button"
+import { FaList } from "react-icons/fa"
+
+
 import Spinner from "../../components/Spinner/Spinner"
 
 import HandList from "./components/HandList"
@@ -104,23 +108,31 @@ const HandReplayerPage = () => {
     setActiveHand(selectedHand)
   }
 
-  const slideNav = () => {
-    setSlideNavToggle(slideNavToggle => !slideNavToggle)
-  }
-
   return (
     <div>
+      <div className="headerNav">
       <h1>Hand Replayer (Tournament: #{tournamentId})</h1>
+      <Button
+          id="handList-button"
+          buttonType="icon"
+          onClick={() => setSlideNavToggle(!slideNavToggle)}
+          theme="primary"
+          themeType="contained"
+          title="Open hand selection"
+        >
+          <FaList />
+      </Button>
+      </div>
       <hr />
       {!hands[0]?.meta &&
         <Spinner message="No data found" />
       }
       {hands[0]?.meta &&
       <div className="row">
-          <div id="nav-column" className={`${slideNavToggle ? "col-lg-3 smooth" : "col-lg-3 smooth leftToggled"}`}>
-            <HandList hands={hands} selectHand={selectHand} slideNav={slideNav} slideNavToggle={slideNavToggle} />
+          <div id="nav-column" className={slideNavToggle ? "" : "toggled"}>
+              <HandList hands={hands} selectHand={selectHand} setSlideNavToggle={setSlideNavToggle} slideNavToggle={slideNavToggle} onClick={() => setSlideNavToggle(!slideNavToggle)} />
           </div>
-          <div id="player-column" className={`${slideNavToggle ? "col-lg-9 smooth" : "col-lg-9 smooth rightToggled"}`}>
+          <div id="player-column">
             <Replayer tournament={tournament} activeHand={activeHand} />
           </div>
       </div>

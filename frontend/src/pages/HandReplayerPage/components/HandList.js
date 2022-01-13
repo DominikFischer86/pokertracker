@@ -1,12 +1,14 @@
 import React from "react"
 import { array, func, bool } from "prop-types"
 
+import { Button } from "@react-md/button"
+import { FaChevronRight } from "react-icons/fa"
+
 import { prettyHolecards } from "../../../helpers/prettyHolecards"
-import { FaSortDown } from "react-icons/fa"
 
 import "./styles/HandList.scss"
 
-const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
+const HandList = ({hands, selectHand, slideNavToggle, setSlideNavToggle }) => {
   const meta = hands[0].meta
   const preflop = hands[10].preflop
 
@@ -14,7 +16,16 @@ const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
     <div className="handList">
       <div className="headerNav">
         <h2>Hands</h2>
-        <button onClick={slideNav} className={slideNavToggle ? "" : "toggled"}><FaSortDown /></button>
+        <Button
+          id="handList-button"
+          buttonType="icon"
+          onClick={() => setSlideNavToggle(!slideNavToggle)}
+          theme="primary"
+          themeType="contained"
+          title="Close hand selection"
+        >
+          <FaChevronRight />
+      </Button>
       </div>
       <hr />
       <ul>
@@ -28,9 +39,9 @@ const HandList = ({hands, selectHand, slideNav, slideNavToggle}) => {
           const matcher = /[A,K,Q,J,T]|[2-9]/g
 
           return (
-            <li key={handId} id={handId} className={slideNavToggle ? "listButton" : "listButton"} onClick={() => selectHand(handId)}>
-              <p className={slideNavToggle ? "" : "toggled"}>#{index+1}</p>
-              <p className={slideNavToggle ? "" : "toggled"}>{handId}</p>
+            <li key={handId} id={handId} className="listButton" onClick={() => selectHand(handId)}>
+              <p className="">#{index+1}</p>
+              <p className="">{handId}</p>
               <p><span className={cardA.split(matcher)[1]}>{prettyCardA}</span><span className={cardB.split(matcher)[1]}>{prettyCardB}</span></p>
             </li>
           )
@@ -44,7 +55,8 @@ HandList.propTypes = {
   hands: array,
   selectHand: func,
   slideNav: func,
-  slideNavToggle: bool
+  slideNavToggle: bool,
+  setSlideNavToggle: func
 }
 
 export default HandList

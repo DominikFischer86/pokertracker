@@ -3,6 +3,12 @@ h2 {
   font-size: 1.5rem;
 }
 
+.headerNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .titleWrapper {
   display: flex;
   justify-content: space-between;
@@ -18,6 +24,23 @@ div.rightToggled {
 
 #player-column {
   position: relative;
+  height: calc(100vh - 100px);
+}
+
+#nav-column {
+  position: fixed;
+  height: 100%;
+  right: 0;
+  top: 0;
+  z-index: 10000;
+  max-width: 320px;
+  background: #fff;
+  border-left: 2px solid rgba(#000,.25);
+  transition: all .5s ease;
+
+  &.toggled {
+    transform: translateX(320px);
+  }
 }
 
 .smooth {
