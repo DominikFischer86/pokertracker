@@ -161,7 +161,7 @@ const ImportPage = () => {
             const lastHand = handHistory[handHistoryLength-1]
             const initialBounty = lastHand["1_meta"]?.buyInBountyAmount
             const bounty = Object.values(lastHand["2_seats"])?.find(seat => seat.playerName === heroName).playerBounty
-            const finalBounty = parseFloat(bounty - initialBounty).toFixed(2)
+            const finalBounty = parseFloat(bounty - initialBounty)
             const tournamentId = handHistory.find(hand => hand["1_meta"].tournamentId)["1_meta"].tournamentId
 
             const tournamentExists = hands.some(element => element.meta[0].tournamentId === tournamentId)
