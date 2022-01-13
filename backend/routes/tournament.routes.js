@@ -73,13 +73,24 @@ module.exports = app => {
     app.delete("/tournament/:id", (req, res) => {
         const id = req.params.id
 
-        Tournament.findOneAndDelete({ tournamentId: id}, (req, res, err) => {
-            if (!err) {
-                console.log("Tournament deleted")
-            } else {
-                console.log(err)
-            }
-        })
+        Tournament.findOneAndDelete({ tournamentId: id})
+        .then(() => HandHistory.Meta.findOneAndDelete({"meta.tournamentId": id}))
+        .then(() => HandHistory.Seat_1.findOneAndDelete({"seat_1.tournamentId": id}))
+        .then(() => HandHistory.Seat_2.findOneAndDelete({"seat_2.tournamentId": id}))
+        .then(() => HandHistory.Seat_3.findOneAndDelete({"seat_3.tournamentId": id}))
+        .then(() => HandHistory.Seat_4.findOneAndDelete({"seat_4.tournamentId": id}))
+        .then(() => HandHistory.Seat_5.findOneAndDelete({"seat_5.tournamentId": id}))
+        .then(() => HandHistory.Seat_6.findOneAndDelete({"seat_6.tournamentId": id}))
+        .then(() => HandHistory.Seat_7.findOneAndDelete({"seat_7.tournamentId": id}))
+        .then(() => HandHistory.Seat_8.findOneAndDelete({"seat_8.tournamentId": id}))
+        .then(() => HandHistory.Seat_9.findOneAndDelete({"seat_9.tournamentId": id}))
+        .then(() => HandHistory.Preflop.findOneAndDelete({"preflop.tournamentId": id}))
+        .then(() => HandHistory.Flop.findOneAndDelete({"flop.tournamentId": id}))
+        .then(() => HandHistory.Turn.fifindOneAndDeletend({"turn.tournamentId": id}))
+        .then(() => HandHistory.River.findOneAndDelete({"river.tournamentId": id}))
+        .then(() => HandHistory.Summary.findOneAndDelete({"summary.tournamentId": id}))
+        .then(res.status(200).json("Removed tournament and hand history for #" + id))
+        .catch(err => res.status(400).json("Error: " + err))
     })
 
     // update route
