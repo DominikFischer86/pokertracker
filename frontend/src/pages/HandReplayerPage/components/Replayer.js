@@ -10,7 +10,7 @@ import { MetaContext } from "../../../index"
 
 import Seat from "./Seat"
 import Cards from "./Cards"
-import { createStory } from "../helper"
+import { createStory, createReplayerStory } from "../helper"
 
 import './styles/Slider.scss'
 import "./styles/Replayer.scss"
@@ -33,7 +33,10 @@ const Replayer = ({tournament, activeHand}) => {
   const potInBb = parseFloat(pot / bigBlind).toFixed(1)
 
   const story = createStory(activeHand)
-  console.log(story)
+
+  const replayerStory = createReplayerStory(activeHand, story)
+
+  console.log(replayerStory)
 
   const board = null
 
@@ -51,8 +54,8 @@ const Replayer = ({tournament, activeHand}) => {
   let summaryIndex = story.indexOf(story.find(item => item["summary"]))
   if (summaryIndex < 0) summaryIndex = parseFloat(sliderMax-1)
 
-  document.querySelector(".prev").classList.remove("disabled")
-  document.querySelector(".next").classList.remove("disabled")
+  document.querySelector(".prev")?.classList.remove("disabled")
+  document.querySelector(".next")?.classList.remove("disabled")
 
   if (sliderValue < 0) document.querySelector(".prev").classList.add("disabled")
   if (sliderValue > sliderMax) document.querySelector(".next").classList.add("disabled")
@@ -79,7 +82,7 @@ const Replayer = ({tournament, activeHand}) => {
         <div className="metaBar">
               {ante > 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind} - Ante: {ante}</p>}
               {ante === 0 && <p>Level: {level} - Blinds: {smallBlind}/{bigBlind}</p>}
-              <p className="replaySlider">
+              <div className="replaySlider">
                 <span className="prev"><FaStepBackward onClick={() => setSliderValue(sliderValue-1)} /></span>
                 <span>
                 <Slider 
@@ -106,7 +109,7 @@ const Replayer = ({tournament, activeHand}) => {
                 />
                 </span>
                 <span className="next"><FaStepForward onClick={() => setSliderValue(sliderValue+1)} /></span>
-              </p>              
+              </div>              
               <p>Time: {date} - {time}</p>
         </div>
         <div className="table">
@@ -129,7 +132,7 @@ const Replayer = ({tournament, activeHand}) => {
                     activePlayers={activePlayers}
                     maxPlayers={maxPlayers}
                     playerAction={""}
-                    playerHand={"null nill"}
+                    playerHand={". ,"}
                     bet={0}
                   />
               )
