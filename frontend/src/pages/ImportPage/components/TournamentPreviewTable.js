@@ -8,6 +8,7 @@ import { formFields } from "../helpers"
 
 const TournamentPreviewTable = ({ tournamentMap, isSubmitted, submitData, isReadyToSubmit }) => {
     const tabs = ["Table", "JSON"]
+    if (!tournamentMap) return null
 
     return (
         <div className="border mt-2 p-2">
