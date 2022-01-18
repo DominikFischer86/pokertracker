@@ -9,6 +9,7 @@
     "@nivo/pie": "^0.75.0",
     "@react-md/expansion-panel": "^3.1.0",
     "@react-md/tabs": "^3.1.1",
+    "@react-spring/three": "^9.4.2",
     "@react-three/drei": "^8.4.0",
     "@react-three/fiber": "^7.0.24",
     "@testing-library/jest-dom": "^5.11.4",
