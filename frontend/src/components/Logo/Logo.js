@@ -1,5 +1,5 @@
 import React from "react"
-import logoImage from "../../images/backgrounds/StarsTracker-LogoConcept-2-light.png"
+import logoImage from "../../images/logos/StarsTracker-logo-light-wide.svg"
 
 const Logo = () => {
   return <img src={logoImage} />

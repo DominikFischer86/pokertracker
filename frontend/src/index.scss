@@ -10,7 +10,7 @@
 
 nav {
     &.navbar {
-        padding: 0 1rem;
+        padding: .5rem 1rem;
         justify-content: space-between;
 
         .navbar-nav {
@@ -24,10 +24,10 @@ nav {
     }
 
     .navbar-brand {
-        max-width: 80px;
+        max-width: 125px;
 
-        img {
-            width: 100%;
+        img, svg {
+            width: 125px;
         }
     }
 
