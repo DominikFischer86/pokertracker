@@ -1,15 +1,17 @@
 import React, { useContext } from "react"
 import { NavLink } from "react-router-dom"
+
 import { MetaContext } from "../../index"
+import Logo from "../Logo/Logo"
 
 
 const Navbar = () => {
-    const { heroName, appName } = useContext(MetaContext)
+    const { heroName } = useContext(MetaContext)
 
     return (
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a href="/" className="navbar-brand">
-          {appName}
+          <Logo />
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">

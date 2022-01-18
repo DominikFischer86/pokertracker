@@ -10,7 +10,7 @@
 
 nav {
     &.navbar {
-        padding: 1rem;
+        padding: 0 1rem;
         justify-content: space-between;
 
         .navbar-nav {
@@ -20,6 +20,14 @@ nav {
         .hero {
             color: #fff;
             margin: 0;
+        }
+    }
+
+    .navbar-brand {
+        max-width: 80px;
+
+        img {
+            width: 100%;
         }
     }
 
