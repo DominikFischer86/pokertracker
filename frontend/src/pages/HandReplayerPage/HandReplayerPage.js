@@ -1,10 +1,11 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
+import { Helmet } from 'react-helmet'
 
 import { Button } from "@react-md/button"
 import { FaList } from "react-icons/fa"
 
-
+import { MetaContext } from "../../index"
 import Spinner from "../../components/Spinner/Spinner"
 
 import HandList from "./components/HandList"
@@ -19,6 +20,7 @@ const HandReplayerPage = () => {
   const [slideNavToggle, setSlideNavToggle] = useState(true)
 
   const tournamentId =  window.location.pathname.split("/")[2]
+  const { appName } = useContext(MetaContext)
   const getHandsOfTournamentUrl = "http://localhost:3001/hand-histories-for-tournament/" + tournamentId
 
   useEffect(() => {
@@ -111,7 +113,10 @@ const HandReplayerPage = () => {
   return (
     <div>
       <div className="headerNav">
-      <h1>Hand Replayer (Tournament: #{tournamentId})</h1>
+      <h1>{`Hand Replayer (Tournament: #${tournamentId})`}</h1>
+      <Helmet>
+        <title>{`${appName} - Hand Replayer`}</title>
+      </Helmet>
       <Button
           id="handList-button"
           buttonType="icon"

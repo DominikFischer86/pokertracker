@@ -20,7 +20,7 @@ import { HandFilePicker } from "./components/HandFilePicker"
 import "./ImportPage.scss"
 
 const ImportPage = () => {
-    const { heroName } = useContext(MetaContext)
+    const { heroName, appName } = useContext(MetaContext)
 
     const [tournaments, setTournaments] = useState([])
     const [tournamentMap, setTournamentMap] = useState({})
@@ -68,6 +68,7 @@ const ImportPage = () => {
         } catch (e) {
             console.log(e)
         }
+        document.title = `${appName} - Import Page`
     }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl, killDataUrl])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({

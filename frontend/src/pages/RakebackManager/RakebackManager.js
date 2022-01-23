@@ -9,7 +9,7 @@ import { ImportConfirmationModal } from "../../components/Modals/ImportConfirmat
 
 const RakebackManager = () => {
     const url = "http://localhost:3001/rakeback/"
-    const { heroName } = useContext(MetaContext)
+    const { heroName, appName } = useContext(MetaContext)
 
     const [data, setData] = useState([])
     const [confirmationModalIsOpen, setConfirmationModalIsOpen] = useState(false)
@@ -29,6 +29,7 @@ const RakebackManager = () => {
 
     useEffect(() => {
         fetchData()
+        document.title = `${appName} - Rakeback Manager`
     }, [refetch])
 
     const openModal = () => {

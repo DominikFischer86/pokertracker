@@ -34,9 +34,9 @@ const Replayer = ({tournament, activeHand}) => {
 
   const story = createStory(activeHand)
 
-  const replayerStory = createReplayerStory(activeHand, story)
+  const replayerStory = createReplayerStory(activeHand, story, heroName)
 
-  console.log(replayerStory)
+  // console.log(replayerStory)
 
   const board = null
 
