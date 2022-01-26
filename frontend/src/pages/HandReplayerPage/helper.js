@@ -20,7 +20,7 @@ export const createStory = activeHand => {
     return story
 }
 
-export const createReplayerStory = (activeHand, story) => {
+const createInitialReplayerStoryState = activeHand => {
     const allSeats = Object.keys(activeHand).filter(key => key.includes("seat"))
     const initialState = allSeats.map((seat, index) => {
         
@@ -38,32 +38,92 @@ export const createReplayerStory = (activeHand, story) => {
             playerBigBlind: activeHand[seat]?.playerBigBlind,
             playerAction: "",
             playerBet: 0,
-            board: null
+            board: null,
+            step: ""
         }
     })})
-    const filteredInitialState = initialState.filter(state => state !== null)
-    let completeStory = []
-    let updatedState = filteredInitialState
-    // console.log(story)
 
-    story.forEach((chapter, index) => {
-        // add and update (enemy) hole cards
-        if (Object.keys(chapter).includes("holeCards")) Object.keys(filteredInitialState).map((seat, i) => {
-            const seatNumber = parseFloat(seat)+1
-            console.log(updatedState)
-            // if (updatedState["seat_" + seatNumber].playerName === "KeinKönich")
+    const filteredInitialState = initialState.filter(state => state !== null)
+
+    return filteredInitialState
+}
+
+export const createReplayerStory = (activeHand, story, heroName) => {
+    let completeStory = []
+    let updatedState = createInitialReplayerStoryState(activeHand)
+    const seats = updatedState.map((seat, i) => "seat_" + parseFloat(i+1))
+
+    story.map((chapter, index) => {
+        const completeChapter = {
+            playerSeat: "",
+            playerName: "",
+            playerHand: ". ,",
+            playerAction: "",
+            playerBet: 0,
+            board: null,
+            step: ""
+        }
+        // add and update hero hole cards
+        let flopChapter, turnChapter, riverChapter, summaryChapter
+        
+        if (Object.keys(chapter).includes("holeCards")) seats.filter(() => {      
+            completeChapter.playerHand = chapter.holeCards
+            completeChapter.step = "Preflop"
         })
 
-        // add actions
+       // console.log(index, chapter)
+        
+        if(Object.keys(chapter).includes("flop")) flopChapter = index
+        if(Object.keys(chapter).includes("turn")) turnChapter = index
+        if(Object.keys(chapter).includes("river")) riverChapter = index
+        if(Object.keys(chapter).includes("summary")) summaryChapter = index
 
-        // add betsizes
+        // add actions
+        if (chapter.length > 3) seats.filter((seat, i) => {
+            const seatNumber = "seat_" + parseFloat(i+1)
+ 
+            if (seatNumber === chapter[1]){
+                completeChapter.playerSeat = seatNumber
+                completeChapter.playerHand = chapter[2] === "folds" ? null : ". ,"
+                completeChapter.playerAction = chapter[2]
+                completeChapter.playerbet = chapter[3]
+                completeChapter.playerName = chapter[0]
+            }
+        })
 
         // add/update board
+        if (flopChapter === index) {
+            completeChapter.board = chapter.flop
+            completeChapter.step = "Flop"
+        }
+        if (turnChapter === index) {
+            completeChapter.board = chapter.turn
+            completeChapter.step = "Turn"
+        }
+        if (riverChapter === index)  {
+            completeChapter.board = chapter.river
+            completeChapter.step = "River"
+        }
+        if (summaryChapter === index) {
+            completeChapter.board = chapter.summary
+            completeChapter.step = "Summary"
+        }
 
+        const source = completeChapter
+        const target = updatedState.find(state => state[completeChapter.playerSeat]?.playerSeat === completeChapter.playerSeat)?.[completeChapter.playerSeat]
+        if (!target) return source
+        const targetIndex = target.playerSeat
+        const mergedChapter = {...target, ...source}
+        const createCompleteStory = updatedState.map(state => {
+            return {
+                ...state,
+                ...mergedChapter
+            }
+        })
+        console.log(createCompleteStory)
         
-        // console.log(chapter)
-        completeStory.push(updatedState)
+        completeStory.push({...updatedState})
     })
 
-    return null
+    return completeStory
 }
