@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
 
 import { Switch } from "@react-md/form"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
+import { MetaContext } from "../../index"
 import ResultsGraph from "./components/ResultsGraph/ResultsGraph"
 import ResultsFolder from "./components/ResultsFolder/ResultsFolder"
 import { Filters } from "../../components/Filters/Filters"
@@ -23,6 +24,7 @@ const ResultsPage = () => {
     const [toggleFilter, setToggleFilter] = useState(false)
     const [toggleHandFilter, setToggleHandFilter] = useState(false)
     const [filteredTournaments, setFilteredTournaments] = useState(tournaments)
+    const { appName } = useContext(MetaContext)
     
     const tabs = ["Folder", "Graphs"]
 
@@ -43,6 +45,7 @@ const ResultsPage = () => {
         } catch (e) {
             console.log(e)
         }
+        document.title = `${appName} - Tournament Results`
     }, [refetch])
 
     const onDelete =  id => {

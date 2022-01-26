@@ -1,14 +1,12 @@
-import React, { useContext } from "react"
+import React from "react"
 
-import Spinner from "../../components/Spinner/Spinner"
-import { MetaContext } from "../../index"
+import { BackgroundCoin } from "../../components/BackgroundCoin/BackgroundCoin"
 
 const HomePage = () => {
-    const { appName } = useContext(MetaContext)
 
     return (
         <div>
-           <Spinner message={appName} />
+            <BackgroundCoin />
         </div>
     )
 }
