@@ -1,14 +1,14 @@
-import React, { useContext } from "react"
+import React, { useEffect } from "react"
 
-import Spinner from "../../components/Spinner/Spinner"
-import { MetaContext } from "../../index"
+import { BackgroundCoin } from "../../components/BackgroundCoin/BackgroundCoin"
 
 const HomePage = () => {
-    const { appName } = useContext(MetaContext)
-
+    useEffect(() => {
+        document.title = "StarsTracker - Home"
+    }, [])
     return (
         <div>
-           <Spinner message={appName} />
+            <BackgroundCoin />
         </div>
     )
 }

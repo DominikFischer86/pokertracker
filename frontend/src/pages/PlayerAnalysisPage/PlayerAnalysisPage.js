@@ -14,7 +14,7 @@ import PlayerTable from "./components/PlayerTable"
 import "./playerAnalysisPage.scss"
 
 const PlayerAnalysisPage = () => {
-    const { heroName } = useContext(MetaContext)
+    const { heroName, appName } = useContext(MetaContext)
 
     const [isLoading, setIsLoading] = useState(true)
     const [players, setPlayers] = useState([])
@@ -39,7 +39,8 @@ const PlayerAnalysisPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [refetch])
+        document.title = `${appName} - Player Analysis`
+    }, [refetch, appName])
 
     const countPlayerCountries = players.reduce((allPlayers, country) => {
         const { playerCountry } = country

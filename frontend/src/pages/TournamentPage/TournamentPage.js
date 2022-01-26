@@ -7,7 +7,7 @@ import EditablePanels from "./components/EditablePanels"
 import PlayerPlacements from "./components/PlayerPlacements"
 
 const TournamentPage = () => {
-    const { heroName } = useContext(MetaContext)
+    const { heroName, appName } = useContext(MetaContext)
 
     const [tournament, setTournament] = useState([])
     const [players, setPlayers] = useState([])
@@ -23,6 +23,7 @@ const TournamentPage = () => {
         try {
              axios.get(getUrl)
                 .then(res => {
+                    document.title = `${appName} - Tournament #${res.data[0][0].tournamentId}`
                     setPlayerPosition(res.data[0][0].placements.find(element => element.playerName === heroName)?.finishPosition)
                     setTournament(res.data[0][0])
                     setFormState({
@@ -42,7 +43,7 @@ const TournamentPage = () => {
         } catch (e) {
             console.log(e)
         }
-    }, [refetch, getUrl, heroName])
+    }, [refetch, getUrl, heroName, appName])
 
     const handleChange = (property, e) => {
         setFormState(oldState => ({ ...oldState, [property]: e.target.value }))

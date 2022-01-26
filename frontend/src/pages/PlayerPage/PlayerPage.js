@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
 
 import { Switch } from "@react-md/form"
 import { TabsManager, Tabs, TabPanels, TabPanel } from "@react-md/tabs"
 
+import { MetaContext } from "../../index"
 import Spinner from "../../components/Spinner/Spinner"
 import { Filters } from "../../components/Filters/Filters"
 import { OverviewTable } from "../ResultsPage/components/ResultsGraph/OverviewTable"
@@ -18,18 +19,20 @@ const PlayerPage = () => {
     const tabs = ["Overview", "Tournaments", "Playing Times", "ITM"]
     const getUrl = "http://localhost:3001" + window.location.pathname
     const sngFilter = 18
+    const { appName } = useContext(MetaContext)
 
     useEffect(() => {
         try {
              axios.get(getUrl)
                 .then(res => {
+                    document.title = `${appName} - Player ${res.data[1]?.[0].playerName}`
                     setDatabase(res.data)
                     setFilteredTournaments(res.data[0])
                 })
          } catch (e) {
             console.log(e)
         }
-    }, [getUrl])
+    }, [getUrl, appName])
 
     const [database, setDatabase] = useState([])
     const [toggleResults, setToggleResults] = useState(false)
