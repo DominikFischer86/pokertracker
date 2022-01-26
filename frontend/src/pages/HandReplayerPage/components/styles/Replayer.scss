@@ -39,6 +39,7 @@
 
               &.disabled {
                 pointer-events: none;
+                opacity: .1;
 
                 &:hover {
                   color: #aaa;
@@ -116,12 +117,18 @@
         .appTitle {
           position: absolute;
           left: 50%;
-          top: 50%;
+          top: calc(50% - 40px);
           transform: translate(-50%, -50%);
           color: rgba(255,255,255, .5);
           font-weight: bold;
           text-decoration: lightskyblue;
           pointer-events: none;
+          width: 15vw;
+          max-width: 240px;
+          
+          img {
+            width: 100%;
+          }
         }
 
         .spinnerContainer {
@@ -136,12 +143,13 @@
         position: absolute;
         left: 50%;
         top: 50%;
-        transform: translate(-50%, -85px);
+        transform: translate(-50%, -80px);
+        background:  url("../../../../images/backgrounds/pool_table.png");
 
         img {
-          width: 45px;
-          height: 70px;
-          margin: 0 .25rem;
+          width: 50px;
+          height: 80px;
+          margin: 0 5px;
           filter: hue-rotate(30deg);
         }
       }
