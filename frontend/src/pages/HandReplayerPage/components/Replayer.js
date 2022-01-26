@@ -11,6 +11,7 @@ import { MetaContext } from "../../../index"
 import Seat from "./Seat"
 import Cards from "./Cards"
 import { createStory, createReplayerStory } from "../helper"
+import Logo from "../../../images/logos/StarsTracker-logo-light-wide.svg"
 
 import './styles/Slider.scss'
 import "./styles/Replayer.scss"
@@ -22,7 +23,7 @@ const Replayer = ({tournament, activeHand}) => {
 
   const maxPlayers =  tournament[0].playerAmount
 
-  const { heroName, appName } = useContext(MetaContext)
+  const { heroName } = useContext(MetaContext)
   if (Object.keys(activeHand).length < 1) return <Spinner message="Select a hand" />
   const { smallBlind, bigBlind, level, date, time, ante } = activeHand["1_meta"]
   const playerPositions = ["2_seat_1", "3_seat_2", "4_seat_3", "5_seat_4", "6_seat_5", "7_seat_6", "8_seat_7", "9_seat_8", "10_seat_9"]
@@ -36,7 +37,7 @@ const Replayer = ({tournament, activeHand}) => {
 
   const replayerStory = createReplayerStory(activeHand, story, heroName)
 
-  // console.log(replayerStory)
+  console.log(replayerStory)
 
   const board = null
 
@@ -115,7 +116,7 @@ const Replayer = ({tournament, activeHand}) => {
         <div className="table">
           <p className="pot">Pot: {toggleBlindUnits ? potInBb : pot}</p>
           {ante > 0 && <p className="ante">Ante: {ante * activePlayers}</p>}          
-          <p className="appTitle">{appName}</p>
+          <p className="appTitle"><img src={Logo} width="200px" /></p>
             {playerPositions.map(position => {
               const seat = "seat_" + position.split("seat_")[1]
 
