@@ -46,7 +46,7 @@ const ResultsPage = () => {
             console.log(e)
         }
         document.title = `${appName} - Tournament Results`
-    }, [refetch])
+    }, [refetch, appName])
 
     const onDelete =  id => {
         if (confirm(`Do you really want to remove tournament #${id}`)){

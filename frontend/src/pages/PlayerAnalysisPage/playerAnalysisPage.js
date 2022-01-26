@@ -40,7 +40,7 @@ const PlayerAnalysisPage = () => {
             console.log(e)
         }
         document.title = `${appName} - Player Analysis`
-    }, [refetch])
+    }, [refetch, appName])
 
     const countPlayerCountries = players.reduce((allPlayers, country) => {
         const { playerCountry } = country

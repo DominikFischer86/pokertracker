@@ -30,7 +30,7 @@ const RakebackManager = () => {
     useEffect(() => {
         fetchData()
         document.title = `${appName} - Rakeback Manager`
-    }, [refetch])
+    }, [refetch, appName])
 
     const openModal = () => {
         setConfirmationModalIsOpen(true)

@@ -32,7 +32,7 @@ const PlayerPage = () => {
          } catch (e) {
             console.log(e)
         }
-    }, [getUrl])
+    }, [getUrl, appName])
 
     const [database, setDatabase] = useState([])
     const [toggleResults, setToggleResults] = useState(false)

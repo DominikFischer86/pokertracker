@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useContext } from "react"
 import axios from "axios"
-import { Helmet } from 'react-helmet'
 
 import { Button } from "@react-md/button"
 import { FaList } from "react-icons/fa"
@@ -50,7 +49,8 @@ const HandReplayerPage = () => {
     } catch (e) {
       console.log(e)
     }
-  }, [getHandsOfTournamentUrl])
+    document.title = `${appName} - Hand Replayer`
+  }, [appName, getHandsOfTournamentUrl])
 
   const meta = hands[0]?.meta
   const seat_1 = hands[1]?.["seat_1"]
@@ -114,9 +114,6 @@ const HandReplayerPage = () => {
     <div>
       <div className="headerNav">
       <h1>{`Hand Replayer (Tournament: #${tournamentId})`}</h1>
-      <Helmet>
-        <title>{`${appName} - Hand Replayer`}</title>
-      </Helmet>
       <Button
           id="handList-button"
           buttonType="icon"
