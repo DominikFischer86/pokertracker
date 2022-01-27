@@ -20,7 +20,7 @@ export const createStory = activeHand => {
     return story
 }
 
-const createInitialReplayerStoryState = activeHand => {
+export const createInitialReplayerStoryState = activeHand => {
     const allSeats = Object.keys(activeHand).filter(key => key.includes("seat"))
     const initialState = allSeats.map((seat, index) => {
         
@@ -36,9 +36,11 @@ const createInitialReplayerStoryState = activeHand => {
             playerAnte: activeHand[seat]?.playerAnte,
             playerSmallBlind: activeHand[seat]?.playerSmallBlind,
             playerBigBlind: activeHand[seat]?.playerBigBlind,
+            playerSitOut: activeHand[seat]?.playerSitOut,
+            playerOutOfHand: activeHand[seat]?.playerOutOfHand,
             playerAction: "",
+            playerState: "active",
             playerBet: 0,
-            board: null,
             step: ""
         }
     })})
@@ -51,78 +53,67 @@ const createInitialReplayerStoryState = activeHand => {
 export const createReplayerStory = (activeHand, story, heroName) => {
     let completeStory = []
     let updatedState = createInitialReplayerStoryState(activeHand)
-    const seats = updatedState.map((seat, i) => "seat_" + parseFloat(i+1))
-
-    story.map((chapter, index) => {
+    const seats = updatedState.map(seat => seat)
+    const initialChapter = {
+        playerSeat: "",
+        playerName: "",
+        playerHand: null,
+        playerAction: "",
+        playerState: "inactive",
+        playerSitOut: false,
+        playerOutOfHand: false,
+        playerStack: 0,
+        playerBet: 0,
+        step: ""
+    }
+    
+    story.map(chapter => {
         const completeChapter = {
             playerSeat: "",
             playerName: "",
-            playerHand: ". ,",
             playerAction: "",
+            playerState: "inactive",
+            playerSitOut: false,
+            playerOutOfHand: false,
+            playerStack: 0,
             playerBet: 0,
-            board: null,
             step: ""
         }
-        // add and update hero hole cards
-        let flopChapter, turnChapter, riverChapter, summaryChapter
-        
-        if (Object.keys(chapter).includes("holeCards")) seats.filter(() => {      
-            completeChapter.playerHand = chapter.holeCards
-            completeChapter.step = "Preflop"
-        })
 
-       // console.log(index, chapter)
-        
-        if(Object.keys(chapter).includes("flop")) flopChapter = index
-        if(Object.keys(chapter).includes("turn")) turnChapter = index
-        if(Object.keys(chapter).includes("river")) riverChapter = index
-        if(Object.keys(chapter).includes("summary")) summaryChapter = index
+        // add and update hero hole cards
+
+        if(Object.keys(chapter).includes("holeCards")) completeChapter.holeCards = chapter.holeCards
+        if(Object.keys(chapter).includes("flop")) completeChapter.board = chapter.flop
+        if(Object.keys(chapter).includes("turn")) completeChapter.board = chapter.turn
+        if(Object.keys(chapter).includes("river")) completeChapter.board = chapter.river
+        if(Object.keys(chapter).includes("summary")) completeChapter.board = chapter.summary
 
         // add actions
-        if (chapter.length > 3) seats.filter((seat, i) => {
-            const seatNumber = "seat_" + parseFloat(i+1)
- 
-            if (seatNumber === chapter[1]){
-                completeChapter.playerSeat = seatNumber
+        if (chapter.length > 3) seats.filter(seat => {
+            const seatString = (Object.keys(seat).toString())
+
+            if (seatString === chapter[1]){
+                completeChapter.playerSeat = seatString
                 completeChapter.playerHand = chapter[2] === "folds" ? null : ". ,"
                 completeChapter.playerAction = chapter[2]
-                completeChapter.playerbet = chapter[3]
+                completeChapter.playerBet = chapter[3]
                 completeChapter.playerName = chapter[0]
+                completeChapter.playerState = completeChapter.playerState.length < 1 ? "active" : chapter[4]?.split("\r")[0]
+
+                if (chapter[2] === "folds"){
+                    completeChapter.playerState = "inactive"
+                }
+            }
+
+            if (seatString !== chapter[1]){
+                return initialChapter
             }
         })
-
-        // add/update board
-        if (flopChapter === index) {
-            completeChapter.board = chapter.flop
-            completeChapter.step = "Flop"
-        }
-        if (turnChapter === index) {
-            completeChapter.board = chapter.turn
-            completeChapter.step = "Turn"
-        }
-        if (riverChapter === index)  {
-            completeChapter.board = chapter.river
-            completeChapter.step = "River"
-        }
-        if (summaryChapter === index) {
-            completeChapter.board = chapter.summary
-            completeChapter.step = "Summary"
-        }
 
         const source = completeChapter
         const target = updatedState.find(state => state[completeChapter.playerSeat]?.playerSeat === completeChapter.playerSeat)?.[completeChapter.playerSeat]
-        if (!target) return source
-        const targetIndex = target.playerSeat
         const mergedChapter = {...target, ...source}
-        const createCompleteStory = updatedState.map(state => {
-            return {
-                ...state,
-                ...mergedChapter
-            }
-        })
-        console.log(createCompleteStory)
-        
-        completeStory.push({...updatedState})
+        completeStory.push(mergedChapter)
     })
 
     return completeStory

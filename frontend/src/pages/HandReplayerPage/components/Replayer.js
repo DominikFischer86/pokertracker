@@ -1,5 +1,5 @@
-import React, { useState, useContext } from "react"
-import { object, array } from "prop-types"
+import React, { useState, useContext, useEffect } from "react"
+import { object, array, number } from "prop-types"
 
 import { Switch } from "@react-md/form"
 import Slider from "rsuite/Slider"
@@ -10,16 +10,20 @@ import { MetaContext } from "../../../index"
 
 import Seat from "./Seat"
 import Cards from "./Cards"
-import { createStory, createReplayerStory } from "../helper"
+import { createStory, createReplayerStory, createInitialReplayerStoryState } from "../helper"
 import Logo from "../../../images/logos/StarsTracker-logo-light-wide.svg"
 
 import './styles/Slider.scss'
 import "./styles/Replayer.scss"
 
-const Replayer = ({tournament, activeHand}) => {
+const Replayer = ({tournament, activeHand, resetNavSlider}) => {
   const [toggleBlindUnits, setToggleBlindUnits] = useState(false)
   const [toggleNames, setToggleNames] = useState(false)
   const [sliderValue, setSliderValue] = useState(0)
+
+  useEffect(() => {
+    setSliderValue(0)
+  }, [resetNavSlider])
 
   const maxPlayers =  tournament[0].playerAmount
 
@@ -36,10 +40,10 @@ const Replayer = ({tournament, activeHand}) => {
   const story = createStory(activeHand)
 
   const replayerStory = createReplayerStory(activeHand, story, heroName)
+  const initialStoryState = createInitialReplayerStoryState(activeHand)
 
-  console.log(replayerStory)
-
-  const board = null
+  const holeCards = replayerStory.find(chapter => chapter).holeCards
+  const board = replayerStory.filter(chapter => chapter.board)
 
   const sliderMax = story.length - 1
 
@@ -54,6 +58,13 @@ const Replayer = ({tournament, activeHand}) => {
 
   let summaryIndex = story.indexOf(story.find(item => item["summary"]))
   if (summaryIndex < 0) summaryIndex = parseFloat(sliderMax-1)
+
+  let boardCards = ""
+  if (sliderValue < flopIndex) boardCards = ""
+  if (sliderValue >= parseFloat(flopIndex) && board.length > 1) boardCards = board[0].board.split(" ")
+  if (sliderValue >= parseFloat(turnIndex) && board.length > 1) boardCards = board[1].board.split(" ")
+  if (sliderValue >= parseFloat(riverIndex) && board.length > 2) boardCards = board[2].board.split(" ")
+  if (sliderValue >= parseFloat(summaryIndex) && board.length > 3) boardCards = board[3].board.split(" ")
 
   document.querySelector(".prev")?.classList.remove("disabled")
   document.querySelector(".next")?.classList.remove("disabled")
@@ -117,14 +128,40 @@ const Replayer = ({tournament, activeHand}) => {
           <p className="pot">Pot: {toggleBlindUnits ? potInBb : pot}</p>
           {ante > 0 && <p className="ante">Ante: {ante * activePlayers}</p>}          
           <p className="appTitle"><img src={Logo} width="200px" /></p>
-            {playerPositions.map(position => {
-              const seat = "seat_" + position.split("seat_")[1]
+            {initialStoryState.map(state => {
+              const stateObject = Object.values(state)[0]
+              const seat = Object.keys(state).toString()
+              let playerAction = stateObject.playerAction
+              let playerBet = stateObject.playerBet
+              let playerHand = ", ."
+              let playerSmallBlind = stateObject.playerSmallBlind
+              let playerBigBlind = stateObject.playerBigBlind
+
+              if (replayerStory[sliderValue]?.playerSeat === seat){
+                playerBet = replayerStory[sliderValue].playerBet
+                playerAction = replayerStory[sliderValue].playerAction
+                playerSmallBlind = replayerStory[sliderValue].playerSmallBlind
+                playerBigBlind = replayerStory[sliderValue].playerBigBlind
+                playerHand = replayerStory[sliderValue].playerHand
+              }
+
+              const seatedPlayer = {
+                playerOutOfHand: stateObject.playerOutOfHand, 
+                playerSitOut: stateObject.playerSitOut,
+                playerPosition: stateObject.playerPosition, 
+                playerSeat: seat, 
+                playerName: stateObject.playerName, 
+                playerStack: stateObject.playerStack,
+                playerState: stateObject.playerState,
+                playerSmallBlind,
+                playerBigBlind
+              }
 
               return (
                   <Seat 
-                    key={position} 
-                    seat={seat} 
-                    seatedPlayer={activeHand[position]}
+                    key={seat} 
+                    seat={seat}
+                    seatedPlayer={seatedPlayer}
                     toggleBlindUnits={toggleBlindUnits}
                     toggleNames={toggleNames}
                     heroName={heroName}
@@ -132,15 +169,15 @@ const Replayer = ({tournament, activeHand}) => {
                     initialPot={initialPot}
                     activePlayers={activePlayers}
                     maxPlayers={maxPlayers}
-                    playerAction={""}
-                    playerHand={". ,"}
-                    bet={0}
+                    playerAction={playerAction}
+                    playerHand={seatedPlayer.playerName === heroName ? holeCards : ", ."}
+                    bet={playerBet}
                   />
               )
             })}
-            {board &&
+            {boardCards.length > 0 &&
                <p className="board">
-               {board.map((card, index) => <Cards key={index} card={card} />
+               {boardCards.map((card, index) => <Cards key={index} card={card} />
                )}
              </p>
             }
@@ -152,7 +189,8 @@ const Replayer = ({tournament, activeHand}) => {
 
 Replayer.propTypes = {
   tournament: array,
-  activeHand: object
+  activeHand: object,
+  resetNavSlider: number
 }
 
 export default Replayer

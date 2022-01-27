@@ -143,14 +143,16 @@
         position: absolute;
         left: 50%;
         top: 50%;
+        min-width: 350px;
         transform: translate(-50%, -80px);
-        background:  url("../../../../images/backgrounds/pool_table.png");
+        // 
 
         img {
-          width: 50px;
+          width: 55px;
           height: 80px;
           margin: 0 5px;
           filter: hue-rotate(30deg);
+          box-shadow: 0 0 5px black;
         }
       }
     }

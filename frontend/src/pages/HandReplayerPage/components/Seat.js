@@ -29,10 +29,18 @@ const Seat = ({
             </div>
         )
     }
-    const { playerOutOfHand, playerSitOut, playerPosition, playerSeat, playerName, playerStack } = seatedPlayer
+    const { 
+        playerOutOfHand, 
+        playerSitOut, 
+        playerPosition, 
+        playerSeat, 
+        playerName, 
+        playerStack, 
+        playerSmallBlind, 
+        playerBigBlind 
+    } = seatedPlayer
+   
     const smallBlind = bigBlind / 2
-    const playerSmallBlind = seatedPlayer?.playerSmallBlind
-    const playerBigBlind = seatedPlayer?.playerBigBlind
     const positionClass = (playerPosition.replace("+", "")).toLowerCase()
     const stackInBB = parseFloat(playerStack / bigBlind).toFixed(0)
     const newName = playerName === heroName ? "Hero" : "Villain " + seat.split("_")[1]
@@ -62,7 +70,7 @@ const Seat = ({
 
     return (
         <div className={`seat ${playerSeat} ${positionClass}`}>            
-            {playerHand 
+            {playerHand
                 ? playerHand.split(" ").map((card, index) => {
                     return (
                         <div className="holeCards" key={card} style={{ marginLeft: index * 55 + "px"}}>
