@@ -69,7 +69,7 @@ const ImportPage = () => {
             console.log(e)
         }
         document.title = `${appName} - Import Page`
-    }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl, killDataUrl])
+    }, [tournamentPreviewExpanded, handPreviewExpanded, tournamentAndHandsGetUrl, killDataUrl, appName])
 
     const [tournamentPanels, onTournamentKeyDown] = usePanels({
         count: 2,
