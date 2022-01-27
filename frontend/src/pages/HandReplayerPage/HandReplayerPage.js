@@ -17,6 +17,7 @@ const HandReplayerPage = () => {
   const [hands, setHands] = useState([])
   const [activeHand, setActiveHand] = useState({})
   const [slideNavToggle, setSlideNavToggle] = useState(true)
+  const [resetNavSlider, setResetNavSlider] = useState(0)
 
   const tournamentId =  window.location.pathname.split("/")[2]
   const { appName } = useContext(MetaContext)
@@ -108,6 +109,7 @@ const HandReplayerPage = () => {
       "15_summary": handSummary
     }
     setActiveHand(selectedHand)
+    setResetNavSlider(resetNavSlider => resetNavSlider+1)
   }
 
   return (
@@ -135,7 +137,7 @@ const HandReplayerPage = () => {
               <HandList hands={hands} selectHand={selectHand} setSlideNavToggle={setSlideNavToggle} slideNavToggle={slideNavToggle} onClick={() => setSlideNavToggle(!slideNavToggle)} />
           </div>
           <div id="player-column">
-            <Replayer tournament={tournament} activeHand={activeHand} />
+            <Replayer tournament={tournament} activeHand={activeHand} resetNavSlider={resetNavSlider} />
           </div>
       </div>
       }
