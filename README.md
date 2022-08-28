@@ -2,6 +2,8 @@ Start:
 - start server in root: yarn start
 - start development in ./frontend: yarn start
 
+- you may import your own hand histories (Pokerstars only) or use the provided histories from the /db folder. Please use confidentially and responsibly.
+
 ![Pokertracker](https://i.ibb.co/bPRHMkg/Loader-Demo.gif)
 
 ~~Roadmap~~ (discontinued):
