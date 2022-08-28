@@ -11,10 +11,6 @@ Start:
 
 ![Pokertracker](https://i.ibb.co/bPRHMkg/Loader-Demo.gif)
 
-Videodemo:
-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/pv4PZYIivWI/0.jpg)](http://www.youtube.com/watch?v=pv4PZYIivWI "Pokertracker Videodemo")
-
-
 ~~Roadmap~~ (discontinued):
 
 1. ~~Read textfiles via node fs and file-select library~~
